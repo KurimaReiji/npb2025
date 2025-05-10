@@ -11,6 +11,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "chai": "^5.2.0",
+    "mocha": "^11.2.2",
     "puppeteer": "^24.4.0"
   }
 }

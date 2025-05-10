@@ -1,0 +1,93 @@
+import {
+  getTeams, createFindTeam, findTeam,
+} from '../docs/js/npb-teams.js';
+import * as chai from "chai";
+
+let teams2025, teams2005, teams2006, teams2008, teams2012, teams2020, teams2023;
+let findTeam2005, findTeam2006, findTeam2008, findTeam2012, findTeam2020, findTeam2023;
+
+before(() => {
+  teams2025 = getTeams('2025-03-26');
+  teams2005 = getTeams('2005-03-26');
+  teams2006 = getTeams('2006-03-25');
+  teams2008 = getTeams('2008-03-20');
+  teams2012 = getTeams('2012-03-30');
+  teams2020 = getTeams('2020');
+  teams2023 = getTeams('2023-03-30');
+  findTeam2005 = createFindTeam(teams2005);
+  findTeam2006 = createFindTeam(teams2006);
+  findTeam2008 = createFindTeam(teams2008);
+  findTeam2012 = createFindTeam(teams2012);
+  findTeam2020 = createFindTeam(teams2020);
+  findTeam2023 = createFindTeam(teams2023);
+});
+
+describe("Finding teams in the 2025 season", function () {
+  describe("Behavior of findTeam() when searching for teams", function () {
+    ["D", "中日"].forEach((name) => {
+      it(`should correctly return the Dragons' details when searching with "${name}"`, function () {
+        const team = findTeam(name);
+        chai.expect(team.teamName).to.equal("Dragons");
+      });
+    });
+
+    ["Golden Eagles", "イーグルス"].forEach((name) => {
+      it(`should correctly return the Eagles' details when searching with "${name}"`, function () {
+        const team = findTeam(name);
+        chai.expect(team.teamName).to.equal("Eagles");
+      });
+    });
+  });
+});
+
+describe("Swallows' franchise name change in 2006", function () {
+  it("should verify that their franchise name changed from 'Yakult' to 'Tokyo Yakult' in 2006", function () {
+    chai.expect(findTeam2005("S").jaFranchiseName).to.equal("ヤクルト");
+    chai.expect(findTeam2005("S").franchiseName).to.equal("Yakult");
+    chai.expect(findTeam2006("S").jaFranchiseName).to.equal("東京ヤクルト");
+    chai.expect(findTeam2006("S").franchiseName).to.equal("Tokyo Yakult");
+  });
+});
+
+describe("Lions' franchise name change in 2008", function () {
+  it("should verify that the Lions changed their name from 'Seibu' to 'Saitama Seibu' in 2008", function () {
+    chai.expect(findTeam2005("L").jaFranchiseName).to.equal("西武");
+    chai.expect(findTeam2005("Lions").franchiseName).to.equal("Seibu");
+    chai.expect(findTeam2008("ライオンズ").jaFranchiseName).to.equal("埼玉西武");
+    chai.expect(findTeam2008("Seibu").franchiseName).to.equal("Saitama Seibu");
+  });
+});
+
+describe("Yokohama's official name change in 2012", function () {
+  it("should confirm the change from 'Yokohama Bay Stars' to 'YOKOHAMA DeNA BAYSTARS'", function () {
+    chai.expect(findTeam2005("YB").jaOfficialName).to.equal("横浜ベイスターズ");
+    chai.expect(findTeam2005("Yokohama").officialName).to.equal("Yokohama Bay Stars");
+    chai.expect(findTeam2012("ベイスターズ").jaFranchiseName).to.equal("横浜DeNA");
+    chai.expect(findTeam2012("DB").franchiseName).to.equal("YOKOHAMA DeNA");
+  });
+});
+
+describe("Buffaloes' teamCode update from 2020 season", function () {
+  it("should verify that the Buffaloes changed their teamCode from 'Bs' to 'B'", function () {
+    chai.expect(teams2005.map((t) => t.teamCode).sort().join(" ")).to.equal("Bs C D E F G H L M S T YB");
+    chai.expect(teams2012.map((t) => t.teamCode).sort().join(" ")).to.equal("Bs C D DB E F G H L M S T");
+    chai.expect(teams2020.map((t) => t.teamCode).sort().join(" ")).to.equal("B C D DB E F G H L M S T");
+  });
+});
+
+describe("Fighters' stadium relocation in 2023", function () {
+  it("should verify the team moved from 'Sapporo Dome' to 'ES CON FIELD'", function () {
+    chai.expect(findTeam2012("F").venueId).to.equal("001"); // Sapporo Dome
+    chai.expect(findTeam("F").venueId).to.equal("290"); // ES CON FIELD
+  });
+});
+
+describe("Teams participating in the 2025 season", function () {
+  it("should list all teams correctly for both Central and Pacific leagues", function () {
+    const central = teams2025.filter((t) => t.league === "Central").map((t) => t.teamName);
+    const pacific = teams2025.filter((t) => t.league === "Pacific").map((t) => t.teamName);
+
+    chai.expect(central.join(" ")).to.equal("Giants Tigers Dragons Carp Baystars Swallows");
+    chai.expect(pacific.join(" ")).to.equal("Buffaloes Hawks Fighters Lions Marines Eagles");
+  });
+});
