@@ -46,7 +46,7 @@ function teamsdb() {
       "teamName": "Giants",
       "clubName": "Giants",
       "franchiseName": "Yomiuri",
-      "shortFranchiseName": "Kyojin",
+      "shortFranchiseName": "Yomiuri",
       "officialName": "Yomiuri Giants",
       "teamCode": "G",
       "jaTeamName": "ジャイアンツ",
