@@ -1,5 +1,5 @@
 import { getTeams, findTeam } from '../docs/js/npb-teams.js';
-import { teams_by_wpct, winpct, games_behind, get_xwl } from "../js/utils.js";
+import { teams_by_wpct, winpct, games_behind, get_xwl } from "../docs/js/utils.js";
 import { writeFileSync } from 'fs';
 import { getReadableNdJsonStream } from "../docs/js/ndjson-helpers.js";
 
