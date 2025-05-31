@@ -1,0 +1,409 @@
+[
+  {
+    "id": "73375134-2025-02",
+    "date": "2025-05-24",
+    "batter": {
+      "jaBoxscoreName": "吉川",
+      "playerId": "73375134",
+      "boxscoreName": "Yoshikawa",
+      "batSide": "L",
+      "teamCode": "G",
+      "primaryNumber": "2",
+      "jaRegisteredName": "吉川　尚輝",
+      "fullLFMName": "Yoshikawa, Naoki"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "吉村",
+      "boxscoreName": "Yoshimura",
+      "pitchHand": "R",
+      "teamCode": "S",
+      "primaryNumber": "21",
+      "jaRegisteredName": "吉村　貢司郎",
+      "fullLFMName": "Yoshimura, Kojiro"
+    },
+    "number": 2,
+    "inning": 3,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "---",
+    "count": {
+      "balls": 2,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 3,
+    "rbi": 1,
+    "whereHit": "9",
+    "venue": {
+      "boxscoreName": "Tokyo Dome",
+      "jaBoxscoreName": "東京ドーム"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 2
+      },
+      "home": {
+        "teamCode": "G",
+        "teamName": "Giants",
+        "score": 4
+      }
+    },
+    "jaText": "ライトソロホームラン（打点1）",
+    "text": "Yoshikawa homers (2) to right field.",
+    "url": "https://npb.jp/scores/2025/0524/g-s-11/playbyplay.html#com3-2"
+  },
+  {
+    "id": "61165159-2025-02",
+    "date": "2025-05-24",
+    "batter": {
+      "jaBoxscoreName": "泉口",
+      "playerId": "61165159",
+      "boxscoreName": "Izuguchi",
+      "batSide": "L",
+      "teamCode": "G",
+      "primaryNumber": "35",
+      "jaRegisteredName": "泉口　友汰",
+      "fullLFMName": "Izuguchi, Yuta"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "吉村",
+      "boxscoreName": "Yoshimura",
+      "pitchHand": "R",
+      "teamCode": "S",
+      "primaryNumber": "21",
+      "jaRegisteredName": "吉村　貢司郎",
+      "fullLFMName": "Yoshimura, Kojiro"
+    },
+    "number": 2,
+    "inning": 4,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "---",
+    "count": {
+      "balls": 3,
+      "strikes": 2
+    },
+    "runs": {
+      "road": 0,
+      "home": 1
+    },
+    "bop": 7,
+    "rbi": 1,
+    "whereHit": "9",
+    "venue": {
+      "boxscoreName": "Tokyo Dome",
+      "jaBoxscoreName": "東京ドーム"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 2
+      },
+      "home": {
+        "teamCode": "G",
+        "teamName": "Giants",
+        "score": 4
+      }
+    },
+    "jaText": "ライトソロホームラン（打点1）",
+    "text": "Izuguchi homers (2) to right field.",
+    "url": "https://npb.jp/scores/2025/0524/g-s-11/playbyplay.html#com4-2"
+  },
+  {
+    "id": "41045153-2025-12",
+    "date": "2025-05-24",
+    "batter": {
+      "jaBoxscoreName": "佐藤輝",
+      "playerId": "41045153",
+      "boxscoreName": "T.Sato",
+      "batSide": "L",
+      "teamCode": "T",
+      "primaryNumber": "8",
+      "jaRegisteredName": "佐藤　輝明",
+      "fullLFMName": "Sato, Teruaki"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "髙橋宏",
+      "boxscoreName": "H.Takahashi",
+      "pitchHand": "R",
+      "teamCode": "D",
+      "primaryNumber": "19",
+      "jaRegisteredName": "髙橋　宏斗",
+      "fullLFMName": "Takahashi, Hiroto"
+    },
+    "number": 12,
+    "inning": 2,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 1,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 0,
+      "home": 1
+    },
+    "bop": 4,
+    "rbi": 1,
+    "whereHit": "89",
+    "venue": {
+      "boxscoreName": "Vantelin Dome",
+      "jaBoxscoreName": "バンテリンドーム"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "T",
+        "teamName": "Tigers",
+        "score": 4
+      },
+      "home": {
+        "teamCode": "D",
+        "teamName": "Dragons",
+        "score": 5
+      }
+    },
+    "jaText": "右中間ソロホームラン（打点1）",
+    "text": "T.Sato homers (12) to right center.",
+    "url": "https://npb.jp/scores/2025/0524/d-t-09/playbyplay.html#com2-1"
+  },
+  {
+    "id": "51455136-2025-03",
+    "date": "2025-05-24",
+    "batter": {
+      "jaBoxscoreName": "西川",
+      "playerId": "51455136",
+      "boxscoreName": "Nishikawa",
+      "batSide": "L",
+      "teamCode": "L",
+      "primaryNumber": "51",
+      "jaRegisteredName": "西川　愛也",
+      "fullLFMName": "Nishikawa, Manaya"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "サモンズ",
+      "boxscoreName": "Sammons",
+      "pitchHand": "L",
+      "teamCode": "M",
+      "primaryNumber": "42",
+      "jaRegisteredName": "Ｂ．サモンズ",
+      "fullLFMName": "Sammons, Bryan"
+    },
+    "number": 3,
+    "inning": 1,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 0,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 1,
+    "rbi": 1,
+    "whereHit": "9",
+    "venue": {
+      "boxscoreName": "ZOZO Marine",
+      "jaBoxscoreName": "ZOZOマリン"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "L",
+        "teamName": "Lions",
+        "score": 6
+      },
+      "home": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 1
+      }
+    },
+    "jaText": "ライトソロホームラン（打点1）",
+    "text": "Nishikawa homers (3) to right field.",
+    "url": "https://npb.jp/scores/2025/0524/m-l-09/playbyplay.html#com1-1",
+    "isLeadOff": "Y"
+  },
+  {
+    "id": "53755150-2025-04",
+    "date": "2025-05-24",
+    "batter": {
+      "jaBoxscoreName": "ネビン",
+      "playerId": "53755150",
+      "boxscoreName": "Nevin",
+      "batSide": "R",
+      "teamCode": "L",
+      "primaryNumber": "26",
+      "jaRegisteredName": "Ｔ．ネビン",
+      "fullLFMName": "Nevin, Tyler"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "サモンズ",
+      "boxscoreName": "Sammons",
+      "pitchHand": "L",
+      "teamCode": "M",
+      "primaryNumber": "42",
+      "jaRegisteredName": "Ｂ．サモンズ",
+      "fullLFMName": "Sammons, Bryan"
+    },
+    "number": 4,
+    "inning": 1,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "1--",
+    "count": {
+      "balls": 3,
+      "strikes": 2
+    },
+    "runs": {
+      "road": 1,
+      "home": 0
+    },
+    "bop": 4,
+    "rbi": 2,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "ZOZO Marine",
+      "jaBoxscoreName": "ZOZOマリン"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "L",
+        "teamName": "Lions",
+        "score": 6
+      },
+      "home": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 1
+      }
+    },
+    "jaText": "レフト2ランホームラン（打点2）",
+    "text": "Nevin homers (4) to left field.",
+    "url": "https://npb.jp/scores/2025/0524/m-l-09/playbyplay.html#com1-1"
+  },
+  {
+    "id": "81685153-2025-02",
+    "date": "2025-05-24",
+    "batter": {
+      "jaBoxscoreName": "長谷川",
+      "playerId": "81685153",
+      "boxscoreName": "Hasegawa",
+      "batSide": "R",
+      "teamCode": "L",
+      "primaryNumber": "63",
+      "jaRegisteredName": "長谷川　信哉",
+      "fullLFMName": "Hasegawa, Shinya"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "サモンズ",
+      "boxscoreName": "Sammons",
+      "pitchHand": "L",
+      "teamCode": "M",
+      "primaryNumber": "42",
+      "jaRegisteredName": "Ｂ．サモンズ",
+      "fullLFMName": "Sammons, Bryan"
+    },
+    "number": 2,
+    "inning": 3,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "---",
+    "count": {
+      "balls": 0,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 3,
+      "home": 0
+    },
+    "bop": 6,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "ZOZO Marine",
+      "jaBoxscoreName": "ZOZOマリン"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "L",
+        "teamName": "Lions",
+        "score": 6
+      },
+      "home": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 1
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Hasegawa homers (2) to left field.",
+    "url": "https://npb.jp/scores/2025/0524/m-l-09/playbyplay.html#com3-1"
+  },
+  {
+    "id": "81685153-2025-03",
+    "date": "2025-05-24",
+    "batter": {
+      "jaBoxscoreName": "長谷川",
+      "playerId": "81685153",
+      "boxscoreName": "Hasegawa",
+      "batSide": "R",
+      "teamCode": "L",
+      "primaryNumber": "63",
+      "jaRegisteredName": "長谷川　信哉",
+      "fullLFMName": "Hasegawa, Shinya"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "澤田",
+      "boxscoreName": "Sawada",
+      "pitchHand": "R",
+      "teamCode": "M",
+      "primaryNumber": "66",
+      "jaRegisteredName": "澤田　圭佑",
+      "fullLFMName": "Sawada, Keisuke"
+    },
+    "number": 3,
+    "inning": 8,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "1--",
+    "count": {
+      "balls": 2,
+      "strikes": 2
+    },
+    "runs": {
+      "road": 4,
+      "home": 1
+    },
+    "bop": 6,
+    "rbi": 2,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "ZOZO Marine",
+      "jaBoxscoreName": "ZOZOマリン"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "L",
+        "teamName": "Lions",
+        "score": 6
+      },
+      "home": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 1
+      }
+    },
+    "jaText": "レフト2ランホームラン（打点2）",
+    "text": "Hasegawa homers (3) to left field.",
+    "url": "https://npb.jp/scores/2025/0524/m-l-09/playbyplay.html#com8-1"
+  }
+]

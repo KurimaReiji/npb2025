@@ -1,0 +1,60 @@
+[
+  {
+    "id": "61665159-2025-01",
+    "date": "2025-04-12",
+    "batter": {
+      "jaBoxscoreName": "廣瀨隆",
+      "playerId": "61665159",
+      "boxscoreName": "R.Hirose",
+      "batSide": "R",
+      "teamCode": "H",
+      "primaryNumber": "33",
+      "jaRegisteredName": "廣瀨　隆太",
+      "fullLFMName": "Hirose, Ryuta"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "小島",
+      "boxscoreName": "Ojima",
+      "pitchHand": "L",
+      "teamCode": "M",
+      "primaryNumber": "14",
+      "jaRegisteredName": "小島　和哉",
+      "fullLFMName": "Ojima, Kazuya"
+    },
+    "number": 1,
+    "inning": 5,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "1--",
+    "count": {
+      "balls": 2,
+      "strikes": 2
+    },
+    "runs": {
+      "road": 5,
+      "home": 0
+    },
+    "bop": 7,
+    "rbi": 2,
+    "whereHit": "78",
+    "venue": {
+      "boxscoreName": "ZOZO Marine",
+      "jaBoxscoreName": "ZOZOマリン"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "H",
+        "teamName": "Hawks",
+        "score": 8
+      },
+      "home": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 0
+      }
+    },
+    "jaText": "左中間2ランホームラン（打点2）",
+    "text": "R.Hirose homers (1) to left center.",
+    "url": "https://npb.jp/scores/2025/0412/m-h-05/playbyplay.html#com5-1"
+  }
+]

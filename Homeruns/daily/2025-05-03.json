@@ -1,0 +1,234 @@
+[
+  {
+    "id": "53755150-2025-02",
+    "date": "2025-05-03",
+    "batter": {
+      "jaBoxscoreName": "ネビン",
+      "playerId": "53755150",
+      "boxscoreName": "Nevin",
+      "batSide": "R",
+      "teamCode": "L",
+      "primaryNumber": "26",
+      "jaRegisteredName": "Ｔ．ネビン",
+      "fullLFMName": "Nevin, Tyler"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "加藤貴",
+      "boxscoreName": "T.Katoh",
+      "pitchHand": "L",
+      "teamCode": "F",
+      "primaryNumber": "14",
+      "jaRegisteredName": "加藤　貴之",
+      "fullLFMName": "Katoh, Takayuki"
+    },
+    "number": 2,
+    "inning": 4,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "---",
+    "count": {
+      "balls": 1,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 4,
+    "rbi": 1,
+    "whereHit": "78",
+    "venue": {
+      "boxscoreName": "ES CON FIELD",
+      "jaBoxscoreName": "エスコンＦ"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "L",
+        "teamName": "Lions",
+        "score": 4
+      },
+      "home": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 3
+      }
+    },
+    "jaText": "左中間ソロホームラン（打点1）",
+    "text": "Nevin homers (2) to left center.",
+    "url": "https://npb.jp/scores/2025/0503/f-l-07/playbyplay.html#com4-1"
+  },
+  {
+    "id": "73075159-2025-04",
+    "date": "2025-05-03",
+    "batter": {
+      "jaBoxscoreName": "レイエス",
+      "playerId": "73075159",
+      "boxscoreName": "Reyes",
+      "batSide": "R",
+      "teamCode": "F",
+      "primaryNumber": "99",
+      "jaRegisteredName": "Ｆ．レイエス",
+      "fullLFMName": "Reyes, Franmil"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "佐藤隼",
+      "boxscoreName": "Sh.Sato",
+      "pitchHand": "L",
+      "teamCode": "L",
+      "primaryNumber": "19",
+      "jaRegisteredName": "佐藤　隼輔",
+      "fullLFMName": "Sato, Shunsuke"
+    },
+    "number": 4,
+    "inning": 8,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "-23",
+    "count": {
+      "balls": 0,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 4,
+      "home": 0
+    },
+    "bop": 5,
+    "rbi": 3,
+    "whereHit": "78",
+    "venue": {
+      "boxscoreName": "ES CON FIELD",
+      "jaBoxscoreName": "エスコンＦ"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "L",
+        "teamName": "Lions",
+        "score": 4
+      },
+      "home": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 3
+      }
+    },
+    "jaText": "左中間3ランホームラン（打点3）",
+    "text": "Reyes homers (4) to left center.",
+    "url": "https://npb.jp/scores/2025/0503/f-l-07/playbyplay.html#com8-2"
+  },
+  {
+    "id": "91995151-2025-02",
+    "date": "2025-05-03",
+    "batter": {
+      "jaBoxscoreName": "紅林",
+      "playerId": "91995151",
+      "boxscoreName": "Kurebayashi",
+      "batSide": "R",
+      "teamCode": "B",
+      "primaryNumber": "24",
+      "jaRegisteredName": "紅林　弘太郎",
+      "fullLFMName": "Kurebayashi, Kotaro"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "早川",
+      "boxscoreName": "Hayakawa",
+      "pitchHand": "L",
+      "teamCode": "E",
+      "primaryNumber": "21",
+      "jaRegisteredName": "早川　隆久",
+      "fullLFMName": "Hayakawa, Takahisa"
+    },
+    "number": 2,
+    "inning": 5,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "---",
+    "count": {
+      "balls": 2,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 1,
+      "home": 0
+    },
+    "bop": 2,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "Rakuten Mobile",
+      "jaBoxscoreName": "楽天モバイル"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "B",
+        "teamName": "Buffaloes",
+        "score": 7
+      },
+      "home": {
+        "teamCode": "E",
+        "teamName": "Eagles",
+        "score": 0
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Kurebayashi homers (2) to left field.",
+    "url": "https://npb.jp/scores/2025/0503/e-b-07/playbyplay.html#com5-1"
+  },
+  {
+    "id": "21425139-2025-06",
+    "date": "2025-05-03",
+    "batter": {
+      "jaBoxscoreName": "山川",
+      "playerId": "21425139",
+      "boxscoreName": "Yamakawa",
+      "batSide": "R",
+      "teamCode": "H",
+      "primaryNumber": "5",
+      "jaRegisteredName": "山川　穂高",
+      "fullLFMName": "Yamakawa, Hotaka"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "石川柊",
+      "boxscoreName": "Shu.Ishikawa",
+      "pitchHand": "R",
+      "teamCode": "M",
+      "primaryNumber": "21",
+      "jaRegisteredName": "石川　柊太",
+      "fullLFMName": "Ishikawa, Shuta"
+    },
+    "number": 6,
+    "inning": 4,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "---",
+    "count": {
+      "balls": 1,
+      "strikes": 2
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 4,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "MIZUHO PayPay",
+      "jaBoxscoreName": "みずほPayPay"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 0
+      },
+      "home": {
+        "teamCode": "H",
+        "teamName": "Hawks",
+        "score": 5
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Yamakawa homers (6) to left field.",
+    "url": "https://npb.jp/scores/2025/0503/h-m-07/playbyplay.html#com4-2"
+  }
+]

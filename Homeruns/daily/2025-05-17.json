@@ -1,0 +1,292 @@
+[
+  {
+    "id": "91995134-2025-01",
+    "date": "2025-05-17",
+    "batter": {
+      "jaBoxscoreName": "佐野",
+      "playerId": "91995134",
+      "boxscoreName": "Sano",
+      "batSide": "L",
+      "teamCode": "DB",
+      "primaryNumber": "7",
+      "jaRegisteredName": "佐野　恵太",
+      "fullLFMName": "Sano, Keita"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "高梨",
+      "boxscoreName": "Takanashi",
+      "pitchHand": "R",
+      "teamCode": "S",
+      "primaryNumber": "40",
+      "jaRegisteredName": "高梨　裕稔",
+      "fullLFMName": "Takanashi, Hirotoshi"
+    },
+    "number": 1,
+    "inning": 4,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "12-",
+    "count": {
+      "balls": 0,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 0,
+      "home": 2
+    },
+    "bop": 6,
+    "rbi": 3,
+    "whereHit": "9",
+    "venue": {
+      "boxscoreName": "Jingu",
+      "jaBoxscoreName": "神宮"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "DB",
+        "teamName": "Baystars",
+        "score": 6
+      },
+      "home": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 7
+      }
+    },
+    "jaText": "ライト3ランホームラン（打点3）",
+    "text": "Sano homers (1) to right field.",
+    "url": "https://npb.jp/scores/2025/0517/s-db-06/playbyplay.html#com4-1"
+  },
+  {
+    "id": "33535159-2025-03",
+    "date": "2025-05-17",
+    "batter": {
+      "jaBoxscoreName": "度会",
+      "playerId": "33535159",
+      "boxscoreName": "Watarai",
+      "batSide": "L",
+      "teamCode": "DB",
+      "primaryNumber": "4",
+      "jaRegisteredName": "度会　隆輝",
+      "fullLFMName": "Watarai, Ryuki"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "高梨",
+      "boxscoreName": "Takanashi",
+      "pitchHand": "R",
+      "teamCode": "S",
+      "primaryNumber": "40",
+      "jaRegisteredName": "高梨　裕稔",
+      "fullLFMName": "Takanashi, Hirotoshi"
+    },
+    "number": 3,
+    "inning": 5,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "1--",
+    "count": {
+      "balls": 1,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 3,
+      "home": 2
+    },
+    "bop": 3,
+    "rbi": 2,
+    "whereHit": "9",
+    "venue": {
+      "boxscoreName": "Jingu",
+      "jaBoxscoreName": "神宮"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "DB",
+        "teamName": "Baystars",
+        "score": 6
+      },
+      "home": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 7
+      }
+    },
+    "jaText": "ライト2ランホームラン（打点2）",
+    "text": "Watarai homers (3) to right field.",
+    "url": "https://npb.jp/scores/2025/0517/s-db-06/playbyplay.html#com5-1"
+  },
+  {
+    "id": "53755153-2025-03",
+    "date": "2025-05-17",
+    "batter": {
+      "jaBoxscoreName": "サンタナ",
+      "playerId": "53755153",
+      "boxscoreName": "Santana",
+      "batSide": "R",
+      "teamCode": "S",
+      "primaryNumber": "25",
+      "jaRegisteredName": "Ｄ．サンタナ",
+      "fullLFMName": "Santana, Domingo"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "平良",
+      "boxscoreName": "Taira",
+      "pitchHand": "R",
+      "teamCode": "DB",
+      "primaryNumber": "59",
+      "jaRegisteredName": "平良　拳太郎",
+      "fullLFMName": "Taira, Kentaro"
+    },
+    "number": 3,
+    "inning": 5,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "---",
+    "count": {
+      "balls": 2,
+      "strikes": 2
+    },
+    "runs": {
+      "road": 5,
+      "home": 2
+    },
+    "bop": 2,
+    "rbi": 1,
+    "whereHit": "9",
+    "venue": {
+      "boxscoreName": "Jingu",
+      "jaBoxscoreName": "神宮"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "DB",
+        "teamName": "Baystars",
+        "score": 6
+      },
+      "home": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 7
+      }
+    },
+    "jaText": "ライトソロホームラン（打点1）",
+    "text": "Santana homers (3) to right field.",
+    "url": "https://npb.jp/scores/2025/0517/s-db-06/playbyplay.html#com5-2"
+  },
+  {
+    "id": "61865132-2025-05",
+    "date": "2025-05-17",
+    "batter": {
+      "jaBoxscoreName": "茂木",
+      "playerId": "61865132",
+      "boxscoreName": "Mogi",
+      "batSide": "L",
+      "teamCode": "S",
+      "primaryNumber": "8",
+      "jaRegisteredName": "茂木　栄五郎",
+      "fullLFMName": "Mogi, Eigoro"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "坂本",
+      "boxscoreName": "Sakamoto",
+      "pitchHand": "L",
+      "teamCode": "DB",
+      "primaryNumber": "20",
+      "jaRegisteredName": "坂本　裕哉",
+      "fullLFMName": "Sakamoto, Yuya"
+    },
+    "number": 5,
+    "inning": 7,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "1-3",
+    "count": {
+      "balls": 0,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 5,
+      "home": 3
+    },
+    "bop": 3,
+    "rbi": 3,
+    "whereHit": "9",
+    "venue": {
+      "boxscoreName": "Jingu",
+      "jaBoxscoreName": "神宮"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "DB",
+        "teamName": "Baystars",
+        "score": 6
+      },
+      "home": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 7
+      }
+    },
+    "jaText": "ライト3ランホームラン（打点3）",
+    "text": "Mogi homers (5) to right field.",
+    "url": "https://npb.jp/scores/2025/0517/s-db-06/playbyplay.html#com7-2"
+  },
+  {
+    "id": "53955150-2025-01",
+    "date": "2025-05-17",
+    "batter": {
+      "jaBoxscoreName": "モンテロ",
+      "playerId": "53955150",
+      "boxscoreName": "Montero",
+      "batSide": "R",
+      "teamCode": "C",
+      "primaryNumber": "95",
+      "jaRegisteredName": "Ｅ．モンテロ",
+      "fullLFMName": "Montero, Elehuris"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "大竹",
+      "boxscoreName": "Ohtake",
+      "pitchHand": "L",
+      "teamCode": "T",
+      "primaryNumber": "49",
+      "jaRegisteredName": "大竹　耕太郎",
+      "fullLFMName": "Ohtake, Koutaro"
+    },
+    "number": 1,
+    "inning": 8,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "1--",
+    "count": {
+      "balls": 2,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 0,
+      "home": 4
+    },
+    "bop": 7,
+    "rbi": 2,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "Koshien",
+      "jaBoxscoreName": "甲子園"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "C",
+        "teamName": "Carp",
+        "score": 2
+      },
+      "home": {
+        "teamCode": "T",
+        "teamName": "Tigers",
+        "score": 5
+      }
+    },
+    "jaText": "レフト2ランホームラン（打点2）",
+    "text": "Montero homers (1) to left field.",
+    "url": "https://npb.jp/scores/2025/0517/t-c-08/playbyplay.html#com8-1"
+  }
+]

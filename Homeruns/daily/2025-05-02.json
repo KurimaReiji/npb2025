@@ -1,0 +1,118 @@
+[
+  {
+    "id": "11915134-2025-01",
+    "date": "2025-05-02",
+    "batter": {
+      "jaBoxscoreName": "坂倉",
+      "playerId": "11915134",
+      "boxscoreName": "Sakakura",
+      "batSide": "L",
+      "teamCode": "C",
+      "primaryNumber": "31",
+      "jaRegisteredName": "坂倉　将吾",
+      "fullLFMName": "Sakakura, Shogo"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "髙橋宏",
+      "boxscoreName": "H.Takahashi",
+      "pitchHand": "R",
+      "teamCode": "D",
+      "primaryNumber": "19",
+      "jaRegisteredName": "髙橋　宏斗",
+      "fullLFMName": "Takahashi, Hiroto"
+    },
+    "number": 1,
+    "inning": 2,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "---",
+    "count": {
+      "balls": 1,
+      "strikes": 2
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 5,
+    "rbi": 1,
+    "whereHit": "9",
+    "venue": {
+      "boxscoreName": "Mazda Stadium",
+      "jaBoxscoreName": "マツダスタジアム"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "D",
+        "teamName": "Dragons",
+        "score": 4
+      },
+      "home": {
+        "teamCode": "C",
+        "teamName": "Carp",
+        "score": 2
+      }
+    },
+    "jaText": "ライトソロホームラン（打点1）",
+    "text": "Sakakura homers (1) to right field.",
+    "url": "https://npb.jp/scores/2025/0502/c-d-06/playbyplay.html#com2-2"
+  },
+  {
+    "id": "63065155-2025-04",
+    "date": "2025-05-02",
+    "batter": {
+      "jaBoxscoreName": "ポランコ",
+      "playerId": "63065155",
+      "boxscoreName": "Polanco",
+      "batSide": "L",
+      "teamCode": "M",
+      "primaryNumber": "22",
+      "jaRegisteredName": "Ｇ．ポランコ",
+      "fullLFMName": "Polanco, Gregory"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "有原",
+      "boxscoreName": "Arihara",
+      "pitchHand": "R",
+      "teamCode": "H",
+      "primaryNumber": "17",
+      "jaRegisteredName": "有原　航平",
+      "fullLFMName": "Arihara, Kohei"
+    },
+    "number": 4,
+    "inning": 1,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "12-",
+    "count": {
+      "balls": 1,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 4,
+    "rbi": 3,
+    "whereHit": "89",
+    "venue": {
+      "boxscoreName": "MIZUHO PayPay",
+      "jaBoxscoreName": "みずほPayPay"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 3
+      },
+      "home": {
+        "teamCode": "H",
+        "teamName": "Hawks",
+        "score": 4
+      }
+    },
+    "jaText": "右中間3ランホームラン（打点3）",
+    "text": "Polanco homers (4) to right center.",
+    "url": "https://npb.jp/scores/2025/0502/h-m-06/playbyplay.html#com1-1"
+  }
+]

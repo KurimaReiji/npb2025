@@ -1,0 +1,177 @@
+[
+  {
+    "id": "13915157-2025-02",
+    "date": "2025-05-25",
+    "batter": {
+      "jaBoxscoreName": "セデーニョ",
+      "playerId": "13915157",
+      "boxscoreName": "Cedeno",
+      "batSide": "R",
+      "teamCode": "L",
+      "primaryNumber": "40",
+      "jaRegisteredName": "Ｌ．セデーニョ",
+      "fullLFMName": "Cedeno, Leandro"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "澤田",
+      "boxscoreName": "Sawada",
+      "pitchHand": "R",
+      "teamCode": "M",
+      "primaryNumber": "66",
+      "jaRegisteredName": "澤田　圭佑",
+      "fullLFMName": "Sawada, Keisuke"
+    },
+    "number": 2,
+    "inning": 9,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "---",
+    "count": {
+      "balls": 1,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 7,
+      "home": 0
+    },
+    "bop": 4,
+    "rbi": 1,
+    "whereHit": "89",
+    "venue": {
+      "boxscoreName": "ZOZO Marine",
+      "jaBoxscoreName": "ZOZOマリン"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "L",
+        "teamName": "Lions",
+        "score": 8
+      },
+      "home": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 0
+      }
+    },
+    "jaText": "右中間ソロホームラン（打点1）",
+    "text": "Cedeno homers (2) to right center.",
+    "url": "https://npb.jp/scores/2025/0525/m-l-10/playbyplay.html#com9-1",
+    "isPinchHit": "Y"
+  },
+  {
+    "id": "71475132-2025-02",
+    "date": "2025-05-25",
+    "batter": {
+      "jaBoxscoreName": "西川",
+      "playerId": "71475132",
+      "boxscoreName": "Nishikawa",
+      "batSide": "L",
+      "teamCode": "B",
+      "primaryNumber": "7",
+      "jaRegisteredName": "西川　龍馬",
+      "fullLFMName": "Nishikawa, Ryoma"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "上沢",
+      "boxscoreName": "Uwasawa",
+      "pitchHand": "R",
+      "teamCode": "H",
+      "primaryNumber": "10",
+      "jaRegisteredName": "上沢　直之",
+      "fullLFMName": "Uwasawa, Naoyuki"
+    },
+    "number": 2,
+    "inning": 1,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "1--",
+    "count": {
+      "balls": 0,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 2,
+    "rbi": 2,
+    "whereHit": "9",
+    "venue": {
+      "boxscoreName": "Kagoshima",
+      "jaBoxscoreName": "鹿児島"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "B",
+        "teamName": "Buffaloes",
+        "score": 13
+      },
+      "home": {
+        "teamCode": "H",
+        "teamName": "Hawks",
+        "score": 5
+      }
+    },
+    "jaText": "ライト2ランホームラン（打点2）",
+    "text": "Nishikawa homers (2) to right field.",
+    "url": "https://npb.jp/scores/2025/0525/h-b-09/playbyplay.html#com1-1"
+  },
+  {
+    "id": "61965132-2025-05",
+    "date": "2025-05-25",
+    "batter": {
+      "jaBoxscoreName": "杉本",
+      "playerId": "61965132",
+      "boxscoreName": "Sugimoto",
+      "batSide": "R",
+      "teamCode": "B",
+      "primaryNumber": "99",
+      "jaRegisteredName": "杉本　裕太郎",
+      "fullLFMName": "Sugimoto, Yutaro"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "大山",
+      "boxscoreName": "Ohyama",
+      "pitchHand": "R",
+      "teamCode": "H",
+      "primaryNumber": "53",
+      "jaRegisteredName": "大山　凌",
+      "fullLFMName": "Ohyama, Ryo"
+    },
+    "number": 5,
+    "inning": 5,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "-23",
+    "count": {
+      "balls": 1,
+      "strikes": 2
+    },
+    "runs": {
+      "road": 7,
+      "home": 5
+    },
+    "bop": 6,
+    "rbi": 3,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "Kagoshima",
+      "jaBoxscoreName": "鹿児島"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "B",
+        "teamName": "Buffaloes",
+        "score": 13
+      },
+      "home": {
+        "teamCode": "H",
+        "teamName": "Hawks",
+        "score": 5
+      }
+    },
+    "jaText": "レフト3ランホームラン（打点3）",
+    "text": "Sugimoto homers (5) to left field.",
+    "url": "https://npb.jp/scores/2025/0525/h-b-09/playbyplay.html#com5-1"
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "id": "63165155-2025-01",
+    "date": "2025-04-10",
+    "batter": {
+      "jaBoxscoreName": "水野",
+      "playerId": "63165155",
+      "boxscoreName": "Mizuno",
+      "batSide": "L",
+      "teamCode": "F",
+      "primaryNumber": "43",
+      "jaRegisteredName": "水野　達稀",
+      "fullLFMName": "Mizuno, Tatsuki"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "岸",
+      "boxscoreName": "Kishi",
+      "pitchHand": "R",
+      "teamCode": "E",
+      "primaryNumber": "11",
+      "jaRegisteredName": "岸　孝之",
+      "fullLFMName": "Kishi, Takayuki"
+    },
+    "number": 1,
+    "inning": 3,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "12-",
+    "count": {
+      "balls": 2,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 3,
+      "home": 0
+    },
+    "bop": 9,
+    "rbi": 3,
+    "whereHit": "9",
+    "venue": {
+      "boxscoreName": "Rakuten Mobile",
+      "jaBoxscoreName": "楽天モバイル"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 10
+      },
+      "home": {
+        "teamCode": "E",
+        "teamName": "Eagles",
+        "score": 0
+      }
+    },
+    "jaText": "ライト3ランホームラン（打点3）",
+    "text": "Mizuno homers (1) to right field.",
+    "url": "https://npb.jp/scores/2025/0410/e-f-03/playbyplay.html#com3-1"
+  },
+  {
+    "id": "61065137-2025-01",
+    "date": "2025-04-10",
+    "batter": {
+      "jaBoxscoreName": "伏見",
+      "playerId": "61065137",
+      "boxscoreName": "Fushimi",
+      "batSide": "R",
+      "teamCode": "F",
+      "primaryNumber": "23",
+      "jaRegisteredName": "伏見　寅威",
+      "fullLFMName": "Fushimi, Torai"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "今野",
+      "boxscoreName": "Konno",
+      "pitchHand": "R",
+      "teamCode": "E",
+      "primaryNumber": "66",
+      "jaRegisteredName": "今野　龍太",
+      "fullLFMName": "Konno, Ryuta"
+    },
+    "number": 1,
+    "inning": 8,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 3,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 9,
+      "home": 0
+    },
+    "bop": 2,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "Rakuten Mobile",
+      "jaBoxscoreName": "楽天モバイル"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 10
+      },
+      "home": {
+        "teamCode": "E",
+        "teamName": "Eagles",
+        "score": 0
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Fushimi homers (1) to left field.",
+    "url": "https://npb.jp/scores/2025/0410/e-f-03/playbyplay.html#com8-1",
+    "isPinchHit": "Y"
+  },
+  {
+    "id": "41645139-2025-01",
+    "date": "2025-04-10",
+    "batter": {
+      "jaBoxscoreName": "若月",
+      "playerId": "41645139",
+      "boxscoreName": "Wakatsuki",
+      "batSide": "R",
+      "teamCode": "B",
+      "primaryNumber": "2",
+      "jaRegisteredName": "若月　健矢",
+      "fullLFMName": "Wakatsuki, Kenya"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "前田純",
+      "boxscoreName": "J.Maeda",
+      "pitchHand": "L",
+      "teamCode": "H",
+      "primaryNumber": "51",
+      "jaRegisteredName": "前田　純",
+      "fullLFMName": "Maeda, Jun"
+    },
+    "number": 1,
+    "inning": 5,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 2,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 1,
+      "home": 0
+    },
+    "bop": 8,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "Kyocera Dome",
+      "jaBoxscoreName": "京セラD大阪"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "H",
+        "teamName": "Hawks",
+        "score": 1
+      },
+      "home": {
+        "teamCode": "B",
+        "teamName": "Buffaloes",
+        "score": 1
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Wakatsuki homers (1) to left field.",
+    "url": "https://npb.jp/scores/2025/0410/b-h-03/playbyplay.html#com5-2"
+  }
+]

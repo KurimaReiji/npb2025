@@ -1,0 +1,176 @@
+[
+  {
+    "id": "91395132-2025-02",
+    "date": "2025-05-21",
+    "batter": {
+      "jaBoxscoreName": "板山",
+      "playerId": "91395132",
+      "boxscoreName": "Itayama",
+      "batSide": "L",
+      "teamCode": "D",
+      "primaryNumber": "63",
+      "jaRegisteredName": "板山　祐太郎",
+      "fullLFMName": "Itayama, Yutaro"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "バウアー",
+      "boxscoreName": "Bauer",
+      "pitchHand": "R",
+      "teamCode": "DB",
+      "primaryNumber": "96",
+      "jaRegisteredName": "Ｔ．バウアー",
+      "fullLFMName": "Bauer, Trevor"
+    },
+    "number": 2,
+    "inning": 2,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "---",
+    "count": {
+      "balls": 0,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 6,
+    "rbi": 1,
+    "whereHit": "9",
+    "venue": {
+      "boxscoreName": "Yokohama",
+      "jaBoxscoreName": "横浜"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "D",
+        "teamName": "Dragons",
+        "score": 6
+      },
+      "home": {
+        "teamCode": "DB",
+        "teamName": "Baystars",
+        "score": 5
+      }
+    },
+    "jaText": "ライトソロホームラン（打点1）",
+    "text": "Itayama homers (2) to right field.",
+    "url": "https://npb.jp/scores/2025/0521/db-d-10/playbyplay.html#com2-1"
+  },
+  {
+    "id": "21025157-2025-01",
+    "date": "2025-05-21",
+    "batter": {
+      "jaBoxscoreName": "田中",
+      "playerId": "21025157",
+      "boxscoreName": "Tanaka",
+      "batSide": "R",
+      "teamCode": "D",
+      "primaryNumber": "2",
+      "jaRegisteredName": "田中　幹也",
+      "fullLFMName": "Tanaka, Mikiya"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "入江",
+      "boxscoreName": "Irie",
+      "pitchHand": "R",
+      "teamCode": "DB",
+      "primaryNumber": "22",
+      "jaRegisteredName": "入江　大生",
+      "fullLFMName": "Irie, Taisei"
+    },
+    "number": 1,
+    "inning": 9,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "---",
+    "count": {
+      "balls": 2,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 5,
+      "home": 5
+    },
+    "bop": 2,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "Yokohama",
+      "jaBoxscoreName": "横浜"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "D",
+        "teamName": "Dragons",
+        "score": 6
+      },
+      "home": {
+        "teamCode": "DB",
+        "teamName": "Baystars",
+        "score": 5
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Tanaka homers (1) to left field.",
+    "url": "https://npb.jp/scores/2025/0521/db-d-10/playbyplay.html#com9-1"
+  },
+  {
+    "id": "31635138-2025-01",
+    "date": "2025-05-21",
+    "batter": {
+      "jaBoxscoreName": "藤原",
+      "playerId": "31635138",
+      "boxscoreName": "Fujiwara",
+      "batSide": "L",
+      "teamCode": "M",
+      "primaryNumber": "1",
+      "jaRegisteredName": "藤原　恭大",
+      "fullLFMName": "Fujiwara, Kyota"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "宮城",
+      "boxscoreName": "Miyagi",
+      "pitchHand": "L",
+      "teamCode": "B",
+      "primaryNumber": "18",
+      "jaRegisteredName": "宮城　大弥",
+      "fullLFMName": "Miyagi, Hiroya"
+    },
+    "number": 1,
+    "inning": 6,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "---",
+    "count": {
+      "balls": 1,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 0,
+      "home": 1
+    },
+    "bop": 3,
+    "rbi": 1,
+    "whereHit": "9",
+    "venue": {
+      "boxscoreName": "Kyocera Dome",
+      "jaBoxscoreName": "京セラD大阪"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 1
+      },
+      "home": {
+        "teamCode": "B",
+        "teamName": "Buffaloes",
+        "score": 6
+      }
+    },
+    "jaText": "ライトソロホームラン（打点1）",
+    "text": "Fujiwara homers (1) to right field.",
+    "url": "https://npb.jp/scores/2025/0521/b-m-06/playbyplay.html#com6-1"
+  }
+]

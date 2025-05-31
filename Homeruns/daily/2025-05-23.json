@@ -1,0 +1,292 @@
+[
+  {
+    "id": "21925151-2025-03",
+    "date": "2025-05-23",
+    "batter": {
+      "jaBoxscoreName": "郡司",
+      "playerId": "21925151",
+      "boxscoreName": "Gunji",
+      "batSide": "R",
+      "teamCode": "F",
+      "primaryNumber": "30",
+      "jaRegisteredName": "郡司　裕也",
+      "fullLFMName": "Gunji, Yuya"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "早川",
+      "boxscoreName": "Hayakawa",
+      "pitchHand": "L",
+      "teamCode": "E",
+      "primaryNumber": "21",
+      "jaRegisteredName": "早川　隆久",
+      "fullLFMName": "Hayakawa, Takahisa"
+    },
+    "number": 3,
+    "inning": 2,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 0,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 4,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "Rakuten Mobile",
+      "jaBoxscoreName": "楽天モバイル"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 1
+      },
+      "home": {
+        "teamCode": "E",
+        "teamName": "Eagles",
+        "score": 0
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Gunji homers (3) to left field.",
+    "url": "https://npb.jp/scores/2025/0523/e-f-09/playbyplay.html#com2-1"
+  },
+  {
+    "id": "83385150-2025-03",
+    "date": "2025-05-23",
+    "batter": {
+      "jaBoxscoreName": "渡部聖",
+      "playerId": "83385150",
+      "boxscoreName": "S.Watanabe",
+      "batSide": "R",
+      "teamCode": "L",
+      "primaryNumber": "8",
+      "jaRegisteredName": "渡部　聖弥",
+      "fullLFMName": "Watanabe, Seiya"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "小島",
+      "boxscoreName": "Ojima",
+      "pitchHand": "L",
+      "teamCode": "M",
+      "primaryNumber": "14",
+      "jaRegisteredName": "小島　和哉",
+      "fullLFMName": "Ojima, Kazuya"
+    },
+    "number": 3,
+    "inning": 1,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "---",
+    "count": {
+      "balls": 2,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 3,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "ZOZO Marine",
+      "jaBoxscoreName": "ZOZOマリン"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "L",
+        "teamName": "Lions",
+        "score": 3
+      },
+      "home": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 9
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "S.Watanabe homers (3) to left field.",
+    "url": "https://npb.jp/scores/2025/0523/m-l-08/playbyplay.html#com1-1"
+  },
+  {
+    "id": "83385150-2025-04",
+    "date": "2025-05-23",
+    "batter": {
+      "jaBoxscoreName": "渡部聖",
+      "playerId": "83385150",
+      "boxscoreName": "S.Watanabe",
+      "batSide": "R",
+      "teamCode": "L",
+      "primaryNumber": "8",
+      "jaRegisteredName": "渡部　聖弥",
+      "fullLFMName": "Watanabe, Seiya"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "小島",
+      "boxscoreName": "Ojima",
+      "pitchHand": "L",
+      "teamCode": "M",
+      "primaryNumber": "14",
+      "jaRegisteredName": "小島　和哉",
+      "fullLFMName": "Ojima, Kazuya"
+    },
+    "number": 4,
+    "inning": 5,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "1--",
+    "count": {
+      "balls": 2,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 1,
+      "home": 8
+    },
+    "bop": 3,
+    "rbi": 2,
+    "whereHit": "78",
+    "venue": {
+      "boxscoreName": "ZOZO Marine",
+      "jaBoxscoreName": "ZOZOマリン"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "L",
+        "teamName": "Lions",
+        "score": 3
+      },
+      "home": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 9
+      }
+    },
+    "jaText": "左中間2ランホームラン（打点2）",
+    "text": "S.Watanabe homers (4) to left center.",
+    "url": "https://npb.jp/scores/2025/0523/m-l-08/playbyplay.html#com5-1"
+  },
+  {
+    "id": "41645136-2025-02",
+    "date": "2025-05-23",
+    "batter": {
+      "jaBoxscoreName": "藤岡",
+      "playerId": "41645136",
+      "boxscoreName": "Fujioka",
+      "batSide": "L",
+      "teamCode": "M",
+      "primaryNumber": "7",
+      "jaRegisteredName": "藤岡　裕大",
+      "fullLFMName": "Fujioka, Yudai"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "與座",
+      "boxscoreName": "Yoza",
+      "pitchHand": "R",
+      "teamCode": "L",
+      "primaryNumber": "15",
+      "jaRegisteredName": "與座　海人",
+      "fullLFMName": "Yoza, Kaito"
+    },
+    "number": 2,
+    "inning": 1,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "---",
+    "count": {
+      "balls": 0,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 1,
+      "home": 0
+    },
+    "bop": 2,
+    "rbi": 1,
+    "whereHit": "9",
+    "venue": {
+      "boxscoreName": "ZOZO Marine",
+      "jaBoxscoreName": "ZOZOマリン"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "L",
+        "teamName": "Lions",
+        "score": 3
+      },
+      "home": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 9
+      }
+    },
+    "jaText": "ライトソロホームラン（打点1）",
+    "text": "Fujioka homers (2) to right field.",
+    "url": "https://npb.jp/scores/2025/0523/m-l-08/playbyplay.html#com1-2"
+  },
+  {
+    "id": "51455159-2025-03",
+    "date": "2025-05-23",
+    "batter": {
+      "jaBoxscoreName": "寺地",
+      "playerId": "51455159",
+      "boxscoreName": "Terachi",
+      "batSide": "L",
+      "teamCode": "M",
+      "primaryNumber": "65",
+      "jaRegisteredName": "寺地　隆成",
+      "fullLFMName": "Terachi, Ryusei"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "與座",
+      "boxscoreName": "Yoza",
+      "pitchHand": "R",
+      "teamCode": "L",
+      "primaryNumber": "15",
+      "jaRegisteredName": "與座　海人",
+      "fullLFMName": "Yoza, Kaito"
+    },
+    "number": 3,
+    "inning": 3,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "12-",
+    "count": {
+      "balls": 0,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 1,
+      "home": 3
+    },
+    "bop": 5,
+    "rbi": 3,
+    "whereHit": "9",
+    "venue": {
+      "boxscoreName": "ZOZO Marine",
+      "jaBoxscoreName": "ZOZOマリン"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "L",
+        "teamName": "Lions",
+        "score": 3
+      },
+      "home": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 9
+      }
+    },
+    "jaText": "ライト3ランホームラン（打点3）",
+    "text": "Terachi homers (3) to right field.",
+    "url": "https://npb.jp/scores/2025/0523/m-l-08/playbyplay.html#com3-2"
+  }
+]

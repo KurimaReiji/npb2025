@@ -1,0 +1,60 @@
+[
+  {
+    "id": "41045153-2025-02",
+    "date": "2025-04-03",
+    "batter": {
+      "jaBoxscoreName": "佐藤輝",
+      "playerId": "41045153",
+      "boxscoreName": "T.Sato",
+      "batSide": "L",
+      "teamCode": "T",
+      "primaryNumber": "8",
+      "jaRegisteredName": "佐藤　輝明",
+      "fullLFMName": "Sato, Teruaki"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "坂本",
+      "boxscoreName": "Sakamoto",
+      "pitchHand": "L",
+      "teamCode": "DB",
+      "primaryNumber": "20",
+      "jaRegisteredName": "坂本　裕哉",
+      "fullLFMName": "Sakamoto, Yuya"
+    },
+    "number": 2,
+    "inning": 8,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "1--",
+    "count": {
+      "balls": 0,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 2,
+      "home": 0
+    },
+    "bop": 3,
+    "rbi": 2,
+    "whereHit": "78",
+    "venue": {
+      "boxscoreName": "Kyocera Dome",
+      "jaBoxscoreName": "京セラD大阪"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "DB",
+        "teamName": "Baystars",
+        "score": 5
+      },
+      "home": {
+        "teamCode": "T",
+        "teamName": "Tigers",
+        "score": 2
+      }
+    },
+    "jaText": "左中間2ランホームラン（打点2）",
+    "text": "T.Sato homers (2) to left center.",
+    "url": "https://npb.jp/scores/2025/0403/t-db-03/playbyplay.html#com8-2"
+  }
+]

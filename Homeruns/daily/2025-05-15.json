@@ -1,0 +1,176 @@
+[
+  {
+    "id": "01705138-2025-02",
+    "date": "2025-05-15",
+    "batter": {
+      "jaBoxscoreName": "小園",
+      "playerId": "01705138",
+      "boxscoreName": "Kozono",
+      "batSide": "L",
+      "teamCode": "C",
+      "primaryNumber": "5",
+      "jaRegisteredName": "小園　海斗",
+      "fullLFMName": "Kozono, Kaito"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "山﨑",
+      "boxscoreName": "Yamasaki",
+      "pitchHand": "R",
+      "teamCode": "G",
+      "primaryNumber": "19",
+      "jaRegisteredName": "山﨑　伊織",
+      "fullLFMName": "Yamasaki, Iori"
+    },
+    "number": 2,
+    "inning": 6,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "123",
+    "count": {
+      "balls": 1,
+      "strikes": 2
+    },
+    "runs": {
+      "road": 1,
+      "home": 0
+    },
+    "bop": 6,
+    "rbi": 4,
+    "whereHit": "9",
+    "venue": {
+      "boxscoreName": "Mazda Stadium",
+      "jaBoxscoreName": "マツダスタジアム"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "G",
+        "teamName": "Giants",
+        "score": 1
+      },
+      "home": {
+        "teamCode": "C",
+        "teamName": "Carp",
+        "score": 5
+      }
+    },
+    "jaText": "ライト満塁ホームラン（打点4）",
+    "text": "Kozono homers (2) to right field.",
+    "url": "https://npb.jp/scores/2025/0515/c-g-09/playbyplay.html#com6-2"
+  },
+  {
+    "id": "03505136-2025-05",
+    "date": "2025-05-15",
+    "batter": {
+      "jaBoxscoreName": "ソト",
+      "playerId": "03505136",
+      "boxscoreName": "Soto",
+      "batSide": "R",
+      "teamCode": "M",
+      "primaryNumber": "99",
+      "jaRegisteredName": "Ｎ．ソト",
+      "fullLFMName": "Soto, Neftali"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "早川",
+      "boxscoreName": "Hayakawa",
+      "pitchHand": "L",
+      "teamCode": "E",
+      "primaryNumber": "21",
+      "jaRegisteredName": "早川　隆久",
+      "fullLFMName": "Hayakawa, Takahisa"
+    },
+    "number": 5,
+    "inning": 6,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 2,
+      "strikes": 2
+    },
+    "runs": {
+      "road": 3,
+      "home": 0
+    },
+    "bop": 4,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "Tokyo Dome",
+      "jaBoxscoreName": "東京ドーム"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 5
+      },
+      "home": {
+        "teamCode": "E",
+        "teamName": "Eagles",
+        "score": 2
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Soto homers (5) to left field.",
+    "url": "https://npb.jp/scores/2025/0515/e-m-11/playbyplay.html#com6-1"
+  },
+  {
+    "id": "21425139-2025-08",
+    "date": "2025-05-15",
+    "batter": {
+      "jaBoxscoreName": "山川",
+      "playerId": "21425139",
+      "boxscoreName": "Yamakawa",
+      "batSide": "R",
+      "teamCode": "H",
+      "primaryNumber": "5",
+      "jaRegisteredName": "山川　穂高",
+      "fullLFMName": "Yamakawa, Hotaka"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "髙橋光成",
+      "boxscoreName": "K.Takahashi",
+      "pitchHand": "R",
+      "teamCode": "L",
+      "primaryNumber": "13",
+      "jaRegisteredName": "髙橋　光成",
+      "fullLFMName": "Takahashi, Kona"
+    },
+    "number": 8,
+    "inning": 6,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "1--",
+    "count": {
+      "balls": 0,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 0,
+      "home": 3
+    },
+    "bop": 7,
+    "rbi": 2,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "MIZUHO PayPay",
+      "jaBoxscoreName": "みずほPayPay"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "L",
+        "teamName": "Lions",
+        "score": 0
+      },
+      "home": {
+        "teamCode": "H",
+        "teamName": "Hawks",
+        "score": 5
+      }
+    },
+    "jaText": "レフト2ランホームラン（打点2）",
+    "text": "Yamakawa homers (8) to left field.",
+    "url": "https://npb.jp/scores/2025/0515/h-l-12/playbyplay.html#com6-2"
+  }
+]

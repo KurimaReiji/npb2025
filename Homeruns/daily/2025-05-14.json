@@ -1,0 +1,234 @@
+[
+  {
+    "id": "21625132-2025-03",
+    "date": "2025-05-14",
+    "batter": {
+      "jaBoxscoreName": "廣岡",
+      "playerId": "21625132",
+      "boxscoreName": "Hirooka",
+      "batSide": "R",
+      "teamCode": "B",
+      "primaryNumber": "30",
+      "jaRegisteredName": "廣岡　大志",
+      "fullLFMName": "Hirooka, Taishi"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "齋藤",
+      "boxscoreName": "Saito",
+      "pitchHand": "R",
+      "teamCode": "F",
+      "primaryNumber": "48",
+      "jaRegisteredName": "齋藤　友貴哉",
+      "fullLFMName": "Saito, Yukiya"
+    },
+    "number": 3,
+    "inning": 8,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "123",
+    "count": {
+      "balls": 3,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 4,
+      "home": 5
+    },
+    "bop": 1,
+    "rbi": 4,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "ES CON FIELD",
+      "jaBoxscoreName": "エスコンＦ"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "B",
+        "teamName": "Buffaloes",
+        "score": 9
+      },
+      "home": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 5
+      }
+    },
+    "jaText": "レフト満塁ホームラン（打点4）",
+    "text": "Hirooka homers (3) to left field.",
+    "url": "https://npb.jp/scores/2025/0514/f-b-11/playbyplay.html#com8-1"
+  },
+  {
+    "id": "81085138-2025-06",
+    "date": "2025-05-14",
+    "batter": {
+      "jaBoxscoreName": "頓宮",
+      "playerId": "81085138",
+      "boxscoreName": "Tongu",
+      "batSide": "R",
+      "teamCode": "B",
+      "primaryNumber": "44",
+      "jaRegisteredName": "頓宮　裕真",
+      "fullLFMName": "Tongu, Yuma"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "柳川",
+      "boxscoreName": "Yanagawa",
+      "pitchHand": "R",
+      "teamCode": "F",
+      "primaryNumber": "95",
+      "jaRegisteredName": "柳川　大晟",
+      "fullLFMName": "Yanagawa, Taisei"
+    },
+    "number": 6,
+    "inning": 9,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "---",
+    "count": {
+      "balls": 2,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 8,
+      "home": 5
+    },
+    "bop": 6,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "ES CON FIELD",
+      "jaBoxscoreName": "エスコンＦ"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "B",
+        "teamName": "Buffaloes",
+        "score": 9
+      },
+      "home": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 5
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Tongu homers (6) to left field.",
+    "url": "https://npb.jp/scores/2025/0514/f-b-11/playbyplay.html#com9-1"
+  },
+  {
+    "id": "73075159-2025-08",
+    "date": "2025-05-14",
+    "batter": {
+      "jaBoxscoreName": "レイエス",
+      "playerId": "73075159",
+      "boxscoreName": "Reyes",
+      "batSide": "R",
+      "teamCode": "F",
+      "primaryNumber": "99",
+      "jaRegisteredName": "Ｆ．レイエス",
+      "fullLFMName": "Reyes, Franmil"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "古田島",
+      "boxscoreName": "Kotajima",
+      "pitchHand": "R",
+      "teamCode": "B",
+      "primaryNumber": "35",
+      "jaRegisteredName": "古田島　成龍",
+      "fullLFMName": "Kotajima, Seiryu"
+    },
+    "number": 8,
+    "inning": 7,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "-2-",
+    "count": {
+      "balls": 1,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 3,
+      "home": 3
+    },
+    "bop": 3,
+    "rbi": 2,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "ES CON FIELD",
+      "jaBoxscoreName": "エスコンＦ"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "B",
+        "teamName": "Buffaloes",
+        "score": 9
+      },
+      "home": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 5
+      }
+    },
+    "jaText": "レフト2ランホームラン（打点2）",
+    "text": "Reyes homers (8) to left field.",
+    "url": "https://npb.jp/scores/2025/0514/f-b-11/playbyplay.html#com7-2"
+  },
+  {
+    "id": "83385150-2025-01",
+    "date": "2025-05-14",
+    "batter": {
+      "jaBoxscoreName": "渡部聖",
+      "playerId": "83385150",
+      "boxscoreName": "S.Watanabe",
+      "batSide": "R",
+      "teamCode": "L",
+      "primaryNumber": "8",
+      "jaRegisteredName": "渡部　聖弥",
+      "fullLFMName": "Watanabe, Seiya"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "大津",
+      "boxscoreName": "Ohtsu",
+      "pitchHand": "R",
+      "teamCode": "H",
+      "primaryNumber": "26",
+      "jaRegisteredName": "大津　亮介",
+      "fullLFMName": "Ohtsu, Ryosuke"
+    },
+    "number": 1,
+    "inning": 1,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "---",
+    "count": {
+      "balls": 0,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 3,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "MIZUHO PayPay",
+      "jaBoxscoreName": "みずほPayPay"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "L",
+        "teamName": "Lions",
+        "score": 3
+      },
+      "home": {
+        "teamCode": "H",
+        "teamName": "Hawks",
+        "score": 1
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "S.Watanabe homers (1) to left field.",
+    "url": "https://npb.jp/scores/2025/0514/h-l-11/playbyplay.html#com1-1"
+  }
+]

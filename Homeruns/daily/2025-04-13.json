@@ -1,0 +1,234 @@
+[
+  {
+    "id": "43745150-2025-02",
+    "date": "2025-04-13",
+    "batter": {
+      "jaBoxscoreName": "ファビアン",
+      "playerId": "43745150",
+      "boxscoreName": "Fabian",
+      "batSide": "R",
+      "teamCode": "C",
+      "primaryNumber": "61",
+      "jaRegisteredName": "Ｓ．ファビアン",
+      "fullLFMName": "Fabian, Sandro"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "西舘",
+      "boxscoreName": "Nishidate",
+      "pitchHand": "R",
+      "teamCode": "G",
+      "primaryNumber": "17",
+      "jaRegisteredName": "西舘　勇陽",
+      "fullLFMName": "Nishidate, Yuhi"
+    },
+    "number": 2,
+    "inning": 6,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 0,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 1,
+      "home": 3
+    },
+    "bop": 5,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "Mazda Stadium",
+      "jaBoxscoreName": "マツダスタジアム"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "G",
+        "teamName": "Giants",
+        "score": 3
+      },
+      "home": {
+        "teamCode": "C",
+        "teamName": "Carp",
+        "score": 5
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Fabian homers (2) to left field.",
+    "url": "https://npb.jp/scores/2025/0413/c-g-03/playbyplay.html#com6-2"
+  },
+  {
+    "id": "13915157-2025-01",
+    "date": "2025-04-13",
+    "batter": {
+      "jaBoxscoreName": "セデーニョ",
+      "playerId": "13915157",
+      "boxscoreName": "Cedeno",
+      "batSide": "R",
+      "teamCode": "L",
+      "primaryNumber": "40",
+      "jaRegisteredName": "Ｌ．セデーニョ",
+      "fullLFMName": "Cedeno, Leandro"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "福谷",
+      "boxscoreName": "Fukutani",
+      "pitchHand": "R",
+      "teamCode": "F",
+      "primaryNumber": "41",
+      "jaRegisteredName": "福谷　浩司",
+      "fullLFMName": "Fukutani, Koji"
+    },
+    "number": 1,
+    "inning": 5,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "1--",
+    "count": {
+      "balls": 1,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 3,
+      "home": 1
+    },
+    "bop": 4,
+    "rbi": 2,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "ES CON FIELD",
+      "jaBoxscoreName": "エスコンＦ"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "L",
+        "teamName": "Lions",
+        "score": 7
+      },
+      "home": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 2
+      }
+    },
+    "jaText": "レフト2ランホームラン（打点2）",
+    "text": "Cedeno homers (1) to left field.",
+    "url": "https://npb.jp/scores/2025/0413/f-l-06/playbyplay.html#com5-1"
+  },
+  {
+    "id": "61965132-2025-03",
+    "date": "2025-04-13",
+    "batter": {
+      "jaBoxscoreName": "杉本",
+      "playerId": "61965132",
+      "boxscoreName": "Sugimoto",
+      "batSide": "R",
+      "teamCode": "B",
+      "primaryNumber": "99",
+      "jaRegisteredName": "杉本　裕太郎",
+      "fullLFMName": "Sugimoto, Yutaro"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "古謝",
+      "boxscoreName": "Koja",
+      "pitchHand": "L",
+      "teamCode": "E",
+      "primaryNumber": "17",
+      "jaRegisteredName": "古謝　樹",
+      "fullLFMName": "Koja, Tatsuki"
+    },
+    "number": 3,
+    "inning": 3,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 0,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 3,
+      "home": 0
+    },
+    "bop": 4,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "Rakuten Mobile",
+      "jaBoxscoreName": "楽天モバイル"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "B",
+        "teamName": "Buffaloes",
+        "score": 6
+      },
+      "home": {
+        "teamCode": "E",
+        "teamName": "Eagles",
+        "score": 1
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Sugimoto homers (3) to left field.",
+    "url": "https://npb.jp/scores/2025/0413/e-b-06/playbyplay.html#com3-1"
+  },
+  {
+    "id": "61965132-2025-04",
+    "date": "2025-04-13",
+    "batter": {
+      "jaBoxscoreName": "杉本",
+      "playerId": "61965132",
+      "boxscoreName": "Sugimoto",
+      "batSide": "R",
+      "teamCode": "B",
+      "primaryNumber": "99",
+      "jaRegisteredName": "杉本　裕太郎",
+      "fullLFMName": "Sugimoto, Yutaro"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "今野",
+      "boxscoreName": "Konno",
+      "pitchHand": "R",
+      "teamCode": "E",
+      "primaryNumber": "66",
+      "jaRegisteredName": "今野　龍太",
+      "fullLFMName": "Konno, Ryuta"
+    },
+    "number": 4,
+    "inning": 9,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 2,
+      "strikes": 2
+    },
+    "runs": {
+      "road": 5,
+      "home": 1
+    },
+    "bop": 4,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "Rakuten Mobile",
+      "jaBoxscoreName": "楽天モバイル"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "B",
+        "teamName": "Buffaloes",
+        "score": 6
+      },
+      "home": {
+        "teamCode": "E",
+        "teamName": "Eagles",
+        "score": 1
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Sugimoto homers (4) to left field.",
+    "url": "https://npb.jp/scores/2025/0413/e-b-06/playbyplay.html#com9-1"
+  }
+]

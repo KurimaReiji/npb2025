@@ -1,0 +1,234 @@
+[
+  {
+    "id": "51455159-2025-01",
+    "date": "2025-04-18",
+    "batter": {
+      "jaBoxscoreName": "寺地",
+      "playerId": "51455159",
+      "boxscoreName": "Terachi",
+      "batSide": "L",
+      "teamCode": "M",
+      "primaryNumber": "65",
+      "jaRegisteredName": "寺地　隆成",
+      "fullLFMName": "Terachi, Ryusei"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "早川",
+      "boxscoreName": "Hayakawa",
+      "pitchHand": "L",
+      "teamCode": "E",
+      "primaryNumber": "21",
+      "jaRegisteredName": "早川　隆久",
+      "fullLFMName": "Hayakawa, Takahisa"
+    },
+    "number": 1,
+    "inning": 3,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "---",
+    "count": {
+      "balls": 1,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 9,
+    "rbi": 1,
+    "whereHit": "9",
+    "venue": {
+      "boxscoreName": "Rakuten Mobile",
+      "jaBoxscoreName": "楽天モバイル"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 4
+      },
+      "home": {
+        "teamCode": "E",
+        "teamName": "Eagles",
+        "score": 1
+      }
+    },
+    "jaText": "ライトソロホームラン（打点1）",
+    "text": "Terachi homers (1) to right field.",
+    "url": "https://npb.jp/scores/2025/0418/e-m-04/playbyplay.html#com3-1"
+  },
+  {
+    "id": "51455159-2025-02",
+    "date": "2025-04-18",
+    "batter": {
+      "jaBoxscoreName": "寺地",
+      "playerId": "51455159",
+      "boxscoreName": "Terachi",
+      "batSide": "L",
+      "teamCode": "M",
+      "primaryNumber": "65",
+      "jaRegisteredName": "寺地　隆成",
+      "fullLFMName": "Terachi, Ryusei"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "藤平",
+      "boxscoreName": "Fujihira",
+      "pitchHand": "R",
+      "teamCode": "E",
+      "primaryNumber": "46",
+      "jaRegisteredName": "藤平　尚真",
+      "fullLFMName": "Fujihira, Shoma"
+    },
+    "number": 2,
+    "inning": 8,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "---",
+    "count": {
+      "balls": 3,
+      "strikes": 2
+    },
+    "runs": {
+      "road": 1,
+      "home": 0
+    },
+    "bop": 9,
+    "rbi": 1,
+    "whereHit": "89",
+    "venue": {
+      "boxscoreName": "Rakuten Mobile",
+      "jaBoxscoreName": "楽天モバイル"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 4
+      },
+      "home": {
+        "teamCode": "E",
+        "teamName": "Eagles",
+        "score": 1
+      }
+    },
+    "jaText": "右中間ソロホームラン（打点1）",
+    "text": "Terachi homers (2) to right center.",
+    "url": "https://npb.jp/scores/2025/0418/e-m-04/playbyplay.html#com8-1"
+  },
+  {
+    "id": "53155150-2025-02",
+    "date": "2025-04-18",
+    "batter": {
+      "jaBoxscoreName": "宗山",
+      "playerId": "53155150",
+      "boxscoreName": "Muneyama",
+      "batSide": "L",
+      "teamCode": "E",
+      "primaryNumber": "1",
+      "jaRegisteredName": "宗山　塁",
+      "fullLFMName": "Muneyama, Rui"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "鈴木",
+      "boxscoreName": "Suzuki",
+      "pitchHand": "L",
+      "teamCode": "M",
+      "primaryNumber": "47",
+      "jaRegisteredName": "鈴木　昭汰",
+      "fullLFMName": "Suzuki, Shota"
+    },
+    "number": 2,
+    "inning": 8,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "---",
+    "count": {
+      "balls": 0,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 4,
+      "home": 0
+    },
+    "bop": 1,
+    "rbi": 1,
+    "whereHit": "9",
+    "venue": {
+      "boxscoreName": "Rakuten Mobile",
+      "jaBoxscoreName": "楽天モバイル"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 4
+      },
+      "home": {
+        "teamCode": "E",
+        "teamName": "Eagles",
+        "score": 1
+      }
+    },
+    "jaText": "ライトソロホームラン（打点1）",
+    "text": "Muneyama homers (2) to right field.",
+    "url": "https://npb.jp/scores/2025/0418/e-m-04/playbyplay.html#com8-2"
+  },
+  {
+    "id": "91395138-2025-02",
+    "date": "2025-04-18",
+    "batter": {
+      "jaBoxscoreName": "太田",
+      "playerId": "91395138",
+      "boxscoreName": "Ohta",
+      "batSide": "R",
+      "teamCode": "B",
+      "primaryNumber": "31",
+      "jaRegisteredName": "太田　椋",
+      "fullLFMName": "Ohta, Ryo"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "北山",
+      "boxscoreName": "Kitayama",
+      "pitchHand": "R",
+      "teamCode": "F",
+      "primaryNumber": "57",
+      "jaRegisteredName": "北山　亘基",
+      "fullLFMName": "Kitayama, Koki"
+    },
+    "number": 2,
+    "inning": 6,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 3,
+      "strikes": 2
+    },
+    "runs": {
+      "road": 1,
+      "home": 0
+    },
+    "bop": 2,
+    "rbi": 1,
+    "whereHit": "9",
+    "venue": {
+      "boxscoreName": "Kyocera Dome",
+      "jaBoxscoreName": "京セラD大阪"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 1
+      },
+      "home": {
+        "teamCode": "B",
+        "teamName": "Buffaloes",
+        "score": 2
+      }
+    },
+    "jaText": "ライトソロホームラン（打点1）",
+    "text": "Ohta homers (2) to right field.",
+    "url": "https://npb.jp/scores/2025/0418/b-f-04/playbyplay.html#com6-2"
+  }
+]

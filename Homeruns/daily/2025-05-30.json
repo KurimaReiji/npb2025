@@ -1,0 +1,351 @@
+[
+  {
+    "id": "13115153-2025-09",
+    "date": "2025-05-30",
+    "batter": {
+      "jaBoxscoreName": "牧",
+      "playerId": "13115153",
+      "boxscoreName": "Maki",
+      "batSide": "R",
+      "teamCode": "DB",
+      "primaryNumber": "2",
+      "jaRegisteredName": "牧　秀悟",
+      "fullLFMName": "Maki, Shugo"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "山野",
+      "boxscoreName": "Yamano",
+      "pitchHand": "L",
+      "teamCode": "S",
+      "primaryNumber": "26",
+      "jaRegisteredName": "山野　太一",
+      "fullLFMName": "Yamano, Taichi"
+    },
+    "number": 9,
+    "inning": 2,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 2,
+      "strikes": 2
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 4,
+    "rbi": 1,
+    "whereHit": "78",
+    "venue": {
+      "boxscoreName": "Yokohama",
+      "jaBoxscoreName": "横浜"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 2
+      },
+      "home": {
+        "teamCode": "DB",
+        "teamName": "Baystars",
+        "score": 6
+      }
+    },
+    "jaText": "左中間ソロホームラン（打点1）",
+    "text": "Maki homers (9) to left center.",
+    "url": "https://npb.jp/scores/2025/0530/db-s-08/playbyplay.html#com2-2"
+  },
+  {
+    "id": "41245132-2025-01",
+    "date": "2025-05-30",
+    "batter": {
+      "jaBoxscoreName": "戸柱",
+      "playerId": "41245132",
+      "boxscoreName": "Tobashira",
+      "batSide": "L",
+      "teamCode": "DB",
+      "primaryNumber": "10",
+      "jaRegisteredName": "戸柱　恭孝",
+      "fullLFMName": "Tobashira, Yasutaka"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "山野",
+      "boxscoreName": "Yamano",
+      "pitchHand": "L",
+      "teamCode": "S",
+      "primaryNumber": "26",
+      "jaRegisteredName": "山野　太一",
+      "fullLFMName": "Yamano, Taichi"
+    },
+    "number": 1,
+    "inning": 4,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 1,
+      "strikes": 2
+    },
+    "runs": {
+      "road": 0,
+      "home": 4
+    },
+    "bop": 7,
+    "rbi": 1,
+    "whereHit": "9",
+    "venue": {
+      "boxscoreName": "Yokohama",
+      "jaBoxscoreName": "横浜"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 2
+      },
+      "home": {
+        "teamCode": "DB",
+        "teamName": "Baystars",
+        "score": 6
+      }
+    },
+    "jaText": "ライトソロホームラン（打点1）",
+    "text": "Tobashira homers (1) to right field.",
+    "url": "https://npb.jp/scores/2025/0530/db-s-08/playbyplay.html#com4-2"
+  },
+  {
+    "id": "91395139-2025-07",
+    "date": "2025-05-30",
+    "batter": {
+      "jaBoxscoreName": "上林",
+      "playerId": "91395139",
+      "boxscoreName": "Uebayashi",
+      "batSide": "L",
+      "teamCode": "D",
+      "primaryNumber": "51",
+      "jaRegisteredName": "上林　誠知",
+      "fullLFMName": "Uebayashi, Seiji"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "赤星",
+      "boxscoreName": "Akahoshi",
+      "pitchHand": "R",
+      "teamCode": "G",
+      "primaryNumber": "31",
+      "jaRegisteredName": "赤星　優志",
+      "fullLFMName": "Akahoshi, Yuji"
+    },
+    "number": 7,
+    "inning": 1,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 0,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 1,
+    "rbi": 1,
+    "whereHit": "9",
+    "venue": {
+      "boxscoreName": "Vantelin Dome",
+      "jaBoxscoreName": "バンテリンドーム"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "G",
+        "teamName": "Giants",
+        "score": 4
+      },
+      "home": {
+        "teamCode": "D",
+        "teamName": "Dragons",
+        "score": 1
+      }
+    },
+    "jaText": "ライトソロホームラン（打点1）",
+    "text": "Uebayashi homers (7) to right field.",
+    "url": "https://npb.jp/scores/2025/0530/d-g-09/playbyplay.html#com1-2",
+    "isLeadOff": "Y"
+  },
+  {
+    "id": "33535153-2025-03",
+    "date": "2025-05-30",
+    "batter": {
+      "jaBoxscoreName": "山本",
+      "playerId": "33535153",
+      "boxscoreName": "Yamamoto",
+      "batSide": "R",
+      "teamCode": "M",
+      "primaryNumber": "61",
+      "jaRegisteredName": "山本　大斗",
+      "fullLFMName": "Yamamoto, Daito"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "孫",
+      "boxscoreName": "YL.Sun",
+      "pitchHand": "R",
+      "teamCode": "F",
+      "primaryNumber": "96",
+      "jaRegisteredName": "孫　易磊",
+      "fullLFMName": "Sun, Yi-Lei"
+    },
+    "number": 3,
+    "inning": 8,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 1,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 0,
+      "home": 3
+    },
+    "bop": 8,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "ES CON FIELD",
+      "jaBoxscoreName": "エスコンＦ"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 1
+      },
+      "home": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 4
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Yamamoto homers (3) to left field.",
+    "url": "https://npb.jp/scores/2025/0530/f-m-08/playbyplay.html#com8-1"
+  },
+  {
+    "id": "73075159-2025-10",
+    "date": "2025-05-30",
+    "batter": {
+      "jaBoxscoreName": "レイエス",
+      "playerId": "73075159",
+      "boxscoreName": "Reyes",
+      "batSide": "R",
+      "teamCode": "F",
+      "primaryNumber": "99",
+      "jaRegisteredName": "Ｆ．レイエス",
+      "fullLFMName": "Reyes, Franmil"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "小島",
+      "boxscoreName": "Ojima",
+      "pitchHand": "L",
+      "teamCode": "M",
+      "primaryNumber": "14",
+      "jaRegisteredName": "小島　和哉",
+      "fullLFMName": "Ojima, Kazuya"
+    },
+    "number": 10,
+    "inning": 6,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "1--",
+    "count": {
+      "balls": 1,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 0,
+      "home": 1
+    },
+    "bop": 3,
+    "rbi": 2,
+    "whereHit": "8",
+    "venue": {
+      "boxscoreName": "ES CON FIELD",
+      "jaBoxscoreName": "エスコンＦ"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 1
+      },
+      "home": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 4
+      }
+    },
+    "jaText": "センター2ランホームラン（打点2）",
+    "text": "Reyes homers (10) to center field.",
+    "url": "https://npb.jp/scores/2025/0530/f-m-08/playbyplay.html#com6-2"
+  },
+  {
+    "id": "11815138-2025-10",
+    "date": "2025-05-30",
+    "batter": {
+      "jaBoxscoreName": "万波",
+      "playerId": "11815138",
+      "boxscoreName": "Mannami",
+      "batSide": "R",
+      "teamCode": "F",
+      "primaryNumber": "66",
+      "jaRegisteredName": "万波　中正",
+      "fullLFMName": "Mannami, Chusei"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "菊地",
+      "boxscoreName": "Kikuchi",
+      "pitchHand": "R",
+      "teamCode": "M",
+      "primaryNumber": "28",
+      "jaRegisteredName": "菊地　吏玖",
+      "fullLFMName": "Kikuchi, Riku"
+    },
+    "number": 10,
+    "inning": 8,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "---",
+    "count": {
+      "balls": 3,
+      "strikes": 2
+    },
+    "runs": {
+      "road": 1,
+      "home": 3
+    },
+    "bop": 4,
+    "rbi": 1,
+    "whereHit": "9",
+    "venue": {
+      "boxscoreName": "ES CON FIELD",
+      "jaBoxscoreName": "エスコンＦ"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 1
+      },
+      "home": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 4
+      }
+    },
+    "jaText": "ライトソロホームラン（打点1）",
+    "text": "Mannami homers (10) to right field.",
+    "url": "https://npb.jp/scores/2025/0530/f-m-08/playbyplay.html#com8-2"
+  }
+]
