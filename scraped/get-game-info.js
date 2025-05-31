@@ -1,4 +1,4 @@
-import { writeFileSync } from "fs";
+import { writeFileSync } from 'node:fs';
 import puppeteer from 'puppeteer';
 import { scrapers } from "./scraper.js";
 
@@ -44,6 +44,7 @@ const browser = await puppeteer.launch({
     height: 1100,
   },
   headless: "new",
+  args: ['--no-sandbox', '--disable-setuid-sandbox']
 });
 
 const year = dates[0].slice(0, 4);
