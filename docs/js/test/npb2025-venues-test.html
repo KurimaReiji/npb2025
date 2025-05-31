@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mocha Report for npb2025-venues.js</title>
+  <link rel="stylesheet" href="https://unpkg.com/mocha/mocha.css" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/mocha/10.0.0/mocha.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/chai/4.3.4/chai.min.js"></script>
+  <style>
+    h1 {
+      font-size: 1.125em;
+      margin-block: 1em;
+      margin-inline-start: 65px;
+    }
+  </style>
+</head>
+
+<body>
+  <h1>Mocha Report for npb2025-venues.js</h1>
+  <div id="mocha"></div>
+  <script type="module">
+    import { findVenue } from '../npb2025-venues.js';
+
+    mocha.setup('bdd');
+
+    describe("Venues for 2025 Season", async function () {
+
+  it("should return 'Vantelin Dome'", function () {
+    const nagoyaDome = findVenue('バンテリンドーム');
+    chai.expect(nagoyaDome.boxscoreName).to.equal('Vantelin Dome');
+  });
+
+  it("should return 'Morioka'", function () {
+    const kitagin = findVenue('盛　岡');
+    const kitagin2 = findVenue('いわて盛岡ボールパーク');
+    chai.expect(kitagin.boxscoreName).to.equal('Morioka');
+    chai.expect(kitagin2.boxscoreName).to.equal('Morioka');
+  });
+
+  it("should return 'Naha'", function () {
+    const naha = findVenue('那　覇');
+    const naha2 = findVenue('那覇市営奥武山野球場');
+    chai.expect(naha.boxscoreName).to.equal('Naha');
+    chai.expect(naha2.boxscoreName).to.equal('Naha');
+    chai.expect(naha.name).to.equal('Okinawa Cellular Stadium Naha');
+  });
+});
+
+    mocha.run();
+
+  </script>
+</body>
+
+</html>

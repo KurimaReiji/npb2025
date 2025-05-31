@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mocha Report for npb2025-players.js</title>
+  <link rel="stylesheet" href="https://unpkg.com/mocha/mocha.css" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/mocha/10.0.0/mocha.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/chai/4.3.4/chai.min.js"></script>
+  <style>
+    h1 {
+      font-size: 1.125em;
+      margin-block: 1em;
+      margin-inline-start: 65px;
+    }
+  </style>
+</head>
+
+<body>
+  <h1>Mocha Report for npb2025-players.js</h1>
+  <div id="mocha"></div>
+  <script type="module">
+    import { getPlayers, createFindPlayerById } from '../npb2025-players.js';
+
+    mocha.setup('bdd');
+
+    let playersMay11, playersMay14;
+    let findPlayerMay11, findPlayerMay14;
+
+    before(async function () {
+      playersMay14 = await getPlayers('2025-05-14');
+      playersMay11 = await getPlayers('2025-05-11');
+      findPlayerMay11 = await createFindPlayerById(playersMay11);
+      findPlayerMay14 = await createFindPlayerById(playersMay14);
+    })
+
+    describe("Registered players on May 11", async function () {
+      it("should return Sunagawa as a Hawk, Akihiro as a Giant", function () {
+        const sunagawa = findPlayerMay11('11015136');
+        const akihiro = findPlayerMay11('71175153');
+        chai.expect(sunagawa.teamCode).to.equal('H');
+        chai.expect(akihiro.teamCode).to.equal('G');
+      });
+    });
+
+    describe("Registered players on May 14", async function () {
+      it("should return correct numbers", function () {
+        chai.expect(playersMay14.length).to.equal(801);
+        const dragons = playersMay14.filter((player) => player.teamCode === 'D')
+        chai.expect(dragons.length).to.equal(68);
+      });
+      it("should return Sunagawa as a Giant, Akihiro as a Hawk", function () {
+        const sunagawa = findPlayerMay14('11015136');
+        const akihiro = findPlayerMay14('71175153');
+        chai.expect(sunagawa.teamCode).to.equal('G');
+        chai.expect(akihiro.teamCode).to.equal('H');
+      });
+    });
+
+    mocha.run();
+
+  </script>
+</body>
+
+</html>
