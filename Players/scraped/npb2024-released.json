@@ -1,0 +1,1334 @@
+{
+  "url": "https://npb.jp/announcement/2024/pn_released.html",
+  "title": "自由契約選手 | 2024年度公示 | NPB.jp 日本野球機構",
+  "rows": [
+    {
+      "date": "2025-02-21",
+      "teamCode": "M",
+      "playerId": "31035151",
+      "jaRegisteredName": "佐々木　朗希",
+      "jaPosition": "投手",
+      "primaryNumber": "17",
+      "note": "（契約保留権放棄）※3"
+    },
+    {
+      "date": "2025-02-12",
+      "teamCode": "D",
+      "playerId": "71575132",
+      "jaRegisteredName": "小笠原　慎之介",
+      "jaPosition": "投手",
+      "primaryNumber": "11",
+      "note": "（契約保留権放棄）※2"
+    },
+    {
+      "date": "2025-01-28",
+      "teamCode": "T",
+      "playerId": "71175132",
+      "jaRegisteredName": "青柳　晃洋",
+      "jaPosition": "投手",
+      "primaryNumber": "17",
+      "note": "（契約保留権放棄）※1"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "G",
+      "playerId": "51755136",
+      "jaRegisteredName": "鈴木　康平",
+      "jaPosition": "投手",
+      "primaryNumber": "32",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "G",
+      "playerId": "11215138",
+      "jaRegisteredName": "直江　大輔",
+      "jaPosition": "投手",
+      "primaryNumber": "54",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "G",
+      "playerId": "81185155",
+      "jaRegisteredName": "石田　隼都",
+      "jaPosition": "投手",
+      "primaryNumber": "56",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "G",
+      "playerId": "61965138",
+      "jaRegisteredName": "髙橋　優貴",
+      "jaPosition": "投手",
+      "primaryNumber": "57",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "G",
+      "playerId": "93095157",
+      "jaRegisteredName": "Ｙ．メンデス",
+      "jaPosition": "投手",
+      "primaryNumber": "65",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "G",
+      "playerId": "11015155",
+      "jaRegisteredName": "代木　大和",
+      "jaPosition": "投手",
+      "primaryNumber": "68",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "G",
+      "playerId": "53555155",
+      "jaRegisteredName": "山田　龍聖",
+      "jaPosition": "投手",
+      "primaryNumber": "90",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "G",
+      "playerId": "01805157",
+      "jaRegisteredName": "松井　颯",
+      "jaPosition": "投手",
+      "primaryNumber": "93",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "G",
+      "playerId": "31735155",
+      "jaRegisteredName": "菊地　大稀",
+      "jaPosition": "投手",
+      "primaryNumber": "96",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "G",
+      "playerId": "23225159",
+      "jaRegisteredName": "Ｃ．モンテス",
+      "jaPosition": "内野手",
+      "primaryNumber": "39",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "G",
+      "playerId": "31935151",
+      "jaRegisteredName": "菊田　拡和",
+      "jaPosition": "内野手",
+      "primaryNumber": "60",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "G",
+      "playerId": "01205157",
+      "jaRegisteredName": "中田　歩夢",
+      "jaPosition": "内野手",
+      "primaryNumber": "95",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "G",
+      "playerId": "13315151",
+      "jaRegisteredName": "Ｅ．ウレーニャ",
+      "jaPosition": "内野手",
+      "primaryNumber": "98",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "G",
+      "playerId": "61565114",
+      "jaRegisteredName": "梶谷　隆幸",
+      "jaPosition": "外野手",
+      "primaryNumber": "13",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "G",
+      "playerId": "81985118",
+      "jaRegisteredName": "立岡　宗一郎",
+      "jaPosition": "外野手",
+      "primaryNumber": "23",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "T",
+      "playerId": "03305155",
+      "jaRegisteredName": "森木　大智",
+      "jaPosition": "投手",
+      "primaryNumber": "20",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "T",
+      "playerId": "51155131",
+      "jaRegisteredName": "秋山　拓巳",
+      "jaPosition": "投手",
+      "primaryNumber": "21",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "T",
+      "playerId": "01005155",
+      "jaRegisteredName": "鈴木　勇斗",
+      "jaPosition": "投手",
+      "primaryNumber": "28",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "T",
+      "playerId": "21525139",
+      "jaRegisteredName": "加治屋　蓮",
+      "jaPosition": "投手",
+      "primaryNumber": "54",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "T",
+      "playerId": "81385153",
+      "jaRegisteredName": "岩田　将貴",
+      "jaPosition": "投手",
+      "primaryNumber": "93",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "T",
+      "playerId": "01505138",
+      "jaRegisteredName": "片山　雄哉",
+      "jaPosition": "捕手",
+      "primaryNumber": "95",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "T",
+      "playerId": "71575151",
+      "jaRegisteredName": "遠藤　成",
+      "jaPosition": "内野手",
+      "primaryNumber": "45",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "T",
+      "playerId": "01005130",
+      "jaRegisteredName": "髙濱　祐仁",
+      "jaPosition": "外野手",
+      "primaryNumber": "43",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "DB",
+      "playerId": "03105155",
+      "jaRegisteredName": "三浦　銀二",
+      "jaPosition": "投手",
+      "primaryNumber": "30",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "DB",
+      "playerId": "31635157",
+      "jaRegisteredName": "橋本　達弥",
+      "jaPosition": "投手",
+      "primaryNumber": "35",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "DB",
+      "playerId": "61665155",
+      "jaRegisteredName": "深沢　鳳介",
+      "jaPosition": "投手",
+      "primaryNumber": "43",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "DB",
+      "playerId": "61165153",
+      "jaRegisteredName": "石川　達也",
+      "jaPosition": "投手",
+      "primaryNumber": "46",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "DB",
+      "playerId": "13715157",
+      "jaRegisteredName": "Ｊ．Ｂ．ウェンデルケン",
+      "jaPosition": "投手",
+      "primaryNumber": "49",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "DB",
+      "playerId": "21225153",
+      "jaRegisteredName": "髙田　琢登",
+      "jaPosition": "投手",
+      "primaryNumber": "56",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "DB",
+      "playerId": "01905157",
+      "jaRegisteredName": "上甲　凌大",
+      "jaPosition": "捕手",
+      "primaryNumber": "66",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "DB",
+      "playerId": "61465112",
+      "jaRegisteredName": "大和",
+      "jaPosition": "内野手",
+      "primaryNumber": "9",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "DB",
+      "playerId": "91095139",
+      "jaRegisteredName": "西浦　直亨",
+      "jaPosition": "内野手",
+      "primaryNumber": "39",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "DB",
+      "playerId": "71475136",
+      "jaRegisteredName": "西巻　賢二",
+      "jaPosition": "内野手",
+      "primaryNumber": "67",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "DB",
+      "playerId": "03205159",
+      "jaRegisteredName": "Ｍ．フォード",
+      "jaPosition": "内野手",
+      "primaryNumber": "99",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "DB",
+      "playerId": "41345118",
+      "jaRegisteredName": "大田　泰示",
+      "jaPosition": "外野手",
+      "primaryNumber": "0",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "DB",
+      "playerId": "61565136",
+      "jaRegisteredName": "楠本　泰史",
+      "jaPosition": "外野手",
+      "primaryNumber": "37",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "C",
+      "playerId": "21425135",
+      "jaRegisteredName": "野村　祐輔",
+      "jaPosition": "投手",
+      "primaryNumber": "19",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "C",
+      "playerId": "21225130",
+      "jaRegisteredName": "戸根　千明",
+      "jaPosition": "投手",
+      "primaryNumber": "49",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "C",
+      "playerId": "61965153",
+      "jaRegisteredName": "小林　樹斗",
+      "jaPosition": "投手",
+      "primaryNumber": "53",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "C",
+      "playerId": "71575153",
+      "jaRegisteredName": "内間　拓馬",
+      "jaPosition": "投手",
+      "primaryNumber": "67",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "C",
+      "playerId": "91595132",
+      "jaRegisteredName": "岡田　明丈",
+      "jaPosition": "投手",
+      "primaryNumber": "93",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "C",
+      "playerId": "53955151",
+      "jaRegisteredName": "Ｒ．コルニエル",
+      "jaPosition": "投手",
+      "primaryNumber": "98",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "C",
+      "playerId": "51955139",
+      "jaRegisteredName": "曽根　海成",
+      "jaPosition": "内野手",
+      "primaryNumber": "00",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "S",
+      "playerId": "11615159",
+      "jaRegisteredName": "西舘　昂汰",
+      "jaPosition": "投手",
+      "primaryNumber": "14",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "S",
+      "playerId": "91595135",
+      "jaRegisteredName": "嘉弥真　新也",
+      "jaPosition": "投手",
+      "primaryNumber": "49",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "S",
+      "playerId": "61365134",
+      "jaRegisteredName": "尾仲　祐哉",
+      "jaPosition": "投手",
+      "primaryNumber": "52",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "S",
+      "playerId": "41245133",
+      "jaRegisteredName": "西田　明央",
+      "jaPosition": "捕手",
+      "primaryNumber": "30",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "S",
+      "playerId": "51655133",
+      "jaRegisteredName": "三ツ俣　大樹",
+      "jaPosition": "内野手",
+      "primaryNumber": "66",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "S",
+      "playerId": "31135119",
+      "jaRegisteredName": "青木　宣親",
+      "jaPosition": "外野手",
+      "primaryNumber": "23",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "S",
+      "playerId": "33135132",
+      "jaRegisteredName": "山崎　晃大朗",
+      "jaPosition": "外野手",
+      "primaryNumber": "31",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "D",
+      "playerId": "21025135",
+      "jaRegisteredName": "田島　慎二",
+      "jaPosition": "投手",
+      "primaryNumber": "12",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "D",
+      "playerId": "11315155",
+      "jaRegisteredName": "石森　大誠",
+      "jaPosition": "投手",
+      "primaryNumber": "26",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "D",
+      "playerId": "11915139",
+      "jaRegisteredName": "砂田　毅樹",
+      "jaPosition": "投手",
+      "primaryNumber": "47",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "D",
+      "playerId": "51855153",
+      "jaRegisteredName": "福島　章太",
+      "jaPosition": "投手",
+      "primaryNumber": "64",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "D",
+      "playerId": "11515153",
+      "jaRegisteredName": "上田　洸太朗",
+      "jaPosition": "投手",
+      "primaryNumber": "67",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "D",
+      "playerId": "23925134",
+      "jaRegisteredName": "Ｒ．マルティネス",
+      "jaPosition": "投手",
+      "primaryNumber": "92",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "D",
+      "playerId": "83285157",
+      "jaRegisteredName": "Ｍ．フェリス",
+      "jaPosition": "投手",
+      "primaryNumber": "93",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "D",
+      "playerId": "01505159",
+      "jaRegisteredName": "加藤　竜馬",
+      "jaPosition": "投手",
+      "primaryNumber": "96",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "D",
+      "playerId": "01005113",
+      "jaRegisteredName": "中島　宏之",
+      "jaPosition": "内野手",
+      "primaryNumber": "9",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "D",
+      "playerId": "13715132",
+      "jaRegisteredName": "Ｄ．ビシエド",
+      "jaPosition": "内野手",
+      "primaryNumber": "66",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "D",
+      "playerId": "83185153",
+      "jaRegisteredName": "三好　大倫",
+      "jaPosition": "外野手",
+      "primaryNumber": "30",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "D",
+      "playerId": "91595137",
+      "jaRegisteredName": "加藤　翔平",
+      "jaPosition": "外野手",
+      "primaryNumber": "52",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "D",
+      "playerId": "33935159",
+      "jaRegisteredName": "Ａ．ディカーソン",
+      "jaPosition": "外野手",
+      "primaryNumber": "94",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "H",
+      "playerId": "31535155",
+      "jaRegisteredName": "風間　球打",
+      "jaPosition": "投手",
+      "primaryNumber": "1",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "H",
+      "playerId": "11615153",
+      "jaRegisteredName": "中村　亮太",
+      "jaPosition": "投手",
+      "primaryNumber": "20",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "H",
+      "playerId": "91995159",
+      "jaRegisteredName": "澤柳　亮太郎",
+      "jaPosition": "投手",
+      "primaryNumber": "38",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "H",
+      "playerId": "23125155",
+      "jaRegisteredName": "三浦　瑞樹",
+      "jaPosition": "投手",
+      "primaryNumber": "42",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "H",
+      "playerId": "01505130",
+      "jaRegisteredName": "笠谷　俊介",
+      "jaPosition": "投手",
+      "primaryNumber": "67",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "H",
+      "playerId": "11415153",
+      "jaRegisteredName": "田上　奏大",
+      "jaPosition": "投手",
+      "primaryNumber": "70",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "H",
+      "playerId": "81785153",
+      "jaRegisteredName": "川原田　純平",
+      "jaPosition": "内野手",
+      "primaryNumber": "46",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "H",
+      "playerId": "91495155",
+      "jaRegisteredName": "仲田　慶介",
+      "jaPosition": "内野手",
+      "primaryNumber": "69",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "H",
+      "playerId": "03705155",
+      "jaRegisteredName": "Ａ．ウォーカー",
+      "jaPosition": "外野手",
+      "primaryNumber": "28",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "H",
+      "playerId": "21125157",
+      "jaRegisteredName": "生海",
+      "jaPosition": "外野手",
+      "primaryNumber": "37",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "F",
+      "playerId": "23925159",
+      "jaRegisteredName": "Ｐ．マーフィー",
+      "jaPosition": "投手",
+      "primaryNumber": "31",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "F",
+      "playerId": "51755134",
+      "jaRegisteredName": "黒木　優太",
+      "jaPosition": "投手",
+      "primaryNumber": "32",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "F",
+      "playerId": "43745136",
+      "jaRegisteredName": "Ｂ．ロドリゲス",
+      "jaPosition": "投手",
+      "primaryNumber": "41",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "F",
+      "playerId": "93795159",
+      "jaRegisteredName": "Ａ．ザバラ",
+      "jaPosition": "投手",
+      "primaryNumber": "42",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "F",
+      "playerId": "01105157",
+      "jaRegisteredName": "安西　叶翔",
+      "jaPosition": "投手",
+      "primaryNumber": "54",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "F",
+      "playerId": "51555137",
+      "jaRegisteredName": "鍵谷　陽平",
+      "jaPosition": "投手",
+      "primaryNumber": "60",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "F",
+      "playerId": "53155157",
+      "jaRegisteredName": "宮内　春輝",
+      "jaPosition": "投手",
+      "primaryNumber": "62",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "F",
+      "playerId": "01505136",
+      "jaRegisteredName": "北浦　竜次",
+      "jaPosition": "投手",
+      "primaryNumber": "63",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "F",
+      "playerId": "51655151",
+      "jaRegisteredName": "福田　光輝",
+      "jaPosition": "内野手",
+      "primaryNumber": "35",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "F",
+      "playerId": "21325130",
+      "jaRegisteredName": "江越　大賀",
+      "jaPosition": "外野手",
+      "primaryNumber": "37",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "M",
+      "playerId": "21225132",
+      "jaRegisteredName": "東條　大樹",
+      "jaPosition": "投手",
+      "primaryNumber": "20",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "M",
+      "playerId": "63265159",
+      "jaRegisteredName": "Ｄ．カイケル",
+      "jaPosition": "投手",
+      "primaryNumber": "41",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "M",
+      "playerId": "33935134",
+      "jaRegisteredName": "Ｃ．Ｃ．メルセデス",
+      "jaPosition": "投手",
+      "primaryNumber": "42",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "M",
+      "playerId": "71175155",
+      "jaRegisteredName": "秋山　正雲",
+      "jaPosition": "投手",
+      "primaryNumber": "43",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "M",
+      "playerId": "13115151",
+      "jaRegisteredName": "本前　郁也",
+      "jaPosition": "投手",
+      "primaryNumber": "49",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "M",
+      "playerId": "61865136",
+      "jaRegisteredName": "森　遼大朗",
+      "jaPosition": "投手",
+      "primaryNumber": "62",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "M",
+      "playerId": "73775159",
+      "jaRegisteredName": "Ｊ．コルデロ",
+      "jaPosition": "投手",
+      "primaryNumber": "69",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "M",
+      "playerId": "61265118",
+      "jaRegisteredName": "二保　旭",
+      "jaPosition": "投手",
+      "primaryNumber": "91",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "M",
+      "playerId": "13315132",
+      "jaRegisteredName": "吉田　凌",
+      "jaPosition": "投手",
+      "primaryNumber": "93",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "M",
+      "playerId": "11315139",
+      "jaRegisteredName": "井上　晴哉",
+      "jaPosition": "内野手",
+      "primaryNumber": "44",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "M",
+      "playerId": "41945136",
+      "jaRegisteredName": "菅野　剛士",
+      "jaPosition": "外野手",
+      "primaryNumber": "64",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "E",
+      "playerId": "83085155",
+      "jaRegisteredName": "Ｃ．ポンセ",
+      "jaPosition": "投手",
+      "primaryNumber": "13",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "E",
+      "playerId": "11215114",
+      "jaRegisteredName": "田中　将大",
+      "jaPosition": "投手",
+      "primaryNumber": "18",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "E",
+      "playerId": "01205153",
+      "jaRegisteredName": "高田　孝一",
+      "jaPosition": "投手",
+      "primaryNumber": "29",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "E",
+      "playerId": "11915136",
+      "jaRegisteredName": "櫻井　周斗",
+      "jaPosition": "投手",
+      "primaryNumber": "40",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "E",
+      "playerId": "23525155",
+      "jaRegisteredName": "吉川　雄大",
+      "jaPosition": "投手",
+      "primaryNumber": "71",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "E",
+      "playerId": "41945138",
+      "jaRegisteredName": "清宮　虎多朗",
+      "jaPosition": "投手",
+      "primaryNumber": "79",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "E",
+      "playerId": "11015157",
+      "jaRegisteredName": "平良　竜哉",
+      "jaPosition": "内野手",
+      "primaryNumber": "30",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "E",
+      "playerId": "71075157",
+      "jaRegisteredName": "辰見　鴻之介",
+      "jaPosition": "内野手",
+      "primaryNumber": "78",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "B",
+      "playerId": "41845151",
+      "jaRegisteredName": "村西　良太",
+      "jaPosition": "投手",
+      "primaryNumber": "22",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "B",
+      "playerId": "81085131",
+      "jaRegisteredName": "比嘉　幹貴",
+      "jaPosition": "投手",
+      "primaryNumber": "35",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "B",
+      "playerId": "41645151",
+      "jaRegisteredName": "前　佑囲斗",
+      "jaPosition": "投手",
+      "primaryNumber": "43",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "B",
+      "playerId": "03505155",
+      "jaRegisteredName": "横山　楓",
+      "jaPosition": "投手",
+      "primaryNumber": "52",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "B",
+      "playerId": "81585159",
+      "jaRegisteredName": "河内　康介",
+      "jaPosition": "投手",
+      "primaryNumber": "63",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "B",
+      "playerId": "31135135",
+      "jaRegisteredName": "安達　了一",
+      "jaPosition": "内野手",
+      "primaryNumber": "3",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "B",
+      "playerId": "83085157",
+      "jaRegisteredName": "Ｍ．ゴンザレス",
+      "jaPosition": "内野手",
+      "primaryNumber": "8",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "B",
+      "playerId": "13915157",
+      "jaRegisteredName": "Ｌ．セデーニョ",
+      "jaPosition": "内野手",
+      "primaryNumber": "40",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "B",
+      "playerId": "51755138",
+      "jaRegisteredName": "宜保　翔",
+      "jaPosition": "内野手",
+      "primaryNumber": "53",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "B",
+      "playerId": "31535130",
+      "jaRegisteredName": "小田　裕也",
+      "jaPosition": "外野手",
+      "primaryNumber": "50",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "B",
+      "playerId": "61365112",
+      "jaRegisteredName": "Ｔ－岡田",
+      "jaPosition": "外野手",
+      "primaryNumber": "55",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "L",
+      "playerId": "71275137",
+      "jaRegisteredName": "増田　達至",
+      "jaPosition": "投手",
+      "primaryNumber": "14",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "L",
+      "playerId": "61465151",
+      "jaRegisteredName": "浜屋　将太",
+      "jaPosition": "投手",
+      "primaryNumber": "40",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "L",
+      "playerId": "73575159",
+      "jaRegisteredName": "Ａ．アブレイユ",
+      "jaPosition": "投手",
+      "primaryNumber": "54",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "L",
+      "playerId": "33335159",
+      "jaRegisteredName": "宮澤　太成",
+      "jaPosition": "投手",
+      "primaryNumber": "56",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "L",
+      "playerId": "21525153",
+      "jaRegisteredName": "大曲　錬",
+      "jaPosition": "投手",
+      "primaryNumber": "59",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "L",
+      "playerId": "31535139",
+      "jaRegisteredName": "岡田　雅利",
+      "jaPosition": "捕手",
+      "primaryNumber": "2",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "L",
+      "playerId": "21425157",
+      "jaRegisteredName": "野田　海人",
+      "jaPosition": "捕手",
+      "primaryNumber": "38",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "L",
+      "playerId": "11615139",
+      "jaRegisteredName": "陽川　尚将",
+      "jaPosition": "内野手",
+      "primaryNumber": "52",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "L",
+      "playerId": "91295153",
+      "jaRegisteredName": "ブランドン",
+      "jaPosition": "内野手",
+      "primaryNumber": "66",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "L",
+      "playerId": "01505137",
+      "jaRegisteredName": "金子　侑司",
+      "jaPosition": "外野手",
+      "primaryNumber": "7",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "L",
+      "playerId": "31035134",
+      "jaRegisteredName": "鈴木　将平",
+      "jaPosition": "外野手",
+      "primaryNumber": "46",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "L",
+      "playerId": "71075136",
+      "jaRegisteredName": "高木　渉",
+      "jaPosition": "外野手",
+      "primaryNumber": "73",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-12-02",
+      "teamCode": "L",
+      "playerId": "83585159",
+      "jaRegisteredName": "Ａ．ガルシア",
+      "jaPosition": "外野手",
+      "primaryNumber": "78",
+      "note": "（保留されない選手）"
+    },
+    {
+      "date": "2024-11-28",
+      "teamCode": "B",
+      "playerId": "73775157",
+      "jaRegisteredName": "Ｌ．カスティーヨ",
+      "jaPosition": "投手",
+      "primaryNumber": "54",
+      "note": "（ウエイバー不請求）"
+    },
+    {
+      "date": "2024-11-21",
+      "teamCode": "S",
+      "playerId": "43245157",
+      "jaRegisteredName": "Ｅ．ロドリゲス",
+      "jaPosition": "投手",
+      "primaryNumber": "37",
+      "note": "（ウエイバー不請求）"
+    },
+    {
+      "date": "2024-11-13",
+      "teamCode": "C",
+      "playerId": "93995159",
+      "jaRegisteredName": "Ｔ．ハッチ",
+      "jaPosition": "投手",
+      "primaryNumber": "42",
+      "note": "（ウエイバー不請求）"
+    },
+    {
+      "date": "2024-11-08",
+      "teamCode": "S",
+      "playerId": "23525159",
+      "jaRegisteredName": "Ｊ．エスパーダ",
+      "jaPosition": "投手",
+      "primaryNumber": "39",
+      "note": "（ウエイバー不請求）"
+    },
+    {
+      "date": "2024-11-07",
+      "teamCode": "S",
+      "playerId": "33735153",
+      "jaRegisteredName": "サイスニード",
+      "jaPosition": "投手",
+      "primaryNumber": "54",
+      "note": "（ウエイバー不請求）"
+    },
+    {
+      "date": "2024-11-07",
+      "teamCode": "S",
+      "playerId": "33035159",
+      "jaRegisteredName": "Ｍ．ヤフーレ",
+      "jaPosition": "投手",
+      "primaryNumber": "99",
+      "note": "（ウエイバー不請求）"
+    },
+    {
+      "date": "2024-10-30",
+      "teamCode": "L",
+      "playerId": "53555159",
+      "jaRegisteredName": "Ｊ．アギラー",
+      "jaPosition": "内野手",
+      "primaryNumber": "44",
+      "note": "（ウエイバー不請求）"
+    },
+    {
+      "date": "2024-10-24",
+      "teamCode": "T",
+      "playerId": "73975157",
+      "jaRegisteredName": "Ｓ．ノイジー",
+      "jaPosition": "外野手",
+      "primaryNumber": "7",
+      "note": "（ウエイバー不請求）"
+    },
+    {
+      "date": "2024-10-24",
+      "teamCode": "T",
+      "playerId": "73075157",
+      "jaRegisteredName": "Ｊ．ミエセス",
+      "jaPosition": "外野手",
+      "primaryNumber": "55",
+      "note": "（ウエイバー不請求）"
+    },
+    {
+      "date": "2024-10-23",
+      "teamCode": "B",
+      "playerId": "53955159",
+      "jaRegisteredName": "Ｃ．トーマス",
+      "jaPosition": "外野手",
+      "primaryNumber": "45",
+      "note": "（ウエイバー不請求）"
+    },
+    {
+      "date": "2024-10-14",
+      "teamCode": "L",
+      "playerId": "53055159",
+      "jaRegisteredName": "Ｊ．ヤン",
+      "jaPosition": "投手",
+      "primaryNumber": "00",
+      "note": "（ウエイバー不請求）"
+    },
+    {
+      "date": "2024-10-14",
+      "teamCode": "L",
+      "playerId": "53755159",
+      "jaRegisteredName": "Ｆ．コルデロ",
+      "jaPosition": "外野手",
+      "primaryNumber": "55",
+      "note": "（ウエイバー不請求）"
+    },
+    {
+      "date": "2024-09-27",
+      "teamCode": "C",
+      "playerId": "23725159",
+      "jaRegisteredName": "Ｊ．シャイナー",
+      "jaPosition": "内野手",
+      "primaryNumber": "95",
+      "note": "（ウエイバー不請求）"
+    },
+    {
+      "date": "2024-09-10",
+      "teamCode": "F",
+      "playerId": "63765159",
+      "jaRegisteredName": "Ａ．スティーブンソン",
+      "jaPosition": "外野手",
+      "primaryNumber": "6",
+      "note": "（ウエイバー不請求）"
+    },
+    {
+      "date": "2024-07-31",
+      "teamCode": "M",
+      "playerId": "13915159",
+      "jaRegisteredName": "Ｊ．ダイクストラ",
+      "jaPosition": "投手",
+      "primaryNumber": "41",
+      "note": "（ウエイバー不請求）"
+    },
+    {
+      "date": "2024-07-31",
+      "teamCode": "M",
+      "playerId": "03905159",
+      "jaRegisteredName": "Ｊ．フェルナンデス",
+      "jaPosition": "投手",
+      "primaryNumber": "64",
+      "note": "（ウエイバー不請求）"
+    },
+    {
+      "date": "2024-07-05",
+      "teamCode": "C",
+      "playerId": "93095159",
+      "jaRegisteredName": "Ｍ．レイノルズ",
+      "jaPosition": "内野手",
+      "primaryNumber": "10",
+      "note": "（ウエイバー不請求）"
+    },
+    {
+      "date": "2024-04-04",
+      "teamCode": "G",
+      "playerId": "63565159",
+      "jaRegisteredName": "Ｒ．オドーア",
+      "jaPosition": "外野手",
+      "primaryNumber": "23",
+      "note": "（ウエイバー不請求）"
+    }
+  ],
+  "notes": [
+    "※1 ポスティングによる移籍（ＭＬＢ／フィラデルフィア・フィリーズ）",
+    "※2 ポスティングによる移籍（ＭＬＢ／ワシントン・ナショナルズ）",
+    "※3 ポスティングによる移籍（ＭＬＢ／ロサンゼルス・ドジャース）"
+  ]
+}
