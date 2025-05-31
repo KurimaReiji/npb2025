@@ -1,9 +1,10 @@
 GAMEDAY ?= $(shell TZ='America/Los_Angeles' date  --rfc-3339=date)
 #GAMEDAY := 2025-05-17
 
-.PHONY: gamesover ja en players standings Homeruns StolenBases
+.PHONY: gamesover ja en players standings Homeruns StolenBases nightly
 
 gamesover: standings Homeruns
+nightly: players
 ja: Games/daily/$(GAMEDAY).json
 en: en-scraped/daily/$(GAMEDAY).json
 players: docs/npb2025-players.ndjson
