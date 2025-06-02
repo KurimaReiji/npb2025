@@ -4,7 +4,7 @@
     "year": "2025",
     "teamCode": "B",
     "title": "2025年度 支配下選手登録（オリックス・バファローズ） | 2025年度公示 | NPB.jp 日本野球機構",
-    "total": "66名",
+    "total": "67名",
     "rows": [
       {
         "mmdd": "12-17",
@@ -541,9 +541,25 @@
         "primaryNumber": "36",
         "playerId": "43945150",
         "jaRegisteredName": "Ｅ．オリバレス"
+      },
+      {
+        "mmdd": "06-02",
+        "teamCode": "B",
+        "jaPrimaryPosition": "投手",
+        "primaryNumber": "40",
+        "playerId": "31335116",
+        "jaRegisteredName": "岩嵜　翔"
       }
     ],
     "notes": [
+      {
+        "item": "【支配下選手登録（トレード）】",
+        "date": "2025-06-02",
+        "jaPrimaryPosition": "投手",
+        "playerId": "31335116",
+        "jaRegisteredName": "岩嵜　翔",
+        "desc": "← 中日ドラゴンズ"
+      },
       {
         "item": "【支配下選手登録（現役ドラフトに伴うトレード）】",
         "date": "2024-12-17",
@@ -1154,7 +1170,7 @@
     "year": "2025",
     "teamCode": "D",
     "title": "2025年度 支配下選手登録（中日ドラゴンズ） | 2025年度公示 | NPB.jp 日本野球機構",
-    "total": "68名",
+    "total": "67名",
     "rows": [
       {
         "mmdd": "12-17",
@@ -1741,6 +1757,14 @@
         "playerId": "61165157",
         "jaRegisteredName": "伊藤　茉央",
         "desc": "← 東北楽天ゴールデンイーグルス"
+      },
+      {
+        "item": "【支配下選手登録抹消（トレード）】",
+        "date": "2025-06-02",
+        "jaPrimaryPosition": "投手",
+        "playerId": "31335116",
+        "jaRegisteredName": "岩嵜　翔",
+        "desc": "→ オリックス・バファローズ"
       },
       {
         "item": "【支配下選手登録抹消（現役ドラフトに伴うトレード）】",
@@ -2376,7 +2400,7 @@
     "year": "2025",
     "teamCode": "E",
     "title": "2025年度 支配下選手登録（東北楽天ゴールデンイーグルス） | 2025年度公示 | NPB.jp 日本野球機構",
-    "total": "68名",
+    "total": "69名",
     "rows": [
       {
         "mmdd": "12-17",
@@ -2929,6 +2953,14 @@
         "primaryNumber": "62",
         "playerId": "41445134",
         "jaRegisteredName": "西口　直人"
+      },
+      {
+        "mmdd": "06-02",
+        "teamCode": "E",
+        "jaPrimaryPosition": "外野手",
+        "primaryNumber": "12",
+        "playerId": "93095150",
+        "jaRegisteredName": "Ｏ．ゴンザレス"
       }
     ],
     "notes": [
