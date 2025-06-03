@@ -4900,7 +4900,7 @@
     "year": "2025",
     "teamCode": "L",
     "title": "2025年度 支配下選手登録（埼玉西武ライオンズ） | 2025年度公示 | NPB.jp 日本野球機構",
-    "total": "66名",
+    "total": "67名",
     "rows": [
       {
         "mmdd": "12-17",
@@ -5445,6 +5445,14 @@
         "primaryNumber": "73",
         "playerId": "23125157",
         "jaRegisteredName": "モンテル"
+      },
+      {
+        "mmdd": "06-03",
+        "teamCode": "L",
+        "jaPrimaryPosition": "投手",
+        "primaryNumber": "49",
+        "playerId": "01005153",
+        "jaRegisteredName": "佐々木　健"
       }
     ],
     "notes": [
@@ -5470,6 +5478,14 @@
         "jaPrimaryPosition": "外野手",
         "playerId": "23125157",
         "jaRegisteredName": "モンテル",
+        "desc": ""
+      },
+      {
+        "item": "【支配下選手登録（育成選手から移行）】",
+        "date": "2025-06-03",
+        "jaPrimaryPosition": "投手",
+        "playerId": "01005153",
+        "jaRegisteredName": "佐々木　健",
         "desc": ""
       },
       {

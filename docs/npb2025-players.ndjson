@@ -2222,5 +2222,6 @@
 {"date":"2025-06-02","jaEvent":"支配下選手登録","teamCode":"E","playerId":"93095150","jaRegisteredName":"Ｏ．ゴンザレス","primaryNumber":"12","jaPrimaryPosition":"外野手","birthDate":"1998-01-10","height":"196","weight":"108","pitchHand":"R","batSide":"R","fullLFMName":"Gonzalez, Oscar"}
 {"date":"2025-06-02","jaEvent":"支配下選手登録抹消","jaEventDetails":"トレード","teamCode":"D","playerId":"31335116","jaRegisteredName":"岩嵜　翔","jaPrimaryPosition":"投手","birthDate":"1989-10-21","height":"189","weight":"90","pitchHand":"R","batSide":"R","fullLFMName":"Iwasaki, Sho"}
 {"date":"2025-06-02","jaEvent":"支配下選手登録","teamCode":"B","playerId":"31335116","jaRegisteredName":"岩嵜　翔","primaryNumber":"40","jaPrimaryPosition":"投手","jaEventDetails":"トレード","birthDate":"1989-10-21","height":"189","weight":"90","pitchHand":"R","batSide":"R","fullLFMName":"Iwasaki, Sho"}
+{"date":"2025-06-03","jaEvent":"支配下選手登録","teamCode":"L","playerId":"01005153","jaRegisteredName":"佐々木　健","primaryNumber":"49","jaPrimaryPosition":"投手","jaEventDetails":"育成選手から移行","birthDate":"1996-05-13","height":"179","weight":"87","pitchHand":"L","batSide":"L","fullLFMName":"Sasaki, Takeru"}
 {"date":"2025-06-03","playerId":"83385153","jaBoxscoreName":"山村","boxscoreName":"Yamamura"}
 {"date":"2025-06-03","playerId":"91195138","jaBoxscoreName":"石橋","boxscoreName":"Ishibashi"}
