@@ -1,0 +1,740 @@
+[
+  {
+    "date": "2025-05-06",
+    "runner": {
+      "id": "71375155",
+      "jaBoxscoreName": "鵜飼",
+      "jaRegisteredName": "鵜飼　航丞",
+      "fullLFMName": "Ukai, Kosuke",
+      "primaryNumber": "66",
+      "teamCode": "D",
+      "boxscoreName": "Ukai",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "batter": {
+      "id": "91395132",
+      "jaBoxscoreName": "板山",
+      "jaRegisteredName": "板山　祐太郎",
+      "fullLFMName": "Itayama, Yutaro",
+      "primaryNumber": "63",
+      "teamCode": "D",
+      "boxscoreName": "Itayama",
+      "pitchHand": "R",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "43745159",
+      "jaBoxscoreName": "ジャクソン",
+      "jaRegisteredName": "Ａ．ジャクソン",
+      "fullLFMName": "Jackson, Andre",
+      "primaryNumber": "42",
+      "teamCode": "DB",
+      "boxscoreName": "Jackson",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "catcher": {
+      "id": "23125136",
+      "jaBoxscoreName": "山本",
+      "jaRegisteredName": "山本　祐大",
+      "fullLFMName": "Yamamoto, Yuudai",
+      "primaryNumber": "50",
+      "teamCode": "DB",
+      "boxscoreName": "Yamamoto",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "scoring": "StolenBase",
+    "base": "2B",
+    "pickoff": "",
+    "inning": 2,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "1--",
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "venue": {
+      "jaBoxscoreName": "バンテリンドーム",
+      "boxscoreName": "Vantelin Dome",
+      "jaName": "バンテリンドーム ナゴヤ",
+      "name": "Vantelin Dome Nagoya"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "DB",
+        "teamName": "Baystars",
+        "score": 3
+      },
+      "home": {
+        "teamCode": "D",
+        "teamName": "Dragons",
+        "score": 0
+      }
+    },
+    "jaText": "（走者・鵜飼）二塁盗塁成功",
+    "text": "Ukai steals 2nd base.",
+    "url": "https://npb.jp/scores/2025/0506/d-db-07/playbyplay.html#com2-2",
+    "catchers": [
+      {
+        "id": "23125136",
+        "jaBoxscoreName": "山本",
+        "jaRegisteredName": "山本　祐大",
+        "fullLFMName": "Yamamoto, Yuudai",
+        "primaryNumber": "50",
+        "teamCode": "DB",
+        "boxscoreName": "Yamamoto",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-06",
+    "runner": {
+      "id": "93795157",
+      "jaBoxscoreName": "カリステ",
+      "jaRegisteredName": "Ｏ．カリステ",
+      "fullLFMName": "Calixte, Orlando",
+      "primaryNumber": "4",
+      "teamCode": "D",
+      "boxscoreName": "Calixte",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "batter": {
+      "id": "71375155",
+      "jaBoxscoreName": "鵜飼",
+      "jaRegisteredName": "鵜飼　航丞",
+      "fullLFMName": "Ukai, Kosuke",
+      "primaryNumber": "66",
+      "teamCode": "D",
+      "boxscoreName": "Ukai",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "43745159",
+      "jaBoxscoreName": "ジャクソン",
+      "jaRegisteredName": "Ａ．ジャクソン",
+      "fullLFMName": "Jackson, Andre",
+      "primaryNumber": "42",
+      "teamCode": "DB",
+      "boxscoreName": "Jackson",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "catcher": {
+      "id": "23125136",
+      "jaBoxscoreName": "山本",
+      "jaRegisteredName": "山本　祐大",
+      "fullLFMName": "Yamamoto, Yuudai",
+      "primaryNumber": "50",
+      "teamCode": "DB",
+      "boxscoreName": "Yamamoto",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "scoring": "CaughtStealing",
+    "base": "2B",
+    "pickoff": "",
+    "inning": 4,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "1--",
+    "runs": {
+      "road": 1,
+      "home": 0
+    },
+    "venue": {
+      "jaBoxscoreName": "バンテリンドーム",
+      "boxscoreName": "Vantelin Dome",
+      "jaName": "バンテリンドーム ナゴヤ",
+      "name": "Vantelin Dome Nagoya"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "DB",
+        "teamName": "Baystars",
+        "score": 3
+      },
+      "home": {
+        "teamCode": "D",
+        "teamName": "Dragons",
+        "score": 0
+      }
+    },
+    "jaText": "（走者・カリステ）二塁盗塁失敗",
+    "text": "Calixte caught stealing 2nd base.",
+    "url": "https://npb.jp/scores/2025/0506/d-db-07/playbyplay.html#com4-2",
+    "catchers": [
+      {
+        "id": "23125136",
+        "jaBoxscoreName": "山本",
+        "jaRegisteredName": "山本　祐大",
+        "fullLFMName": "Yamamoto, Yuudai",
+        "primaryNumber": "50",
+        "teamCode": "DB",
+        "boxscoreName": "Yamamoto",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-06",
+    "runner": {
+      "id": "91695157",
+      "jaBoxscoreName": "林",
+      "jaRegisteredName": "林　琢真",
+      "fullLFMName": "Hayashi, Takuma",
+      "primaryNumber": "00",
+      "teamCode": "DB",
+      "boxscoreName": "Hayashi",
+      "pitchHand": "R",
+      "batSide": "L"
+    },
+    "batter": {
+      "id": "91995134",
+      "jaBoxscoreName": "佐野",
+      "jaRegisteredName": "佐野　恵太",
+      "fullLFMName": "Sano, Keita",
+      "primaryNumber": "7",
+      "teamCode": "DB",
+      "boxscoreName": "Sano",
+      "pitchHand": "R",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "81285138",
+      "jaBoxscoreName": "根尾",
+      "jaRegisteredName": "根尾　昂",
+      "fullLFMName": "Neo, Akira",
+      "primaryNumber": "30",
+      "teamCode": "D",
+      "boxscoreName": "Neo",
+      "pitchHand": "R",
+      "batSide": "L"
+    },
+    "catcher": {
+      "id": "31735132",
+      "jaBoxscoreName": "木下",
+      "jaRegisteredName": "木下　拓哉",
+      "fullLFMName": "Kinoshita, Takuya",
+      "primaryNumber": "35",
+      "teamCode": "D",
+      "boxscoreName": "Kinoshita",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "scoring": "CaughtStealing",
+    "base": "2B",
+    "pickoff": "",
+    "inning": 7,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "1--",
+    "runs": {
+      "road": 3,
+      "home": 0
+    },
+    "venue": {
+      "jaBoxscoreName": "バンテリンドーム",
+      "boxscoreName": "Vantelin Dome",
+      "jaName": "バンテリンドーム ナゴヤ",
+      "name": "Vantelin Dome Nagoya"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "DB",
+        "teamName": "Baystars",
+        "score": 3
+      },
+      "home": {
+        "teamCode": "D",
+        "teamName": "Dragons",
+        "score": 0
+      }
+    },
+    "jaText": "（走者・林）二塁盗塁失敗",
+    "text": "Hayashi caught stealing 2nd base.",
+    "url": "https://npb.jp/scores/2025/0506/d-db-07/playbyplay.html#com7-1",
+    "catchers": [
+      {
+        "id": "31735132",
+        "jaBoxscoreName": "木下",
+        "jaRegisteredName": "木下　拓哉",
+        "fullLFMName": "Kinoshita, Takuya",
+        "primaryNumber": "35",
+        "teamCode": "D",
+        "boxscoreName": "Kinoshita",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-06",
+    "runner": {
+      "id": "91695157",
+      "jaBoxscoreName": "林",
+      "jaRegisteredName": "林　琢真",
+      "fullLFMName": "Hayashi, Takuma",
+      "primaryNumber": "00",
+      "teamCode": "DB",
+      "boxscoreName": "Hayashi",
+      "pitchHand": "R",
+      "batSide": "L"
+    },
+    "batter": {
+      "id": "51555151",
+      "jaBoxscoreName": "蝦名",
+      "jaRegisteredName": "蝦名　達夫",
+      "fullLFMName": "Ebina, Tatsuo",
+      "primaryNumber": "61",
+      "teamCode": "DB",
+      "boxscoreName": "Ebina",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "51355134",
+      "jaBoxscoreName": "梅野",
+      "jaRegisteredName": "梅野　雄吾",
+      "fullLFMName": "Umeno, Yugo",
+      "primaryNumber": "46",
+      "teamCode": "D",
+      "boxscoreName": "Umeno",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "catcher": {
+      "id": "31735132",
+      "jaBoxscoreName": "木下",
+      "jaRegisteredName": "木下　拓哉",
+      "fullLFMName": "Kinoshita, Takuya",
+      "primaryNumber": "35",
+      "teamCode": "D",
+      "boxscoreName": "Kinoshita",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "scoring": "StolenBase",
+    "base": "2B",
+    "pickoff": "",
+    "inning": 9,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "1--",
+    "runs": {
+      "road": 3,
+      "home": 0
+    },
+    "venue": {
+      "jaBoxscoreName": "バンテリンドーム",
+      "boxscoreName": "Vantelin Dome",
+      "jaName": "バンテリンドーム ナゴヤ",
+      "name": "Vantelin Dome Nagoya"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "DB",
+        "teamName": "Baystars",
+        "score": 3
+      },
+      "home": {
+        "teamCode": "D",
+        "teamName": "Dragons",
+        "score": 0
+      }
+    },
+    "jaText": "（走者・林）二塁盗塁成功",
+    "text": "Hayashi steals 2nd base.",
+    "url": "https://npb.jp/scores/2025/0506/d-db-07/playbyplay.html#com9-1",
+    "catchers": [
+      {
+        "id": "31735132",
+        "jaBoxscoreName": "木下",
+        "jaRegisteredName": "木下　拓哉",
+        "fullLFMName": "Kinoshita, Takuya",
+        "primaryNumber": "35",
+        "teamCode": "D",
+        "boxscoreName": "Kinoshita",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-06",
+    "runner": {
+      "id": "11215116",
+      "jaBoxscoreName": "中村",
+      "jaRegisteredName": "中村　晃",
+      "fullLFMName": "Nakamura, Akira",
+      "primaryNumber": "7",
+      "teamCode": "H",
+      "boxscoreName": "Nakamura",
+      "pitchHand": "L",
+      "batSide": "L"
+    },
+    "batter": {
+      "id": "61665159",
+      "jaBoxscoreName": "廣瀨隆",
+      "jaRegisteredName": "廣瀨　隆太",
+      "fullLFMName": "Hirose, Ryuta",
+      "primaryNumber": "33",
+      "teamCode": "H",
+      "boxscoreName": "R.Hirose",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "91395159",
+      "jaBoxscoreName": "上田",
+      "jaRegisteredName": "上田　大河",
+      "fullLFMName": "Ueda, Taiga",
+      "primaryNumber": "11",
+      "teamCode": "L",
+      "boxscoreName": "Ueda",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "catcher": {},
+    "scoring": "StolenBase",
+    "base": "2B",
+    "pickoff": "",
+    "inning": 3,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "1--",
+    "runs": {
+      "road": 4,
+      "home": 0
+    },
+    "venue": {
+      "jaBoxscoreName": "ベルーナドーム",
+      "boxscoreName": "Belluna Dome",
+      "jaName": "ベルーナドーム",
+      "name": "Belluna Dome"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "H",
+        "teamName": "Hawks",
+        "score": 10
+      },
+      "home": {
+        "teamCode": "L",
+        "teamName": "Lions",
+        "score": 0
+      }
+    },
+    "jaText": "（走者・中村）二塁盗塁成功",
+    "text": "Nakamura steals 2nd base.",
+    "url": "https://npb.jp/scores/2025/0506/l-h-08/playbyplay.html#com3-1",
+    "catchers": [
+      {
+        "id": "91995112",
+        "jaBoxscoreName": "炭谷",
+        "jaRegisteredName": "炭谷　銀仁朗",
+        "fullLFMName": "Sumitani, Ginjiro",
+        "primaryNumber": "27",
+        "teamCode": "L",
+        "boxscoreName": "Sumitani",
+        "pitchHand": "R",
+        "batSide": "R"
+      },
+      {
+        "id": "71675138",
+        "jaBoxscoreName": "牧野",
+        "jaRegisteredName": "牧野　翔矢",
+        "fullLFMName": "Makino, Shoya",
+        "primaryNumber": "53",
+        "teamCode": "L",
+        "boxscoreName": "Makino",
+        "pitchHand": "R",
+        "batSide": "L"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-06",
+    "runner": {
+      "id": "61465133",
+      "jaBoxscoreName": "牧原大",
+      "jaRegisteredName": "牧原　大成",
+      "fullLFMName": "Makihara, Taisei",
+      "primaryNumber": "8",
+      "teamCode": "H",
+      "boxscoreName": "T.Makihara",
+      "pitchHand": "R",
+      "batSide": "L"
+    },
+    "batter": {
+      "id": "61665159",
+      "jaBoxscoreName": "廣瀨隆",
+      "jaRegisteredName": "廣瀨　隆太",
+      "fullLFMName": "Hirose, Ryuta",
+      "primaryNumber": "33",
+      "teamCode": "H",
+      "boxscoreName": "R.Hirose",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "91395159",
+      "jaBoxscoreName": "上田",
+      "jaRegisteredName": "上田　大河",
+      "fullLFMName": "Ueda, Taiga",
+      "primaryNumber": "11",
+      "teamCode": "L",
+      "boxscoreName": "Ueda",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "catcher": {},
+    "scoring": "StolenBase",
+    "base": "2B",
+    "pickoff": "",
+    "inning": 5,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "1--",
+    "runs": {
+      "road": 6,
+      "home": 0
+    },
+    "venue": {
+      "jaBoxscoreName": "ベルーナドーム",
+      "boxscoreName": "Belluna Dome",
+      "jaName": "ベルーナドーム",
+      "name": "Belluna Dome"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "H",
+        "teamName": "Hawks",
+        "score": 10
+      },
+      "home": {
+        "teamCode": "L",
+        "teamName": "Lions",
+        "score": 0
+      }
+    },
+    "jaText": "（走者・牧原大）二塁盗塁成功",
+    "text": "T.Makihara steals 2nd base.",
+    "url": "https://npb.jp/scores/2025/0506/l-h-08/playbyplay.html#com5-1",
+    "catchers": [
+      {
+        "id": "91995112",
+        "jaBoxscoreName": "炭谷",
+        "jaRegisteredName": "炭谷　銀仁朗",
+        "fullLFMName": "Sumitani, Ginjiro",
+        "primaryNumber": "27",
+        "teamCode": "L",
+        "boxscoreName": "Sumitani",
+        "pitchHand": "R",
+        "batSide": "R"
+      },
+      {
+        "id": "71675138",
+        "jaBoxscoreName": "牧野",
+        "jaRegisteredName": "牧野　翔矢",
+        "fullLFMName": "Makino, Shoya",
+        "primaryNumber": "53",
+        "teamCode": "L",
+        "boxscoreName": "Makino",
+        "pitchHand": "R",
+        "batSide": "L"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-06",
+    "runner": {
+      "id": "21625132",
+      "jaBoxscoreName": "廣岡",
+      "jaRegisteredName": "廣岡　大志",
+      "fullLFMName": "Hirooka, Taishi",
+      "primaryNumber": "30",
+      "teamCode": "B",
+      "boxscoreName": "Hirooka",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "batter": {
+      "id": "71475132",
+      "jaBoxscoreName": "西川",
+      "jaRegisteredName": "西川　龍馬",
+      "fullLFMName": "Nishikawa, Ryoma",
+      "primaryNumber": "7",
+      "teamCode": "B",
+      "boxscoreName": "Nishikawa",
+      "pitchHand": "R",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "51355153",
+      "jaBoxscoreName": "伊藤",
+      "jaRegisteredName": "伊藤　大海",
+      "fullLFMName": "Itoh, Hiromi",
+      "primaryNumber": "17",
+      "teamCode": "F",
+      "boxscoreName": "Itoh",
+      "pitchHand": "R",
+      "batSide": "L"
+    },
+    "catcher": {
+      "id": "61065137",
+      "jaBoxscoreName": "伏見",
+      "jaRegisteredName": "伏見　寅威",
+      "fullLFMName": "Fushimi, Torai",
+      "primaryNumber": "23",
+      "teamCode": "F",
+      "boxscoreName": "Fushimi",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "scoring": "StolenBase",
+    "base": "2B",
+    "pickoff": "",
+    "inning": 1,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "1--",
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "venue": {
+      "jaBoxscoreName": "京セラD大阪",
+      "boxscoreName": "Kyocera Dome",
+      "jaName": "京セラドーム大阪",
+      "name": "Kyocera Dome Osaka"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 7
+      },
+      "home": {
+        "teamCode": "B",
+        "teamName": "Buffaloes",
+        "score": 3
+      }
+    },
+    "jaText": "（走者・廣岡）二塁盗塁成功",
+    "text": "Hirooka steals 2nd base.",
+    "url": "https://npb.jp/scores/2025/0506/b-f-08/playbyplay.html#com1-2",
+    "catchers": [
+      {
+        "id": "61065137",
+        "jaBoxscoreName": "伏見",
+        "jaRegisteredName": "伏見　寅威",
+        "fullLFMName": "Fushimi, Torai",
+        "primaryNumber": "23",
+        "teamCode": "F",
+        "boxscoreName": "Fushimi",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-06",
+    "runner": {
+      "id": "11315153",
+      "jaBoxscoreName": "五十幡",
+      "jaRegisteredName": "五十幡　亮汰",
+      "fullLFMName": "Isobata, Ryota",
+      "primaryNumber": "50",
+      "teamCode": "F",
+      "boxscoreName": "Isobata",
+      "pitchHand": "R",
+      "batSide": "L"
+    },
+    "batter": {
+      "id": "21625135",
+      "jaBoxscoreName": "松本剛",
+      "jaRegisteredName": "松本　剛",
+      "fullLFMName": "Matsumoto, Go",
+      "primaryNumber": "7",
+      "teamCode": "F",
+      "boxscoreName": "G.Matsumoto",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "01105153",
+      "jaBoxscoreName": "阿部",
+      "jaRegisteredName": "阿部　翔太",
+      "fullLFMName": "Abe, Shota",
+      "primaryNumber": "20",
+      "teamCode": "B",
+      "boxscoreName": "Abe",
+      "pitchHand": "R",
+      "batSide": "L"
+    },
+    "catcher": {
+      "id": "41645139",
+      "jaBoxscoreName": "若月",
+      "jaRegisteredName": "若月　健矢",
+      "fullLFMName": "Wakatsuki, Kenya",
+      "primaryNumber": "2",
+      "teamCode": "B",
+      "boxscoreName": "Wakatsuki",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "scoring": "StolenBase",
+    "base": "2B",
+    "pickoff": "",
+    "inning": 7,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "1--",
+    "runs": {
+      "road": 5,
+      "home": 1
+    },
+    "venue": {
+      "jaBoxscoreName": "京セラD大阪",
+      "boxscoreName": "Kyocera Dome",
+      "jaName": "京セラドーム大阪",
+      "name": "Kyocera Dome Osaka"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 7
+      },
+      "home": {
+        "teamCode": "B",
+        "teamName": "Buffaloes",
+        "score": 3
+      }
+    },
+    "jaText": "（走者・五十幡）二塁盗塁成功",
+    "text": "Isobata steals 2nd base.",
+    "url": "https://npb.jp/scores/2025/0506/b-f-08/playbyplay.html#com7-1",
+    "catchers": [
+      {
+        "id": "41645139",
+        "jaBoxscoreName": "若月",
+        "jaRegisteredName": "若月　健矢",
+        "fullLFMName": "Wakatsuki, Kenya",
+        "primaryNumber": "2",
+        "teamCode": "B",
+        "boxscoreName": "Wakatsuki",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+    ]
+  }
+]

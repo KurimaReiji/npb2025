@@ -1,0 +1,65 @@
+[
+  {
+    "jaText": "（走者・石川昂）二塁盗塁失敗",
+    "text": "T.Ishikawa caught stealing 2nd base.",
+    "pickoff": "",
+    "catcher": {
+        "id": "21125151",
+        "jaBoxscoreName": "石原",
+        "jaRegisteredName": "石原　貴規",
+        "fullLFMName": "Ishihara, Tomoki",
+        "primaryNumber": "32",
+        "teamCode": "C",
+        "boxscoreName": "Ishihara",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+  },
+  {
+    "jaText": "（走者・菊池）二塁盗塁失敗",
+    "text": "R.Kikuchi caught stealing 2nd base.",
+    "pickoff": "",
+    "catcher": {
+        "id": "21125150",
+        "jaBoxscoreName": "石伊",
+        "jaRegisteredName": "石伊　雄太",
+        "fullLFMName": "Ishii, Yuta",
+        "primaryNumber": "9",
+        "teamCode": "D",
+        "boxscoreName": "Ishii",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+  },
+  {
+    "jaText": "（走者・樋口）二塁盗塁成功",
+    "text": "Higuchi steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+        "id": "21125151",
+        "jaBoxscoreName": "石原",
+        "jaRegisteredName": "石原　貴規",
+        "fullLFMName": "Ishihara, Tomoki",
+        "primaryNumber": "32",
+        "teamCode": "C",
+        "boxscoreName": "Ishihara",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+  },
+  {
+    "jaText": "（走者・周東）二塁盗塁成功",
+    "text": "Shuto steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・周東）二塁盗塁成功",
+    "text": "Shuto steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・野村）二塁盗塁成功",
+    "text": "Nomura steals 2nd base.",
+    "pickoff": ""
+  }
+]

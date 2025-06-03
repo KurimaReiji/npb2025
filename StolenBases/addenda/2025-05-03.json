@@ -1,0 +1,152 @@
+[
+  {
+    "jaText": "（走者・泉口）二塁盗塁失敗",
+    "text": "Izuguchi caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・キャベッジ）二塁盗塁失敗",
+    "text": "Cabbage caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・三森）二塁盗塁成功",
+    "text": "Mimori steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・岡本）二塁盗塁失敗",
+    "text": "Okamoto caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・中野）二塁盗塁成功",
+    "text": "Nakano steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+        "id": "51255118",
+        "jaBoxscoreName": "中村悠",
+        "jaRegisteredName": "中村　悠平",
+        "fullLFMName": "Nakamura, Yuhei",
+        "primaryNumber": "27",
+        "teamCode": "S",
+        "boxscoreName": "Yuh.Nakamura",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+  },
+  {
+    "jaText": "（走者・中野）二塁盗塁成功",
+    "text": "Nakano steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+        "id": "51255118",
+        "jaBoxscoreName": "中村悠",
+        "jaRegisteredName": "中村　悠平",
+        "fullLFMName": "Nakamura, Yuhei",
+        "primaryNumber": "27",
+        "teamCode": "S",
+        "boxscoreName": "Yuh.Nakamura",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+  },
+  {
+    "jaText": "（走者・小幡）二塁盗塁成功",
+    "text": "Obata steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+        "id": "51255118",
+        "jaBoxscoreName": "中村悠",
+        "jaRegisteredName": "中村　悠平",
+        "fullLFMName": "Nakamura, Yuhei",
+        "primaryNumber": "27",
+        "teamCode": "S",
+        "boxscoreName": "Yuh.Nakamura",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+  },
+  {
+    "jaText": "（走者・熊谷）二塁盗塁成功",
+    "text": "Kumagai steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+        "id": "51255118",
+        "jaBoxscoreName": "中村悠",
+        "jaRegisteredName": "中村　悠平",
+        "fullLFMName": "Nakamura, Yuhei",
+        "primaryNumber": "27",
+        "teamCode": "S",
+        "boxscoreName": "Yuh.Nakamura",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+  },
+  {
+    "jaText": "（走者・中村奨）二塁盗塁失敗",
+    "text": "S.Nakamura caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・西川）二塁盗塁失敗",
+    "text": "Nishikawa caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・五十幡）二塁盗塁成功",
+    "text": "Isobata steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・滝澤）二塁盗塁成功",
+    "text": "Takizawa steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・西川）二塁盗塁成功",
+    "text": "Nishikawa steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・太田）二塁盗塁失敗",
+    "text": "Ohta caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・小深田）二塁盗塁成功",
+    "text": "Kobukata steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+        "id": "11815155",
+        "jaBoxscoreName": "福永",
+        "jaRegisteredName": "福永　奨",
+        "fullLFMName": "Fukunaga, Sho",
+        "primaryNumber": "32",
+        "teamCode": "B",
+        "boxscoreName": "Fukunaga",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+  },
+  {
+    "jaText": "（走者・大城）二塁盗塁成功",
+    "text": "Ohshiro steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・岡）一塁牽制アウト",
+    "text": "Oka picked off at 1st base.",
+    "pickoff": "Y"
+  },
+  {
+    "jaText": "（走者・牧原大）二塁盗塁成功",
+    "text": "T.Makihara steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・髙部）二塁盗塁成功",
+    "text": "Takabe steals 2nd base.",
+    "pickoff": ""
+  }
+]

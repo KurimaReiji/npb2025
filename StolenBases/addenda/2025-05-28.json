@@ -1,0 +1,53 @@
+[
+  {
+    "jaText": "（走者・村松）二塁盗塁失敗",
+    "text": "Muramatsu caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・岡林）二塁盗塁失敗",
+    "text": "Okabayashi caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・佐藤輝）本塁盗塁失敗",
+    "text": "T.Sato caught stealing home plate.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・源田）二塁盗塁失敗",
+    "text": "Genda caught stealing 2nd base.",
+    "pickoff": "",
+    "catcher": {
+        "id": "71375138",
+        "jaBoxscoreName": "太田",
+        "jaRegisteredName": "太田　光",
+        "fullLFMName": "Ohta, Hikaru",
+        "primaryNumber": "2",
+        "teamCode": "E",
+        "boxscoreName": "Ohta",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+  },
+  {
+    "jaText": "（走者・廣岡）二塁盗塁失敗",
+    "text": "Hirooka caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・友杉）二塁盗塁成功",
+    "text": "Tomosugi steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・小川）二塁盗塁成功",
+    "text": "Ogawa steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・麦谷）二塁盗塁成功",
+    "text": "Mugitani steals 2nd base.",
+    "pickoff": ""
+  }
+]

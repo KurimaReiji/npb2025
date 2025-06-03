@@ -1,0 +1,43 @@
+[
+  {
+    "jaText": "（走者・上林）二塁盗塁失敗",
+    "text": "Uebayashi caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・ヘルナンデス）二塁盗塁失敗",
+    "text": "Hernandez caught stealing 2nd base.",
+    "pickoff": "",
+    "catcher": {
+        "id": "21125150",
+        "jaBoxscoreName": "石伊",
+        "jaRegisteredName": "石伊　雄太",
+        "fullLFMName": "Ishii, Yuta",
+        "primaryNumber": "9",
+        "teamCode": "D",
+        "boxscoreName": "Ishii",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+  },
+  {
+    "jaText": "（走者・小森）二塁盗塁成功",
+    "text": "Komori steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・小深田）一塁牽制アウト",
+    "text": "Kobukata picked off at 1st base.",
+    "pickoff": "Y"
+  },
+  {
+    "jaText": "（走者・廣岡）一塁牽制アウト",
+    "text": "Hirooka picked off at 1st base.",
+    "pickoff": "Y"
+  },
+  {
+    "jaText": "（走者・外崎）二塁盗塁成功",
+    "text": "Tonosaki steals 2nd base.",
+    "pickoff": ""
+  }
+]

@@ -1,0 +1,558 @@
+[
+  {
+    "date": "2025-04-16",
+    "runner": {
+      "id": "61265155",
+      "jaBoxscoreName": "田村",
+      "jaRegisteredName": "田村　俊介",
+      "fullLFMName": "Tamura, Shunsuke",
+      "primaryNumber": "60",
+      "teamCode": "C",
+      "boxscoreName": "Tamura",
+      "pitchHand": "L",
+      "batSide": "L"
+    },
+    "batter": {
+      "id": "61565135",
+      "jaBoxscoreName": "菊池",
+      "jaRegisteredName": "菊池　涼介",
+      "fullLFMName": "Kikuchi, Ryosuke",
+      "primaryNumber": "33",
+      "teamCode": "C",
+      "boxscoreName": "R.Kikuchi",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "63165134",
+      "jaBoxscoreName": "柳",
+      "jaRegisteredName": "柳　裕也",
+      "fullLFMName": "Yanagi, Yuya",
+      "primaryNumber": "17",
+      "teamCode": "D",
+      "boxscoreName": "Yanagi",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "catcher": {
+      "id": "21125150",
+      "jaBoxscoreName": "石伊",
+      "jaRegisteredName": "石伊　雄太",
+      "fullLFMName": "Ishii, Yuta",
+      "primaryNumber": "9",
+      "teamCode": "D",
+      "boxscoreName": "Ishii",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "scoring": "CaughtStealing",
+    "base": "2B",
+    "pickoff": "",
+    "inning": 5,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "1--",
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "venue": {
+      "jaBoxscoreName": "マツダスタジアム",
+      "boxscoreName": "Mazda Stadium",
+      "jaName": "MAZDA Zoom-Zoom スタジアム広島",
+      "name": "MAZDA Zoom-Zoom Stadium Hiroshima"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "D",
+        "teamName": "Dragons",
+        "score": 2
+      },
+      "home": {
+        "teamCode": "C",
+        "teamName": "Carp",
+        "score": 0
+      }
+    },
+    "jaText": "（走者・田村）二塁盗塁失敗",
+    "text": "Tamura caught stealing 2nd base.",
+    "url": "https://npb.jp/scores/2025/0416/c-d-05/playbyplay.html#com5-2",
+    "catchers": [
+      {
+        "id": "21125150",
+        "jaBoxscoreName": "石伊",
+        "jaRegisteredName": "石伊　雄太",
+        "fullLFMName": "Ishii, Yuta",
+        "primaryNumber": "9",
+        "teamCode": "D",
+        "boxscoreName": "Ishii",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+    ]
+  },
+  {
+    "date": "2025-04-16",
+    "runner": {
+      "id": "31135114",
+      "jaBoxscoreName": "會澤",
+      "jaRegisteredName": "會澤　翼",
+      "fullLFMName": "Aizawa, Tsubasa",
+      "primaryNumber": "27",
+      "teamCode": "C",
+      "boxscoreName": "Aizawa",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "batter": {
+      "id": "93395153",
+      "jaBoxscoreName": "矢野",
+      "jaRegisteredName": "矢野　雅哉",
+      "fullLFMName": "Yano, Masaya",
+      "primaryNumber": "4",
+      "teamCode": "C",
+      "boxscoreName": "Yano",
+      "pitchHand": "R",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "63165134",
+      "jaBoxscoreName": "柳",
+      "jaRegisteredName": "柳　裕也",
+      "fullLFMName": "Yanagi, Yuya",
+      "primaryNumber": "17",
+      "teamCode": "D",
+      "boxscoreName": "Yanagi",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "catcher": {
+      "id": "21125150",
+      "jaBoxscoreName": "石伊",
+      "jaRegisteredName": "石伊　雄太",
+      "fullLFMName": "Ishii, Yuta",
+      "primaryNumber": "9",
+      "teamCode": "D",
+      "boxscoreName": "Ishii",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "scoring": "CaughtStealing",
+    "base": "HP",
+    "pickoff": "",
+    "inning": 6,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "1-3",
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "venue": {
+      "jaBoxscoreName": "マツダスタジアム",
+      "boxscoreName": "Mazda Stadium",
+      "jaName": "MAZDA Zoom-Zoom スタジアム広島",
+      "name": "MAZDA Zoom-Zoom Stadium Hiroshima"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "D",
+        "teamName": "Dragons",
+        "score": 2
+      },
+      "home": {
+        "teamCode": "C",
+        "teamName": "Carp",
+        "score": 0
+      }
+    },
+    "jaText": "（走者・會澤）本塁盗塁失敗",
+    "text": "Aizawa caught stealing home plate.",
+    "url": "https://npb.jp/scores/2025/0416/c-d-05/playbyplay.html#com6-2",
+    "catchers": [
+      {
+        "id": "21125150",
+        "jaBoxscoreName": "石伊",
+        "jaRegisteredName": "石伊　雄太",
+        "fullLFMName": "Ishii, Yuta",
+        "primaryNumber": "9",
+        "teamCode": "D",
+        "boxscoreName": "Ishii",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+    ]
+  },
+  {
+    "date": "2025-04-16",
+    "runner": {
+      "id": "61965151",
+      "jaBoxscoreName": "小深田",
+      "jaRegisteredName": "小深田　大翔",
+      "fullLFMName": "Kobukata, Hiroto",
+      "primaryNumber": "0",
+      "teamCode": "E",
+      "boxscoreName": "Kobukata",
+      "pitchHand": "R",
+      "batSide": "L"
+    },
+    "batter": {
+      "id": "51155118",
+      "jaBoxscoreName": "浅村",
+      "jaRegisteredName": "浅村　栄斗",
+      "fullLFMName": "Asamura, Hideto",
+      "primaryNumber": "3",
+      "teamCode": "E",
+      "boxscoreName": "Asamura",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "51355135",
+      "jaBoxscoreName": "上沢",
+      "jaRegisteredName": "上沢　直之",
+      "fullLFMName": "Uwasawa, Naoyuki",
+      "primaryNumber": "10",
+      "teamCode": "H",
+      "boxscoreName": "Uwasawa",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "catcher": {},
+    "scoring": "StolenBase",
+    "base": "2B",
+    "pickoff": "",
+    "inning": 1,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "1--",
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "venue": {
+      "jaBoxscoreName": "みずほPayPay",
+      "boxscoreName": "MIZUHO PayPay",
+      "jaName": "みずほPayPayドーム福岡",
+      "name": "MIZUHO PayPay Dome Fukuoka"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "E",
+        "teamName": "Eagles",
+        "score": 6
+      },
+      "home": {
+        "teamCode": "H",
+        "teamName": "Hawks",
+        "score": 2
+      }
+    },
+    "jaText": "（走者・小深田）二塁盗塁成功",
+    "text": "Kobukata steals 2nd base.",
+    "url": "https://npb.jp/scores/2025/0416/h-e-02/playbyplay.html#com1-1",
+    "catchers": [
+      {
+        "id": "81385151",
+        "jaBoxscoreName": "海野",
+        "jaRegisteredName": "海野　隆司",
+        "fullLFMName": "Umino, Takashi",
+        "primaryNumber": "62",
+        "teamCode": "H",
+        "boxscoreName": "Umino",
+        "pitchHand": "R",
+        "batSide": "R"
+      },
+      {
+        "id": "93195138",
+        "jaBoxscoreName": "渡邉",
+        "jaRegisteredName": "渡邉　陸",
+        "fullLFMName": "Watanabe, Riku",
+        "primaryNumber": "00",
+        "teamCode": "H",
+        "boxscoreName": "Watanabe",
+        "pitchHand": "R",
+        "batSide": "L"
+      }
+    ]
+  },
+  {
+    "date": "2025-04-16",
+    "runner": {
+      "id": "61965151",
+      "jaBoxscoreName": "小深田",
+      "jaRegisteredName": "小深田　大翔",
+      "fullLFMName": "Kobukata, Hiroto",
+      "primaryNumber": "0",
+      "teamCode": "E",
+      "boxscoreName": "Kobukata",
+      "pitchHand": "R",
+      "batSide": "L"
+    },
+    "batter": {
+      "id": "51155118",
+      "jaBoxscoreName": "浅村",
+      "jaRegisteredName": "浅村　栄斗",
+      "fullLFMName": "Asamura, Hideto",
+      "primaryNumber": "3",
+      "teamCode": "E",
+      "boxscoreName": "Asamura",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "51355135",
+      "jaBoxscoreName": "上沢",
+      "jaRegisteredName": "上沢　直之",
+      "fullLFMName": "Uwasawa, Naoyuki",
+      "primaryNumber": "10",
+      "teamCode": "H",
+      "boxscoreName": "Uwasawa",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "catcher": {},
+    "scoring": "StolenBase",
+    "base": "2B",
+    "pickoff": "",
+    "inning": 3,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "1--",
+    "runs": {
+      "road": 1,
+      "home": 0
+    },
+    "venue": {
+      "jaBoxscoreName": "みずほPayPay",
+      "boxscoreName": "MIZUHO PayPay",
+      "jaName": "みずほPayPayドーム福岡",
+      "name": "MIZUHO PayPay Dome Fukuoka"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "E",
+        "teamName": "Eagles",
+        "score": 6
+      },
+      "home": {
+        "teamCode": "H",
+        "teamName": "Hawks",
+        "score": 2
+      }
+    },
+    "jaText": "（走者・小深田）二塁盗塁成功",
+    "text": "Kobukata steals 2nd base.",
+    "url": "https://npb.jp/scores/2025/0416/h-e-02/playbyplay.html#com3-1",
+    "catchers": [
+      {
+        "id": "81385151",
+        "jaBoxscoreName": "海野",
+        "jaRegisteredName": "海野　隆司",
+        "fullLFMName": "Umino, Takashi",
+        "primaryNumber": "62",
+        "teamCode": "H",
+        "boxscoreName": "Umino",
+        "pitchHand": "R",
+        "batSide": "R"
+      },
+      {
+        "id": "93195138",
+        "jaBoxscoreName": "渡邉",
+        "jaRegisteredName": "渡邉　陸",
+        "fullLFMName": "Watanabe, Riku",
+        "primaryNumber": "00",
+        "teamCode": "H",
+        "boxscoreName": "Watanabe",
+        "pitchHand": "R",
+        "batSide": "L"
+      }
+    ]
+  },
+  {
+    "date": "2025-04-16",
+    "runner": {
+      "id": "21425159",
+      "jaBoxscoreName": "中島",
+      "jaRegisteredName": "中島　大輔",
+      "fullLFMName": "Nakashima, Daisuke",
+      "primaryNumber": "32",
+      "teamCode": "E",
+      "boxscoreName": "Nakashima",
+      "pitchHand": "R",
+      "batSide": "L"
+    },
+    "batter": {
+      "id": "61965151",
+      "jaBoxscoreName": "小深田",
+      "jaRegisteredName": "小深田　大翔",
+      "fullLFMName": "Kobukata, Hiroto",
+      "primaryNumber": "0",
+      "teamCode": "E",
+      "boxscoreName": "Kobukata",
+      "pitchHand": "R",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "51355135",
+      "jaBoxscoreName": "上沢",
+      "jaRegisteredName": "上沢　直之",
+      "fullLFMName": "Uwasawa, Naoyuki",
+      "primaryNumber": "10",
+      "teamCode": "H",
+      "boxscoreName": "Uwasawa",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "catcher": {},
+    "scoring": "StolenBase",
+    "base": "2B",
+    "pickoff": "",
+    "inning": 4,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "1--",
+    "runs": {
+      "road": 4,
+      "home": 1
+    },
+    "venue": {
+      "jaBoxscoreName": "みずほPayPay",
+      "boxscoreName": "MIZUHO PayPay",
+      "jaName": "みずほPayPayドーム福岡",
+      "name": "MIZUHO PayPay Dome Fukuoka"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "E",
+        "teamName": "Eagles",
+        "score": 6
+      },
+      "home": {
+        "teamCode": "H",
+        "teamName": "Hawks",
+        "score": 2
+      }
+    },
+    "jaText": "（走者・中島）二塁盗塁成功",
+    "text": "Nakashima steals 2nd base.",
+    "url": "https://npb.jp/scores/2025/0416/h-e-02/playbyplay.html#com4-1",
+    "catchers": [
+      {
+        "id": "81385151",
+        "jaBoxscoreName": "海野",
+        "jaRegisteredName": "海野　隆司",
+        "fullLFMName": "Umino, Takashi",
+        "primaryNumber": "62",
+        "teamCode": "H",
+        "boxscoreName": "Umino",
+        "pitchHand": "R",
+        "batSide": "R"
+      },
+      {
+        "id": "93195138",
+        "jaBoxscoreName": "渡邉",
+        "jaRegisteredName": "渡邉　陸",
+        "fullLFMName": "Watanabe, Riku",
+        "primaryNumber": "00",
+        "teamCode": "H",
+        "boxscoreName": "Watanabe",
+        "pitchHand": "R",
+        "batSide": "L"
+      }
+    ]
+  },
+  {
+    "date": "2025-04-16",
+    "runner": {
+      "id": "61965151",
+      "jaBoxscoreName": "小深田",
+      "jaRegisteredName": "小深田　大翔",
+      "fullLFMName": "Kobukata, Hiroto",
+      "primaryNumber": "0",
+      "teamCode": "E",
+      "boxscoreName": "Kobukata",
+      "pitchHand": "R",
+      "batSide": "L"
+    },
+    "batter": {
+      "id": "61165132",
+      "jaBoxscoreName": "阿部",
+      "jaRegisteredName": "阿部　寿樹",
+      "fullLFMName": "Abe, Toshiki",
+      "primaryNumber": "4",
+      "teamCode": "E",
+      "boxscoreName": "Abe",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "11515159",
+      "jaBoxscoreName": "大山",
+      "jaRegisteredName": "大山　凌",
+      "fullLFMName": "Ohyama, Ryo",
+      "primaryNumber": "53",
+      "teamCode": "H",
+      "boxscoreName": "Ohyama",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "catcher": {},
+    "scoring": "StolenBase",
+    "base": "2B",
+    "pickoff": "",
+    "inning": 4,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "1--",
+    "runs": {
+      "road": 5,
+      "home": 1
+    },
+    "venue": {
+      "jaBoxscoreName": "みずほPayPay",
+      "boxscoreName": "MIZUHO PayPay",
+      "jaName": "みずほPayPayドーム福岡",
+      "name": "MIZUHO PayPay Dome Fukuoka"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "E",
+        "teamName": "Eagles",
+        "score": 6
+      },
+      "home": {
+        "teamCode": "H",
+        "teamName": "Hawks",
+        "score": 2
+      }
+    },
+    "jaText": "（走者・小深田）二塁盗塁成功",
+    "text": "Kobukata steals 2nd base.",
+    "url": "https://npb.jp/scores/2025/0416/h-e-02/playbyplay.html#com4-1",
+    "catchers": [
+      {
+        "id": "81385151",
+        "jaBoxscoreName": "海野",
+        "jaRegisteredName": "海野　隆司",
+        "fullLFMName": "Umino, Takashi",
+        "primaryNumber": "62",
+        "teamCode": "H",
+        "boxscoreName": "Umino",
+        "pitchHand": "R",
+        "batSide": "R"
+      },
+      {
+        "id": "93195138",
+        "jaBoxscoreName": "渡邉",
+        "jaRegisteredName": "渡邉　陸",
+        "fullLFMName": "Watanabe, Riku",
+        "primaryNumber": "00",
+        "teamCode": "H",
+        "boxscoreName": "Watanabe",
+        "pitchHand": "R",
+        "batSide": "L"
+      }
+    ]
+  }
+]

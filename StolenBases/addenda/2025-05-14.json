@@ -1,0 +1,54 @@
+[
+  {
+    "jaText": "（走者・北村拓）二塁盗塁失敗",
+    "text": "T.Kitamura caught stealing 2nd base.",
+    "pickoff": "",
+    "catcher": {
+        "id": "61365132",
+        "jaBoxscoreName": "宇佐見",
+        "jaRegisteredName": "宇佐見　真吾",
+        "fullLFMName": "Usami, Shingo",
+        "primaryNumber": "39",
+        "teamCode": "D",
+        "boxscoreName": "Usami",
+        "pitchHand": "R",
+        "batSide": "L"
+      }
+  },
+  {
+    "jaText": "（走者・末包）一塁牽制アウト",
+    "text": "Suekane picked off at 1st base.",
+    "pickoff": "Y"
+  },
+  {
+    "jaText": "（走者・廣岡）二塁盗塁成功",
+    "text": "Hirooka steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・五十幡）二塁盗塁成功",
+    "text": "Isobata steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+        "id": "11815155",
+        "jaBoxscoreName": "福永",
+        "jaRegisteredName": "福永　奨",
+        "fullLFMName": "Fukunaga, Sho",
+        "primaryNumber": "32",
+        "teamCode": "B",
+        "boxscoreName": "Fukunaga",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+  },
+  {
+    "jaText": "（走者・辰己）二塁盗塁成功",
+    "text": "R.Tatsumi steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・西川）二塁盗塁成功",
+    "text": "Nishikawa steals 2nd base.",
+    "pickoff": ""
+  }
+]

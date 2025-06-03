@@ -1,0 +1,114 @@
+[
+  {
+    "jaText": "（走者・三森）二塁盗塁成功",
+    "text": "Mimori steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+        "id": "91595133",
+        "jaBoxscoreName": "甲斐",
+        "jaRegisteredName": "甲斐　拓也",
+        "fullLFMName": "Kai, Takuya",
+        "primaryNumber": "10",
+        "teamCode": "G",
+        "boxscoreName": "Kai",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+  },
+  {
+    "jaText": "（走者・近本）二塁盗塁失敗",
+    "text": "Chikamoto caught stealing 2nd base.",
+    "pickoff": "",
+    "catcher": {
+        "id": "51855136",
+        "jaBoxscoreName": "松本直",
+        "jaRegisteredName": "松本　直樹",
+        "fullLFMName": "Matsumoto, Naoki",
+        "primaryNumber": "32",
+        "teamCode": "S",
+        "boxscoreName": "N.Matsumoto",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+  },
+  {
+    "jaText": "（走者・西川）二塁盗塁成功",
+    "text": "Nishikawa steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+        "id": "41645139",
+        "jaBoxscoreName": "若月",
+        "jaRegisteredName": "若月　健矢",
+        "fullLFMName": "Wakatsuki, Kenya",
+        "primaryNumber": "2",
+        "teamCode": "B",
+        "boxscoreName": "Wakatsuki",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+  },
+  {
+    "jaText": "（走者・紅林）一塁牽制アウト",
+    "text": "Kurebayashi picked off at 1st base.",
+    "pickoff": "Y",
+    "catcher": {
+        "id": "71675138",
+        "jaBoxscoreName": "牧野",
+        "jaRegisteredName": "牧野　翔矢",
+        "fullLFMName": "Makino, Shoya",
+        "primaryNumber": "53",
+        "teamCode": "L",
+        "boxscoreName": "Makino",
+        "pitchHand": "R",
+        "batSide": "L"
+      }
+  },
+  {
+    "jaText": "（走者・宗）二塁盗塁成功",
+    "text": "Mune steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+        "id": "81785155",
+        "jaBoxscoreName": "古賀悠",
+        "jaRegisteredName": "古賀　悠斗",
+        "fullLFMName": "Koga, Yuto",
+        "primaryNumber": "22",
+        "teamCode": "L",
+        "boxscoreName": "Y.Koga",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+  },
+  {
+    "jaText": "（走者・周東）二塁盗塁成功",
+    "text": "Shuto steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+        "id": "11815132",
+        "jaBoxscoreName": "堀内",
+        "jaRegisteredName": "堀内　謙伍",
+        "fullLFMName": "Horiuchi, Kengo",
+        "primaryNumber": "65",
+        "teamCode": "E",
+        "boxscoreName": "Horiuchi",
+        "pitchHand": "R",
+        "batSide": "L"
+      }
+  },
+  {
+    "jaText": "（走者・緒方）二塁盗塁失敗",
+    "text": "R.Ogata caught stealing 2nd base.",
+    "pickoff": "",
+    "catcher": {
+        "id": "71375138",
+        "jaBoxscoreName": "太田",
+        "jaRegisteredName": "太田　光",
+        "fullLFMName": "Ohta, Hikaru",
+        "primaryNumber": "2",
+        "teamCode": "E",
+        "boxscoreName": "Ohta",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+  }
+]

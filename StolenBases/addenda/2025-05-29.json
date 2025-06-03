@@ -1,0 +1,28 @@
+[
+  {
+    "jaText": "（走者・田中）二塁盗塁失敗",
+    "text": "Tanaka caught stealing 2nd base.",
+    "pickoff": "",
+    "catcher": {
+        "id": "51255118",
+        "jaBoxscoreName": "中村悠",
+        "jaRegisteredName": "中村　悠平",
+        "fullLFMName": "Nakamura, Yuhei",
+        "primaryNumber": "27",
+        "teamCode": "S",
+        "boxscoreName": "Yuh.Nakamura",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+  },
+  {
+    "jaText": "（走者・石上）二塁盗塁失敗",
+    "text": "Ishikami caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・小深田）二塁盗塁成功",
+    "text": "Kobukata steals 2nd base.",
+    "pickoff": ""
+  }
+]

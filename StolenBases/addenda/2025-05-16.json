@@ -1,0 +1,53 @@
+[
+  {
+    "jaText": "（走者・林）二塁盗塁成功",
+    "text": "Hayashi steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・長谷川）二塁盗塁成功",
+    "text": "Hasegawa steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・石井）二塁盗塁成功",
+    "text": "Ishii steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・細川）二塁盗塁成功",
+    "text": "Hosokawa steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・水野）二塁盗塁成功",
+    "text": "Mizuno steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・野村）二塁盗塁失敗",
+    "text": "Nomura picked off and caught stealing 2nd base.",
+    "pickoff": "Y"
+  },
+  {
+    "jaText": "（走者・佐藤直）二塁盗塁成功",
+    "text": "N.Satoh steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・辰己）二塁盗塁成功",
+    "text": "R.Tatsumi steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+        "id": "93195138",
+        "jaBoxscoreName": "渡邉",
+        "jaRegisteredName": "渡邉　陸",
+        "fullLFMName": "Watanabe, Riku",
+        "primaryNumber": "00",
+        "teamCode": "H",
+        "boxscoreName": "Watanabe",
+        "pitchHand": "R",
+        "batSide": "L"
+      }
+  }
+]

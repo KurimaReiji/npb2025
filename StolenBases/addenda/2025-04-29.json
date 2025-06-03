@@ -1,0 +1,91 @@
+[
+  {
+    "jaText": "（走者・蝦名）二塁盗塁成功",
+    "text": "Ebina steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+        "id": "51255118",
+        "jaBoxscoreName": "中村悠",
+        "jaRegisteredName": "中村　悠平",
+        "fullLFMName": "Nakamura, Yuhei",
+        "primaryNumber": "27",
+        "teamCode": "S",
+        "boxscoreName": "Yuh.Nakamura",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+  },
+  {
+    "jaText": "（走者・柴田）二塁盗塁成功",
+    "text": "Shibata steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+        "id": "01705134",
+        "jaBoxscoreName": "古賀",
+        "jaRegisteredName": "古賀　優大",
+        "fullLFMName": "Koga, Yudai",
+        "primaryNumber": "2",
+        "teamCode": "S",
+        "boxscoreName": "Koga",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+  },
+  {
+    "jaText": "（走者・上林）二塁盗塁成功",
+    "text": "Uebayashi steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・村林）二塁盗塁成功",
+    "text": "Murabayashi steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・西川）二塁盗塁成功",
+    "text": "Nishikawa steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+        "id": "11815132",
+        "jaBoxscoreName": "堀内",
+        "jaRegisteredName": "堀内　謙伍",
+        "fullLFMName": "Horiuchi, Kengo",
+        "primaryNumber": "65",
+        "teamCode": "E",
+        "boxscoreName": "Horiuchi",
+        "pitchHand": "R",
+        "batSide": "L"
+      }
+  },
+  {
+    "jaText": "（走者・阿部）本塁盗塁失敗",
+    "text": "Abe caught stealing home plate.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・滝澤）二塁盗塁成功",
+    "text": "Takizawa steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+        "id": "11815132",
+        "jaBoxscoreName": "堀内",
+        "jaRegisteredName": "堀内　謙伍",
+        "fullLFMName": "Horiuchi, Kengo",
+        "primaryNumber": "65",
+        "teamCode": "E",
+        "boxscoreName": "Horiuchi",
+        "pitchHand": "R",
+        "batSide": "L"
+      }
+  },
+  {
+    "jaText": "（走者・麦谷）二塁盗塁成功",
+    "text": "Mugitani steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・野村）二塁盗塁成功",
+    "text": "Nomura steals 2nd base.",
+    "pickoff": ""
+  }
+]

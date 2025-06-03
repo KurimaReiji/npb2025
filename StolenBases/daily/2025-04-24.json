@@ -1,0 +1,94 @@
+[
+  {
+    "date": "2025-04-24",
+    "runner": {
+      "id": "71075138",
+      "jaBoxscoreName": "近本",
+      "jaRegisteredName": "近本　光司",
+      "fullLFMName": "Chikamoto, Koji",
+      "primaryNumber": "5",
+      "teamCode": "T",
+      "boxscoreName": "Chikamoto",
+      "pitchHand": "L",
+      "batSide": "L"
+    },
+    "batter": {
+      "id": "41445153",
+      "jaBoxscoreName": "中野",
+      "jaRegisteredName": "中野　拓夢",
+      "fullLFMName": "Nakano, Takumu",
+      "primaryNumber": "51",
+      "teamCode": "T",
+      "boxscoreName": "Nakano",
+      "pitchHand": "R",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "01305138",
+      "jaBoxscoreName": "大貫",
+      "jaRegisteredName": "大貫　晋一",
+      "fullLFMName": "Ohnuki, Shinichi",
+      "primaryNumber": "16",
+      "teamCode": "DB",
+      "boxscoreName": "Ohnuki",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "catcher": {
+      "id": "41245132",
+      "jaBoxscoreName": "戸柱",
+      "jaRegisteredName": "戸柱　恭孝",
+      "fullLFMName": "Tobashira, Yasutaka",
+      "primaryNumber": "10",
+      "teamCode": "DB",
+      "boxscoreName": "Tobashira",
+      "pitchHand": "R",
+      "batSide": "L"
+    },
+    "scoring": "StolenBase",
+    "base": "2B",
+    "pickoff": "",
+    "inning": 5,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "1--",
+    "runs": {
+      "road": 1,
+      "home": 2
+    },
+    "venue": {
+      "jaBoxscoreName": "横浜",
+      "boxscoreName": "Yokohama",
+      "jaName": "横浜スタジアム",
+      "name": "Yokohama Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "T",
+        "teamName": "Tigers",
+        "score": 4
+      },
+      "home": {
+        "teamCode": "DB",
+        "teamName": "Baystars",
+        "score": 2
+      }
+    },
+    "jaText": "（走者・近本）二塁盗塁成功",
+    "text": "Chikamoto steals 2nd base.",
+    "url": "https://npb.jp/scores/2025/0424/db-t-06/playbyplay.html#com5-1",
+    "catchers": [
+      {
+        "id": "41245132",
+        "jaBoxscoreName": "戸柱",
+        "jaRegisteredName": "戸柱　恭孝",
+        "fullLFMName": "Tobashira, Yasutaka",
+        "primaryNumber": "10",
+        "teamCode": "DB",
+        "boxscoreName": "Tobashira",
+        "pitchHand": "R",
+        "batSide": "L"
+      }
+    ]
+  }
+]

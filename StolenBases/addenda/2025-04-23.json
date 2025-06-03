@@ -1,0 +1,63 @@
+[
+  {
+    "jaText": "（走者・吉川）二塁盗塁成功",
+    "text": "Yoshikawa steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・樋口）二塁盗塁成功",
+    "text": "Higuchi steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・近本）二塁盗塁成功",
+    "text": "Chikamoto steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・近本）二塁盗塁失敗",
+    "text": "Chikamoto caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・蝦名）二塁盗塁失敗",
+    "text": "Ebina picked off and caught stealing 2nd base.",
+    "pickoff": "Y"
+  },
+  {
+    "jaText": "（走者・林）二塁盗塁成功",
+    "text": "Hayashi steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・羽月）二塁盗塁失敗",
+    "text": "Hatsuki caught stealing 2nd base.",
+    "pickoff": "",
+    "catcher": {
+        "id": "01705134",
+        "jaBoxscoreName": "古賀",
+        "jaRegisteredName": "古賀　優大",
+        "fullLFMName": "Koga, Yudai",
+        "primaryNumber": "2",
+        "teamCode": "S",
+        "boxscoreName": "Koga",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+  },
+  {
+    "jaText": "（走者・小森）二塁盗塁成功",
+    "text": "Komori steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・中島）二塁盗塁成功",
+    "text": "Nakashima steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・中村）二塁盗塁失敗",
+    "text": "Nakamura caught stealing 2nd base.",
+    "pickoff": ""
+  }
+]

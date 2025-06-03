@@ -1,0 +1,68 @@
+[
+  {
+    "jaText": "（走者・桑原）二塁盗塁成功",
+    "text": "Kuwahara steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+        "id": "31735132",
+        "jaBoxscoreName": "木下",
+        "jaRegisteredName": "木下　拓哉",
+        "fullLFMName": "Kinoshita, Takuya",
+        "primaryNumber": "35",
+        "teamCode": "D",
+        "boxscoreName": "Kinoshita",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+  },
+  {
+    "jaText": "（走者・若林）二塁盗塁成功",
+    "text": "Wakabayashi steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・近本）二塁盗塁成功",
+    "text": "Chikamoto steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・サンタナ）二塁盗塁成功",
+    "text": "Santana steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・岩田）二塁盗塁成功",
+    "text": "Iwata picked off and steals 2nd base.",
+    "pickoff": "Y"
+  },
+  {
+    "jaText": "（走者・万波）二塁盗塁失敗",
+    "text": "Mannami caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・五十幡）二塁盗塁失敗",
+    "text": "Isobata caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・矢澤）一塁牽制アウト",
+    "text": "Yazawa picked off at 1st base.",
+    "pickoff": "Y"
+  },
+  {
+    "jaText": "（走者・中島）二塁盗塁成功",
+    "text": "Nakashima steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・辰己）二塁盗塁成功",
+    "text": "R.Tatsumi steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・中川）二塁盗塁成功",
+    "text": "Nakagawa steals 2nd base.",
+    "pickoff": ""
+  }
+]

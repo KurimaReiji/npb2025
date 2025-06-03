@@ -1,0 +1,43 @@
+[
+  {
+    "jaText": "（走者・吉川）二塁盗塁成功",
+    "text": "Yoshikawa steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・岩田）二塁盗塁成功",
+    "text": "Iwata steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・林）二塁盗塁成功",
+    "text": "Hayashi steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・友杉）二塁盗塁成功",
+    "text": "Tomosugi steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・西川）二塁盗塁成功",
+    "text": "Nishikawa steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・麦谷）二塁盗塁成功",
+    "text": "Mugitani steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+        "id": "81385151",
+        "jaBoxscoreName": "海野",
+        "jaRegisteredName": "海野　隆司",
+        "fullLFMName": "Umino, Takashi",
+        "primaryNumber": "62",
+        "teamCode": "H",
+        "boxscoreName": "Umino",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+  }
+]

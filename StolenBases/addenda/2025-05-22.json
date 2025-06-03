@@ -1,0 +1,90 @@
+[
+  {
+    "jaText": "（走者・田中）二塁盗塁成功",
+    "text": "Tanaka steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・牧）二塁盗塁成功",
+    "text": "Maki steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・大山）二塁盗塁成功",
+    "text": "Ohyama steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・近本）二塁盗塁失敗",
+    "text": "Chikamoto caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・佐藤輝）二塁盗塁成功",
+    "text": "T.Sato steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・周東）二塁盗塁成功",
+    "text": "Shuto steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+        "id": "11015159",
+        "jaBoxscoreName": "進藤",
+        "jaRegisteredName": "進藤　勇也",
+        "fullLFMName": "Shintoh, Yuya",
+        "primaryNumber": "33",
+        "teamCode": "F",
+        "boxscoreName": "Shintoh",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+  },
+  {
+    "jaText": "（走者・緒方）二塁盗塁失敗",
+    "text": "R.Ogata caught stealing 2nd base.",
+    "pickoff": "",
+    "catcher": {
+        "id": "11015159",
+        "jaBoxscoreName": "進藤",
+        "jaRegisteredName": "進藤　勇也",
+        "fullLFMName": "Shintoh, Yuya",
+        "primaryNumber": "33",
+        "teamCode": "F",
+        "boxscoreName": "Shintoh",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+  },
+  {
+    "jaText": "（走者・児玉）二塁盗塁失敗",
+    "text": "Kodama caught stealing 2nd base.",
+    "pickoff": "",
+    "catcher": {
+        "id": "71375138",
+        "jaBoxscoreName": "太田",
+        "jaRegisteredName": "太田　光",
+        "fullLFMName": "Ohta, Hikaru",
+        "primaryNumber": "2",
+        "teamCode": "E",
+        "boxscoreName": "Ohta",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+  },
+  {
+    "jaText": "（走者・小深田）二塁盗塁成功",
+    "text": "Kobukata steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・中島）二塁盗塁失敗",
+    "text": "Nakashima picked off and caught stealing 2nd base.",
+    "pickoff": "Y"
+  },
+  {
+    "jaText": "（走者・小郷）二塁盗塁成功",
+    "text": "Ogoh steals 2nd base.",
+    "pickoff": ""
+  }
+]

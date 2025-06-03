@@ -1,0 +1,65 @@
+[
+  {
+    "jaText": "（走者・ヘルナンデス）本塁盗塁失敗",
+    "text": "Hernandez caught stealing home plate.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・二俣）二塁盗塁成功",
+    "text": "Futamata steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・矢野）二塁盗塁失敗",
+    "text": "Yano caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・源田）二塁盗塁成功",
+    "text": "Genda steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+        "id": "51055138",
+        "jaBoxscoreName": "田宮",
+        "jaRegisteredName": "田宮　裕涼",
+        "fullLFMName": "Tamiya, Yua",
+        "primaryNumber": "64",
+        "teamCode": "F",
+        "boxscoreName": "Tamiya",
+        "pitchHand": "R",
+        "batSide": "L"
+      }
+  },
+  {
+    "jaText": "（走者・西川）二塁盗塁成功",
+    "text": "Nishikawa steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+        "id": "51055138",
+        "jaBoxscoreName": "田宮",
+        "jaRegisteredName": "田宮　裕涼",
+        "fullLFMName": "Tamiya, Yua",
+        "primaryNumber": "64",
+        "teamCode": "F",
+        "boxscoreName": "Tamiya",
+        "pitchHand": "R",
+        "batSide": "L"
+      }
+  },
+  {
+    "jaText": "（走者・中川）二塁盗塁成功",
+    "text": "Nakagawa steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+        "id": "71375138",
+        "jaBoxscoreName": "太田",
+        "jaRegisteredName": "太田　光",
+        "fullLFMName": "Ohta, Hikaru",
+        "primaryNumber": "2",
+        "teamCode": "E",
+        "boxscoreName": "Ohta",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+  }
+]

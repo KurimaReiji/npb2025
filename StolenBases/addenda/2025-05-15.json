@@ -1,0 +1,48 @@
+[
+  {
+    "jaText": "（走者・近本）二塁盗塁成功",
+    "text": "Chikamoto steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・林）二塁盗塁成功",
+    "text": "Hayashi steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・石上）二塁盗塁成功",
+    "text": "Ishikami steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・植田）二塁盗塁成功",
+    "text": "Ueda steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・羽月）二塁盗塁成功",
+    "text": "Hatsuki steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・麦谷）二塁盗塁成功",
+    "text": "Mugitani steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+        "id": "11015159",
+        "jaBoxscoreName": "進藤",
+        "jaRegisteredName": "進藤　勇也",
+        "fullLFMName": "Shintoh, Yuya",
+        "primaryNumber": "33",
+        "teamCode": "F",
+        "boxscoreName": "Shintoh",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+  },
+  {
+    "jaText": "（走者・小森）二塁盗塁成功",
+    "text": "Komori steals 2nd base.",
+    "pickoff": ""
+  }
+]

@@ -1,0 +1,91 @@
+[
+  {
+    "jaText": "（走者・若林）二塁盗塁成功",
+    "text": "Wakabayashi steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+        "id": "51255118",
+        "jaBoxscoreName": "中村悠",
+        "jaRegisteredName": "中村　悠平",
+        "fullLFMName": "Nakamura, Yuhei",
+        "primaryNumber": "27",
+        "teamCode": "S",
+        "boxscoreName": "Yuh.Nakamura",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+  },
+  {
+    "jaText": "（走者・門脇）二塁盗塁成功",
+    "text": "Kadowaki steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+        "id": "51255118",
+        "jaBoxscoreName": "中村悠",
+        "jaRegisteredName": "中村　悠平",
+        "fullLFMName": "Nakamura, Yuhei",
+        "primaryNumber": "27",
+        "teamCode": "S",
+        "boxscoreName": "Yuh.Nakamura",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+  },
+  {
+    "jaText": "（走者・若林）二塁盗塁成功",
+    "text": "Wakabayashi steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+        "id": "01705134",
+        "jaBoxscoreName": "古賀",
+        "jaRegisteredName": "古賀　優大",
+        "fullLFMName": "Koga, Yudai",
+        "primaryNumber": "2",
+        "teamCode": "S",
+        "boxscoreName": "Koga",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+  },
+  {
+    "jaText": "（走者・小園）二塁盗塁成功",
+    "text": "Kozono picked off and steals 2nd base.",
+    "pickoff": "Y"
+  },
+  {
+    "jaText": "（走者・川瀬）二塁盗塁成功",
+    "text": "Kawase steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・外崎）二塁牽制アウト",
+    "text": "Tonosaki picked off at 2nd base.",
+    "pickoff": "Y",
+    "catcher": {
+        "id": "81385151",
+        "jaBoxscoreName": "海野",
+        "jaRegisteredName": "海野　隆司",
+        "fullLFMName": "Umino, Takashi",
+        "primaryNumber": "62",
+        "teamCode": "H",
+        "boxscoreName": "Umino",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+  },
+  {
+    "jaText": "（走者・佐藤直）二塁盗塁成功",
+    "text": "N.Satoh steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・緒方）二塁盗塁成功",
+    "text": "R.Ogata steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・西川）二塁盗塁失敗",
+    "text": "Nishikawa caught stealing 2nd base.",
+    "pickoff": ""
+  }
+]

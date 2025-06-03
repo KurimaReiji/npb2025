@@ -1,0 +1,64 @@
+[
+  {
+    "jaText": "（走者・鵜飼）二塁盗塁成功",
+    "text": "Ukai steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・カリステ）二塁盗塁失敗",
+    "text": "Calixte caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・林）二塁盗塁失敗",
+    "text": "Hayashi caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・林）二塁盗塁成功",
+    "text": "Hayashi steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・中村）二塁盗塁成功",
+    "text": "Nakamura steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+        "id": "91995112",
+        "jaBoxscoreName": "炭谷",
+        "jaRegisteredName": "炭谷　銀仁朗",
+        "fullLFMName": "Sumitani, Ginjiro",
+        "primaryNumber": "27",
+        "teamCode": "L",
+        "boxscoreName": "Sumitani",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+  },
+  {
+    "jaText": "（走者・牧原大）二塁盗塁成功",
+    "text": "T.Makihara steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+        "id": "91995112",
+        "jaBoxscoreName": "炭谷",
+        "jaRegisteredName": "炭谷　銀仁朗",
+        "fullLFMName": "Sumitani, Ginjiro",
+        "primaryNumber": "27",
+        "teamCode": "L",
+        "boxscoreName": "Sumitani",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+  },
+  {
+    "jaText": "（走者・廣岡）二塁盗塁成功",
+    "text": "Hirooka steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・五十幡）二塁盗塁成功",
+    "text": "Isobata steals 2nd base.",
+    "pickoff": ""
+  }
+]
