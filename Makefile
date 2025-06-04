@@ -3,7 +3,7 @@ GAMEDAY ?= $(shell TZ='America/Los_Angeles' date  --rfc-3339=date)
 
 .PHONY: gamesover ja en players standings Homeruns StolenBases nightly
 
-gamesover: standings Homeruns
+gamesover: standings Homeruns StolenBases
 nightly: players
 ja: Games/daily/$(GAMEDAY).json
 en: en-scraped/daily/$(GAMEDAY).json

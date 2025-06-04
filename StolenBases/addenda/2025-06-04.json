@@ -1,0 +1,75 @@
+[
+  {
+    "jaText": "（走者・松本剛）二塁盗塁成功",
+    "text": "G.Matsumoto steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・古賀）二塁牽制アウト",
+    "text": "Koga picked off at 2nd base.",
+    "pickoff": "Y"
+  },
+  {
+    "jaText": "（走者・西川）二塁盗塁成功",
+    "text": "Nishikawa steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・丸）二塁盗塁成功",
+    "text": "Maru steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・廣岡）二塁盗塁成功",
+    "text": "Hirooka steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・田中）二塁盗塁成功",
+    "text": "Tanaka steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+        "id": "93195138",
+        "jaBoxscoreName": "渡邉",
+        "jaRegisteredName": "渡邉　陸",
+        "fullLFMName": "Watanabe, Riku",
+        "primaryNumber": "00",
+        "teamCode": "H",
+        "boxscoreName": "Watanabe",
+        "pitchHand": "R",
+        "batSide": "L"
+      }
+  },
+  {
+    "jaText": "（走者・周東）二塁盗塁成功",
+    "text": "Shuto steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+        "id": "21125150",
+        "jaBoxscoreName": "石伊",
+        "jaRegisteredName": "石伊　雄太",
+        "fullLFMName": "Ishii, Yuta",
+        "primaryNumber": "9",
+        "teamCode": "D",
+        "boxscoreName": "Ishii",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+  },
+  {
+    "jaText": "（走者・野村）二塁盗塁成功",
+    "text": "Nomura steals 2nd base.",
+    "pickoff": "",
+    "catcher": {
+        "id": "21125150",
+        "jaBoxscoreName": "石伊",
+        "jaRegisteredName": "石伊　雄太",
+        "fullLFMName": "Ishii, Yuta",
+        "primaryNumber": "9",
+        "teamCode": "D",
+        "boxscoreName": "Ishii",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+  }
+]

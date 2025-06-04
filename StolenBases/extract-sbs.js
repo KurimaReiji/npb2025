@@ -1,5 +1,5 @@
 import { existsSync, readFileSync, writeFileSync } from 'node:fs';
-import { getTeams, createFindTeam } from '../../../npb2025/docs/js/npb-teams.js';
+import { getTeams, createFindTeam } from '../docs/js/npb-teams.js';
 
 const __dirname = import.meta.dirname;
 const datadir = `${__dirname}/..`;
