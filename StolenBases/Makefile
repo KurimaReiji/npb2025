@@ -7,7 +7,7 @@ ndjson: ../docs/npb2025-baserunning.ndjson
 newPlayer: daily/$(GAMEDAY).json
 
 
-daily/$(GAMEDAY).json:
+daily/$(GAMEDAY).json: ../Games/daily/$(GAMEDAY).json
 	node extract-sbs.js $(GAMEDAY)
 
 addenda/$(GAMEDAY).json:
