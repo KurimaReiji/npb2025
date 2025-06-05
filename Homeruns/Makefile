@@ -10,7 +10,7 @@ ndjson: ../docs/npb2025-homeruns.ndjson
 newPlayer: daily/$(GAMEDAY).json
 
 
-daily/$(GAMEDAY).json:
+daily/$(GAMEDAY).json: ../Games/daily/$(GAMEDAY).json
 	node extract_hrs.js $(GAMEDAY)
 
 rebuild:
