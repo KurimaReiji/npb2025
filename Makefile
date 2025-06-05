@@ -32,8 +32,8 @@ scraped/daily/$(GAMEDAY).json:
 en-scraped/daily/$(GAMEDAY).json:
 	node en-scraped/en-get-game-info.js $(GAMEDAY)
 
-Homeruns:
+Homeruns: Games/daily/$(GAMEDAY).json
 	make -C $@ ndjson
 
-StolenBases:
+StolenBases: Games/daily/$(GAMEDAY).json
 	make -C $@ ndjson
