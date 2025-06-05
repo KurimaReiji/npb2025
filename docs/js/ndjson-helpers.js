@@ -43,7 +43,7 @@ async function getReadableNdJsonStream(dbfile) {
       readableStream = nodeReadable.toWeb(nodeCreateReadStream(dbfile));
     }
   } else {
-    readableStream = (await fetch(dbfile)).body;
+    readableStream = (await fetch(dbfile, { cache: "no-cache" })).body;
   }
   return readableStream
     .pipeThrough(new TextDecoderStream())
