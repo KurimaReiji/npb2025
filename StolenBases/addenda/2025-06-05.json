@@ -1,11 +1,9 @@
 [
   {
     "jaText": "（走者・中野）二塁盗塁失敗",
-    "text": "Nakano caught stealing 2nd base.",
-    "pickoff": "",
-    "catcher": {},
-    "catchers": [
-      {
+    "text": "Nakano picked off and caught stealing 2nd base.",
+    "pickoff": "Y",
+    "catcher": {
         "id": "11015159",
         "jaBoxscoreName": "進藤",
         "jaRegisteredName": "進藤　勇也",
@@ -15,19 +13,7 @@
         "boxscoreName": "Shintoh",
         "pitchHand": "R",
         "batSide": "R"
-      },
-      {
-        "id": "13515157",
-        "jaBoxscoreName": "吉田",
-        "jaRegisteredName": "吉田　賢吾",
-        "fullLFMName": "Yoshida, Kengo",
-        "primaryNumber": "60",
-        "teamCode": "F",
-        "boxscoreName": "Yoshida",
-        "pitchHand": "R",
-        "batSide": "R"
       }
-    ]
   },
   {
     "jaText": "（走者・小深田）二塁盗塁失敗",
