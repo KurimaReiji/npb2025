@@ -20,6 +20,7 @@
 4回裏一死一塁。小深田が二塁盗塁失敗。捕手山本の盗塁阻止。
 
 - https://youtu.be/3BhqeIQZnaU?si=BbQ9ESU3yTNGUJg8&t=106
+- https://x.com/ydb_yokohama/status/1930568836522168721
 
 ## 2025年6月5日 北海道日本ハムファイターズ vs 阪神タイガース
 

@@ -1,8 +1,8 @@
 [
   {
     "jaText": "（走者・サンタナ）二塁盗塁失敗",
-    "text": "Santana caught stealing 2nd base.",
-    "pickoff": ""
+    "text": "Santana picked off and caught stealing 2nd base.",
+    "pickoff": "Y"
   },
   {
     "jaText": "（走者・佐藤直）二塁盗塁成功",
@@ -13,9 +13,7 @@
     "jaText": "（走者・松尾）二塁盗塁成功",
     "text": "Matsuo steals 2nd base.",
     "pickoff": "",
-    "catcher": {},
-    "catchers": [
-      {
+    "catcher": {
         "id": "61065137",
         "jaBoxscoreName": "伏見",
         "jaRegisteredName": "伏見　寅威",
@@ -25,19 +23,7 @@
         "boxscoreName": "Fushimi",
         "pitchHand": "R",
         "batSide": "R"
-      },
-      {
-        "id": "11015159",
-        "jaBoxscoreName": "進藤",
-        "jaRegisteredName": "進藤　勇也",
-        "fullLFMName": "Shintoh, Yuya",
-        "primaryNumber": "33",
-        "teamCode": "F",
-        "boxscoreName": "Shintoh",
-        "pitchHand": "R",
-        "batSide": "R"
       }
-    ]
   },
   {
     "jaText": "（走者・矢澤）二塁盗塁成功",
@@ -48,9 +34,7 @@
     "jaText": "（走者・池田）二塁盗塁成功",
     "text": "Ikeda steals 2nd base.",
     "pickoff": "",
-    "catcher": {},
-    "catchers": [
-      {
+    "catcher": {
         "id": "21125150",
         "jaBoxscoreName": "石伊",
         "jaRegisteredName": "石伊　雄太",
@@ -60,19 +44,7 @@
         "boxscoreName": "Ishii",
         "pitchHand": "R",
         "batSide": "R"
-      },
-      {
-        "id": "41545130",
-        "jaBoxscoreName": "加藤匠",
-        "jaRegisteredName": "加藤　匠馬",
-        "fullLFMName": "Katoh, Takuma",
-        "primaryNumber": "49",
-        "teamCode": "D",
-        "boxscoreName": "T.Katoh",
-        "pitchHand": "R",
-        "batSide": "R"
       }
-    ]
   },
   {
     "jaText": "（走者・山本）本塁盗塁失敗",
@@ -88,9 +60,7 @@
     "jaText": "（走者・平沼）二塁盗塁成功",
     "text": "Hiranuma steals 2nd base.",
     "pickoff": "",
-    "catcher": {},
-    "catchers": [
-      {
+    "catcher": {
         "id": "11915134",
         "jaBoxscoreName": "坂倉",
         "jaRegisteredName": "坂倉　将吾",
@@ -100,19 +70,7 @@
         "boxscoreName": "Sakakura",
         "pitchHand": "R",
         "batSide": "L"
-      },
-      {
-        "id": "21125151",
-        "jaBoxscoreName": "石原",
-        "jaRegisteredName": "石原　貴規",
-        "fullLFMName": "Ishihara, Tomoki",
-        "primaryNumber": "32",
-        "teamCode": "C",
-        "boxscoreName": "Ishihara",
-        "pitchHand": "R",
-        "batSide": "R"
       }
-    ]
   },
   {
     "jaText": "（走者・末包）二塁盗塁失敗",
