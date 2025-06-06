@@ -9596,7 +9596,7 @@
             "baseOnBalls": 1,
             "hitByPitch": 1,
             "strikeOuts": 6,
-            "wildPitches": 3,
+            "wildPitches": 2,
             "balks": 0,
             "runs": 4,
             "earnedRuns": 4
@@ -9608,7 +9608,7 @@
             "runs": 4,
             "hits": 10,
             "rbi": 4,
-            "stolenBases": 1
+            "stolenBases": 2
           },
           "pitching": {
             "pitchesThrown": 142,
@@ -10206,7 +10206,7 @@
               "baseOnBalls": 1,
               "hitByPitch": 1,
               "strikeOuts": 3,
-              "wildPitches": 3,
+              "wildPitches": 2,
               "balks": 0,
               "runs": 3,
               "earnedRuns": 3
@@ -10264,7 +10264,7 @@
               "runs": 3,
               "hits": 3,
               "rbi": 0,
-              "stokenBases": 1,
+              "stokenBases": 2,
               "results": [
                 {
                   "inning": 1,
@@ -11549,6 +11549,40 @@
           "players": [],
           "text": "フォアボール"
         },
+        "pitcher": {
+          "id": "21925139",
+          "jaBoxscoreName": "高梨"
+        },
+        "pa": {
+          "top": 9,
+          "bottom": 10,
+          "inn": 4,
+          "runs": 0
+        },
+        "runs": {
+          "road": 0,
+          "home": 1
+        }
+      },
+      {
+        "inning": {
+          "inning": 2,
+          "halfInning": "bottom",
+          "text": "2回裏（西武の攻撃）"
+        },
+        "outs": 2,
+        "runners": "1-3",
+        "count": {},
+        "jaResult": {
+          "players": [
+            {
+              "id": "51455136",
+              "jaBoxscoreName": "西川"
+            }
+          ],
+          "text": "（走者・西川）二塁盗塁成功"
+        },
+        "isRunnerEvent": "Y",
         "pitcher": {
           "id": "21925139",
           "jaBoxscoreName": "高梨"

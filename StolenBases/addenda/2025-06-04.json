@@ -5,6 +5,11 @@
     "pickoff": ""
   },
   {
+    "jaText": "（走者・西川）二塁盗塁成功",
+    "text": "Nishikawa steals 2nd base.",
+    "pickoff": ""
+  },
+  {
     "jaText": "（走者・古賀）二塁牽制アウト",
     "text": "Koga picked off at 2nd base.",
     "pickoff": "Y"
