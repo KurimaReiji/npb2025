@@ -3,7 +3,7 @@
     "teamCode": "B",
     "url": "https://npb.jp/bis/eng/teams/rst_b.html",
     "title": "ORIX Buffaloes : 2025 Roster | NPB.jp 日本野球機構",
-    "lastUpdated": "Sunday, June 8, 2025",
+    "lastUpdated": "Monday, June 9, 2025",
     "roster": [
       {
         "primaryPosition": "Manager",
@@ -1099,7 +1099,7 @@
     "teamCode": "C",
     "url": "https://npb.jp/bis/eng/teams/rst_c.html",
     "title": "Hiroshima Toyo Carp : 2025 Roster | NPB.jp 日本野球機構",
-    "lastUpdated": "Sunday, June 8, 2025",
+    "lastUpdated": "Monday, June 9, 2025",
     "roster": [
       {
         "primaryPosition": "Manager",
@@ -2063,7 +2063,7 @@
     "teamCode": "D",
     "url": "https://npb.jp/bis/eng/teams/rst_d.html",
     "title": "Chunichi Dragons : 2025 Roster | NPB.jp 日本野球機構",
-    "lastUpdated": "Sunday, June 8, 2025",
+    "lastUpdated": "Monday, June 9, 2025",
     "roster": [
       {
         "primaryPosition": "Manager",
@@ -3051,7 +3051,7 @@
     "teamCode": "DB",
     "url": "https://npb.jp/bis/eng/teams/rst_db.html",
     "title": "YOKOHAMA DeNA BAYSTARS : 2025 Roster | NPB.jp 日本野球機構",
-    "lastUpdated": "Sunday, June 8, 2025",
+    "lastUpdated": "Monday, June 9, 2025",
     "roster": [
       {
         "primaryPosition": "Manager",
@@ -4063,7 +4063,7 @@
     "teamCode": "E",
     "url": "https://npb.jp/bis/eng/teams/rst_e.html",
     "title": "Tohoku Rakuten Golden Eagles : 2025 Roster | NPB.jp 日本野球機構",
-    "lastUpdated": "Sunday, June 8, 2025",
+    "lastUpdated": "Monday, June 9, 2025",
     "roster": [
       {
         "primaryPosition": "Manager",
@@ -5015,7 +5015,7 @@
     "teamCode": "F",
     "url": "https://npb.jp/bis/eng/teams/rst_f.html",
     "title": "Hokkaido Nippon-Ham Fighters : 2025 Roster | NPB.jp 日本野球機構",
-    "lastUpdated": "Sunday, June 8, 2025",
+    "lastUpdated": "Monday, June 9, 2025",
     "roster": [
       {
         "primaryPosition": "Manager",
@@ -6027,7 +6027,7 @@
     "teamCode": "G",
     "url": "https://npb.jp/bis/eng/teams/rst_g.html",
     "title": "Yomiuri Giants : 2025 Roster | NPB.jp 日本野球機構",
-    "lastUpdated": "Sunday, June 8, 2025",
+    "lastUpdated": "Monday, June 9, 2025",
     "roster": [
       {
         "primaryPosition": "Manager",
@@ -6394,6 +6394,18 @@
         "pitchHand": "R",
         "batSide": "R",
         "notes": ""
+      },
+      {
+        "primaryPosition": "Pitcher",
+        "primaryNumber": "64",
+        "playerId": "53555155",
+        "fullLFMName": "Yamada, Ryusei",
+        "birthDate": "Sep. 7, 2000",
+        "height": "183",
+        "weight": "82",
+        "pitchHand": "L",
+        "batSide": "L",
+        "notes": "Sent to Kufu HAYATE (Mar. 11). Registered(developmental player ->) (Jun. 9)."
       },
       {
         "primaryPosition": "Pitcher",
@@ -6805,6 +6817,18 @@
       },
       {
         "primaryPosition": "Outfielder",
+        "primaryNumber": "98",
+        "playerId": "91095155",
+        "fullLFMName": "Suzuki, Yamato",
+        "birthDate": "Apr. 27, 1999",
+        "height": "173",
+        "weight": "73",
+        "pitchHand": "R",
+        "batSide": "R",
+        "notes": "Registered(developmental player ->) (Jun. 9)."
+      },
+      {
+        "primaryPosition": "Outfielder",
         "primaryNumber": "59",
         "playerId": "53555153",
         "fullLFMName": "Wakabayashi, Gakuto",
@@ -7059,18 +7083,6 @@
       },
       {
         "primaryPosition": "Pitcher",
-        "primaryNumber": "011",
-        "playerId": "53555155",
-        "fullLFMName": "Yamada, Ryusei",
-        "birthDate": "Sep. 7, 2000",
-        "height": "183",
-        "weight": "82",
-        "pitchHand": "L",
-        "batSide": "L",
-        "notes": "Sent to Kufu HAYATE (Mar. 11)."
-      },
-      {
-        "primaryPosition": "Pitcher",
         "primaryNumber": "026",
         "playerId": "73575157",
         "fullLFMName": "Yoshimura, Yusefu",
@@ -7275,18 +7287,6 @@
       },
       {
         "primaryPosition": "Outfielder",
-        "primaryNumber": "003",
-        "playerId": "91095155",
-        "fullLFMName": "Suzuki, Yamato",
-        "birthDate": "Apr. 27, 1999",
-        "height": "173",
-        "weight": "73",
-        "pitchHand": "R",
-        "batSide": "R",
-        "notes": ""
-      },
-      {
-        "primaryPosition": "Outfielder",
         "primaryNumber": "013",
         "playerId": "13015153",
         "fullLFMName": "Tima, Julian",
@@ -7303,7 +7303,7 @@
     "teamCode": "H",
     "url": "https://npb.jp/bis/eng/teams/rst_h.html",
     "title": "Fukuoka SoftBank Hawks : 2025 Roster | NPB.jp 日本野球機構",
-    "lastUpdated": "Sunday, June 8, 2025",
+    "lastUpdated": "Monday, June 9, 2025",
     "roster": [
       {
         "primaryPosition": "Manager",
@@ -8771,7 +8771,7 @@
     "teamCode": "L",
     "url": "https://npb.jp/bis/eng/teams/rst_l.html",
     "title": "Saitama Seibu Lions : 2025 Roster | NPB.jp 日本野球機構",
-    "lastUpdated": "Sunday, June 8, 2025",
+    "lastUpdated": "Monday, June 9, 2025",
     "roster": [
       {
         "primaryPosition": "Manager",
@@ -9915,7 +9915,7 @@
     "teamCode": "M",
     "url": "https://npb.jp/bis/eng/teams/rst_m.html",
     "title": "Chiba Lotte Marines : 2025 Roster | NPB.jp 日本野球機構",
-    "lastUpdated": "Sunday, June 8, 2025",
+    "lastUpdated": "Monday, June 9, 2025",
     "roster": [
       {
         "primaryPosition": "Manager",
@@ -10975,7 +10975,7 @@
     "teamCode": "S",
     "url": "https://npb.jp/bis/eng/teams/rst_s.html",
     "title": "Tokyo Yakult Swallows : 2025 Roster | NPB.jp 日本野球機構",
-    "lastUpdated": "Sunday, June 8, 2025",
+    "lastUpdated": "Monday, June 9, 2025",
     "roster": [
       {
         "primaryPosition": "Manager",
@@ -11927,7 +11927,7 @@
     "teamCode": "T",
     "url": "https://npb.jp/bis/eng/teams/rst_t.html",
     "title": "Hanshin Tigers : 2025 Roster | NPB.jp 日本野球機構",
-    "lastUpdated": "Sunday, June 8, 2025",
+    "lastUpdated": "Monday, June 9, 2025",
     "roster": [
       {
         "primaryPosition": "Manager",
