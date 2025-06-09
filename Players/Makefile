@@ -1,11 +1,11 @@
 GAMEDAY := $(shell TZ='America/Los_Angeles' date --rfc-3339=date)
 
-.PHONY: boxscoreNames newRegister
+.PHONY: boxscoreNames newPlayer
 
 boxscoreNames:
 	node boxscoreName.js $(GAMEDAY)
 
-newRegister:
+newPlayer:
 	node getters/get-registered.js
 	node getters/get-en-roster.js
 	node getters/get-roster.js

@@ -87,6 +87,7 @@ const browser = await puppeteer.launch({
     height: 1100,
   },
   headless: "new",
+  args: ['--no-sandbox', '--disable-setuid-sandbox']
 });
 
 const teamCodes = `B,C,D,DB,E,F,G,H,L,M,S,T`.split(",");
