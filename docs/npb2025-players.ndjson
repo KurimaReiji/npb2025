@@ -2231,3 +2231,5 @@
 {"date":"2025-06-07","playerId":"41345159","jaBoxscoreName":"大内","boxscoreName":"Ohuchi"}
 {"date":"2025-06-07","playerId":"51155151","jaBoxscoreName":"東妻","boxscoreName":"J.Azuma"}
 {"date":"2025-06-08","playerId":"61965139","jaBoxscoreName":"田中","boxscoreName":"Tanaka"}
+{"date":"2025-06-09","jaEvent":"支配下選手登録","teamCode":"G","playerId":"53555155","jaRegisteredName":"山田　龍聖","primaryNumber":"64","jaPrimaryPosition":"投手","jaEventDetails":"育成選手から移行"}
+{"date":"2025-06-09","jaEvent":"支配下選手登録","teamCode":"G","playerId":"91095155","jaRegisteredName":"鈴木　大和","primaryNumber":"98","jaPrimaryPosition":"外野手","jaEventDetails":"育成選手から移行"}

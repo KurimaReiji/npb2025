@@ -3622,7 +3622,7 @@
     "year": "2025",
     "teamCode": "G",
     "title": "2025年度 支配下選手登録（読売ジャイアンツ） | 2025年度公示 | NPB.jp 日本野球機構",
-    "total": "63名",
+    "total": "65名",
     "rows": [
       {
         "mmdd": "12-17",
@@ -4159,6 +4159,22 @@
         "primaryNumber": "52",
         "playerId": "11015136",
         "jaRegisteredName": "リチャード"
+      },
+      {
+        "mmdd": "06-09",
+        "teamCode": "G",
+        "jaPrimaryPosition": "投手",
+        "primaryNumber": "64",
+        "playerId": "53555155",
+        "jaRegisteredName": "山田　龍聖"
+      },
+      {
+        "mmdd": "06-09",
+        "teamCode": "G",
+        "jaPrimaryPosition": "外野手",
+        "primaryNumber": "98",
+        "playerId": "91095155",
+        "jaRegisteredName": "鈴木　大和"
       }
     ],
     "notes": [
@@ -4176,6 +4192,22 @@
         "jaPrimaryPosition": "外野手",
         "playerId": "21925155",
         "jaRegisteredName": "笹原　操希",
+        "desc": ""
+      },
+      {
+        "item": "【支配下選手登録（育成選手から移行）】",
+        "date": "2025-06-09",
+        "jaPrimaryPosition": "投手",
+        "playerId": "53555155",
+        "jaRegisteredName": "山田　龍聖",
+        "desc": ""
+      },
+      {
+        "item": "【支配下選手登録（育成選手から移行）】",
+        "date": "2025-06-09",
+        "jaPrimaryPosition": "外野手",
+        "playerId": "91095155",
+        "jaRegisteredName": "鈴木　大和",
         "desc": ""
       },
       {
