@@ -1,4 +1,4 @@
-name: nightly update
+name: add new player
 on:
   workflow_dispatch:
 
