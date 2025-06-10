@@ -1,0 +1,118 @@
+[
+  {
+    "id": "41845132-2025-03",
+    "date": "2025-06-10",
+    "batter": {
+      "jaBoxscoreName": "村林",
+      "playerId": "41845132",
+      "boxscoreName": "Murabayashi",
+      "batSide": "R",
+      "teamCode": "E",
+      "primaryNumber": "6",
+      "jaRegisteredName": "村林　一輝",
+      "fullLFMName": "Murabayashi, Itsuki"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "マラー",
+      "boxscoreName": "Muller",
+      "pitchHand": "L",
+      "teamCode": "D",
+      "primaryNumber": "93",
+      "jaRegisteredName": "Ｋ．マラー",
+      "fullLFMName": "Muller, Kyle"
+    },
+    "number": 3,
+    "inning": 6,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "---",
+    "count": {
+      "balls": 3,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 3,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "Yamagata",
+      "jaBoxscoreName": "山形市"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "D",
+        "teamName": "Dragons",
+        "score": 3
+      },
+      "home": {
+        "teamCode": "E",
+        "teamName": "Eagles",
+        "score": 1
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Murabayashi homers (3) to left field.",
+    "url": "https://npb.jp/scores/2025/0610/e-d-01/playbyplay.html#com6-2"
+  },
+  {
+    "id": "61965132-2025-07",
+    "date": "2025-06-10",
+    "batter": {
+      "jaBoxscoreName": "杉本",
+      "playerId": "61965132",
+      "boxscoreName": "Sugimoto",
+      "batSide": "R",
+      "teamCode": "B",
+      "primaryNumber": "99",
+      "jaRegisteredName": "杉本　裕太郎",
+      "fullLFMName": "Sugimoto, Yutaro"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "東",
+      "boxscoreName": "K.Azuma",
+      "pitchHand": "L",
+      "teamCode": "DB",
+      "primaryNumber": "11",
+      "jaRegisteredName": "東　克樹",
+      "fullLFMName": "Azuma, Katsuki"
+    },
+    "number": 7,
+    "inning": 5,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "---",
+    "count": {
+      "balls": 0,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 6,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "Kyocera Dome",
+      "jaBoxscoreName": "京セラD大阪"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "DB",
+        "teamName": "Baystars",
+        "score": 0
+      },
+      "home": {
+        "teamCode": "B",
+        "teamName": "Buffaloes",
+        "score": 2
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Sugimoto homers (7) to left field.",
+    "url": "https://npb.jp/scores/2025/0610/b-db-01/playbyplay.html#com5-2"
+  }
+]
