@@ -1,5 +1,24 @@
 # Stolen Bases
 
+## 2025年6月8日 読売ジャイアンツ vs 東北楽天ゴールデンイーグルス
+
+8回表一死一塁。小深田が二塁盗塁失敗。捕手岸田。
+
+- https://x.com/ntv_baseball/status/1931616716192448515
+
+## 2025年6月8日 阪神タイガース vs オリックス・バファローズ
+
+1回表無死一塁。麦谷が二塁盗塁失敗。捕手坂本。
+
+- https://x.com/TigersDreamlink/status/1931580498943607265
+- https://youtu.be/49qAPNHqhTU?si=BQd17G4XSQFUAA_p
+
+## 2025年6月8日 中日ドラゴンズ vs 千葉ロッテマリーンズ
+
+5回表一死一三塁。ボスが二塁盗塁失敗。捕手石伊。
+
+- https://youtu.be/yVzFf-KlMkY?si=Oci03LhsJEp_Amx0&t=29
+
 ## 2025年6月7日 広島東洋カープ vs 埼玉西武ライオンズ
 
 3回裏一死二三塁。小園が三塁盗塁成功。捕手古賀悠。
