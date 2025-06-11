@@ -1,0 +1,234 @@
+[
+  {
+    "id": "73075159-2025-13",
+    "date": "2025-06-11",
+    "batter": {
+      "jaBoxscoreName": "レイエス",
+      "playerId": "73075159",
+      "boxscoreName": "Reyes",
+      "batSide": "R",
+      "teamCode": "F",
+      "primaryNumber": "99",
+      "jaRegisteredName": "Ｆ．レイエス",
+      "fullLFMName": "Reyes, Franmil"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "高梨",
+      "boxscoreName": "Takanashi",
+      "pitchHand": "R",
+      "teamCode": "S",
+      "primaryNumber": "40",
+      "jaRegisteredName": "高梨　裕稔",
+      "fullLFMName": "Takanashi, Hirotoshi"
+    },
+    "number": 13,
+    "inning": 1,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "1--",
+    "count": {
+      "balls": 2,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 1,
+      "home": 0
+    },
+    "bop": 4,
+    "rbi": 2,
+    "whereHit": "78",
+    "venue": {
+      "boxscoreName": "ES CON FIELD",
+      "jaBoxscoreName": "エスコンＦ"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 2
+      },
+      "home": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 8
+      }
+    },
+    "jaText": "左中間2ランホームラン（打点2）",
+    "text": "Reyes homers (13) to left center.",
+    "url": "https://npb.jp/scores/2025/0611/f-s-02/playbyplay.html#com1-2"
+  },
+  {
+    "id": "81585151-2025-02",
+    "date": "2025-06-11",
+    "batter": {
+      "jaBoxscoreName": "岡林",
+      "playerId": "81585151",
+      "boxscoreName": "Okabayashi",
+      "batSide": "L",
+      "teamCode": "D",
+      "primaryNumber": "1",
+      "jaRegisteredName": "岡林　勇希",
+      "fullLFMName": "Okabayashi, Yuki"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "内",
+      "boxscoreName": "Uchi",
+      "pitchHand": "R",
+      "teamCode": "E",
+      "primaryNumber": "69",
+      "jaRegisteredName": "内　星龍",
+      "fullLFMName": "Uchi, Seiryu"
+    },
+    "number": 2,
+    "inning": 2,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "12-",
+    "count": {
+      "balls": 0,
+      "strikes": 2
+    },
+    "runs": {
+      "road": 1,
+      "home": 0
+    },
+    "bop": 1,
+    "rbi": 3,
+    "whereHit": "9",
+    "venue": {
+      "boxscoreName": "Rakuten Mobile",
+      "jaBoxscoreName": "楽天モバイル"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "D",
+        "teamName": "Dragons",
+        "score": 8
+      },
+      "home": {
+        "teamCode": "E",
+        "teamName": "Eagles",
+        "score": 5
+      }
+    },
+    "jaText": "ライト3ランホームラン（打点3）",
+    "text": "Okabayashi homers (2) to right field.",
+    "url": "https://npb.jp/scores/2025/0611/e-d-02/playbyplay.html#com2-1"
+  },
+  {
+    "id": "91395139-2025-09",
+    "date": "2025-06-11",
+    "batter": {
+      "jaBoxscoreName": "上林",
+      "playerId": "91395139",
+      "boxscoreName": "Uebayashi",
+      "batSide": "L",
+      "teamCode": "D",
+      "primaryNumber": "51",
+      "jaRegisteredName": "上林　誠知",
+      "fullLFMName": "Uebayashi, Seiji"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "内",
+      "boxscoreName": "Uchi",
+      "pitchHand": "R",
+      "teamCode": "E",
+      "primaryNumber": "69",
+      "jaRegisteredName": "内　星龍",
+      "fullLFMName": "Uchi, Seiryu"
+    },
+    "number": 9,
+    "inning": 3,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 2,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 4,
+      "home": 0
+    },
+    "bop": 3,
+    "rbi": 1,
+    "whereHit": "9",
+    "venue": {
+      "boxscoreName": "Rakuten Mobile",
+      "jaBoxscoreName": "楽天モバイル"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "D",
+        "teamName": "Dragons",
+        "score": 8
+      },
+      "home": {
+        "teamCode": "E",
+        "teamName": "Eagles",
+        "score": 5
+      }
+    },
+    "jaText": "ライトソロホームラン（打点1）",
+    "text": "Uebayashi homers (9) to right field.",
+    "url": "https://npb.jp/scores/2025/0611/e-d-02/playbyplay.html#com3-1"
+  },
+  {
+    "id": "41045153-2025-18",
+    "date": "2025-06-11",
+    "batter": {
+      "jaBoxscoreName": "佐藤輝",
+      "playerId": "41045153",
+      "boxscoreName": "T.Sato",
+      "batSide": "L",
+      "teamCode": "T",
+      "primaryNumber": "8",
+      "jaRegisteredName": "佐藤　輝明",
+      "fullLFMName": "Sato, Teruaki"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "ウィンゲンター",
+      "boxscoreName": "Wingenter",
+      "pitchHand": "R",
+      "teamCode": "L",
+      "primaryNumber": "45",
+      "jaRegisteredName": "Ｔ．ウィンゲンター",
+      "fullLFMName": "Wingenter, Trey"
+    },
+    "number": 18,
+    "inning": 9,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 0,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 1,
+      "home": 0
+    },
+    "bop": 4,
+    "rbi": 1,
+    "whereHit": "9",
+    "venue": {
+      "boxscoreName": "Belluna Dome",
+      "jaBoxscoreName": "ベルーナドーム"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "T",
+        "teamName": "Tigers",
+        "score": 2
+      },
+      "home": {
+        "teamCode": "L",
+        "teamName": "Lions",
+        "score": 3
+      }
+    },
+    "jaText": "ライトソロホームラン（打点1）",
+    "text": "T.Sato homers (18) to right field.",
+    "url": "https://npb.jp/scores/2025/0611/l-t-02/playbyplay.html#com9-1"
+  }
+]
