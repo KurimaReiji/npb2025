@@ -3,9 +3,7 @@
     "jaText": "（走者・大島）二塁盗塁成功",
     "text": "Ohshima steals 2nd base.",
     "pickoff": "",
-    "catcher": {},
-    "catchers": [
-      {
+    "catcher": {
         "id": "71375138",
         "jaBoxscoreName": "太田",
         "jaRegisteredName": "太田　光",
@@ -15,27 +13,13 @@
         "boxscoreName": "Ohta",
         "pitchHand": "R",
         "batSide": "R"
-      },
-      {
-        "id": "61165134",
-        "jaBoxscoreName": "石原",
-        "jaRegisteredName": "石原　彪",
-        "fullLFMName": "Ishihara, Tsuyoshi",
-        "primaryNumber": "70",
-        "teamCode": "E",
-        "boxscoreName": "Ishihara",
-        "pitchHand": "R",
-        "batSide": "R"
       }
-    ]
   },
   {
     "jaText": "（走者・上林）二塁盗塁成功",
     "text": "Uebayashi steals 2nd base.",
     "pickoff": "",
-    "catcher": {},
-    "catchers": [
-      {
+    "catcher": {
         "id": "71375138",
         "jaBoxscoreName": "太田",
         "jaRegisteredName": "太田　光",
@@ -45,19 +29,7 @@
         "boxscoreName": "Ohta",
         "pitchHand": "R",
         "batSide": "R"
-      },
-      {
-        "id": "61165134",
-        "jaBoxscoreName": "石原",
-        "jaRegisteredName": "石原　彪",
-        "fullLFMName": "Ishihara, Tsuyoshi",
-        "primaryNumber": "70",
-        "teamCode": "E",
-        "boxscoreName": "Ishihara",
-        "pitchHand": "R",
-        "batSide": "R"
       }
-    ]
   },
   {
     "jaText": "（走者・小郷）三塁盗塁成功（ダブルスチール）",
@@ -78,9 +50,7 @@
     "jaText": "（走者・藤原）二塁盗塁成功",
     "text": "Fujiwara steals 2nd base.",
     "pickoff": "",
-    "catcher": {},
-    "catchers": [
-      {
+    "catcher": {
         "id": "11915134",
         "jaBoxscoreName": "坂倉",
         "jaRegisteredName": "坂倉　将吾",
@@ -90,38 +60,13 @@
         "boxscoreName": "Sakakura",
         "pitchHand": "R",
         "batSide": "L"
-      },
-      {
-        "id": "21125151",
-        "jaBoxscoreName": "石原",
-        "jaRegisteredName": "石原　貴規",
-        "fullLFMName": "Ishihara, Tomoki",
-        "primaryNumber": "32",
-        "teamCode": "C",
-        "boxscoreName": "Ishihara",
-        "pitchHand": "R",
-        "batSide": "R"
-      },
-      {
-        "id": "31135114",
-        "jaBoxscoreName": "會澤",
-        "jaRegisteredName": "會澤　翼",
-        "fullLFMName": "Aizawa, Tsubasa",
-        "primaryNumber": "27",
-        "teamCode": "C",
-        "boxscoreName": "Aizawa",
-        "pitchHand": "R",
-        "batSide": "R"
       }
-    ]
   },
   {
     "jaText": "（走者・山本）二塁盗塁成功",
     "text": "Yamamoto steals 2nd base.",
     "pickoff": "",
-    "catcher": {},
-    "catchers": [
-      {
+    "catcher": {
         "id": "11915134",
         "jaBoxscoreName": "坂倉",
         "jaRegisteredName": "坂倉　将吾",
@@ -131,38 +76,13 @@
         "boxscoreName": "Sakakura",
         "pitchHand": "R",
         "batSide": "L"
-      },
-      {
-        "id": "21125151",
-        "jaBoxscoreName": "石原",
-        "jaRegisteredName": "石原　貴規",
-        "fullLFMName": "Ishihara, Tomoki",
-        "primaryNumber": "32",
-        "teamCode": "C",
-        "boxscoreName": "Ishihara",
-        "pitchHand": "R",
-        "batSide": "R"
-      },
-      {
-        "id": "31135114",
-        "jaBoxscoreName": "會澤",
-        "jaRegisteredName": "會澤　翼",
-        "fullLFMName": "Aizawa, Tsubasa",
-        "primaryNumber": "27",
-        "teamCode": "C",
-        "boxscoreName": "Aizawa",
-        "pitchHand": "R",
-        "batSide": "R"
       }
-    ]
   },
   {
     "jaText": "（走者・佐藤）二塁盗塁成功",
     "text": "Satoh steals 2nd base.",
     "pickoff": "",
-    "catcher": {},
-    "catchers": [
-      {
+    "catcher": {
         "id": "11915134",
         "jaBoxscoreName": "坂倉",
         "jaRegisteredName": "坂倉　将吾",
@@ -172,30 +92,7 @@
         "boxscoreName": "Sakakura",
         "pitchHand": "R",
         "batSide": "L"
-      },
-      {
-        "id": "21125151",
-        "jaBoxscoreName": "石原",
-        "jaRegisteredName": "石原　貴規",
-        "fullLFMName": "Ishihara, Tomoki",
-        "primaryNumber": "32",
-        "teamCode": "C",
-        "boxscoreName": "Ishihara",
-        "pitchHand": "R",
-        "batSide": "R"
-      },
-      {
-        "id": "31135114",
-        "jaBoxscoreName": "會澤",
-        "jaRegisteredName": "會澤　翼",
-        "fullLFMName": "Aizawa, Tsubasa",
-        "primaryNumber": "27",
-        "teamCode": "C",
-        "boxscoreName": "Aizawa",
-        "pitchHand": "R",
-        "batSide": "R"
       }
-    ]
   },
   {
     "jaText": "（走者・菊池）二塁盗塁成功",
