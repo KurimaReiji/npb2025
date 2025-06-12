@@ -1,0 +1,292 @@
+[
+  {
+    "id": "41145138-2025-01",
+    "date": "2025-06-12",
+    "batter": {
+      "jaBoxscoreName": "伊藤",
+      "playerId": "41145138",
+      "boxscoreName": "Itoh",
+      "batSide": "R",
+      "teamCode": "E",
+      "primaryNumber": "39",
+      "jaRegisteredName": "伊藤　裕季也",
+      "fullLFMName": "Itoh, Yukiya"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "三浦",
+      "boxscoreName": "Miura",
+      "pitchHand": "L",
+      "teamCode": "D",
+      "primaryNumber": "69",
+      "jaRegisteredName": "三浦　瑞樹",
+      "fullLFMName": "Miura, Mizuki"
+    },
+    "number": 1,
+    "inning": 6,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 2,
+      "strikes": 2
+    },
+    "runs": {
+      "road": 0,
+      "home": 1
+    },
+    "bop": 4,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "Rakuten Mobile",
+      "jaBoxscoreName": "楽天モバイル"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "D",
+        "teamName": "Dragons",
+        "score": 0
+      },
+      "home": {
+        "teamCode": "E",
+        "teamName": "Eagles",
+        "score": 4
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Itoh homers (1) to left field.",
+    "url": "https://npb.jp/scores/2025/0612/e-d-03/playbyplay.html#com6-2"
+  },
+  {
+    "id": "93095150-2025-01",
+    "date": "2025-06-12",
+    "batter": {
+      "jaBoxscoreName": "ゴンザレス",
+      "playerId": "93095150",
+      "boxscoreName": "Gonzalez",
+      "batSide": "R",
+      "teamCode": "E",
+      "primaryNumber": "12",
+      "jaRegisteredName": "Ｏ．ゴンザレス",
+      "fullLFMName": "Gonzalez, Oscar"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "岡田",
+      "boxscoreName": "Okada",
+      "pitchHand": "L",
+      "teamCode": "D",
+      "primaryNumber": "11",
+      "jaRegisteredName": "岡田　俊哉",
+      "fullLFMName": "Okada, Toshiya"
+    },
+    "number": 1,
+    "inning": 8,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 1,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 0,
+      "home": 3
+    },
+    "bop": 6,
+    "rbi": 1,
+    "whereHit": "89",
+    "venue": {
+      "boxscoreName": "Rakuten Mobile",
+      "jaBoxscoreName": "楽天モバイル"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "D",
+        "teamName": "Dragons",
+        "score": 0
+      },
+      "home": {
+        "teamCode": "E",
+        "teamName": "Eagles",
+        "score": 4
+      }
+    },
+    "jaText": "右中間ソロホームラン（打点1）",
+    "text": "Gonzalez homers (1) to right center.",
+    "url": "https://npb.jp/scores/2025/0612/e-d-03/playbyplay.html#com8-2"
+  },
+  {
+    "id": "43145157-2025-11",
+    "date": "2025-06-12",
+    "batter": {
+      "jaBoxscoreName": "森下",
+      "playerId": "43145157",
+      "boxscoreName": "Morishita",
+      "batSide": "R",
+      "teamCode": "T",
+      "primaryNumber": "1",
+      "jaRegisteredName": "森下　翔太",
+      "fullLFMName": "Morishita, Shota"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "菅井",
+      "boxscoreName": "Sugai",
+      "pitchHand": "L",
+      "teamCode": "L",
+      "primaryNumber": "71",
+      "jaRegisteredName": "菅井　信也",
+      "fullLFMName": "Sugai, Shinya"
+    },
+    "number": 11,
+    "inning": 1,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "---",
+    "count": {
+      "balls": 2,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 3,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "Belluna Dome",
+      "jaBoxscoreName": "ベルーナドーム"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "T",
+        "teamName": "Tigers",
+        "score": 1
+      },
+      "home": {
+        "teamCode": "L",
+        "teamName": "Lions",
+        "score": 4
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Morishita homers (11) to left field.",
+    "url": "https://npb.jp/scores/2025/0612/l-t-03/playbyplay.html#com1-1"
+  },
+  {
+    "id": "21125155-2025-03",
+    "date": "2025-06-12",
+    "batter": {
+      "jaBoxscoreName": "池田",
+      "playerId": "21125155",
+      "boxscoreName": "Ikeda",
+      "batSide": "R",
+      "teamCode": "M",
+      "primaryNumber": "00",
+      "jaRegisteredName": "池田　来翔",
+      "fullLFMName": "Ikeda, Raito"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "アドゥワ",
+      "boxscoreName": "Aduwa",
+      "pitchHand": "R",
+      "teamCode": "C",
+      "primaryNumber": "48",
+      "jaRegisteredName": "アドゥワ　誠",
+      "fullLFMName": "Aduwa, Makoto"
+    },
+    "number": 3,
+    "inning": 1,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "---",
+    "count": {
+      "balls": 2,
+      "strikes": 2
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 3,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "ZOZO Marine",
+      "jaBoxscoreName": "ZOZOマリン"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "C",
+        "teamName": "Carp",
+        "score": 4
+      },
+      "home": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 5
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Ikeda homers (3) to left field.",
+    "url": "https://npb.jp/scores/2025/0612/m-c-03/playbyplay.html#com1-2"
+  },
+  {
+    "id": "03505136-2025-07",
+    "date": "2025-06-12",
+    "batter": {
+      "jaBoxscoreName": "ソト",
+      "playerId": "03505136",
+      "boxscoreName": "Soto",
+      "batSide": "R",
+      "teamCode": "M",
+      "primaryNumber": "99",
+      "jaRegisteredName": "Ｎ．ソト",
+      "fullLFMName": "Soto, Neftali"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "アドゥワ",
+      "boxscoreName": "Aduwa",
+      "pitchHand": "R",
+      "teamCode": "C",
+      "primaryNumber": "48",
+      "jaRegisteredName": "アドゥワ　誠",
+      "fullLFMName": "Aduwa, Makoto"
+    },
+    "number": 7,
+    "inning": 4,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "-2-",
+    "count": {
+      "balls": 3,
+      "strikes": 2
+    },
+    "runs": {
+      "road": 1,
+      "home": 1
+    },
+    "bop": 5,
+    "rbi": 2,
+    "whereHit": "9",
+    "venue": {
+      "boxscoreName": "ZOZO Marine",
+      "jaBoxscoreName": "ZOZOマリン"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "C",
+        "teamName": "Carp",
+        "score": 4
+      },
+      "home": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 5
+      }
+    },
+    "jaText": "ライト2ランホームラン（打点2）",
+    "text": "Soto homers (7) to right field.",
+    "url": "https://npb.jp/scores/2025/0612/m-c-03/playbyplay.html#com4-2"
+  }
+]
