@@ -12,7 +12,7 @@
   {
     "jaText": "（走者・増田）二塁盗塁成功",
     "text": "Masuda steals 2nd base.",
-    "pickoff": ""
+    "pickoff": "Y"
   },
   {
     "jaText": "（走者・岡林）二塁盗塁成功",
@@ -43,20 +43,7 @@
     "jaText": "（走者・佐藤輝）一塁牽制アウト",
     "text": "T.Sato picked off at 1st base.",
     "pickoff": "Y",
-    "catcher": {},
-    "catchers": [
-      {
-        "id": "71675138",
-        "jaBoxscoreName": "牧野",
-        "jaRegisteredName": "牧野　翔矢",
-        "fullLFMName": "Makino, Shoya",
-        "primaryNumber": "53",
-        "teamCode": "L",
-        "boxscoreName": "Makino",
-        "pitchHand": "R",
-        "batSide": "L"
-      },
-      {
+    "catcher": {
         "id": "81785155",
         "jaBoxscoreName": "古賀悠",
         "jaRegisteredName": "古賀　悠斗",
@@ -67,7 +54,6 @@
         "pitchHand": "R",
         "batSide": "R"
       }
-    ]
   },
   {
     "jaText": "（走者・仲田）二塁盗塁失敗",
