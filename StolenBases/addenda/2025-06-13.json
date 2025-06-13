@@ -1,0 +1,127 @@
+[
+  {
+    "jaText": "（走者・清宮幸）二塁盗塁成功",
+    "text": "Kiyomiya steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・五十幡）二塁盗塁失敗",
+    "text": "Isobata caught stealing 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・森下）二塁盗塁成功",
+    "text": "Morishita steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・辰己）二塁盗塁成功",
+    "text": "R.Tatsumi steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・村松）二塁盗塁失敗",
+    "text": "Muramatsu caught stealing 2nd base.",
+    "pickoff": "",
+    "catcher": {},
+    "catchers": [
+      {
+        "id": "91995112",
+        "jaBoxscoreName": "炭谷",
+        "jaRegisteredName": "炭谷　銀仁朗",
+        "fullLFMName": "Sumitani, Ginjiro",
+        "primaryNumber": "27",
+        "teamCode": "L",
+        "boxscoreName": "Sumitani",
+        "pitchHand": "R",
+        "batSide": "R"
+      },
+      {
+        "id": "81785155",
+        "jaBoxscoreName": "古賀悠",
+        "jaRegisteredName": "古賀　悠斗",
+        "fullLFMName": "Koga, Yuto",
+        "primaryNumber": "22",
+        "teamCode": "L",
+        "boxscoreName": "Y.Koga",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+    ]
+  },
+  {
+    "jaText": "（走者・尾田）二塁盗塁成功",
+    "text": "Oda steals 2nd base.",
+    "pickoff": "",
+    "catcher": {},
+    "catchers": [
+      {
+        "id": "91995112",
+        "jaBoxscoreName": "炭谷",
+        "jaRegisteredName": "炭谷　銀仁朗",
+        "fullLFMName": "Sumitani, Ginjiro",
+        "primaryNumber": "27",
+        "teamCode": "L",
+        "boxscoreName": "Sumitani",
+        "pitchHand": "R",
+        "batSide": "R"
+      },
+      {
+        "id": "81785155",
+        "jaBoxscoreName": "古賀悠",
+        "jaRegisteredName": "古賀　悠斗",
+        "fullLFMName": "Koga, Yuto",
+        "primaryNumber": "22",
+        "teamCode": "L",
+        "boxscoreName": "Y.Koga",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+    ]
+  },
+  {
+    "jaText": "（走者・仲田）二塁盗塁成功",
+    "text": "Nakata steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・山野辺）二塁盗塁成功",
+    "text": "Yamanobe steals 2nd base.",
+    "pickoff": "",
+    "catcher": {},
+    "catchers": [
+      {
+        "id": "71075151",
+        "jaBoxscoreName": "佐藤",
+        "jaRegisteredName": "佐藤　都志也",
+        "fullLFMName": "Satoh, Toshiya",
+        "primaryNumber": "32",
+        "teamCode": "M",
+        "boxscoreName": "Satoh",
+        "pitchHand": "R",
+        "batSide": "L"
+      },
+      {
+        "id": "41945137",
+        "jaBoxscoreName": "田村",
+        "jaRegisteredName": "田村　龍弘",
+        "fullLFMName": "Tamura, Tatsuhiro",
+        "primaryNumber": "27",
+        "teamCode": "M",
+        "boxscoreName": "Tamura",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+    ]
+  },
+  {
+    "jaText": "（走者・藤原）二塁盗塁成功",
+    "text": "Fujiwara steals 2nd base.",
+    "pickoff": ""
+  },
+  {
+    "jaText": "（走者・栗原）二塁盗塁成功",
+    "text": "Kurihara steals 2nd base.",
+    "pickoff": ""
+  }
+]
