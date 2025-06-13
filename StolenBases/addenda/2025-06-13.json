@@ -23,9 +23,7 @@
     "jaText": "（走者・村松）二塁盗塁失敗",
     "text": "Muramatsu caught stealing 2nd base.",
     "pickoff": "",
-    "catcher": {},
-    "catchers": [
-      {
+    "catcher": {
         "id": "91995112",
         "jaBoxscoreName": "炭谷",
         "jaRegisteredName": "炭谷　銀仁朗",
@@ -35,38 +33,13 @@
         "boxscoreName": "Sumitani",
         "pitchHand": "R",
         "batSide": "R"
-      },
-      {
-        "id": "81785155",
-        "jaBoxscoreName": "古賀悠",
-        "jaRegisteredName": "古賀　悠斗",
-        "fullLFMName": "Koga, Yuto",
-        "primaryNumber": "22",
-        "teamCode": "L",
-        "boxscoreName": "Y.Koga",
-        "pitchHand": "R",
-        "batSide": "R"
       }
-    ]
   },
   {
     "jaText": "（走者・尾田）二塁盗塁成功",
     "text": "Oda steals 2nd base.",
     "pickoff": "",
-    "catcher": {},
-    "catchers": [
-      {
-        "id": "91995112",
-        "jaBoxscoreName": "炭谷",
-        "jaRegisteredName": "炭谷　銀仁朗",
-        "fullLFMName": "Sumitani, Ginjiro",
-        "primaryNumber": "27",
-        "teamCode": "L",
-        "boxscoreName": "Sumitani",
-        "pitchHand": "R",
-        "batSide": "R"
-      },
-      {
+    "catcher": {
         "id": "81785155",
         "jaBoxscoreName": "古賀悠",
         "jaRegisteredName": "古賀　悠斗",
@@ -77,7 +50,6 @@
         "pitchHand": "R",
         "batSide": "R"
       }
-    ]
   },
   {
     "jaText": "（走者・仲田）二塁盗塁成功",
@@ -88,20 +60,7 @@
     "jaText": "（走者・山野辺）二塁盗塁成功",
     "text": "Yamanobe steals 2nd base.",
     "pickoff": "",
-    "catcher": {},
-    "catchers": [
-      {
-        "id": "71075151",
-        "jaBoxscoreName": "佐藤",
-        "jaRegisteredName": "佐藤　都志也",
-        "fullLFMName": "Satoh, Toshiya",
-        "primaryNumber": "32",
-        "teamCode": "M",
-        "boxscoreName": "Satoh",
-        "pitchHand": "R",
-        "batSide": "L"
-      },
-      {
+    "catcher": {
         "id": "41945137",
         "jaBoxscoreName": "田村",
         "jaRegisteredName": "田村　龍弘",
@@ -112,7 +71,6 @@
         "pitchHand": "R",
         "batSide": "R"
       }
-    ]
   },
   {
     "jaText": "（走者・藤原）二塁盗塁成功",
