@@ -1,0 +1,466 @@
+[
+  {
+    "id": "31435138-2025-07",
+    "date": "2025-06-14",
+    "batter": {
+      "jaBoxscoreName": "野村",
+      "playerId": "31435138",
+      "boxscoreName": "Nomura",
+      "batSide": "R",
+      "teamCode": "F",
+      "primaryNumber": "5",
+      "jaRegisteredName": "野村　佑希",
+      "fullLFMName": "Nomura, Yuki"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "床田",
+      "boxscoreName": "Tokoda",
+      "pitchHand": "L",
+      "teamCode": "C",
+      "primaryNumber": "19",
+      "jaRegisteredName": "床田　寛樹",
+      "fullLFMName": "Tokoda, Hiroki"
+    },
+    "number": 7,
+    "inning": 2,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 0,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 5,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "ES CON FIELD",
+      "jaBoxscoreName": "エスコンＦ"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "C",
+        "teamName": "Carp",
+        "score": 0
+      },
+      "home": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 5
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Nomura homers (7) to left field.",
+    "url": "https://npb.jp/scores/2025/0614/f-c-02/playbyplay.html#com2-2"
+  },
+  {
+    "id": "73075159-2025-14",
+    "date": "2025-06-14",
+    "batter": {
+      "jaBoxscoreName": "レイエス",
+      "playerId": "73075159",
+      "boxscoreName": "Reyes",
+      "batSide": "R",
+      "teamCode": "F",
+      "primaryNumber": "99",
+      "jaRegisteredName": "Ｆ．レイエス",
+      "fullLFMName": "Reyes, Franmil"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "床田",
+      "boxscoreName": "Tokoda",
+      "pitchHand": "L",
+      "teamCode": "C",
+      "primaryNumber": "19",
+      "jaRegisteredName": "床田　寛樹",
+      "fullLFMName": "Tokoda, Hiroki"
+    },
+    "number": 14,
+    "inning": 3,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "-2-",
+    "count": {
+      "balls": 0,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 0,
+      "home": 1
+    },
+    "bop": 4,
+    "rbi": 2,
+    "whereHit": "78",
+    "venue": {
+      "boxscoreName": "ES CON FIELD",
+      "jaBoxscoreName": "エスコンＦ"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "C",
+        "teamName": "Carp",
+        "score": 0
+      },
+      "home": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 5
+      }
+    },
+    "jaText": "左中間2ランホームラン（打点2）",
+    "text": "Reyes homers (14) to left center.",
+    "url": "https://npb.jp/scores/2025/0614/f-c-02/playbyplay.html#com3-2"
+  },
+  {
+    "id": "21925151-2025-04",
+    "date": "2025-06-14",
+    "batter": {
+      "jaBoxscoreName": "郡司",
+      "playerId": "21925151",
+      "boxscoreName": "Gunji",
+      "batSide": "R",
+      "teamCode": "F",
+      "primaryNumber": "30",
+      "jaRegisteredName": "郡司　裕也",
+      "fullLFMName": "Gunji, Yuya"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "床田",
+      "boxscoreName": "Tokoda",
+      "pitchHand": "L",
+      "teamCode": "C",
+      "primaryNumber": "19",
+      "jaRegisteredName": "床田　寛樹",
+      "fullLFMName": "Tokoda, Hiroki"
+    },
+    "number": 4,
+    "inning": 4,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 2,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 0,
+      "home": 3
+    },
+    "bop": 6,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "ES CON FIELD",
+      "jaBoxscoreName": "エスコンＦ"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "C",
+        "teamName": "Carp",
+        "score": 0
+      },
+      "home": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 5
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Gunji homers (4) to left field.",
+    "url": "https://npb.jp/scores/2025/0614/f-c-02/playbyplay.html#com4-2"
+  },
+  {
+    "id": "03105157-2025-02",
+    "date": "2025-06-14",
+    "batter": {
+      "jaBoxscoreName": "村松",
+      "playerId": "03105157",
+      "boxscoreName": "Muramatsu",
+      "batSide": "L",
+      "teamCode": "D",
+      "primaryNumber": "5",
+      "jaRegisteredName": "村松　開人",
+      "fullLFMName": "Muramatsu, Kaito"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "與座",
+      "boxscoreName": "Yoza",
+      "pitchHand": "R",
+      "teamCode": "L",
+      "primaryNumber": "15",
+      "jaRegisteredName": "與座　海人",
+      "fullLFMName": "Yoza, Kaito"
+    },
+    "number": 2,
+    "inning": 6,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 2,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 0,
+      "home": 2
+    },
+    "bop": 9,
+    "rbi": 1,
+    "whereHit": "9",
+    "venue": {
+      "boxscoreName": "Belluna Dome",
+      "jaBoxscoreName": "ベルーナドーム"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "D",
+        "teamName": "Dragons",
+        "score": 1
+      },
+      "home": {
+        "teamCode": "L",
+        "teamName": "Lions",
+        "score": 2
+      }
+    },
+    "jaText": "ライトソロホームラン（打点1）",
+    "text": "Muramatsu homers (2) to right field.",
+    "url": "https://npb.jp/scores/2025/0614/l-d-02/playbyplay.html#com6-1"
+  },
+  {
+    "id": "81685153-2025-04",
+    "date": "2025-06-14",
+    "batter": {
+      "jaBoxscoreName": "長谷川",
+      "playerId": "81685153",
+      "boxscoreName": "Hasegawa",
+      "batSide": "R",
+      "teamCode": "L",
+      "primaryNumber": "63",
+      "jaRegisteredName": "長谷川　信哉",
+      "fullLFMName": "Hasegawa, Shinya"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "髙橋宏",
+      "boxscoreName": "H.Takahashi",
+      "pitchHand": "R",
+      "teamCode": "D",
+      "primaryNumber": "19",
+      "jaRegisteredName": "髙橋　宏斗",
+      "fullLFMName": "Takahashi, Hiroto"
+    },
+    "number": 4,
+    "inning": 4,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 1,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 0,
+      "home": 1
+    },
+    "bop": 7,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "Belluna Dome",
+      "jaBoxscoreName": "ベルーナドーム"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "D",
+        "teamName": "Dragons",
+        "score": 1
+      },
+      "home": {
+        "teamCode": "L",
+        "teamName": "Lions",
+        "score": 2
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Hasegawa homers (4) to left field.",
+    "url": "https://npb.jp/scores/2025/0614/l-d-02/playbyplay.html#com4-2"
+  },
+  {
+    "id": "91695153-2025-01",
+    "date": "2025-06-14",
+    "batter": {
+      "jaBoxscoreName": "並木",
+      "playerId": "91695153",
+      "boxscoreName": "Namiki",
+      "batSide": "R",
+      "teamCode": "S",
+      "primaryNumber": "0",
+      "jaRegisteredName": "並木　秀尊",
+      "fullLFMName": "Namiki, Hidetaka"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "小島",
+      "boxscoreName": "Ojima",
+      "pitchHand": "L",
+      "teamCode": "M",
+      "primaryNumber": "14",
+      "jaRegisteredName": "小島　和哉",
+      "fullLFMName": "Ojima, Kazuya"
+    },
+    "number": 1,
+    "inning": 4,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 0,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 1,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "ZOZO Marine",
+      "jaBoxscoreName": "ZOZOマリン"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 5
+      },
+      "home": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 0
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Namiki homers (1) to left field.",
+    "url": "https://npb.jp/scores/2025/0614/m-s-02/playbyplay.html#com4-1"
+  },
+  {
+    "id": "91895133-2025-04",
+    "date": "2025-06-14",
+    "batter": {
+      "jaBoxscoreName": "山田",
+      "playerId": "91895133",
+      "boxscoreName": "Yamada",
+      "batSide": "R",
+      "teamCode": "S",
+      "primaryNumber": "1",
+      "jaRegisteredName": "山田　哲人",
+      "fullLFMName": "Yamada, Tetsuto"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "菊地",
+      "boxscoreName": "Kikuchi",
+      "pitchHand": "R",
+      "teamCode": "M",
+      "primaryNumber": "28",
+      "jaRegisteredName": "菊地　吏玖",
+      "fullLFMName": "Kikuchi, Riku"
+    },
+    "number": 4,
+    "inning": 6,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "---",
+    "count": {
+      "balls": 2,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 4,
+      "home": 0
+    },
+    "bop": 6,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "ZOZO Marine",
+      "jaBoxscoreName": "ZOZOマリン"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 5
+      },
+      "home": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 0
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Yamada homers (4) to left field.",
+    "url": "https://npb.jp/scores/2025/0614/m-s-02/playbyplay.html#com6-1"
+  },
+  {
+    "id": "71175153-2025-01",
+    "date": "2025-06-14",
+    "batter": {
+      "jaBoxscoreName": "秋広",
+      "playerId": "71175153",
+      "boxscoreName": "Akihiro",
+      "batSide": "L",
+      "teamCode": "H",
+      "primaryNumber": "52",
+      "jaRegisteredName": "秋広　優人",
+      "fullLFMName": "Akihiro, Yuto"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "大貫",
+      "boxscoreName": "Ohnuki",
+      "pitchHand": "R",
+      "teamCode": "DB",
+      "primaryNumber": "16",
+      "jaRegisteredName": "大貫　晋一",
+      "fullLFMName": "Ohnuki, Shinichi"
+    },
+    "number": 1,
+    "inning": 2,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "---",
+    "count": {
+      "balls": 2,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 7,
+    "rbi": 1,
+    "whereHit": "9",
+    "venue": {
+      "boxscoreName": "MIZUHO PayPay",
+      "jaBoxscoreName": "みずほPayPay"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "DB",
+        "teamName": "Baystars",
+        "score": 0
+      },
+      "home": {
+        "teamCode": "H",
+        "teamName": "Hawks",
+        "score": 4
+      }
+    },
+    "jaText": "ライトソロホームラン（打点1）",
+    "text": "Akihiro homers (1) to right field.",
+    "url": "https://npb.jp/scores/2025/0614/h-db-02/playbyplay.html#com2-2"
+  }
+]
