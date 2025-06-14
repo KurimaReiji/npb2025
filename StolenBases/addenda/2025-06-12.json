@@ -2,92 +2,92 @@
   {
     "jaText": "（走者・並木）二塁盗塁失敗",
     "text": "Namiki caught stealing 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・五十幡）二塁盗塁失敗",
     "text": "Isobata caught stealing 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・増田）二塁盗塁成功",
     "text": "Masuda steals 2nd base.",
-    "pickoff": "Y"
+    "countsAsStealAttempt": false
   },
   {
     "jaText": "（走者・岡林）二塁盗塁成功",
     "text": "Okabayashi steals 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・小深田）二塁盗塁成功",
     "text": "Kobukata steals 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・岡林）二塁盗塁成功",
     "text": "Okabayashi steals 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・西川）二塁盗塁成功",
     "text": "Nishikawa steals 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・平沼）二塁盗塁成功",
     "text": "Hiranuma steals 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・佐藤輝）一塁牽制アウト",
     "text": "T.Sato picked off at 1st base.",
-    "pickoff": "Y",
+    "countsAsStealAttempt": false,
     "catcher": {
-        "id": "81785155",
-        "jaBoxscoreName": "古賀悠",
-        "jaRegisteredName": "古賀　悠斗",
-        "fullLFMName": "Koga, Yuto",
-        "primaryNumber": "22",
-        "teamCode": "L",
-        "boxscoreName": "Y.Koga",
-        "pitchHand": "R",
-        "batSide": "R"
-      }
+      "id": "81785155",
+      "jaBoxscoreName": "古賀悠",
+      "jaRegisteredName": "古賀　悠斗",
+      "fullLFMName": "Koga, Yuto",
+      "primaryNumber": "22",
+      "teamCode": "L",
+      "boxscoreName": "Y.Koga",
+      "pitchHand": "R",
+      "batSide": "R"
+    }
   },
   {
     "jaText": "（走者・仲田）二塁盗塁失敗",
     "text": "Nakata caught stealing 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・ファビアン）二塁盗塁失敗",
     "text": "Fabian caught stealing 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・藤原）二塁盗塁成功",
     "text": "Fujiwara steals 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・石垣）二塁盗塁成功",
     "text": "Ishigaki steals 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・来田）二塁盗塁成功",
     "text": "Kita steals 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・中川）二塁盗塁成功",
     "text": "Nakagawa steals 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・増田陸）二塁盗塁失敗",
     "text": "R.Masuda caught stealing 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   }
 ]

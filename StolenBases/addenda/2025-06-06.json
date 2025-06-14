@@ -1,95 +1,95 @@
 [
   {
     "jaText": "（走者・サンタナ）二塁盗塁失敗",
-    "text": "Santana picked off and caught stealing 2nd base.",
-    "pickoff": "Y"
+    "text": "Santana caught stealing 2nd base.",
+    "countsAsStealAttempt": false
   },
   {
     "jaText": "（走者・佐藤直）二塁盗塁成功",
     "text": "N.Satoh steals 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・松尾）二塁盗塁成功",
     "text": "Matsuo steals 2nd base.",
-    "pickoff": "",
+    "countsAsStealAttempt": true,
     "catcher": {
-        "id": "61065137",
-        "jaBoxscoreName": "伏見",
-        "jaRegisteredName": "伏見　寅威",
-        "fullLFMName": "Fushimi, Torai",
-        "primaryNumber": "23",
-        "teamCode": "F",
-        "boxscoreName": "Fushimi",
-        "pitchHand": "R",
-        "batSide": "R"
-      }
+      "id": "61065137",
+      "jaBoxscoreName": "伏見",
+      "jaRegisteredName": "伏見　寅威",
+      "fullLFMName": "Fushimi, Torai",
+      "primaryNumber": "23",
+      "teamCode": "F",
+      "boxscoreName": "Fushimi",
+      "pitchHand": "R",
+      "batSide": "R"
+    }
   },
   {
     "jaText": "（走者・矢澤）二塁盗塁成功",
     "text": "Yazawa steals 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・池田）二塁盗塁成功",
     "text": "Ikeda steals 2nd base.",
-    "pickoff": "",
+    "countsAsStealAttempt": true,
     "catcher": {
-        "id": "21125150",
-        "jaBoxscoreName": "石伊",
-        "jaRegisteredName": "石伊　雄太",
-        "fullLFMName": "Ishii, Yuta",
-        "primaryNumber": "9",
-        "teamCode": "D",
-        "boxscoreName": "Ishii",
-        "pitchHand": "R",
-        "batSide": "R"
-      }
+      "id": "21125150",
+      "jaBoxscoreName": "石伊",
+      "jaRegisteredName": "石伊　雄太",
+      "fullLFMName": "Ishii, Yuta",
+      "primaryNumber": "9",
+      "teamCode": "D",
+      "boxscoreName": "Ishii",
+      "pitchHand": "R",
+      "batSide": "R"
+    }
   },
   {
     "jaText": "（走者・山本）本塁盗塁失敗",
     "text": "Yamamoto caught stealing home plate.",
-    "pickoff": "Y"
+    "countsAsStealAttempt": false
   },
   {
     "jaText": "（走者・若月）二塁盗塁成功",
     "text": "Wakatsuki steals 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・平沼）二塁盗塁成功",
     "text": "Hiranuma steals 2nd base.",
-    "pickoff": "",
+    "countsAsStealAttempt": true,
     "catcher": {
-        "id": "11915134",
-        "jaBoxscoreName": "坂倉",
-        "jaRegisteredName": "坂倉　将吾",
-        "fullLFMName": "Sakakura, Shogo",
-        "primaryNumber": "31",
-        "teamCode": "C",
-        "boxscoreName": "Sakakura",
-        "pitchHand": "R",
-        "batSide": "L"
-      }
+      "id": "11915134",
+      "jaBoxscoreName": "坂倉",
+      "jaRegisteredName": "坂倉　将吾",
+      "fullLFMName": "Sakakura, Shogo",
+      "primaryNumber": "31",
+      "teamCode": "C",
+      "boxscoreName": "Sakakura",
+      "pitchHand": "R",
+      "batSide": "L"
+    }
   },
   {
     "jaText": "（走者・末包）二塁盗塁失敗",
     "text": "Suekane caught stealing 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・菊池）二塁盗塁成功",
     "text": "R.Kikuchi steals 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・羽月）二塁盗塁成功",
     "text": "Hatsuki steals 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・羽月）三塁盗塁成功",
     "text": "Hatsuki steals 3rd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   }
 ]

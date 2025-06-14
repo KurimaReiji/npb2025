@@ -2,48 +2,48 @@
   {
     "jaText": "（走者・岡林）二塁盗塁成功",
     "text": "Okabayashi steals 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・中山）二塁盗塁失敗",
     "text": "Nakayama caught stealing 2nd base.",
-    "pickoff": "",
+    "countsAsStealAttempt": true,
     "catcher": {
-        "id": "31735132",
-        "jaBoxscoreName": "木下",
-        "jaRegisteredName": "木下　拓哉",
-        "fullLFMName": "Kinoshita, Takuya",
-        "primaryNumber": "35",
-        "teamCode": "D",
-        "boxscoreName": "Kinoshita",
-        "pitchHand": "R",
-        "batSide": "R"
-      }
+      "id": "31735132",
+      "jaBoxscoreName": "木下",
+      "jaRegisteredName": "木下　拓哉",
+      "fullLFMName": "Kinoshita, Takuya",
+      "primaryNumber": "35",
+      "teamCode": "D",
+      "boxscoreName": "Kinoshita",
+      "pitchHand": "R",
+      "batSide": "R"
+    }
   },
   {
     "jaText": "（走者・甲斐）二塁盗塁成功",
     "text": "Kai steals 2nd base.",
-    "pickoff": "",
+    "countsAsStealAttempt": true,
     "catcher": {
-        "id": "31735132",
-        "jaBoxscoreName": "木下",
-        "jaRegisteredName": "木下　拓哉",
-        "fullLFMName": "Kinoshita, Takuya",
-        "primaryNumber": "35",
-        "teamCode": "D",
-        "boxscoreName": "Kinoshita",
-        "pitchHand": "R",
-        "batSide": "R"
-      }
+      "id": "31735132",
+      "jaBoxscoreName": "木下",
+      "jaRegisteredName": "木下　拓哉",
+      "fullLFMName": "Kinoshita, Takuya",
+      "primaryNumber": "35",
+      "teamCode": "D",
+      "boxscoreName": "Kinoshita",
+      "pitchHand": "R",
+      "batSide": "R"
+    }
   },
   {
     "jaText": "（走者・小幡）二塁盗塁成功",
     "text": "Obata steals 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・武藤）二塁盗塁成功",
     "text": "Mutoh steals 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   }
 ]

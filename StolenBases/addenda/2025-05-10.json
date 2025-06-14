@@ -2,68 +2,68 @@
   {
     "jaText": "（走者・泉口）二塁盗塁失敗",
     "text": "Izuguchi caught stealing 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・三森）三塁盗塁成功",
     "text": "Mimori steals 3rd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・上林）二塁盗塁成功",
     "text": "Uebayashi steals 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・森下）二塁盗塁失敗",
     "text": "Morishita caught stealing 2nd base.",
-    "pickoff": "Y"
+    "countsAsStealAttempt": false
   },
   {
     "jaText": "（走者・小深田）二塁盗塁成功",
     "text": "Kobukata steals 2nd base.",
-    "pickoff": "",
+    "countsAsStealAttempt": true,
     "catcher": {
-        "id": "21925151",
-        "jaBoxscoreName": "郡司",
-        "jaRegisteredName": "郡司　裕也",
-        "fullLFMName": "Gunji, Yuya",
-        "primaryNumber": "30",
-        "teamCode": "F",
-        "boxscoreName": "Gunji",
-        "pitchHand": "R",
-        "batSide": "R"
-      }
+      "id": "21925151",
+      "jaBoxscoreName": "郡司",
+      "jaRegisteredName": "郡司　裕也",
+      "fullLFMName": "Gunji, Yuya",
+      "primaryNumber": "30",
+      "teamCode": "F",
+      "boxscoreName": "Gunji",
+      "pitchHand": "R",
+      "batSide": "R"
+    }
   },
   {
     "jaText": "（走者・五十幡）二塁盗塁成功",
     "text": "Isobata steals 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・山縣）二塁盗塁成功",
     "text": "Yamagata steals 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・藤原）二塁盗塁成功",
     "text": "Fujiwara steals 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・源田）二塁盗塁成功",
     "text": "Genda steals 2nd base.",
-    "pickoff": "",
+    "countsAsStealAttempt": true,
     "catcher": {
-        "id": "71075151",
-        "jaBoxscoreName": "佐藤",
-        "jaRegisteredName": "佐藤　都志也",
-        "fullLFMName": "Satoh, Toshiya",
-        "primaryNumber": "32",
-        "teamCode": "M",
-        "boxscoreName": "Satoh",
-        "pitchHand": "R",
-        "batSide": "L"
-      }
+      "id": "71075151",
+      "jaBoxscoreName": "佐藤",
+      "jaRegisteredName": "佐藤　都志也",
+      "fullLFMName": "Satoh, Toshiya",
+      "primaryNumber": "32",
+      "teamCode": "M",
+      "boxscoreName": "Satoh",
+      "pitchHand": "R",
+      "batSide": "L"
+    }
   }
 ]

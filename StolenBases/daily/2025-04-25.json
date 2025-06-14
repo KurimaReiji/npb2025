@@ -37,8 +37,7 @@
     "catcher": {},
     "scoring": "StolenBase",
     "base": "HP",
-    "isDoubleSteal": "Y",
-    "pickoff": "",
+    "isDoubleSteal": true,
     "inning": 3,
     "halfInning": "top",
     "outs": 2,
@@ -91,7 +90,8 @@
         "pitchHand": "R",
         "batSide": "R"
       }
-    ]
+    ],
+    "countsAsStealAttempt": true
   },
   {
     "date": "2025-04-25",
@@ -131,8 +131,7 @@
     "catcher": {},
     "scoring": "StolenBase",
     "base": "2B",
-    "isDoubleSteal": "Y",
-    "pickoff": "",
+    "isDoubleSteal": true,
     "inning": 3,
     "halfInning": "top",
     "outs": 2,
@@ -185,7 +184,8 @@
         "pitchHand": "R",
         "batSide": "R"
       }
-    ]
+    ],
+    "countsAsStealAttempt": true
   },
   {
     "date": "2025-04-25",
@@ -235,7 +235,6 @@
     },
     "scoring": "StolenBase",
     "base": "2B",
-    "pickoff": "",
     "inning": 3,
     "halfInning": "bottom",
     "outs": 1,
@@ -277,7 +276,8 @@
         "pitchHand": "R",
         "batSide": "L"
       }
-    ]
+    ],
+    "countsAsStealAttempt": true
   },
   {
     "date": "2025-04-25",
@@ -327,7 +327,6 @@
     },
     "scoring": "StolenBase",
     "base": "2B",
-    "pickoff": "",
     "inning": 7,
     "halfInning": "bottom",
     "outs": 0,
@@ -369,7 +368,8 @@
         "pitchHand": "R",
         "batSide": "L"
       }
-    ]
+    ],
+    "countsAsStealAttempt": true
   },
   {
     "date": "2025-04-25",
@@ -409,7 +409,6 @@
     "catcher": {},
     "scoring": "StolenBase",
     "base": "2B",
-    "pickoff": "",
     "inning": 7,
     "halfInning": "top",
     "outs": 1,
@@ -462,7 +461,8 @@
         "pitchHand": "R",
         "batSide": "L"
       }
-    ]
+    ],
+    "countsAsStealAttempt": true
   },
   {
     "date": "2025-04-25",
@@ -512,7 +512,6 @@
     },
     "scoring": "CaughtStealing",
     "base": "2B",
-    "pickoff": "",
     "inning": 8,
     "halfInning": "top",
     "outs": 0,
@@ -554,6 +553,7 @@
         "pitchHand": "R",
         "batSide": "R"
       }
-    ]
+    ],
+    "countsAsStealAttempt": true
   }
 ]

@@ -2,85 +2,85 @@
   {
     "jaText": "（走者・三森）二塁盗塁成功",
     "text": "Mimori steals 2nd base.",
-    "pickoff": "",
+    "countsAsStealAttempt": true,
     "catcher": {
-        "id": "31735132",
-        "jaBoxscoreName": "木下",
-        "jaRegisteredName": "木下　拓哉",
-        "fullLFMName": "Kinoshita, Takuya",
-        "primaryNumber": "35",
-        "teamCode": "D",
-        "boxscoreName": "Kinoshita",
-        "pitchHand": "R",
-        "batSide": "R"
-      }
+      "id": "31735132",
+      "jaBoxscoreName": "木下",
+      "jaRegisteredName": "木下　拓哉",
+      "fullLFMName": "Kinoshita, Takuya",
+      "primaryNumber": "35",
+      "teamCode": "D",
+      "boxscoreName": "Kinoshita",
+      "pitchHand": "R",
+      "batSide": "R"
+    }
   },
   {
     "jaText": "（走者・田宮）二塁盗塁失敗",
     "text": "Tamiya caught stealing 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・西川）二塁盗塁成功",
     "text": "Nishikawa steals 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・渡部聖）二塁盗塁失敗",
     "text": "S.Watanabe caught stealing 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・西川）二塁盗塁成功",
     "text": "Nishikawa steals 2nd base.",
-    "pickoff": "",
+    "countsAsStealAttempt": true,
     "catcher": {
-        "id": "71375138",
-        "jaBoxscoreName": "太田",
-        "jaRegisteredName": "太田　光",
-        "fullLFMName": "Ohta, Hikaru",
-        "primaryNumber": "2",
-        "teamCode": "E",
-        "boxscoreName": "Ohta",
-        "pitchHand": "R",
-        "batSide": "R"
-      }
+      "id": "71375138",
+      "jaBoxscoreName": "太田",
+      "jaRegisteredName": "太田　光",
+      "fullLFMName": "Ohta, Hikaru",
+      "primaryNumber": "2",
+      "teamCode": "E",
+      "boxscoreName": "Ohta",
+      "pitchHand": "R",
+      "batSide": "R"
+    }
   },
   {
     "jaText": "（走者・ダウンズ）二塁盗塁成功",
     "text": "Downs steals 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・髙部）三塁盗塁成功",
     "text": "Takabe steals 3rd base.",
-    "pickoff": "",
+    "countsAsStealAttempt": true,
     "catcher": {
-        "id": "11215132",
-        "jaBoxscoreName": "谷川原",
-        "jaRegisteredName": "谷川原　健太",
-        "fullLFMName": "Tanigawara, Kenta",
-        "primaryNumber": "45",
-        "teamCode": "H",
-        "boxscoreName": "Tanigawara",
-        "pitchHand": "R",
-        "batSide": "L"
-      }
+      "id": "11215132",
+      "jaBoxscoreName": "谷川原",
+      "jaRegisteredName": "谷川原　健太",
+      "fullLFMName": "Tanigawara, Kenta",
+      "primaryNumber": "45",
+      "teamCode": "H",
+      "boxscoreName": "Tanigawara",
+      "pitchHand": "R",
+      "batSide": "L"
+    }
   },
   {
     "jaText": "（走者・小川）二塁盗塁成功",
     "text": "Ogawa steals 2nd base.",
-    "pickoff": "",
+    "countsAsStealAttempt": true,
     "catcher": {
-        "id": "11215132",
-        "jaBoxscoreName": "谷川原",
-        "jaRegisteredName": "谷川原　健太",
-        "fullLFMName": "Tanigawara, Kenta",
-        "primaryNumber": "45",
-        "teamCode": "H",
-        "boxscoreName": "Tanigawara",
-        "pitchHand": "R",
-        "batSide": "L"
-      }
+      "id": "11215132",
+      "jaBoxscoreName": "谷川原",
+      "jaRegisteredName": "谷川原　健太",
+      "fullLFMName": "Tanigawara, Kenta",
+      "primaryNumber": "45",
+      "teamCode": "H",
+      "boxscoreName": "Tanigawara",
+      "pitchHand": "R",
+      "batSide": "L"
+    }
   }
 ]

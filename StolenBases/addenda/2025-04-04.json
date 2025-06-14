@@ -2,111 +2,111 @@
   {
     "jaText": "（走者・中野）二塁盗塁成功",
     "text": "Nakano steals 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・中野）二塁盗塁成功",
     "text": "Nakano steals 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・岡林）二塁盗塁失敗",
     "text": "Okabayashi caught stealing 2nd base.",
-    "pickoff": "",
+    "countsAsStealAttempt": true,
     "catcher": {
-        "id": "51855136",
-        "jaBoxscoreName": "松本直",
-        "jaRegisteredName": "松本　直樹",
-        "fullLFMName": "Matsumoto, Naoki",
-        "primaryNumber": "32",
-        "teamCode": "S",
-        "boxscoreName": "N.Matsumoto",
-        "pitchHand": "R",
-        "batSide": "R"
-      }
+      "id": "51855136",
+      "jaBoxscoreName": "松本直",
+      "jaRegisteredName": "松本　直樹",
+      "fullLFMName": "Matsumoto, Naoki",
+      "primaryNumber": "32",
+      "teamCode": "S",
+      "boxscoreName": "N.Matsumoto",
+      "pitchHand": "R",
+      "batSide": "R"
+    }
   },
   {
     "jaText": "（走者・上林）二塁盗塁失敗",
     "text": "Uebayashi caught stealing 2nd base.",
-    "pickoff": "",
+    "countsAsStealAttempt": true,
     "catcher": {
-        "id": "51855136",
-        "jaBoxscoreName": "松本直",
-        "jaRegisteredName": "松本　直樹",
-        "fullLFMName": "Matsumoto, Naoki",
-        "primaryNumber": "32",
-        "teamCode": "S",
-        "boxscoreName": "N.Matsumoto",
-        "pitchHand": "R",
-        "batSide": "R"
-      }
+      "id": "51855136",
+      "jaBoxscoreName": "松本直",
+      "jaRegisteredName": "松本　直樹",
+      "fullLFMName": "Matsumoto, Naoki",
+      "primaryNumber": "32",
+      "teamCode": "S",
+      "boxscoreName": "N.Matsumoto",
+      "pitchHand": "R",
+      "batSide": "R"
+    }
   },
   {
     "jaText": "（走者・岩田）二塁盗塁成功",
     "text": "Iwata steals 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・二俣）二塁盗塁失敗",
     "text": "Futamata caught stealing 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・宗）二塁盗塁失敗",
     "text": "Mune caught stealing 2nd base.",
-    "pickoff": "",
+    "countsAsStealAttempt": true,
     "catcher": {
-        "id": "61065137",
-        "jaBoxscoreName": "伏見",
-        "jaRegisteredName": "伏見　寅威",
-        "fullLFMName": "Fushimi, Torai",
-        "primaryNumber": "23",
-        "teamCode": "F",
-        "boxscoreName": "Fushimi",
-        "pitchHand": "R",
-        "batSide": "R"
-      }
+      "id": "61065137",
+      "jaBoxscoreName": "伏見",
+      "jaRegisteredName": "伏見　寅威",
+      "fullLFMName": "Fushimi, Torai",
+      "primaryNumber": "23",
+      "teamCode": "F",
+      "boxscoreName": "Fushimi",
+      "pitchHand": "R",
+      "batSide": "R"
+    }
   },
   {
     "jaText": "（走者・宗山）二塁盗塁成功",
     "text": "Muneyama steals 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・小深田）二塁盗塁成功",
     "text": "Kobukata steals 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・外崎）二塁盗塁成功",
     "text": "Tonosaki steals 2nd base.",
-    "pickoff": "",
+    "countsAsStealAttempt": true,
     "catcher": {
-        "id": "11215132",
-        "jaBoxscoreName": "谷川原",
-        "jaRegisteredName": "谷川原　健太",
-        "fullLFMName": "Tanigawara, Kenta",
-        "primaryNumber": "45",
-        "teamCode": "H",
-        "boxscoreName": "Tanigawara",
-        "pitchHand": "R",
-        "batSide": "L"
-      }
+      "id": "11215132",
+      "jaBoxscoreName": "谷川原",
+      "jaRegisteredName": "谷川原　健太",
+      "fullLFMName": "Tanigawara, Kenta",
+      "primaryNumber": "45",
+      "teamCode": "H",
+      "boxscoreName": "Tanigawara",
+      "pitchHand": "R",
+      "batSide": "L"
+    }
   },
   {
     "jaText": "（走者・牧原大）二塁盗塁成功",
     "text": "T.Makihara steals 2nd base.",
-    "pickoff": "",
+    "countsAsStealAttempt": true,
     "catcher": {
-        "id": "81785155",
-        "jaBoxscoreName": "古賀悠",
-        "jaRegisteredName": "古賀　悠斗",
-        "fullLFMName": "Koga, Yuto",
-        "primaryNumber": "22",
-        "teamCode": "L",
-        "boxscoreName": "Y.Koga",
-        "pitchHand": "R",
-        "batSide": "R"
-      }
+      "id": "81785155",
+      "jaBoxscoreName": "古賀悠",
+      "jaRegisteredName": "古賀　悠斗",
+      "fullLFMName": "Koga, Yuto",
+      "primaryNumber": "22",
+      "teamCode": "L",
+      "boxscoreName": "Y.Koga",
+      "pitchHand": "R",
+      "batSide": "R"
+    }
   }
 ]

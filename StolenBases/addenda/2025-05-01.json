@@ -2,78 +2,78 @@
   {
     "jaText": "（走者・キャベッジ）二塁盗塁失敗",
     "text": "Cabbage caught stealing 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・増田陸）二塁盗塁失敗",
     "text": "R.Masuda caught stealing 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・並木）二塁盗塁失敗",
     "text": "Namiki caught stealing 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・神里）二塁盗塁成功",
     "text": "Kamizato steals 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・上林）二塁盗塁失敗",
     "text": "Uebayashi caught stealing 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・熊谷）二塁盗塁成功",
     "text": "Kumagai steals 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・樋口）二塁盗塁失敗",
     "text": "Higuchi caught stealing 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・佐藤輝）二塁盗塁成功",
     "text": "T.Sato steals 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・小郷）二塁盗塁成功",
     "text": "Ogoh steals 2nd base.",
-    "pickoff": "",
+    "countsAsStealAttempt": true,
     "catcher": {
-        "id": "71675138",
-        "jaBoxscoreName": "牧野",
-        "jaRegisteredName": "牧野　翔矢",
-        "fullLFMName": "Makino, Shoya",
-        "primaryNumber": "53",
-        "teamCode": "L",
-        "boxscoreName": "Makino",
-        "pitchHand": "R",
-        "batSide": "L"
-      }
+      "id": "71675138",
+      "jaBoxscoreName": "牧野",
+      "jaRegisteredName": "牧野　翔矢",
+      "fullLFMName": "Makino, Shoya",
+      "primaryNumber": "53",
+      "teamCode": "L",
+      "boxscoreName": "Makino",
+      "pitchHand": "R",
+      "batSide": "L"
+    }
   },
   {
     "jaText": "（走者・小森）二塁盗塁成功",
     "text": "Komori steals 2nd base.",
-    "pickoff": "",
+    "countsAsStealAttempt": true,
     "catcher": {
-        "id": "91995112",
-        "jaBoxscoreName": "炭谷",
-        "jaRegisteredName": "炭谷　銀仁朗",
-        "fullLFMName": "Sumitani, Ginjiro",
-        "primaryNumber": "27",
-        "teamCode": "L",
-        "boxscoreName": "Sumitani",
-        "pitchHand": "R",
-        "batSide": "R"
-      }
+      "id": "91995112",
+      "jaBoxscoreName": "炭谷",
+      "jaRegisteredName": "炭谷　銀仁朗",
+      "fullLFMName": "Sumitani, Ginjiro",
+      "primaryNumber": "27",
+      "teamCode": "L",
+      "boxscoreName": "Sumitani",
+      "pitchHand": "R",
+      "batSide": "R"
+    }
   },
   {
     "jaText": "（走者・野村）三塁盗塁失敗",
-    "text": "Nomura picked off and caught stealing 3rd base.",
-    "pickoff": "Y"
+    "text": "Nomura caught stealing 3rd base.",
+    "countsAsStealAttempt": false
   }
 ]

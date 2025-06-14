@@ -2,89 +2,89 @@
   {
     "jaText": "（走者・若林）二塁盗塁成功",
     "text": "Wakabayashi steals 2nd base.",
-    "pickoff": "",
+    "countsAsStealAttempt": true,
     "catcher": {
-        "id": "31135114",
-        "jaBoxscoreName": "會澤",
-        "jaRegisteredName": "會澤　翼",
-        "fullLFMName": "Aizawa, Tsubasa",
-        "primaryNumber": "27",
-        "teamCode": "C",
-        "boxscoreName": "Aizawa",
-        "pitchHand": "R",
-        "batSide": "R"
-      }
+      "id": "31135114",
+      "jaBoxscoreName": "會澤",
+      "jaRegisteredName": "會澤　翼",
+      "fullLFMName": "Aizawa, Tsubasa",
+      "primaryNumber": "27",
+      "teamCode": "C",
+      "boxscoreName": "Aizawa",
+      "pitchHand": "R",
+      "batSide": "R"
+    }
   },
   {
     "jaText": "（走者・野間）二塁盗塁成功",
     "text": "Noma steals 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・矢野）二塁盗塁失敗",
     "text": "Yano caught stealing 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・牧）二塁盗塁成功",
     "text": "Maki steals 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・茂木）二塁盗塁失敗",
     "text": "Mogi caught stealing 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・細川）本塁盗塁失敗",
-    "text": "Hosokawa picked off and caught stealing home plate.",
-    "pickoff": "Y"
+    "text": "Hosokawa caught stealing home plate.",
+    "countsAsStealAttempt": false
   },
   {
     "jaText": "（走者・糸原）二塁盗塁成功",
     "text": "Itohara steals 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・樋口）一塁牽制アウト",
     "text": "Higuchi picked off at 1st base.",
-    "pickoff": "Y"
+    "countsAsStealAttempt": false
   },
   {
     "jaText": "（走者・西川）二塁盗塁失敗",
     "text": "Nishikawa caught stealing 2nd base.",
-    "pickoff": "",
+    "countsAsStealAttempt": true,
     "catcher": {
-        "id": "71375138",
-        "jaBoxscoreName": "太田",
-        "jaRegisteredName": "太田　光",
-        "fullLFMName": "Ohta, Hikaru",
-        "primaryNumber": "2",
-        "teamCode": "E",
-        "boxscoreName": "Ohta",
-        "pitchHand": "R",
-        "batSide": "R"
-      }
+      "id": "71375138",
+      "jaBoxscoreName": "太田",
+      "jaRegisteredName": "太田　光",
+      "fullLFMName": "Ohta, Hikaru",
+      "primaryNumber": "2",
+      "teamCode": "E",
+      "boxscoreName": "Ohta",
+      "pitchHand": "R",
+      "batSide": "R"
+    }
   },
   {
     "jaText": "（走者・麦谷）二塁盗塁成功",
     "text": "Mugitani steals 2nd base.",
-    "pickoff": "",
+    "countsAsStealAttempt": true,
     "catcher": {
-        "id": "51455159",
-        "jaBoxscoreName": "寺地",
-        "jaRegisteredName": "寺地　隆成",
-        "fullLFMName": "Terachi, Ryusei",
-        "primaryNumber": "65",
-        "teamCode": "M",
-        "boxscoreName": "Terachi",
-        "pitchHand": "R",
-        "batSide": "L"
-      }
+      "id": "51455159",
+      "jaBoxscoreName": "寺地",
+      "jaRegisteredName": "寺地　隆成",
+      "fullLFMName": "Terachi, Ryusei",
+      "primaryNumber": "65",
+      "teamCode": "M",
+      "boxscoreName": "Terachi",
+      "pitchHand": "R",
+      "batSide": "L"
+    }
   },
   {
     "jaText": "（走者・淺間）二塁盗塁成功",
     "text": "Asama steals 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   }
 ]

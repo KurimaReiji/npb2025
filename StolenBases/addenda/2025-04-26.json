@@ -2,67 +2,67 @@
   {
     "jaText": "（走者・中村奨）一塁牽制アウト",
     "text": "S.Nakamura picked off at 1st base.",
-    "pickoff": "Y"
+    "countsAsStealAttempt": false
   },
   {
     "jaText": "（走者・三森）二塁盗塁失敗",
     "text": "Mimori caught stealing 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・上林）二塁盗塁成功",
     "text": "Uebayashi steals 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・ブライト）二塁盗塁失敗",
     "text": "Bright caught stealing 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・若林）二塁盗塁成功",
     "text": "Wakabayashi steals 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・前川）二塁盗塁失敗",
     "text": "Maegawa caught stealing 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・門脇）二塁盗塁成功",
     "text": "Kadowaki steals 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・岡）二塁盗塁成功",
     "text": "Oka steals 2nd base.",
-    "pickoff": "",
+    "countsAsStealAttempt": true,
     "catcher": {
-        "id": "21925151",
-        "jaBoxscoreName": "郡司",
-        "jaRegisteredName": "郡司　裕也",
-        "fullLFMName": "Gunji, Yuya",
-        "primaryNumber": "30",
-        "teamCode": "F",
-        "boxscoreName": "Gunji",
-        "pitchHand": "R",
-        "batSide": "R"
-      }
+      "id": "21925151",
+      "jaBoxscoreName": "郡司",
+      "jaRegisteredName": "郡司　裕也",
+      "fullLFMName": "Gunji, Yuya",
+      "primaryNumber": "30",
+      "teamCode": "F",
+      "boxscoreName": "Gunji",
+      "pitchHand": "R",
+      "batSide": "R"
+    }
   },
   {
     "jaText": "（走者・西川）二塁盗塁成功",
     "text": "Nishikawa steals 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・頓宮）二塁盗塁成功",
     "text": "Tongu steals 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・外崎）二塁盗塁成功",
     "text": "Tonosaki steals 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   }
 ]

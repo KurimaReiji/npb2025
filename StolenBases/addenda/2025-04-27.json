@@ -2,106 +2,106 @@
   {
     "jaText": "（走者・羽月）本塁盗塁成功",
     "text": "Hatsuki steals home plate.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・羽月）二塁盗塁成功",
     "text": "Hatsuki steals 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・近本）二塁盗塁成功",
     "text": "Chikamoto steals 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・萩尾）二塁盗塁成功",
     "text": "Hagio steals 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・水谷）二塁盗塁成功",
     "text": "Mizutani steals 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・岡）二塁盗塁成功",
     "text": "Oka steals 2nd base.",
-    "pickoff": "",
+    "countsAsStealAttempt": true,
     "catcher": {
-        "id": "61065137",
-        "jaBoxscoreName": "伏見",
-        "jaRegisteredName": "伏見　寅威",
-        "fullLFMName": "Fushimi, Torai",
-        "primaryNumber": "23",
-        "teamCode": "F",
-        "boxscoreName": "Fushimi",
-        "pitchHand": "R",
-        "batSide": "R"
-      }
+      "id": "61065137",
+      "jaBoxscoreName": "伏見",
+      "jaRegisteredName": "伏見　寅威",
+      "fullLFMName": "Fushimi, Torai",
+      "primaryNumber": "23",
+      "teamCode": "F",
+      "boxscoreName": "Fushimi",
+      "pitchHand": "R",
+      "batSide": "R"
+    }
   },
   {
     "jaText": "（走者・柳町）二塁盗塁失敗",
     "text": "Yanagimachi caught stealing 2nd base.",
-    "pickoff": "",
+    "countsAsStealAttempt": true,
     "catcher": {
-        "id": "11815132",
-        "jaBoxscoreName": "堀内",
-        "jaRegisteredName": "堀内　謙伍",
-        "fullLFMName": "Horiuchi, Kengo",
-        "primaryNumber": "65",
-        "teamCode": "E",
-        "boxscoreName": "Horiuchi",
-        "pitchHand": "R",
-        "batSide": "L"
-      }
+      "id": "11815132",
+      "jaBoxscoreName": "堀内",
+      "jaRegisteredName": "堀内　謙伍",
+      "fullLFMName": "Horiuchi, Kengo",
+      "primaryNumber": "65",
+      "teamCode": "E",
+      "boxscoreName": "Horiuchi",
+      "pitchHand": "R",
+      "batSide": "L"
+    }
   },
   {
     "jaText": "（走者・村林）二塁盗塁成功",
     "text": "Murabayashi steals 2nd base.",
-    "pickoff": "",
+    "countsAsStealAttempt": true,
     "catcher": {
-        "id": "93195138",
-        "jaBoxscoreName": "渡邉",
-        "jaRegisteredName": "渡邉　陸",
-        "fullLFMName": "Watanabe, Riku",
-        "primaryNumber": "00",
-        "teamCode": "H",
-        "boxscoreName": "Watanabe",
-        "pitchHand": "R",
-        "batSide": "L"
-      }
+      "id": "93195138",
+      "jaBoxscoreName": "渡邉",
+      "jaRegisteredName": "渡邉　陸",
+      "fullLFMName": "Watanabe, Riku",
+      "primaryNumber": "00",
+      "teamCode": "H",
+      "boxscoreName": "Watanabe",
+      "pitchHand": "R",
+      "batSide": "L"
+    }
   },
   {
     "jaText": "（走者・ネビン）二塁盗塁成功",
     "text": "Nevin steals 2nd base.",
-    "pickoff": "",
+    "countsAsStealAttempt": true,
     "catcher": {
-        "id": "11815155",
-        "jaBoxscoreName": "福永",
-        "jaRegisteredName": "福永　奨",
-        "fullLFMName": "Fukunaga, Sho",
-        "primaryNumber": "32",
-        "teamCode": "B",
-        "boxscoreName": "Fukunaga",
-        "pitchHand": "R",
-        "batSide": "R"
-      }
+      "id": "11815155",
+      "jaBoxscoreName": "福永",
+      "jaRegisteredName": "福永　奨",
+      "fullLFMName": "Fukunaga, Sho",
+      "primaryNumber": "32",
+      "teamCode": "B",
+      "boxscoreName": "Fukunaga",
+      "pitchHand": "R",
+      "batSide": "R"
+    }
   },
   {
     "jaText": "（走者・渡部聖）二塁盗塁失敗",
     "text": "S.Watanabe caught stealing 2nd base.",
-    "pickoff": "",
+    "countsAsStealAttempt": true,
     "catcher": {
-        "id": "11815155",
-        "jaBoxscoreName": "福永",
-        "jaRegisteredName": "福永　奨",
-        "fullLFMName": "Fukunaga, Sho",
-        "primaryNumber": "32",
-        "teamCode": "B",
-        "boxscoreName": "Fukunaga",
-        "pitchHand": "R",
-        "batSide": "R"
-      }
+      "id": "11815155",
+      "jaBoxscoreName": "福永",
+      "jaRegisteredName": "福永　奨",
+      "fullLFMName": "Fukunaga, Sho",
+      "primaryNumber": "32",
+      "teamCode": "B",
+      "boxscoreName": "Fukunaga",
+      "pitchHand": "R",
+      "batSide": "R"
+    }
   }
 ]

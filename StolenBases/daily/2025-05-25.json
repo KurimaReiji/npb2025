@@ -37,7 +37,6 @@
     "catcher": {},
     "scoring": "CaughtStealing",
     "base": "2B",
-    "pickoff": "",
     "inning": 2,
     "halfInning": "bottom",
     "outs": 2,
@@ -90,7 +89,8 @@
         "pitchHand": "R",
         "batSide": "R"
       }
-    ]
+    ],
+    "countsAsStealAttempt": true
   },
   {
     "date": "2025-05-25",
@@ -140,7 +140,6 @@
     },
     "scoring": "StolenBase",
     "base": "2B",
-    "pickoff": "",
     "inning": 5,
     "halfInning": "top",
     "outs": 0,
@@ -182,7 +181,8 @@
         "pitchHand": "R",
         "batSide": "R"
       }
-    ]
+    ],
+    "countsAsStealAttempt": true
   },
   {
     "date": "2025-05-25",
@@ -222,7 +222,6 @@
     "catcher": {},
     "scoring": "StolenBase",
     "base": "2B",
-    "pickoff": "",
     "inning": 5,
     "halfInning": "bottom",
     "outs": 2,
@@ -275,7 +274,8 @@
         "pitchHand": "R",
         "batSide": "R"
       }
-    ]
+    ],
+    "countsAsStealAttempt": true
   },
   {
     "date": "2025-05-25",
@@ -315,7 +315,6 @@
     "catcher": {},
     "scoring": "StolenBase",
     "base": "2B",
-    "pickoff": "",
     "inning": 7,
     "halfInning": "bottom",
     "outs": 2,
@@ -368,7 +367,8 @@
         "pitchHand": "R",
         "batSide": "R"
       }
-    ]
+    ],
+    "countsAsStealAttempt": true
   },
   {
     "date": "2025-05-25",
@@ -418,7 +418,6 @@
     },
     "scoring": "StolenBase",
     "base": "2B",
-    "pickoff": "",
     "inning": 7,
     "halfInning": "top",
     "outs": 1,
@@ -460,7 +459,8 @@
         "pitchHand": "R",
         "batSide": "R"
       }
-    ]
+    ],
+    "countsAsStealAttempt": true
   },
   {
     "date": "2025-05-25",
@@ -500,7 +500,6 @@
     "catcher": {},
     "scoring": "StolenBase",
     "base": "2B",
-    "pickoff": "",
     "inning": 5,
     "halfInning": "bottom",
     "outs": 2,
@@ -553,7 +552,8 @@
         "pitchHand": "R",
         "batSide": "R"
       }
-    ]
+    ],
+    "countsAsStealAttempt": true
   },
   {
     "date": "2025-05-25",
@@ -603,7 +603,6 @@
     },
     "scoring": "CaughtStealing",
     "base": "HP",
-    "pickoff": "",
     "inning": 5,
     "halfInning": "bottom",
     "outs": 1,
@@ -645,6 +644,7 @@
         "pitchHand": "R",
         "batSide": "R"
       }
-    ]
+    ],
+    "countsAsStealAttempt": true
   }
 ]

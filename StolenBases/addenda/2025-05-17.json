@@ -2,85 +2,85 @@
   {
     "jaText": "（走者・伊藤）二塁盗塁成功",
     "text": "Itoh steals 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・中村奨）二塁盗塁失敗",
     "text": "S.Nakamura caught stealing 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・近本）二塁盗塁成功",
     "text": "Chikamoto steals 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・滝澤）一塁牽制アウト",
     "text": "Takizawa picked off at 1st base.",
-    "pickoff": "Y",
+    "countsAsStealAttempt": false,
     "catcher": {
-        "id": "11815155",
-        "jaBoxscoreName": "福永",
-        "jaRegisteredName": "福永　奨",
-        "fullLFMName": "Fukunaga, Sho",
-        "primaryNumber": "32",
-        "teamCode": "B",
-        "boxscoreName": "Fukunaga",
-        "pitchHand": "R",
-        "batSide": "R"
-      }
+      "id": "11815155",
+      "jaBoxscoreName": "福永",
+      "jaRegisteredName": "福永　奨",
+      "fullLFMName": "Fukunaga, Sho",
+      "primaryNumber": "32",
+      "teamCode": "B",
+      "boxscoreName": "Fukunaga",
+      "pitchHand": "R",
+      "batSide": "R"
+    }
   },
   {
     "jaText": "（走者・滝澤）二塁盗塁成功",
     "text": "Takizawa steals 2nd base.",
-    "pickoff": "",
+    "countsAsStealAttempt": true,
     "catcher": {
-        "id": "11815155",
-        "jaBoxscoreName": "福永",
-        "jaRegisteredName": "福永　奨",
-        "fullLFMName": "Fukunaga, Sho",
-        "primaryNumber": "32",
-        "teamCode": "B",
-        "boxscoreName": "Fukunaga",
-        "pitchHand": "R",
-        "batSide": "R"
-      }
+      "id": "11815155",
+      "jaBoxscoreName": "福永",
+      "jaRegisteredName": "福永　奨",
+      "fullLFMName": "Fukunaga, Sho",
+      "primaryNumber": "32",
+      "teamCode": "B",
+      "boxscoreName": "Fukunaga",
+      "pitchHand": "R",
+      "batSide": "R"
+    }
   },
   {
     "jaText": "（走者・佐藤直）二塁盗塁成功",
     "text": "N.Satoh steals 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・辰己）二塁盗塁成功",
     "text": "R.Tatsumi steals 2nd base.",
-    "pickoff": "",
+    "countsAsStealAttempt": true,
     "catcher": {
-        "id": "71475139",
-        "jaBoxscoreName": "嶺井",
-        "jaRegisteredName": "嶺井　博希",
-        "fullLFMName": "Minei, Hiroki",
-        "primaryNumber": "12",
-        "teamCode": "H",
-        "boxscoreName": "Minei",
-        "pitchHand": "R",
-        "batSide": "R"
-      }
+      "id": "71475139",
+      "jaBoxscoreName": "嶺井",
+      "jaRegisteredName": "嶺井　博希",
+      "fullLFMName": "Minei, Hiroki",
+      "primaryNumber": "12",
+      "teamCode": "H",
+      "boxscoreName": "Minei",
+      "pitchHand": "R",
+      "batSide": "R"
+    }
   },
   {
     "jaText": "（走者・村林）二塁盗塁成功",
     "text": "Murabayashi steals 2nd base.",
-    "pickoff": "",
+    "countsAsStealAttempt": true,
     "catcher": {
-        "id": "71475139",
-        "jaBoxscoreName": "嶺井",
-        "jaRegisteredName": "嶺井　博希",
-        "fullLFMName": "Minei, Hiroki",
-        "primaryNumber": "12",
-        "teamCode": "H",
-        "boxscoreName": "Minei",
-        "pitchHand": "R",
-        "batSide": "R"
-      }
+      "id": "71475139",
+      "jaBoxscoreName": "嶺井",
+      "jaRegisteredName": "嶺井　博希",
+      "fullLFMName": "Minei, Hiroki",
+      "primaryNumber": "12",
+      "teamCode": "H",
+      "boxscoreName": "Minei",
+      "pitchHand": "R",
+      "batSide": "R"
+    }
   }
 ]

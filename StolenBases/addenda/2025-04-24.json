@@ -2,6 +2,6 @@
   {
     "jaText": "（走者・近本）二塁盗塁成功",
     "text": "Chikamoto steals 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   }
 ]

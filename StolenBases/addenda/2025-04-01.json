@@ -2,26 +2,26 @@
   {
     "jaText": "（走者・三森）二塁盗塁成功",
     "text": "Mimori steals 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・中野）二塁盗塁成功",
     "text": "Nakano steals 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・井上）二塁盗塁成功",
     "text": "Inoue steals 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・三森）二塁盗塁成功",
     "text": "Mimori steals 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・周東）二塁盗塁成功",
     "text": "Shuto steals 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   }
 ]

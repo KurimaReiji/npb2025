@@ -11,14 +11,14 @@ if (!existsSync(infile)) {
 }
 const inputs = JSON.parse(readFileSync(infile, "utf-8"));
 const data = inputs
-  .map(({ jaText, text, pickoff, catcher, catchers }) => {
+  .map(({ jaText, text, countsAsStealAttempt, catcher, catchers }) => {
     if (catcher.id) {
       return {
-        jaText, text, pickoff
+        jaText, text, countsAsStealAttempt
       }
     }
     return {
-      jaText, text, pickoff, catcher, catchers
+      jaText, text, countsAsStealAttempt, catcher, catchers
     }
   })
 

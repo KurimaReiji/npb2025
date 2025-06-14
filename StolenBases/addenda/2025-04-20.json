@@ -2,58 +2,58 @@
   {
     "jaText": "（走者・岩田）二塁盗塁失敗",
     "text": "Iwata caught stealing 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・三森）二塁盗塁失敗",
-    "text": "Mimori picked off and caught stealing 2nd base.",
-    "pickoff": "Y"
+    "text": "Mimori caught stealing 2nd base.",
+    "countsAsStealAttempt": false
   },
   {
     "jaText": "（走者・度会）二塁盗塁失敗",
-    "text": "Watarai picked off and caught stealing 2nd base.",
-    "pickoff": "Y"
+    "text": "Watarai caught stealing 2nd base.",
+    "countsAsStealAttempt": false
   },
   {
     "jaText": "（走者・近本）二塁盗塁成功",
     "text": "Chikamoto steals 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・中野）二塁盗塁成功",
     "text": "Nakano steals 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・長谷川）二塁盗塁成功",
     "text": "Hasegawa steals 2nd base.",
-    "pickoff": "",
+    "countsAsStealAttempt": true,
     "catcher": {
-        "id": "71475139",
-        "jaBoxscoreName": "嶺井",
-        "jaRegisteredName": "嶺井　博希",
-        "fullLFMName": "Minei, Hiroki",
-        "primaryNumber": "12",
-        "teamCode": "H",
-        "boxscoreName": "Minei",
-        "pitchHand": "R",
-        "batSide": "R"
-      }
+      "id": "71475139",
+      "jaBoxscoreName": "嶺井",
+      "jaRegisteredName": "嶺井　博希",
+      "fullLFMName": "Minei, Hiroki",
+      "primaryNumber": "12",
+      "teamCode": "H",
+      "boxscoreName": "Minei",
+      "pitchHand": "R",
+      "batSide": "R"
+    }
   },
   {
     "jaText": "（走者・五十幡）二塁盗塁成功",
     "text": "Isobata steals 2nd base.",
-    "pickoff": "",
+    "countsAsStealAttempt": true,
     "catcher": {
-        "id": "41645139",
-        "jaBoxscoreName": "若月",
-        "jaRegisteredName": "若月　健矢",
-        "fullLFMName": "Wakatsuki, Kenya",
-        "primaryNumber": "2",
-        "teamCode": "B",
-        "boxscoreName": "Wakatsuki",
-        "pitchHand": "R",
-        "batSide": "R"
-      }
+      "id": "41645139",
+      "jaBoxscoreName": "若月",
+      "jaRegisteredName": "若月　健矢",
+      "fullLFMName": "Wakatsuki, Kenya",
+      "primaryNumber": "2",
+      "teamCode": "B",
+      "boxscoreName": "Wakatsuki",
+      "pitchHand": "R",
+      "batSide": "R"
+    }
   }
 ]

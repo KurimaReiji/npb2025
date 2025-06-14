@@ -47,7 +47,6 @@
     },
     "scoring": "CaughtStealing",
     "base": "HP",
-    "pickoff": "",
     "inning": 4,
     "halfInning": "top",
     "outs": 2,
@@ -89,7 +88,8 @@
         "pitchHand": "R",
         "batSide": "R"
       }
-    ]
+    ],
+    "countsAsStealAttempt": true
   },
   {
     "date": "2025-04-13",
@@ -139,7 +139,6 @@
     },
     "scoring": "StolenBase",
     "base": "2B",
-    "pickoff": "",
     "inning": 5,
     "halfInning": "bottom",
     "outs": 2,
@@ -181,7 +180,8 @@
         "pitchHand": "R",
         "batSide": "R"
       }
-    ]
+    ],
+    "countsAsStealAttempt": true
   },
   {
     "date": "2025-04-13",
@@ -231,7 +231,6 @@
     },
     "scoring": "CaughtStealing",
     "base": "2B",
-    "pickoff": "",
     "inning": 7,
     "halfInning": "bottom",
     "outs": 1,
@@ -273,7 +272,8 @@
         "pitchHand": "R",
         "batSide": "R"
       }
-    ]
+    ],
+    "countsAsStealAttempt": true
   },
   {
     "date": "2025-04-13",
@@ -313,7 +313,6 @@
     "catcher": {},
     "scoring": "StolenBase",
     "base": "2B",
-    "pickoff": "",
     "inning": 1,
     "halfInning": "top",
     "outs": 2,
@@ -366,7 +365,8 @@
         "pitchHand": "R",
         "batSide": "R"
       }
-    ]
+    ],
+    "countsAsStealAttempt": true
   },
   {
     "date": "2025-04-13",
@@ -406,7 +406,6 @@
     "catcher": {},
     "scoring": "StolenBase",
     "base": "2B",
-    "pickoff": "",
     "inning": 4,
     "halfInning": "top",
     "outs": 2,
@@ -459,7 +458,8 @@
         "pitchHand": "R",
         "batSide": "R"
       }
-    ]
+    ],
+    "countsAsStealAttempt": true
   },
   {
     "date": "2025-04-13",
@@ -499,7 +499,6 @@
     "catcher": {},
     "scoring": "StolenBase",
     "base": "2B",
-    "pickoff": "",
     "inning": 3,
     "halfInning": "top",
     "outs": 2,
@@ -552,6 +551,7 @@
         "pitchHand": "R",
         "batSide": "L"
       }
-    ]
+    ],
+    "countsAsStealAttempt": true
   }
 ]

@@ -60,8 +60,7 @@ dates
             catcher,
             scoring: "",
             base: "",
-            "isDoubleSteal": play.jaResult.text.includes("ダブルスチール") ? "Y" : undefined,
-            "pickoff": "",
+            "isDoubleSteal": play.jaResult.text.includes("ダブルスチール") ? true : undefined,
             inning: play.inning.inning,
             halfInning: play.inning.halfInning,
             outs: play.outs,
@@ -87,11 +86,17 @@ dates
         });
       })
       .map((sb) => {
-        if (sb.jaText.includes("盗塁成功")) sb.scoring = "StolenBase";
-        if (sb.jaText.includes("盗塁失敗")) sb.scoring = "CaughtStealing";
-        if (sb.jaText.includes("牽制アウト")) {
+        sb.countsAsStealAttempt = true;
+        if (sb.jaText.includes("盗塁成功")) {
+          sb.scoring = "StolenBase";
+        } else if (sb.jaText.includes("盗塁失敗")) {
+          sb.scoring = "CaughtStealing";
+        } else if (sb.jaText.includes("牽制アウト")) {
           sb.scoring = "PickedOff";
-          sb.pickoff = "Y";
+          sb.countsAsStealAttempt = false;
+        } else {
+          sb.scoring = "Unknown";
+          sb.countsAsStealAttempt = false;
         }
         return sb;
       })

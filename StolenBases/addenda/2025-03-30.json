@@ -2,26 +2,26 @@
   {
     "jaText": "（走者・茂木）一塁牽制アウト",
     "text": "Mogi picked off at 1st base.",
-    "pickoff": "Y"
+    "countsAsStealAttempt": false
   },
   {
     "jaText": "（走者・森）二塁牽制アウト",
     "text": "Mori picked off at 2nd base.",
-    "pickoff": "Y"
+    "countsAsStealAttempt": false
   },
   {
     "jaText": "（走者・西川）二塁盗塁成功",
     "text": "Nishikawa steals 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・紅林）二塁盗塁失敗",
     "text": "Kurebayashi caught stealing 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・周東）二塁盗塁成功",
     "text": "Shuto steals 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   }
 ]

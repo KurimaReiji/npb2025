@@ -1,73 +1,73 @@
 [
   {
     "jaText": "（走者・中野）二塁盗塁失敗",
-    "text": "Nakano picked off and caught stealing 2nd base.",
-    "pickoff": "Y",
+    "text": "Nakano caught stealing 2nd base.",
+    "countsAsStealAttempt": false,
     "catcher": {
-        "id": "11015159",
-        "jaBoxscoreName": "進藤",
-        "jaRegisteredName": "進藤　勇也",
-        "fullLFMName": "Shintoh, Yuya",
-        "primaryNumber": "33",
-        "teamCode": "F",
-        "boxscoreName": "Shintoh",
-        "pitchHand": "R",
-        "batSide": "R"
-      }
+      "id": "11015159",
+      "jaBoxscoreName": "進藤",
+      "jaRegisteredName": "進藤　勇也",
+      "fullLFMName": "Shintoh, Yuya",
+      "primaryNumber": "33",
+      "teamCode": "F",
+      "boxscoreName": "Shintoh",
+      "pitchHand": "R",
+      "batSide": "R"
+    }
   },
   {
     "jaText": "（走者・小深田）二塁盗塁失敗",
     "text": "Kobukata caught stealing 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・岩田）二塁盗塁成功",
     "text": "Iwata steals 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・吉川）二塁盗塁失敗",
     "text": "Yoshikawa caught stealing 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・門脇）二塁盗塁成功",
     "text": "Kadowaki steals 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・羽月）二塁盗塁成功",
     "text": "Hatsuki steals 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・佐々木）二塁盗塁成功",
     "text": "Sasaki steals 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・末包）二塁盗塁失敗",
     "text": "Suekane caught stealing 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・廣岡）二塁盗塁成功",
     "text": "Hirooka steals 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・佐々木）二塁盗塁成功",
     "text": "Sasaki steals 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・岡林）二塁盗塁成功",
     "text": "Okabayashi steals 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・岡林）二塁盗塁成功",
     "text": "Okabayashi steals 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   }
 ]

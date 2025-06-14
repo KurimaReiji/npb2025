@@ -21,7 +21,7 @@ function merge(ary) {
   if (addendum) {
     JSON.parse(readFileSync(`addenda/${addendum}`, "utf-8")).forEach((a, i) => {
       if (a.jaText === ary[i].jaText) {
-        Object.assign(ary[i], a);
+        Object.assign(ary[i], a, { catchers: undefined });
       } else {
         console.log(a.jaText);
         console.log(ary[i].jaText);

@@ -2,42 +2,42 @@
   {
     "jaText": "（走者・ヘルナンデス）二塁盗塁失敗",
     "text": "Hernandez caught stealing 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・並木）二塁盗塁成功",
     "text": "Namiki steals 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・羽月）二塁盗塁成功",
     "text": "Hatsuki steals 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・石原）二塁牽制アウト",
     "text": "Ishihara picked off at 2nd base.",
-    "pickoff": "Y"
+    "countsAsStealAttempt": false
   },
   {
     "jaText": "（走者・小川）二塁盗塁成功",
     "text": "Ogawa steals 2nd base.",
-    "pickoff": ""
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・淺間）二塁盗塁成功",
     "text": "Asama steals 2nd base.",
-    "pickoff": "",
+    "countsAsStealAttempt": true,
     "catcher": {
-        "id": "11815155",
-        "jaBoxscoreName": "福永",
-        "jaRegisteredName": "福永　奨",
-        "fullLFMName": "Fukunaga, Sho",
-        "primaryNumber": "32",
-        "teamCode": "B",
-        "boxscoreName": "Fukunaga",
-        "pitchHand": "R",
-        "batSide": "R"
-      }
+      "id": "11815155",
+      "jaBoxscoreName": "福永",
+      "jaRegisteredName": "福永　奨",
+      "fullLFMName": "Fukunaga, Sho",
+      "primaryNumber": "32",
+      "teamCode": "B",
+      "boxscoreName": "Fukunaga",
+      "pitchHand": "R",
+      "batSide": "R"
+    }
   }
 ]
