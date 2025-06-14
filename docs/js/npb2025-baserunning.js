@@ -11,6 +11,10 @@ const dbfile = (() => {
 
 const baseRunningReader = await getReadableNdJsonStream(dbfile);
 
+async function getBaseRunningReader() {
+  return await getReadableNdJsonStream(dbfile);
+}
+
 async function groupByTeam() {
   const baseRunningReader = await getReadableNdJsonStream(dbfile);
   const stats = {
@@ -50,6 +54,7 @@ function sbpct(sb, cs, ds) {
 }
 
 export {
+  getBaseRunningReader,
   baseRunningReader,
   groupByTeam,
   cspct,
