@@ -1170,7 +1170,7 @@
     "year": "2025",
     "teamCode": "D",
     "title": "2025年度 支配下選手登録（中日ドラゴンズ） | 2025年度公示 | NPB.jp 日本野球機構",
-    "total": "67名",
+    "total": "68名",
     "rows": [
       {
         "mmdd": "12-17",
@@ -1723,6 +1723,14 @@
         "primaryNumber": "11",
         "playerId": "11515131",
         "jaRegisteredName": "岡田　俊哉"
+      },
+      {
+        "mmdd": "06-17",
+        "teamCode": "D",
+        "jaPrimaryPosition": "内野手",
+        "primaryNumber": "65",
+        "playerId": "81785138",
+        "jaRegisteredName": "佐藤　龍世"
       }
     ],
     "notes": [
@@ -1749,6 +1757,14 @@
         "playerId": "11515131",
         "jaRegisteredName": "岡田　俊哉",
         "desc": ""
+      },
+      {
+        "item": "【支配下選手登録（トレード）】",
+        "date": "2025-06-17",
+        "jaPrimaryPosition": "内野手",
+        "playerId": "81785138",
+        "jaRegisteredName": "佐藤　龍世",
+        "desc": "← 埼玉西武ライオンズ"
       },
       {
         "item": "【支配下選手登録（現役ドラフトに伴うトレード）】",
@@ -4948,7 +4964,7 @@
     "year": "2025",
     "teamCode": "L",
     "title": "2025年度 支配下選手登録（埼玉西武ライオンズ） | 2025年度公示 | NPB.jp 日本野球機構",
-    "total": "67名",
+    "total": "66名",
     "rows": [
       {
         "mmdd": "12-17",
@@ -5551,6 +5567,14 @@
         "playerId": "21825138",
         "jaRegisteredName": "山野辺　翔",
         "desc": "→ 東京ヤクルトスワローズ"
+      },
+      {
+        "item": "【支配下選手登録抹消（トレード）】",
+        "date": "2025-06-17",
+        "jaPrimaryPosition": "内野手",
+        "playerId": "81785138",
+        "jaRegisteredName": "佐藤　龍世",
+        "desc": "→ 中日ドラゴンズ"
       },
       {
         "item": "【支配下選手登録抹消（現役ドラフトに伴うトレード）】",
