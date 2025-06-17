@@ -2251,3 +2251,5 @@
 {"date":"2025-06-15","playerId":"91095155","jaBoxscoreName":"鈴木大","boxscoreName":"Y.Suzuki"}
 {"date":"2025-06-17","jaEvent":"支配下選手登録抹消","jaEventDetails":"トレード","teamCode":"L","playerId":"81785138","jaRegisteredName":"佐藤　龍世","jaPrimaryPosition":"内野手","birthDate":"1997-01-15","height":"174","weight":"85","pitchHand":"R","batSide":"R","fullLFMName":"Satoh, Ryusei"}
 {"date":"2025-06-17","jaEvent":"支配下選手登録","teamCode":"D","playerId":"81785138","jaRegisteredName":"佐藤　龍世","primaryNumber":"65","jaPrimaryPosition":"内野手","jaEventDetails":"トレード","birthDate":"1997-01-15","height":"174","weight":"85","pitchHand":"R","batSide":"R","fullLFMName":"Satoh, Ryusei"}
+{"date":"2025-06-17","playerId":"81785138","jaBoxscoreName":"佐藤","boxscoreName":"Satoh"}
+{"date":"2025-06-17","playerId":"63965150","jaBoxscoreName":"ウォルターズ","boxscoreName":"Walters"}
