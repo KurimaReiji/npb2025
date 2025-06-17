@@ -52,32 +52,54 @@ function updateStats(statsObj, cur) {
 
 const catchers = Object.values(data)
   .filter((o) => o.catcher).sort((a, b) => b.att - a.att)
-  .map((o) => Object.assign(o, { ds: .5 * o.ds }, { att: o.att - o.ds, sb: o.sb - o.ds }))
-  .map((o) => Object.assign(o, { rate: calcRate(o.sb, o.cs) }))
+  .map((o) => Object.assign({}, o, { ds: .5 * o.ds }, { att: o.att - o.ds, sb: o.sb - o.ds }))
+  .map((o) => Object.assign({}, o, { rate: calcRate(o.sb, o.cs) }))
   ;
 const pitchers = Object.values(data)
   .filter((o) => o.pitcher).sort((a, b) => b.att - a.att)
-  .map((o) => Object.assign(o, { ds: .5 * o.ds }, { att: o.att - o.ds, sb: o.sb - o.ds }))
-  .map((o) => Object.assign(o, { rate: calcRate(o.sb + o.pickoff.sb, o.cs + o.pickoff.cs) }))
+  .map((o) => Object.assign({}, o, { ds: .5 * o.ds }))
+  .map((o) => Object.assign({}, o, { att: o.att - o.ds, sb: o.sb - o.ds }))
+  .map((o) => Object.assign({}, o, { rate: calcRate(o.sb + o.pickoff.sb, o.cs + o.pickoff.cs) }))
   ;
 const runners = Object.values(data)
   .filter((o) => o.runner).sort((a, b) => b.att - a.att)
-  .map((o) => Object.assign(o, { rate: calcRate(o.cs + o.pickoff.cs, o.sb + o.pickoff.sb) }))
+  .map((o) => Object.assign({}, o, { rate: calcRate(o.cs + o.pickoff.cs, o.sb + o.pickoff.sb) }))
   ;
 
-const teams = ["G", "T", "DB", "C", "S", "D", "H", "F", "M", "E", "B", "L"]
+const teamCodes = ["G", "T", "DB", "C", "S", "D", "H", "F", "M", "E", "B", "L"];
+const teams = teamCodes
   .map((teamCode) => {
-    const teamName = findTeam(teamCode).teamName;
+    const team = findTeam(teamCode);
     const d = data[`defence-${teamCode}`];
-    const defence = Object.assign(d, { rate: calcRate(d.sb + d.pickoff.sb, d.cs + d.pickoff.cs) });
+    const defence = Object.assign({}, d, { ds: .5 * d.ds }, { rate: calcRate(d.sb + d.pickoff.sb, d.cs + d.pickoff.cs) });
     const o = data[`offence-${teamCode}`];
     const offence = Object.assign({}, o, { ds: .5 * o.ds }, { rate: calcRate(o.cs + o.pickoff.cs, o.sb - .5 * o.ds + o.pickoff.sb) });
     // E: att:69, sb:61, ds:1 => att:68, sb:60 => rate: 0.882
     return {
       teamCode,
-      teamName,
+      teamName: team.teamName,
+      league: team.league,
       defence,
       offence,
+    }
+  });
+
+const leagues = ['Central', 'Pacific']
+  .map((league) => {
+    return {
+      league,
+      defence: teams.filter((t) => t.league === league).reduce((acc, cur) => {
+        acc.sb += cur.defence.sb + cur.defence.pickoff.sb;
+        acc.cs += cur.defence.cs + cur.defence.pickoff.cs;
+        acc.ds += cur.defence.ds;
+        return acc;
+      }, { sb: 0, cs: 0, ds: 0 }),
+      offence: teams.filter((t) => t.league === league).reduce((acc, cur) => {
+        acc.sb += cur.offence.sb + cur.offence.pickoff.sb;
+        acc.cs += cur.offence.cs + cur.offence.pickoff.cs;
+        acc.ds += cur.offence.ds;
+        return acc;
+      }, { sb: 0, cs: 0, ds: 0 }),
     }
   });
 
@@ -88,6 +110,7 @@ const output = JSON.stringify(
     pitchers,
     runners,
     teams,
+    leagues,
   },
   null,
   2

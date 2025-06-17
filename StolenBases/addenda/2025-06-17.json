@@ -3,9 +3,7 @@
     "jaText": "（走者・伊藤）二塁盗塁成功",
     "text": "Itoh steals 2nd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
+    "catcher": {
         "id": "71375138",
         "jaBoxscoreName": "太田",
         "jaRegisteredName": "太田　光",
@@ -15,27 +13,13 @@
         "boxscoreName": "Ohta",
         "pitchHand": "R",
         "batSide": "R"
-      },
-      {
-        "id": "61165134",
-        "jaBoxscoreName": "石原",
-        "jaRegisteredName": "石原　彪",
-        "fullLFMName": "Ishihara, Tsuyoshi",
-        "primaryNumber": "70",
-        "teamCode": "E",
-        "boxscoreName": "Ishihara",
-        "pitchHand": "R",
-        "batSide": "R"
       }
-    ]
   },
   {
     "jaText": "（走者・武岡）三塁盗塁成功",
     "text": "Takeoka steals 3rd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
+    "catcher": {
         "id": "71375138",
         "jaBoxscoreName": "太田",
         "jaRegisteredName": "太田　光",
@@ -45,27 +29,13 @@
         "boxscoreName": "Ohta",
         "pitchHand": "R",
         "batSide": "R"
-      },
-      {
-        "id": "61165134",
-        "jaBoxscoreName": "石原",
-        "jaRegisteredName": "石原　彪",
-        "fullLFMName": "Ishihara, Tsuyoshi",
-        "primaryNumber": "70",
-        "teamCode": "E",
-        "boxscoreName": "Ishihara",
-        "pitchHand": "R",
-        "batSide": "R"
       }
-    ]
   },
   {
     "jaText": "（走者・内山）二塁盗塁成功",
     "text": "Uchiyama steals 2nd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
+    "catcher": {
         "id": "71375138",
         "jaBoxscoreName": "太田",
         "jaRegisteredName": "太田　光",
@@ -75,19 +45,7 @@
         "boxscoreName": "Ohta",
         "pitchHand": "R",
         "batSide": "R"
-      },
-      {
-        "id": "61165134",
-        "jaBoxscoreName": "石原",
-        "jaRegisteredName": "石原　彪",
-        "fullLFMName": "Ishihara, Tsuyoshi",
-        "primaryNumber": "70",
-        "teamCode": "E",
-        "boxscoreName": "Ishihara",
-        "pitchHand": "R",
-        "batSide": "R"
       }
-    ]
   },
   {
     "jaText": "（走者・牧）二塁盗塁失敗",
@@ -103,9 +61,7 @@
     "jaText": "（走者・西川）二塁盗塁成功",
     "text": "Nishikawa steals 2nd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
+    "catcher": {
         "id": "21125150",
         "jaBoxscoreName": "石伊",
         "jaRegisteredName": "石伊　雄太",
@@ -115,19 +71,7 @@
         "boxscoreName": "Ishii",
         "pitchHand": "R",
         "batSide": "R"
-      },
-      {
-        "id": "91195138",
-        "jaBoxscoreName": "石橋",
-        "jaRegisteredName": "石橋　康太",
-        "fullLFMName": "Ishibashi, Kota",
-        "primaryNumber": "58",
-        "teamCode": "D",
-        "boxscoreName": "Ishibashi",
-        "pitchHand": "R",
-        "batSide": "R"
       }
-    ]
   },
   {
     "jaText": "（走者・近本）二塁盗塁成功",
@@ -143,9 +87,7 @@
     "jaText": "（走者・角中）二塁盗塁成功",
     "text": "Kakunaka steals 2nd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
+    "catcher": {
         "id": "21325139",
         "jaBoxscoreName": "梅野",
         "jaRegisteredName": "梅野　隆太郎",
@@ -155,19 +97,7 @@
         "boxscoreName": "Umeno",
         "pitchHand": "R",
         "batSide": "R"
-      },
-      {
-        "id": "11915132",
-        "jaBoxscoreName": "坂本",
-        "jaRegisteredName": "坂本　誠志郎",
-        "fullLFMName": "Sakamoto, Seishiro",
-        "primaryNumber": "12",
-        "teamCode": "T",
-        "boxscoreName": "Sakamoto",
-        "pitchHand": "R",
-        "batSide": "R"
       }
-    ]
   },
   {
     "jaText": "（走者・野村）二塁盗塁成功",
