@@ -31,8 +31,8 @@
   },
   {
     "jaText": "（走者・藤原）二塁盗塁失敗",
-    "text": "Fujiwara caught stealing 2nd base.",
-    "countsAsStealAttempt": true
+    "text": "Fujiwara picked off and caught stealing 2nd base.",
+    "countsAsStealAttempt": false
   },
   {
     "jaText": "（走者・近本）三塁盗塁成功",
@@ -48,9 +48,7 @@
     "jaText": "（走者・大盛）二塁盗塁成功",
     "text": "Ohmori steals 2nd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
+    "catcher": {
         "id": "93195138",
         "jaBoxscoreName": "渡邉",
         "jaRegisteredName": "渡邉　陸",
@@ -60,18 +58,6 @@
         "boxscoreName": "Watanabe",
         "pitchHand": "R",
         "batSide": "L"
-      },
-      {
-        "id": "71475139",
-        "jaBoxscoreName": "嶺井",
-        "jaRegisteredName": "嶺井　博希",
-        "fullLFMName": "Minei, Hiroki",
-        "primaryNumber": "12",
-        "teamCode": "H",
-        "boxscoreName": "Minei",
-        "pitchHand": "R",
-        "batSide": "R"
       }
-    ]
   }
 ]
