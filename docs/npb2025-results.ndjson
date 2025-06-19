@@ -381,3 +381,9 @@
 {"date":"2025-06-18","venue":"Vantelin Dome","road":{"team":"Buffaloes","runs":3,"starter":"R"},"home":{"team":"Dragons","runs":6,"starter":"R"}}
 {"date":"2025-06-18","venue":"Koshien","road":{"team":"Marines","runs":1,"starter":"R"},"home":{"team":"Tigers","runs":8,"starter":"L"}}
 {"date":"2025-06-18","venue":"Mazda Stadium","road":{"team":"Hawks","runs":4,"starter":"L"},"home":{"team":"Carp","runs":8,"starter":"R"}}
+{"date":"2025-06-19","venue":"Tokyo Dome","road":{"team":"Fighters","runs":4,"starter":"R"},"home":{"team":"Giants","runs":1,"starter":"R"}}
+{"date":"2025-06-19","venue":"Jingu","road":{"team":"Eagles","runs":3,"starter":"R"},"home":{"team":"Swallows","runs":1,"starter":"R"}}
+{"date":"2025-06-19","venue":"Yokohama","road":{"team":"Lions","runs":2,"starter":"R"},"home":{"team":"Baystars","runs":1,"starter":"L"}}
+{"date":"2025-06-19","venue":"Vantelin Dome","road":{"team":"Buffaloes","runs":6,"starter":"L"},"home":{"team":"Dragons","runs":1,"starter":"L"}}
+{"date":"2025-06-19","venue":"Koshien","road":{"team":"Marines","runs":0,"starter":"R"},"home":{"team":"Tigers","runs":2,"starter":"R"}}
+{"date":"2025-06-19","venue":"Mazda Stadium","road":{"team":"Hawks","runs":16,"starter":"L"},"home":{"team":"Carp","runs":2,"starter":"R"}}
