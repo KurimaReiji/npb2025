@@ -1,0 +1,176 @@
+[
+  {
+    "id": "11815130-2025-01",
+    "date": "2025-06-20",
+    "batter": {
+      "jaBoxscoreName": "宗",
+      "playerId": "11815130",
+      "boxscoreName": "Mune",
+      "batSide": "L",
+      "teamCode": "B",
+      "primaryNumber": "6",
+      "jaRegisteredName": "宗　佑磨",
+      "fullLFMName": "Mune, Yuma"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "小川",
+      "boxscoreName": "Ogawa",
+      "pitchHand": "R",
+      "teamCode": "S",
+      "primaryNumber": "29",
+      "jaRegisteredName": "小川　泰弘",
+      "fullLFMName": "Ogawa, Yasuhiro"
+    },
+    "number": 1,
+    "inning": 1,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "--3",
+    "count": {
+      "balls": 1,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 2,
+    "rbi": 2,
+    "whereHit": "9",
+    "venue": {
+      "boxscoreName": "Jingu",
+      "jaBoxscoreName": "神宮"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "B",
+        "teamName": "Buffaloes",
+        "score": 10
+      },
+      "home": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 8
+      }
+    },
+    "jaText": "ライト2ランホームラン（打点2）",
+    "text": "Mune homers (1) to right field.",
+    "url": "https://npb.jp/scores/2025/0620/s-b-01/playbyplay.html#com1-1"
+  },
+  {
+    "id": "91395138-2025-05",
+    "date": "2025-06-20",
+    "batter": {
+      "jaBoxscoreName": "太田",
+      "playerId": "91395138",
+      "boxscoreName": "Ohta",
+      "batSide": "R",
+      "teamCode": "B",
+      "primaryNumber": "31",
+      "jaRegisteredName": "太田　椋",
+      "fullLFMName": "Ohta, Ryo"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "小川",
+      "boxscoreName": "Ogawa",
+      "pitchHand": "R",
+      "teamCode": "S",
+      "primaryNumber": "29",
+      "jaRegisteredName": "小川　泰弘",
+      "fullLFMName": "Ogawa, Yasuhiro"
+    },
+    "number": 5,
+    "inning": 4,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "12-",
+    "count": {
+      "balls": 1,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 5,
+      "home": 3
+    },
+    "bop": 3,
+    "rbi": 3,
+    "whereHit": "78",
+    "venue": {
+      "boxscoreName": "Jingu",
+      "jaBoxscoreName": "神宮"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "B",
+        "teamName": "Buffaloes",
+        "score": 10
+      },
+      "home": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 8
+      }
+    },
+    "jaText": "左中間3ランホームラン（打点3）",
+    "text": "Ohta homers (5) to left center.",
+    "url": "https://npb.jp/scores/2025/0620/s-b-01/playbyplay.html#com4-1"
+  },
+  {
+    "id": "33535153-2025-07",
+    "date": "2025-06-20",
+    "batter": {
+      "jaBoxscoreName": "山本",
+      "playerId": "33535153",
+      "boxscoreName": "Yamamoto",
+      "batSide": "R",
+      "teamCode": "M",
+      "primaryNumber": "61",
+      "jaRegisteredName": "山本　大斗",
+      "fullLFMName": "Yamamoto, Daito"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "ケイ",
+      "boxscoreName": "Kay",
+      "pitchHand": "L",
+      "teamCode": "DB",
+      "primaryNumber": "69",
+      "jaRegisteredName": "Ａ．ケイ",
+      "fullLFMName": "Kay, Anthony"
+    },
+    "number": 7,
+    "inning": 3,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "---",
+    "count": {
+      "balls": 2,
+      "strikes": 2
+    },
+    "runs": {
+      "road": 3,
+      "home": 0
+    },
+    "bop": 4,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "Yokohama",
+      "jaBoxscoreName": "横浜"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 6
+      },
+      "home": {
+        "teamCode": "DB",
+        "teamName": "Baystars",
+        "score": 1
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Yamamoto homers (7) to left field.",
+    "url": "https://npb.jp/scores/2025/0620/db-m-01/playbyplay.html#com3-1"
+  }
+]
