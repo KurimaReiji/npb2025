@@ -60,6 +60,7 @@ const catchers = Object.values(data)
   .map((o) => Object.assign({}, o, { ds: o.ds / 2, ts: o.ts / 3 }))
   .map((o) => Object.assign({}, o, { att: o.att - o.ds - o.ts, sb: o.sb - o.ds - 2 * o.ts }))
   .map((o) => Object.assign({}, o, { rate: calcRate(o.sb, o.cs) }))
+  .sort((a, b) => b.cs - a.cs)
   .sort((a, b) => b.att - a.att)
   ;
 const pitchers = Object.values(data)
@@ -67,12 +68,14 @@ const pitchers = Object.values(data)
   .map((o) => Object.assign({}, o, { ds: o.ds / 2, ts: o.ts / 3 }))
   .map((o) => Object.assign({}, o, { att: o.att - o.ds - o.ts, sb: o.sb - o.ds - 2 * o.ts }))
   .map((o) => Object.assign({}, o, { rate: calcRate(o.sb + o.pickoff.sb, o.cs + o.pickoff.cs) }))
-  .sort((a, b) => b.att - a.att)
+  .sort((a, b) => b.cs + b.pickoff.cs - a.cs - a.pickoff.cs)
+  .sort((a, b) => b.cs + b.pickoff.cs + b.sb + b.pickoff.sb - (a.cs + a.pickoff.cs + a.sb + a.pickoff.sb))
   ;
 const runners = Object.values(data)
   .filter((o) => o.runner)
   .map((o) => Object.assign({}, o, { rate: calcRate(o.cs + o.pickoff.cs, o.sb + o.pickoff.sb) }))
-  .sort((a, b) => b.cs + b.pickoff.cs + b.sb + b.pickoff.sb - (a.cs + a.pickoff.cs, a.sb + a.pickoff.sb))
+  .sort((a, b) => b.sb + b.pickoff.sb - (a.sb + a.pickoff.sb))
+  .sort((a, b) => b.cs + b.pickoff.cs + b.sb + b.pickoff.sb - (a.cs + a.pickoff.cs + a.sb + a.pickoff.sb))
   ;
 
 const teamCodes = ["G", "T", "DB", "C", "S", "D", "H", "F", "M", "E", "B", "L"];

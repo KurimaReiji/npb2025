@@ -18,20 +18,7 @@
     "jaText": "（走者・小川）二塁盗塁成功",
     "text": "Ogawa steals 2nd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
-        "id": "23125136",
-        "jaBoxscoreName": "山本",
-        "jaRegisteredName": "山本　祐大",
-        "fullLFMName": "Yamamoto, Yuudai",
-        "primaryNumber": "50",
-        "teamCode": "DB",
-        "boxscoreName": "Yamamoto",
-        "pitchHand": "R",
-        "batSide": "R"
-      },
-      {
+    "catcher": {
         "id": "81185116",
         "jaBoxscoreName": "伊藤",
         "jaRegisteredName": "伊藤　光",
@@ -42,7 +29,6 @@
         "pitchHand": "R",
         "batSide": "R"
       }
-    ]
   },
   {
     "jaText": "（走者・中島卓也）三塁盗塁成功（ダブルスチール）",
@@ -58,9 +44,7 @@
     "jaText": "（走者・佐藤輝）二塁盗塁成功",
     "text": "T.Sato steals 2nd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
+    "catcher": {
         "id": "81385151",
         "jaBoxscoreName": "海野",
         "jaRegisteredName": "海野　隆司",
@@ -70,19 +54,7 @@
         "boxscoreName": "Umino",
         "pitchHand": "R",
         "batSide": "R"
-      },
-      {
-        "id": "71475139",
-        "jaBoxscoreName": "嶺井",
-        "jaRegisteredName": "嶺井　博希",
-        "fullLFMName": "Minei, Hiroki",
-        "primaryNumber": "12",
-        "teamCode": "H",
-        "boxscoreName": "Minei",
-        "pitchHand": "R",
-        "batSide": "R"
       }
-    ]
   },
   {
     "jaText": "（走者・小園）二塁盗塁成功",
