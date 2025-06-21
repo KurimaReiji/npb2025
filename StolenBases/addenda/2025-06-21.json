@@ -3,9 +3,7 @@
     "jaText": "（走者・山村）二塁盗塁失敗",
     "text": "Yamamura caught stealing 2nd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
+    "catcher": {
         "id": "91595136",
         "jaBoxscoreName": "岸田",
         "jaRegisteredName": "岸田　行倫",
@@ -15,19 +13,7 @@
         "boxscoreName": "Kishida",
         "pitchHand": "R",
         "batSide": "R"
-      },
-      {
-        "id": "91795139",
-        "jaBoxscoreName": "小林",
-        "jaRegisteredName": "小林　誠司",
-        "fullLFMName": "Kobayashi, Seiji",
-        "primaryNumber": "22",
-        "teamCode": "G",
-        "boxscoreName": "Kobayashi",
-        "pitchHand": "R",
-        "batSide": "R"
       }
-    ]
   },
   {
     "jaText": "（走者・泉口）二塁盗塁成功",
