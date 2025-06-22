@@ -3,9 +3,7 @@
     "jaText": "（走者・滝澤）二塁盗塁成功",
     "text": "Takizawa steals 2nd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
+    "catcher": {
         "id": "21325136",
         "jaBoxscoreName": "大城卓",
         "jaRegisteredName": "大城　卓三",
@@ -15,19 +13,7 @@
         "boxscoreName": "T.Ohshiro",
         "pitchHand": "R",
         "batSide": "L"
-      },
-      {
-        "id": "91595133",
-        "jaBoxscoreName": "甲斐",
-        "jaRegisteredName": "甲斐　拓也",
-        "fullLFMName": "Kai, Takuya",
-        "primaryNumber": "10",
-        "teamCode": "G",
-        "boxscoreName": "Kai",
-        "pitchHand": "R",
-        "batSide": "R"
       }
-    ]
   },
   {
     "jaText": "（走者・山野辺）二塁盗塁成功",
@@ -43,9 +29,7 @@
     "jaText": "（走者・梶原）二塁盗塁成功",
     "text": "Kajiwara steals 2nd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
+    "catcher": {
         "id": "51455159",
         "jaBoxscoreName": "寺地",
         "jaRegisteredName": "寺地　隆成",
@@ -55,19 +39,7 @@
         "boxscoreName": "Terachi",
         "pitchHand": "R",
         "batSide": "L"
-      },
-      {
-        "id": "41945137",
-        "jaBoxscoreName": "田村",
-        "jaRegisteredName": "田村　龍弘",
-        "fullLFMName": "Tamura, Tatsuhiro",
-        "primaryNumber": "27",
-        "teamCode": "M",
-        "boxscoreName": "Tamura",
-        "pitchHand": "R",
-        "batSide": "R"
       }
-    ]
   },
   {
     "jaText": "（走者・五十幡）二塁盗塁失敗",
@@ -78,9 +50,7 @@
     "jaText": "（走者・上林）二塁盗塁成功",
     "text": "Uebayashi steals 2nd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
+    "catcher": {
         "id": "21925151",
         "jaBoxscoreName": "郡司",
         "jaRegisteredName": "郡司　裕也",
@@ -90,19 +60,7 @@
         "boxscoreName": "Gunji",
         "pitchHand": "R",
         "batSide": "R"
-      },
-      {
-        "id": "51055138",
-        "jaBoxscoreName": "田宮",
-        "jaRegisteredName": "田宮　裕涼",
-        "fullLFMName": "Tamiya, Yua",
-        "primaryNumber": "64",
-        "teamCode": "F",
-        "boxscoreName": "Tamiya",
-        "pitchHand": "R",
-        "batSide": "L"
       }
-    ]
   },
   {
     "jaText": "（走者・植田）二塁盗塁成功",
