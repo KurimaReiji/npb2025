@@ -1,13 +1,11 @@
-import { getReadableNdJsonStream } from "./ndjson-helpers.js";
+import { getReadableNdJsonStream, setDbfile, } from "./ndjson-helpers.js";
 
-const homeRunReader = await getHomeRunReader();
+const dbfile = setDbfile('../npb2025-homeruns.ndjson', import.meta);
 
 async function getHomeRunReader() {
-  const ndjson = 'https://kurimareiji.github.io/npb2025/npb2025-homeruns.ndjson';
-  return await getReadableNdJsonStream(ndjson);
+  return getReadableNdJsonStream(dbfile);
 }
 
 export {
   getHomeRunReader,
-  homeRunReader,
 }

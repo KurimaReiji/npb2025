@@ -59,8 +59,17 @@ async function createNdjsonWriter(filePath) {
   };
 }
 
+function setDbfile(relativePath, meta) {
+  if (typeof window === 'undefined') {
+    return `${meta.dirname}/${relativePath}`;
+  } else {
+    return new URL(relativePath, meta.url).href;
+  }
+}
+
 export {
   NdJsonStream,
   getReadableNdJsonStream,
   createNdjsonWriter,
+  setDbfile,
 }
