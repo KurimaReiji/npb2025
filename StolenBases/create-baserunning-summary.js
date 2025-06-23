@@ -6,8 +6,14 @@ const outfile = '../docs/npb2025-baserunning-summary.json';
 const statsTemplate = { att: 0, sb: 0, cs: 0, ds: 0, ts: 0, pickoff: { pickoff: 0, sb: 0, cs: 0, ds: 0, ts: 0 } };
 const data = {}
 let updated = "";
+const [endDate, startDate] = process.argv.slice(2);
+if ([endDate, startDate].some((d) => d)) {
+  console.error(startDate, endDate);
+}
 
 for await (const cur of (await getBaseRunningReader())) {
+  if (cur.date < (startDate || '2025-03-28')) continue;
+  if (cur.date > (endDate || '2025-10-24')) continue;
   const catcherStats = data[cur.catcher.id] || Object.assign(structuredClone(statsTemplate), { catcher: cur.catcher })
   const pitcherStats = data[cur.pitcher.id] || Object.assign(structuredClone(statsTemplate), { pitcher: cur.pitcher });
   const runnerStats = data[`runner-${cur.runner.id}`] || Object.assign(structuredClone(statsTemplate), { runner: cur.runner });
@@ -131,6 +137,18 @@ const leagues = ['Central', 'Pacific']
         acc.pickoff.ts += cur.offence.pickoff.ts;
         return acc;
       }, structuredClone(statsTemplate)),
+    }
+  })
+  .map((o) => {
+    return {
+      league: o.league,
+      defence: Object.assign({}, o.defence, {
+        rate: calcRate(o.defence.sb - o.defence.ds - 2 * o.defence.ts, o.defence.cs),
+        teamRate: calcRate(o.defence.sb + o.defence.pickoff.sb - o.defence.ds - 2 * o.defence.ts, o.defence.cs + o.defence.pickoff.cs),
+      }),
+      offence: Object.assign({}, o.offence, {
+        rate: calcRate(o.offence.cs + o.offence.pickoff.cs, o.offence.sb - o.offence.ds - 2 * o.offence.ts + o.offence.pickoff.sb - o.offence.pickoff.ds - 2 * o.offence.pickoff.ts),
+      }),
     }
   });
 
