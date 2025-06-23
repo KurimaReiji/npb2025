@@ -8,7 +8,7 @@ const data = {}
 let updated = "";
 const [endDate, startDate] = process.argv.slice(2);
 if ([endDate, startDate].some((d) => d)) {
-  console.error(startDate, endDate);
+  console.error([startDate, endDate].join('/'));
 }
 
 for await (const cur of (await getBaseRunningReader())) {
@@ -88,12 +88,13 @@ const teamCodes = ["G", "T", "DB", "C", "S", "D", "H", "F", "M", "E", "B", "L"];
 const teams = teamCodes
   .map((teamCode) => {
     const team = findTeam(teamCode);
-    const d = data[`defence-${teamCode}`];
+    const d = data[`defence-${teamCode}`] || structuredClone(statsTemplate);
+
     Object.assign(d, { ds: d.ds / 2, ts: d.ts / 3 });
     Object.assign(d, { att: d.att - d.ds - 2 * d.ts });
     Object.assign(d, { rate: calcRate(d.sb + d.pickoff.sb - d.ds - 2 * d.ts, d.cs + d.pickoff.cs) });
 
-    const o = data[`offence-${teamCode}`];
+    const o = data[`offence-${teamCode}`] || structuredClone(statsTemplate);
     Object.assign(o, { ds: o.ds / 2, ts: o.ts / 3 });
     Object.assign(o, { att: o.att - o.ds - 2 * o.ts });
     Object.assign(o, { rate: calcRate(o.cs + o.pickoff.cs, o.sb - o.ds - 2 * o.ts + o.pickoff.sb) })
@@ -166,6 +167,13 @@ const output = JSON.stringify(
 );
 
 writeFileSync(outfile, output, 'utf8');
+
+console.error(
+  [
+    `セ・リーグ ${leagues[0].defence.rate} = ${leagues[0].defence.cs}/${leagues[0].defence.att}`,
+    `パ・リーグ ${leagues[1].defence.rate} = ${leagues[1].defence.cs}/${leagues[1].defence.att}`,
+  ].join("\n")
+)
 
 function calcRate(sb, cs) {
   if (sb + cs === 0) return '---';
