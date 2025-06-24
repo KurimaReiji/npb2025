@@ -1,0 +1,60 @@
+[
+  {
+    "id": "51955114-2025-01",
+    "date": "2025-06-24",
+    "batter": {
+      "jaBoxscoreName": "坂本",
+      "playerId": "51955114",
+      "boxscoreName": "H.Sakamoto",
+      "batSide": "R",
+      "teamCode": "G",
+      "primaryNumber": "6",
+      "jaRegisteredName": "坂本　勇人",
+      "fullLFMName": "Sakamoto, Hayato"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "サモンズ",
+      "boxscoreName": "Sammons",
+      "pitchHand": "L",
+      "teamCode": "M",
+      "primaryNumber": "42",
+      "jaRegisteredName": "Ｂ．サモンズ",
+      "fullLFMName": "Sammons, Bryan"
+    },
+    "number": 1,
+    "inning": 1,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "---",
+    "count": {
+      "balls": 1,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 2,
+    "rbi": 1,
+    "whereHit": "78",
+    "venue": {
+      "boxscoreName": "ZOZO Marine",
+      "jaBoxscoreName": "ZOZOマリン"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "G",
+        "teamName": "Giants",
+        "score": 4
+      },
+      "home": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 6
+      }
+    },
+    "jaText": "左中間ソロホームラン（打点1）",
+    "text": "H.Sakamoto homers (1) to left center.",
+    "url": "https://npb.jp/scores/2025/0624/m-g-03/playbyplay.html#com1-1"
+  }
+]
