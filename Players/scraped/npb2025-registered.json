@@ -2416,7 +2416,7 @@
     "year": "2025",
     "teamCode": "E",
     "title": "2025年度 支配下選手登録（東北楽天ゴールデンイーグルス） | 2025年度公示 | NPB.jp 日本野球機構",
-    "total": "69名",
+    "total": "70名",
     "rows": [
       {
         "mmdd": "12-17",
@@ -2977,6 +2977,14 @@
         "primaryNumber": "12",
         "playerId": "93095150",
         "jaRegisteredName": "Ｏ．ゴンザレス"
+      },
+      {
+        "mmdd": "06-24",
+        "teamCode": "E",
+        "jaPrimaryPosition": "内野手",
+        "primaryNumber": "9",
+        "playerId": "03005150",
+        "jaRegisteredName": "Ｌ．ボイト"
       }
     ],
     "notes": [
