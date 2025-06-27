@@ -1,0 +1,57 @@
+[
+  {
+    "jaText": "（走者・丸）二塁盗塁失敗",
+    "text": "Maru caught stealing 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・吉川）二塁盗塁失敗",
+    "text": "Yoshikawa caught stealing 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・三森）二塁盗塁失敗",
+    "text": "Mimori caught stealing 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・小幡）本塁盗塁失敗",
+    "text": "Obata caught stealing home plate.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・山本）二塁盗塁成功",
+    "text": "Yamamoto steals 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・佐藤）二塁盗塁成功",
+    "text": "Satoh steals 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・羽月）一塁牽制アウト",
+    "text": "Hatsuki picked off at 1st base.",
+    "countsAsStealAttempt": false
+  },
+  {
+    "jaText": "（走者・久保）二塁盗塁成功",
+    "text": "TBD steals 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・上川畑）一塁牽制アウト",
+    "text": "Kamikawabata picked off at 1st base.",
+    "countsAsStealAttempt": false
+  },
+  {
+    "jaText": "（走者・清宮幸）二塁盗塁成功",
+    "text": "Kiyomiya steals 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・周東）二塁盗塁成功",
+    "text": "Shuto steals 2nd base.",
+    "countsAsStealAttempt": true
+  }
+]
