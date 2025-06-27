@@ -2,7 +2,7 @@
   {
     "jaText": "（走者・丸）二塁盗塁失敗",
     "text": "Maru caught stealing 2nd base.",
-    "countsAsStealAttempt": true
+    "countsAsStealAttempt": false
   },
   {
     "jaText": "（走者・吉川）二塁盗塁失敗",
