@@ -8,20 +8,7 @@
     "jaText": "（走者・増田大）二塁盗塁成功",
     "text": "D.Masuda steals 2nd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
-        "id": "81185116",
-        "jaBoxscoreName": "伊藤",
-        "jaRegisteredName": "伊藤　光",
-        "fullLFMName": "Itoh, Hikaru",
-        "primaryNumber": "29",
-        "teamCode": "DB",
-        "boxscoreName": "Itoh",
-        "pitchHand": "R",
-        "batSide": "R"
-      },
-      {
+    "catcher": {
         "id": "21825157",
         "jaBoxscoreName": "松尾",
         "jaRegisteredName": "松尾　汐恩",
@@ -32,7 +19,6 @@
         "pitchHand": "R",
         "batSide": "R"
       }
-    ]
   },
   {
     "jaText": "（走者・並木）二塁盗塁成功",
@@ -43,9 +29,7 @@
     "jaText": "（走者・中野）二塁盗塁成功",
     "text": "Nakano steals 2nd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
+    "catcher": {
         "id": "51255118",
         "jaBoxscoreName": "中村悠",
         "jaRegisteredName": "中村　悠平",
@@ -55,27 +39,13 @@
         "boxscoreName": "Yuh.Nakamura",
         "pitchHand": "R",
         "batSide": "R"
-      },
-      {
-        "id": "51855136",
-        "jaBoxscoreName": "松本直",
-        "jaRegisteredName": "松本　直樹",
-        "fullLFMName": "Matsumoto, Naoki",
-        "primaryNumber": "32",
-        "teamCode": "S",
-        "boxscoreName": "N.Matsumoto",
-        "pitchHand": "R",
-        "batSide": "R"
       }
-    ]
   },
   {
     "jaText": "（走者・岡林）二塁盗塁成功",
     "text": "Okabayashi steals 2nd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
+    "catcher": {
         "id": "11915134",
         "jaBoxscoreName": "坂倉",
         "jaRegisteredName": "坂倉　将吾",
@@ -85,19 +55,7 @@
         "boxscoreName": "Sakakura",
         "pitchHand": "R",
         "batSide": "L"
-      },
-      {
-        "id": "21125151",
-        "jaBoxscoreName": "石原",
-        "jaRegisteredName": "石原　貴規",
-        "fullLFMName": "Ishihara, Tomoki",
-        "primaryNumber": "32",
-        "teamCode": "C",
-        "boxscoreName": "Ishihara",
-        "pitchHand": "R",
-        "batSide": "R"
       }
-    ]
   },
   {
     "jaText": "（走者・田中）二塁盗塁失敗",
@@ -107,21 +65,8 @@
   {
     "jaText": "（走者・尾田）本塁盗塁失敗",
     "text": "Oda caught stealing home plate.",
-    "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
-        "id": "11915134",
-        "jaBoxscoreName": "坂倉",
-        "jaRegisteredName": "坂倉　将吾",
-        "fullLFMName": "Sakakura, Shogo",
-        "primaryNumber": "31",
-        "teamCode": "C",
-        "boxscoreName": "Sakakura",
-        "pitchHand": "R",
-        "batSide": "L"
-      },
-      {
+    "countsAsStealAttempt": false,
+    "catcher": {
         "id": "21125151",
         "jaBoxscoreName": "石原",
         "jaRegisteredName": "石原　貴規",
@@ -132,12 +77,11 @@
         "pitchHand": "R",
         "batSide": "R"
       }
-    ]
   },
   {
     "jaText": "（走者・滝澤）二塁盗塁失敗",
     "text": "Takizawa caught stealing 2nd base.",
-    "countsAsStealAttempt": true
+    "countsAsStealAttempt": false
   },
   {
     "jaText": "（走者・水谷）二塁盗塁成功",
