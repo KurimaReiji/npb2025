@@ -1,0 +1,67 @@
+[
+  {
+    "jaText": "（走者・オコエ）二塁盗塁失敗",
+    "text": "Okoye caught stealing 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・岩田）二塁盗塁失敗",
+    "text": "Iwata caught stealing 2nd base.",
+    "countsAsStealAttempt": true,
+    "catcher": {},
+    "catchers": [
+      {
+        "id": "11915134",
+        "jaBoxscoreName": "坂倉",
+        "jaRegisteredName": "坂倉　将吾",
+        "fullLFMName": "Sakakura, Shogo",
+        "primaryNumber": "31",
+        "teamCode": "C",
+        "boxscoreName": "Sakakura",
+        "pitchHand": "R",
+        "batSide": "L"
+      },
+      {
+        "id": "21125151",
+        "jaBoxscoreName": "石原",
+        "jaRegisteredName": "石原　貴規",
+        "fullLFMName": "Ishihara, Tomoki",
+        "primaryNumber": "32",
+        "teamCode": "C",
+        "boxscoreName": "Ishihara",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+    ]
+  },
+  {
+    "jaText": "（走者・小郷）二塁盗塁成功",
+    "text": "Ogoh steals 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・池田）二塁盗塁失敗",
+    "text": "Ikeda caught stealing 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・黒川）二塁盗塁成功",
+    "text": "Kurokawa steals 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・友杉）二塁盗塁失敗",
+    "text": "Tomosugi caught stealing 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・来田）二塁盗塁成功",
+    "text": "Kita steals 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・髙松）二塁盗塁成功",
+    "text": "Takamatsu steals 2nd base.",
+    "countsAsStealAttempt": true
+  }
+]
