@@ -8,9 +8,7 @@
     "jaText": "（走者・岩田）二塁盗塁失敗",
     "text": "Iwata caught stealing 2nd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
+    "catcher": {
         "id": "11915134",
         "jaBoxscoreName": "坂倉",
         "jaRegisteredName": "坂倉　将吾",
@@ -20,19 +18,7 @@
         "boxscoreName": "Sakakura",
         "pitchHand": "R",
         "batSide": "L"
-      },
-      {
-        "id": "21125151",
-        "jaBoxscoreName": "石原",
-        "jaRegisteredName": "石原　貴規",
-        "fullLFMName": "Ishihara, Tomoki",
-        "primaryNumber": "32",
-        "teamCode": "C",
-        "boxscoreName": "Ishihara",
-        "pitchHand": "R",
-        "batSide": "R"
       }
-    ]
   },
   {
     "jaText": "（走者・小郷）二塁盗塁成功",
