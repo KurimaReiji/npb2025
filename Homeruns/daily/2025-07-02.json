@@ -122,7 +122,7 @@
     "batter": {
       "jaBoxscoreName": "井上",
       "playerId": "31335159",
-      "boxscoreName": "TBD",
+      "boxscoreName": "Inoue",
       "batSide": "L",
       "teamCode": "DB",
       "primaryNumber": "55",
@@ -171,7 +171,7 @@
       }
     },
     "jaText": "右中間満塁ホームラン（打点4）",
-    "text": "TBD homers (1) to right center.",
+    "text": "Inoue homers (1) to right center.",
     "url": "https://npb.jp/scores/2025/0702/db-d-13/playbyplay.html#com1-2"
   },
   {
@@ -297,7 +297,7 @@
     "batter": {
       "jaBoxscoreName": "ボイト",
       "playerId": "03005150",
-      "boxscoreName": "TBD",
+      "boxscoreName": "Voit",
       "batSide": "R",
       "teamCode": "E",
       "primaryNumber": "9",
@@ -346,7 +346,7 @@
       }
     },
     "jaText": "レフト2ランホームラン（打点2）",
-    "text": "TBD homers (1) to left field.",
+    "text": "Voit homers (1) to left field.",
     "url": "https://npb.jp/scores/2025/0702/e-m-13/playbyplay.html#com7-2"
   },
   {
