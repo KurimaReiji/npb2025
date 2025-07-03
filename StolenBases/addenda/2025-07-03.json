@@ -1,0 +1,27 @@
+[
+  {
+    "jaText": "（走者・伊藤）二塁盗塁成功",
+    "text": "Itoh steals 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・岩田）一塁牽制アウト",
+    "text": "Iwata picked off at 1st base.",
+    "countsAsStealAttempt": false
+  },
+  {
+    "jaText": "（走者・周東）二塁盗塁成功",
+    "text": "Shuto steals 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・周東）二塁盗塁失敗",
+    "text": "Shuto caught stealing 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・周東）二塁盗塁成功",
+    "text": "Shuto steals 2nd base.",
+    "countsAsStealAttempt": true
+  }
+]

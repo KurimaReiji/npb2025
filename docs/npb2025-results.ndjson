@@ -436,3 +436,7 @@
 {"date":"2025-07-02","venue":"Rakuten Mobile","road":{"team":"Marines","runs":6,"starter":"R"},"home":{"team":"Eagles","runs":3,"starter":"R"}}
 {"date":"2025-07-02","venue":"Naha","road":{"team":"Buffaloes","runs":6,"starter":"L"},"home":{"team":"Lions","runs":2,"starter":"R"}}
 {"date":"2025-07-02","venue":"MIZUHO PayPay","road":{"team":"Fighters","runs":1,"starter":"L"},"home":{"team":"Hawks","runs":2,"starter":"L"}}
+{"date":"2025-07-03","venue":"Yokohama","road":{"team":"Dragons","runs":5,"starter":"L"},"home":{"team":"Baystars","runs":8,"starter":"R"}}
+{"date":"2025-07-03","venue":"Koshien","road":{"team":"Giants","runs":2,"starter":"L"},"home":{"team":"Tigers","runs":3,"starter":"L"}}
+{"date":"2025-07-03","venue":"Mazda Stadium","road":{"team":"Swallows","runs":5,"starter":"R"},"home":{"team":"Carp","runs":0,"starter":"L"}}
+{"date":"2025-07-03","venue":"MIZUHO PayPay","road":{"team":"Fighters","runs":1,"starter":"R"},"home":{"team":"Hawks","runs":4,"starter":"L"}}

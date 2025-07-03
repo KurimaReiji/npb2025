@@ -1,0 +1,462 @@
+[
+  {
+    "date": "2025-07-03",
+    "runner": {
+      "id": "81185159",
+      "jaBoxscoreName": "伊藤",
+      "jaRegisteredName": "伊藤　琉偉",
+      "fullLFMName": "Itoh, Ryui",
+      "primaryNumber": "67",
+      "teamCode": "S",
+      "boxscoreName": "Itoh",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "batter": {
+      "id": "51255118",
+      "jaBoxscoreName": "中村悠",
+      "jaRegisteredName": "中村　悠平",
+      "fullLFMName": "Nakamura, Yuhei",
+      "primaryNumber": "27",
+      "teamCode": "S",
+      "boxscoreName": "Yuh.Nakamura",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "93395155",
+      "jaBoxscoreName": "森",
+      "jaRegisteredName": "森　翔平",
+      "fullLFMName": "Mori, Shohei",
+      "primaryNumber": "16",
+      "teamCode": "C",
+      "boxscoreName": "Mori",
+      "pitchHand": "L",
+      "batSide": "L"
+    },
+    "catcher": {
+      "id": "11915134",
+      "jaBoxscoreName": "坂倉",
+      "jaRegisteredName": "坂倉　将吾",
+      "fullLFMName": "Sakakura, Shogo",
+      "primaryNumber": "31",
+      "teamCode": "C",
+      "boxscoreName": "Sakakura",
+      "pitchHand": "R",
+      "batSide": "L"
+    },
+    "scoring": "StolenBase",
+    "base": "2B",
+    "inning": 2,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "1--",
+    "runs": {
+      "road": 1,
+      "home": 0
+    },
+    "venue": {
+      "jaBoxscoreName": "マツダスタジアム",
+      "boxscoreName": "Mazda Stadium",
+      "jaName": "MAZDA Zoom-Zoom スタジアム広島",
+      "name": "MAZDA Zoom-Zoom Stadium Hiroshima"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 5
+      },
+      "home": {
+        "teamCode": "C",
+        "teamName": "Carp",
+        "score": 0
+      }
+    },
+    "jaText": "（走者・伊藤）二塁盗塁成功",
+    "text": "Itoh steals 2nd base.",
+    "url": "https://npb.jp/scores/2025/0703/c-s-10/playbyplay.html#com2-1",
+    "catchers": [
+      {
+        "id": "11915134",
+        "jaBoxscoreName": "坂倉",
+        "jaRegisteredName": "坂倉　将吾",
+        "fullLFMName": "Sakakura, Shogo",
+        "primaryNumber": "31",
+        "teamCode": "C",
+        "boxscoreName": "Sakakura",
+        "pitchHand": "R",
+        "batSide": "L"
+      }
+    ],
+    "countsAsStealAttempt": true
+  },
+  {
+    "date": "2025-07-03",
+    "runner": {
+      "id": "51355155",
+      "jaBoxscoreName": "岩田",
+      "jaRegisteredName": "岩田　幸宏",
+      "fullLFMName": "Iwata, Yukihiro",
+      "primaryNumber": "64",
+      "teamCode": "S",
+      "boxscoreName": "Iwata",
+      "pitchHand": "L",
+      "batSide": "L"
+    },
+    "batter": {
+      "id": "51155153",
+      "jaBoxscoreName": "赤羽",
+      "jaRegisteredName": "赤羽　由紘",
+      "fullLFMName": "Akahane, Yoshihiro",
+      "primaryNumber": "00",
+      "teamCode": "S",
+      "boxscoreName": "Akahane",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "91595150",
+      "jaBoxscoreName": "岡本",
+      "jaRegisteredName": "岡本　駿",
+      "fullLFMName": "Okamoto, Shun",
+      "primaryNumber": "53",
+      "teamCode": "C",
+      "boxscoreName": "Okamoto",
+      "pitchHand": "R",
+      "batSide": "L"
+    },
+    "catcher": {
+      "id": "11915134",
+      "jaBoxscoreName": "坂倉",
+      "jaRegisteredName": "坂倉　将吾",
+      "fullLFMName": "Sakakura, Shogo",
+      "primaryNumber": "31",
+      "teamCode": "C",
+      "boxscoreName": "Sakakura",
+      "pitchHand": "R",
+      "batSide": "L"
+    },
+    "scoring": "PickedOff",
+    "base": "1B",
+    "inning": 7,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "1--",
+    "runs": {
+      "road": 5,
+      "home": 0
+    },
+    "venue": {
+      "jaBoxscoreName": "マツダスタジアム",
+      "boxscoreName": "Mazda Stadium",
+      "jaName": "MAZDA Zoom-Zoom スタジアム広島",
+      "name": "MAZDA Zoom-Zoom Stadium Hiroshima"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 5
+      },
+      "home": {
+        "teamCode": "C",
+        "teamName": "Carp",
+        "score": 0
+      }
+    },
+    "jaText": "（走者・岩田）一塁牽制アウト",
+    "text": "Iwata picked off at 1st base.",
+    "url": "https://npb.jp/scores/2025/0703/c-s-10/playbyplay.html#com7-1",
+    "catchers": [
+      {
+        "id": "11915134",
+        "jaBoxscoreName": "坂倉",
+        "jaRegisteredName": "坂倉　将吾",
+        "fullLFMName": "Sakakura, Shogo",
+        "primaryNumber": "31",
+        "teamCode": "C",
+        "boxscoreName": "Sakakura",
+        "pitchHand": "R",
+        "batSide": "L"
+      }
+    ],
+    "countsAsStealAttempt": false
+  },
+  {
+    "date": "2025-07-03",
+    "runner": {
+      "id": "21925136",
+      "jaBoxscoreName": "周東",
+      "jaRegisteredName": "周東　佑京",
+      "fullLFMName": "Shuto, Ukyo",
+      "primaryNumber": "23",
+      "teamCode": "H",
+      "boxscoreName": "Shuto",
+      "pitchHand": "R",
+      "batSide": "L"
+    },
+    "batter": {
+      "id": "11615155",
+      "jaBoxscoreName": "野村",
+      "jaRegisteredName": "野村　勇",
+      "fullLFMName": "Nomura, Isami",
+      "primaryNumber": "99",
+      "teamCode": "H",
+      "boxscoreName": "Nomura",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "51555157",
+      "jaBoxscoreName": "金村",
+      "jaRegisteredName": "金村　尚真",
+      "fullLFMName": "Kanemura, Shoma",
+      "primaryNumber": "24",
+      "teamCode": "F",
+      "boxscoreName": "Kanemura",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "catcher": {
+      "id": "51055138",
+      "jaBoxscoreName": "田宮",
+      "jaRegisteredName": "田宮　裕涼",
+      "fullLFMName": "Tamiya, Yua",
+      "primaryNumber": "64",
+      "teamCode": "F",
+      "boxscoreName": "Tamiya",
+      "pitchHand": "R",
+      "batSide": "L"
+    },
+    "scoring": "StolenBase",
+    "base": "2B",
+    "inning": 1,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "1--",
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "venue": {
+      "jaBoxscoreName": "みずほPayPay",
+      "boxscoreName": "MIZUHO PayPay",
+      "jaName": "みずほPayPayドーム福岡",
+      "name": "MIZUHO PayPay Dome Fukuoka"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 1
+      },
+      "home": {
+        "teamCode": "H",
+        "teamName": "Hawks",
+        "score": 4
+      }
+    },
+    "jaText": "（走者・周東）二塁盗塁成功",
+    "text": "Shuto steals 2nd base.",
+    "url": "https://npb.jp/scores/2025/0703/h-f-13/playbyplay.html#com1-2",
+    "catchers": [
+      {
+        "id": "51055138",
+        "jaBoxscoreName": "田宮",
+        "jaRegisteredName": "田宮　裕涼",
+        "fullLFMName": "Tamiya, Yua",
+        "primaryNumber": "64",
+        "teamCode": "F",
+        "boxscoreName": "Tamiya",
+        "pitchHand": "R",
+        "batSide": "L"
+      }
+    ],
+    "countsAsStealAttempt": true
+  },
+  {
+    "date": "2025-07-03",
+    "runner": {
+      "id": "21925136",
+      "jaBoxscoreName": "周東",
+      "jaRegisteredName": "周東　佑京",
+      "fullLFMName": "Shuto, Ukyo",
+      "primaryNumber": "23",
+      "teamCode": "H",
+      "boxscoreName": "Shuto",
+      "pitchHand": "R",
+      "batSide": "L"
+    },
+    "batter": {
+      "id": "11615155",
+      "jaBoxscoreName": "野村",
+      "jaRegisteredName": "野村　勇",
+      "fullLFMName": "Nomura, Isami",
+      "primaryNumber": "99",
+      "teamCode": "H",
+      "boxscoreName": "Nomura",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "51555157",
+      "jaBoxscoreName": "金村",
+      "jaRegisteredName": "金村　尚真",
+      "fullLFMName": "Kanemura, Shoma",
+      "primaryNumber": "24",
+      "teamCode": "F",
+      "boxscoreName": "Kanemura",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "catcher": {
+      "id": "51055138",
+      "jaBoxscoreName": "田宮",
+      "jaRegisteredName": "田宮　裕涼",
+      "fullLFMName": "Tamiya, Yua",
+      "primaryNumber": "64",
+      "teamCode": "F",
+      "boxscoreName": "Tamiya",
+      "pitchHand": "R",
+      "batSide": "L"
+    },
+    "scoring": "CaughtStealing",
+    "base": "2B",
+    "inning": 3,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "1--",
+    "runs": {
+      "road": 1,
+      "home": 1
+    },
+    "venue": {
+      "jaBoxscoreName": "みずほPayPay",
+      "boxscoreName": "MIZUHO PayPay",
+      "jaName": "みずほPayPayドーム福岡",
+      "name": "MIZUHO PayPay Dome Fukuoka"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 1
+      },
+      "home": {
+        "teamCode": "H",
+        "teamName": "Hawks",
+        "score": 4
+      }
+    },
+    "jaText": "（走者・周東）二塁盗塁失敗",
+    "text": "Shuto caught stealing 2nd base.",
+    "url": "https://npb.jp/scores/2025/0703/h-f-13/playbyplay.html#com3-2",
+    "catchers": [
+      {
+        "id": "51055138",
+        "jaBoxscoreName": "田宮",
+        "jaRegisteredName": "田宮　裕涼",
+        "fullLFMName": "Tamiya, Yua",
+        "primaryNumber": "64",
+        "teamCode": "F",
+        "boxscoreName": "Tamiya",
+        "pitchHand": "R",
+        "batSide": "L"
+      }
+    ],
+    "countsAsStealAttempt": true
+  },
+  {
+    "date": "2025-07-03",
+    "runner": {
+      "id": "21925136",
+      "jaBoxscoreName": "周東",
+      "jaRegisteredName": "周東　佑京",
+      "fullLFMName": "Shuto, Ukyo",
+      "primaryNumber": "23",
+      "teamCode": "H",
+      "boxscoreName": "Shuto",
+      "pitchHand": "R",
+      "batSide": "L"
+    },
+    "batter": {
+      "id": "73175151",
+      "jaBoxscoreName": "柳町",
+      "jaRegisteredName": "柳町　達",
+      "fullLFMName": "Yanagimachi, Tatsuru",
+      "primaryNumber": "32",
+      "teamCode": "H",
+      "boxscoreName": "Yanagimachi",
+      "pitchHand": "R",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "21725138",
+      "jaBoxscoreName": "齋藤",
+      "jaRegisteredName": "齋藤　友貴哉",
+      "fullLFMName": "Saito, Yukiya",
+      "primaryNumber": "48",
+      "teamCode": "F",
+      "boxscoreName": "Saito",
+      "pitchHand": "R",
+      "batSide": "L"
+    },
+    "catcher": {
+      "id": "51055138",
+      "jaBoxscoreName": "田宮",
+      "jaRegisteredName": "田宮　裕涼",
+      "fullLFMName": "Tamiya, Yua",
+      "primaryNumber": "64",
+      "teamCode": "F",
+      "boxscoreName": "Tamiya",
+      "pitchHand": "R",
+      "batSide": "L"
+    },
+    "scoring": "StolenBase",
+    "base": "2B",
+    "inning": 5,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "1--",
+    "runs": {
+      "road": 1,
+      "home": 3
+    },
+    "venue": {
+      "jaBoxscoreName": "みずほPayPay",
+      "boxscoreName": "MIZUHO PayPay",
+      "jaName": "みずほPayPayドーム福岡",
+      "name": "MIZUHO PayPay Dome Fukuoka"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 1
+      },
+      "home": {
+        "teamCode": "H",
+        "teamName": "Hawks",
+        "score": 4
+      }
+    },
+    "jaText": "（走者・周東）二塁盗塁成功",
+    "text": "Shuto steals 2nd base.",
+    "url": "https://npb.jp/scores/2025/0703/h-f-13/playbyplay.html#com5-2",
+    "catchers": [
+      {
+        "id": "51055138",
+        "jaBoxscoreName": "田宮",
+        "jaRegisteredName": "田宮　裕涼",
+        "fullLFMName": "Tamiya, Yua",
+        "primaryNumber": "64",
+        "teamCode": "F",
+        "boxscoreName": "Tamiya",
+        "pitchHand": "R",
+        "batSide": "L"
+      }
+    ],
+    "countsAsStealAttempt": true
+  }
+]
