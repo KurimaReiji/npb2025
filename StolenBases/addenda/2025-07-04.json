@@ -1,0 +1,87 @@
+[
+  {
+    "jaText": "（走者・中野）二塁盗塁成功",
+    "text": "Nakano steals 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・小幡）二塁盗塁失敗",
+    "text": "Obata caught stealing 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・桑原）二塁盗塁成功",
+    "text": "Kuwahara steals 2nd base.",
+    "countsAsStealAttempt": true,
+    "catcher": {},
+    "catchers": [
+      {
+        "id": "11915132",
+        "jaBoxscoreName": "坂本",
+        "jaRegisteredName": "坂本　誠志郎",
+        "fullLFMName": "Sakamoto, Seishiro",
+        "primaryNumber": "12",
+        "teamCode": "T",
+        "boxscoreName": "Sakamoto",
+        "pitchHand": "R",
+        "batSide": "R"
+      },
+      {
+        "id": "21325139",
+        "jaBoxscoreName": "梅野",
+        "jaRegisteredName": "梅野　隆太郎",
+        "fullLFMName": "Umeno, Ryutaro",
+        "primaryNumber": "2",
+        "teamCode": "T",
+        "boxscoreName": "Umeno",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+    ]
+  },
+  {
+    "jaText": "（走者・中野）二塁盗塁成功",
+    "text": "Nakano steals 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・田中）二塁盗塁失敗",
+    "text": "Tanaka caught stealing 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・五十幡）一塁牽制アウト",
+    "text": "Isobata picked off at 1st base.",
+    "countsAsStealAttempt": false,
+    "catcher": {},
+    "catchers": [
+      {
+        "id": "71375138",
+        "jaBoxscoreName": "太田",
+        "jaRegisteredName": "太田　光",
+        "fullLFMName": "Ohta, Hikaru",
+        "primaryNumber": "2",
+        "teamCode": "E",
+        "boxscoreName": "Ohta",
+        "pitchHand": "R",
+        "batSide": "R"
+      },
+      {
+        "id": "11815132",
+        "jaBoxscoreName": "堀内",
+        "jaRegisteredName": "堀内　謙伍",
+        "fullLFMName": "Horiuchi, Kengo",
+        "primaryNumber": "65",
+        "teamCode": "E",
+        "boxscoreName": "Horiuchi",
+        "pitchHand": "R",
+        "batSide": "L"
+      }
+    ]
+  },
+  {
+    "jaText": "（走者・緒方）二塁盗塁成功",
+    "text": "R.Ogata steals 2nd base.",
+    "countsAsStealAttempt": true
+  }
+]
