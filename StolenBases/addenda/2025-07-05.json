@@ -3,9 +3,7 @@
     "jaText": "（走者・末包）二塁盗塁失敗",
     "text": "Suekane caught stealing 2nd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
+    "catcher": {
         "id": "91595136",
         "jaBoxscoreName": "岸田",
         "jaRegisteredName": "岸田　行倫",
@@ -15,27 +13,13 @@
         "boxscoreName": "Kishida",
         "pitchHand": "R",
         "batSide": "R"
-      },
-      {
-        "id": "91795139",
-        "jaBoxscoreName": "小林",
-        "jaRegisteredName": "小林　誠司",
-        "fullLFMName": "Kobayashi, Seiji",
-        "primaryNumber": "22",
-        "teamCode": "G",
-        "boxscoreName": "Kobayashi",
-        "pitchHand": "R",
-        "batSide": "R"
       }
-    ]
   },
   {
     "jaText": "（走者・オコエ）二塁盗塁成功",
     "text": "Okoye steals 2nd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
+    "catcher": {
         "id": "11915134",
         "jaBoxscoreName": "坂倉",
         "jaRegisteredName": "坂倉　将吾",
@@ -45,27 +29,13 @@
         "boxscoreName": "Sakakura",
         "pitchHand": "R",
         "batSide": "L"
-      },
-      {
-        "id": "21125151",
-        "jaBoxscoreName": "石原",
-        "jaRegisteredName": "石原　貴規",
-        "fullLFMName": "Ishihara, Tomoki",
-        "primaryNumber": "32",
-        "teamCode": "C",
-        "boxscoreName": "Ishihara",
-        "pitchHand": "R",
-        "batSide": "R"
       }
-    ]
   },
   {
     "jaText": "（走者・小園）二塁盗塁失敗",
     "text": "Kozono caught stealing 2nd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
+    "catcher": {
         "id": "91595136",
         "jaBoxscoreName": "岸田",
         "jaRegisteredName": "岸田　行倫",
@@ -75,19 +45,7 @@
         "boxscoreName": "Kishida",
         "pitchHand": "R",
         "batSide": "R"
-      },
-      {
-        "id": "91795139",
-        "jaBoxscoreName": "小林",
-        "jaRegisteredName": "小林　誠司",
-        "fullLFMName": "Kobayashi, Seiji",
-        "primaryNumber": "22",
-        "teamCode": "G",
-        "boxscoreName": "Kobayashi",
-        "pitchHand": "R",
-        "batSide": "R"
       }
-    ]
   },
   {
     "jaText": "（走者・近本）二塁盗塁成功",
@@ -103,9 +61,7 @@
     "jaText": "（走者・並木）二塁盗塁成功",
     "text": "Namiki steals 2nd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
+    "catcher": {
         "id": "61365132",
         "jaBoxscoreName": "宇佐見",
         "jaRegisteredName": "宇佐見　真吾",
@@ -115,38 +71,13 @@
         "boxscoreName": "Usami",
         "pitchHand": "R",
         "batSide": "L"
-      },
-      {
-        "id": "41545130",
-        "jaBoxscoreName": "加藤匠",
-        "jaRegisteredName": "加藤　匠馬",
-        "fullLFMName": "Katoh, Takuma",
-        "primaryNumber": "49",
-        "teamCode": "D",
-        "boxscoreName": "T.Katoh",
-        "pitchHand": "R",
-        "batSide": "R"
       }
-    ]
   },
   {
     "jaText": "（走者・赤羽）二塁盗塁失敗",
     "text": "Akahane caught stealing 2nd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
-        "id": "61365132",
-        "jaBoxscoreName": "宇佐見",
-        "jaRegisteredName": "宇佐見　真吾",
-        "fullLFMName": "Usami, Shingo",
-        "primaryNumber": "39",
-        "teamCode": "D",
-        "boxscoreName": "Usami",
-        "pitchHand": "R",
-        "batSide": "L"
-      },
-      {
+    "catcher": {
         "id": "41545130",
         "jaBoxscoreName": "加藤匠",
         "jaRegisteredName": "加藤　匠馬",
@@ -157,7 +88,6 @@
         "pitchHand": "R",
         "batSide": "R"
       }
-    ]
   },
   {
     "jaText": "（走者・上林）二塁盗塁成功",
@@ -168,20 +98,7 @@
     "jaText": "（走者・中村悠）二塁盗塁成功",
     "text": "Yuh.Nakamura steals 2nd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
-        "id": "61365132",
-        "jaBoxscoreName": "宇佐見",
-        "jaRegisteredName": "宇佐見　真吾",
-        "fullLFMName": "Usami, Shingo",
-        "primaryNumber": "39",
-        "teamCode": "D",
-        "boxscoreName": "Usami",
-        "pitchHand": "R",
-        "batSide": "L"
-      },
-      {
+    "catcher": {
         "id": "41545130",
         "jaBoxscoreName": "加藤匠",
         "jaRegisteredName": "加藤　匠馬",
@@ -192,26 +109,12 @@
         "pitchHand": "R",
         "batSide": "R"
       }
-    ]
   },
   {
     "jaText": "（走者・田宮）二塁盗塁失敗",
     "text": "Tamiya caught stealing 2nd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
-        "id": "71375138",
-        "jaBoxscoreName": "太田",
-        "jaRegisteredName": "太田　光",
-        "fullLFMName": "Ohta, Hikaru",
-        "primaryNumber": "2",
-        "teamCode": "E",
-        "boxscoreName": "Ohta",
-        "pitchHand": "R",
-        "batSide": "R"
-      },
-      {
+    "catcher": {
         "id": "11815132",
         "jaBoxscoreName": "堀内",
         "jaRegisteredName": "堀内　謙伍",
@@ -222,7 +125,6 @@
         "pitchHand": "R",
         "batSide": "L"
       }
-    ]
   },
   {
     "jaText": "（走者・友杉）二塁盗塁成功",
@@ -233,9 +135,7 @@
     "jaText": "（走者・滝澤）二塁盗塁成功",
     "text": "Takizawa steals 2nd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
+    "catcher": {
         "id": "71475139",
         "jaBoxscoreName": "嶺井",
         "jaRegisteredName": "嶺井　博希",
@@ -245,19 +145,7 @@
         "boxscoreName": "Minei",
         "pitchHand": "R",
         "batSide": "R"
-      },
-      {
-        "id": "81385151",
-        "jaBoxscoreName": "海野",
-        "jaRegisteredName": "海野　隆司",
-        "fullLFMName": "Umino, Takashi",
-        "primaryNumber": "62",
-        "teamCode": "H",
-        "boxscoreName": "Umino",
-        "pitchHand": "R",
-        "batSide": "R"
       }
-    ]
   },
   {
     "jaText": "（走者・佐藤直）二塁盗塁成功",
@@ -273,9 +161,7 @@
     "jaText": "（走者・髙松）二塁盗塁成功",
     "text": "Takamatsu steals 2nd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
+    "catcher": {
         "id": "71475139",
         "jaBoxscoreName": "嶺井",
         "jaRegisteredName": "嶺井　博希",
@@ -285,18 +171,6 @@
         "boxscoreName": "Minei",
         "pitchHand": "R",
         "batSide": "R"
-      },
-      {
-        "id": "81385151",
-        "jaBoxscoreName": "海野",
-        "jaRegisteredName": "海野　隆司",
-        "fullLFMName": "Umino, Takashi",
-        "primaryNumber": "62",
-        "teamCode": "H",
-        "boxscoreName": "Umino",
-        "pitchHand": "R",
-        "batSide": "R"
       }
-    ]
   }
 ]
