@@ -132,14 +132,14 @@
       "rate": ".222"
     },
     {
-      "att": 34,
-      "sb": 18,
+      "att": 35,
+      "sb": 19,
       "cs": 16,
       "ds": 0,
       "ts": 0,
       "pickoff": {
         "pickoff": 0,
-        "sb": 1,
+        "sb": 0,
         "cs": 1,
         "ds": 0,
         "ts": 0
@@ -155,7 +155,7 @@
         "pitchHand": "R",
         "batSide": "R"
       },
-      "rate": ".471"
+      "rate": ".457"
     },
     {
       "att": 33,
@@ -4164,14 +4164,14 @@
       "rate": ".500"
     },
     {
-      "att": 0,
-      "sb": 0,
+      "att": 1,
+      "sb": 1,
       "cs": 0,
       "ds": 0,
       "ts": 0,
       "pickoff": {
         "pickoff": 0,
-        "sb": 1,
+        "sb": 0,
         "cs": 1,
         "ds": 0,
         "ts": 0
@@ -8664,14 +8664,14 @@
       "rate": ".667"
     },
     {
-      "att": 1,
-      "sb": 1,
+      "att": 2,
+      "sb": 2,
       "cs": 0,
       "ds": 0,
       "ts": 0,
       "pickoff": {
         "pickoff": 0,
-        "sb": 1,
+        "sb": 0,
         "cs": 1,
         "ds": 0,
         "ts": 0
@@ -11381,14 +11381,14 @@
         "rate": ".368"
       },
       "offence": {
-        "att": 49,
-        "sb": 39,
+        "att": 50,
+        "sb": 40,
         "cs": 10,
         "ds": 0,
         "ts": 0,
         "pickoff": {
           "pickoff": 2,
-          "sb": 1,
+          "sb": 0,
           "cs": 4,
           "ds": 0,
           "ts": 0
@@ -11436,14 +11436,14 @@
       "teamName": "Swallows",
       "league": "Central",
       "defence": {
-        "att": 60,
-        "sb": 39,
+        "att": 61,
+        "sb": 40,
         "cs": 21,
         "ds": 0,
         "ts": 0,
         "pickoff": {
           "pickoff": 0,
-          "sb": 2,
+          "sb": 1,
           "cs": 1,
           "ds": 0,
           "ts": 0
@@ -11716,30 +11716,30 @@
     {
       "league": "Central",
       "defence": {
-        "att": 328,
-        "sb": 231,
+        "att": 329,
+        "sb": 232,
         "cs": 100,
         "ds": 3,
         "ts": 0,
         "pickoff": {
           "pickoff": 19,
-          "sb": 7,
+          "sb": 6,
           "cs": 19,
           "ds": 0,
           "ts": 0
         },
-        "rate": ".305",
+        "rate": ".304",
         "teamRate": ".336"
       },
       "offence": {
-        "att": 354,
-        "sb": 252,
+        "att": 355,
+        "sb": 253,
         "cs": 103,
         "ds": 1,
         "ts": 0,
         "pickoff": {
           "pickoff": 18,
-          "sb": 8,
+          "sb": 7,
           "cs": 19,
           "ds": 0,
           "ts": 0

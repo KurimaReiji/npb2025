@@ -12,7 +12,7 @@
   {
     "jaText": "（走者・蝦名）三塁盗塁成功",
     "text": "Ebina steals 3rd base.",
-    "countsAsStealAttempt": false
+    "countsAsStealAttempt": true
   },
   {
     "jaText": "（走者・佐藤輝）二塁盗塁失敗",
