@@ -7,12 +7,12 @@
   {
     "jaText": "（走者・牧）二塁盗塁失敗",
     "text": "Maki caught stealing 2nd base.",
-    "countsAsStealAttempt": true
+    "countsAsStealAttempt": false
   },
   {
     "jaText": "（走者・蝦名）三塁盗塁成功",
     "text": "Ebina steals 3rd base.",
-    "countsAsStealAttempt": true
+    "countsAsStealAttempt": false
   },
   {
     "jaText": "（走者・佐藤輝）二塁盗塁失敗",
@@ -38,9 +38,7 @@
     "jaText": "（走者・小深田）二塁盗塁成功",
     "text": "Kobukata steals 2nd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
+    "catcher": {
         "id": "81785155",
         "jaBoxscoreName": "古賀悠",
         "jaRegisteredName": "古賀　悠斗",
@@ -50,19 +48,7 @@
         "boxscoreName": "Y.Koga",
         "pitchHand": "R",
         "batSide": "R"
-      },
-      {
-        "id": "71675138",
-        "jaBoxscoreName": "牧野",
-        "jaRegisteredName": "牧野　翔矢",
-        "fullLFMName": "Makino, Shoya",
-        "primaryNumber": "53",
-        "teamCode": "L",
-        "boxscoreName": "Makino",
-        "pitchHand": "R",
-        "batSide": "L"
       }
-    ]
   },
   {
     "jaText": "（走者・西川）二塁盗塁成功",
