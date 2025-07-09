@@ -1,466 +1,466 @@
-{"date":"2025-03-28","venue":"Tokyo Dome","road":{"team":"Swallows","runs":5,"starter":"R"},"home":{"team":"Giants","runs":6,"starter":"R"}}
-{"date":"2025-03-28","venue":"Yokohama","road":{"team":"Dragons","runs":0,"starter":"R"},"home":{"team":"Baystars","runs":5,"starter":"L"}}
-{"date":"2025-03-28","venue":"Mazda Stadium","road":{"team":"Tigers","runs":4,"starter":"R"},"home":{"team":"Carp","runs":0,"starter":"R"}}
-{"date":"2025-03-28","venue":"Belluna Dome","road":{"team":"Fighters","runs":2,"starter":"R"},"home":{"team":"Lions","runs":0,"starter":"R"}}
-{"date":"2025-03-28","venue":"Kyocera Dome","road":{"team":"Eagles","runs":2,"starter":"L"},"home":{"team":"Buffaloes","runs":3,"starter":"L"}}
-{"date":"2025-03-28","venue":"MIZUHO PayPay","road":{"team":"Marines","runs":8,"starter":"L"},"home":{"team":"Hawks","runs":2,"starter":"R"}}
-{"date":"2025-03-29","venue":"Tokyo Dome","road":{"team":"Swallows","runs":0,"starter":"R"},"home":{"team":"Giants","runs":12,"starter":"R"}}
-{"date":"2025-03-29","venue":"Yokohama","road":{"team":"Dragons","runs":1,"starter":"L"},"home":{"team":"Baystars","runs":0,"starter":"R"}}
-{"date":"2025-03-29","venue":"Mazda Stadium","road":{"team":"Tigers","runs":3,"starter":"L"},"home":{"team":"Carp","runs":2,"starter":"L"}}
-{"date":"2025-03-29","venue":"Belluna Dome","road":{"team":"Fighters","runs":3,"starter":"L"},"home":{"team":"Lions","runs":2,"starter":"R"}}
-{"date":"2025-03-29","venue":"Kyocera Dome","road":{"team":"Eagles","runs":5,"starter":"L"},"home":{"team":"Buffaloes","runs":4,"starter":"R"}}
-{"date":"2025-03-29","venue":"MIZUHO PayPay","road":{"team":"Marines","runs":5,"starter":"R"},"home":{"team":"Hawks","runs":4,"starter":"L"}}
-{"date":"2025-03-30","venue":"Tokyo Dome","road":{"team":"Swallows","runs":0,"starter":"L"},"home":{"team":"Giants","runs":3,"starter":"L"}}
-{"date":"2025-03-30","venue":"Yokohama","road":{"team":"Dragons","runs":1,"starter":"R"},"home":{"team":"Baystars","runs":2,"starter":"R"}}
-{"date":"2025-03-30","venue":"Mazda Stadium","road":{"team":"Tigers","runs":0,"starter":"L"},"home":{"team":"Carp","runs":2,"starter":"L"}}
-{"date":"2025-03-30","venue":"Belluna Dome","road":{"team":"Fighters","runs":7,"starter":"R"},"home":{"team":"Lions","runs":5,"starter":"R"}}
-{"date":"2025-03-30","venue":"Kyocera Dome","road":{"team":"Eagles","runs":1,"starter":"L"},"home":{"team":"Buffaloes","runs":6,"starter":"R"}}
-{"date":"2025-03-30","venue":"MIZUHO PayPay","road":{"team":"Marines","runs":7,"starter":"R"},"home":{"team":"Hawks","runs":4,"starter":"R"}}
-{"date":"2025-04-01","venue":"Vantelin Dome","road":{"team":"Giants","runs":2,"starter":"L"},"home":{"team":"Dragons","runs":3,"starter":"L"}}
-{"date":"2025-04-01","venue":"Kyocera Dome","road":{"team":"Baystars","runs":7,"starter":"R"},"home":{"team":"Tigers","runs":1,"starter":"R"}}
-{"date":"2025-04-01","venue":"ES CON FIELD","road":{"team":"Hawks","runs":5,"starter":"L"},"home":{"team":"Fighters","runs":1,"starter":"R"}}
-{"date":"2025-04-02","venue":"Jingu","road":{"team":"Carp","runs":4,"starter":"R"},"home":{"team":"Swallows","runs":5,"starter":"L"}}
-{"date":"2025-04-02","venue":"Vantelin Dome","road":{"team":"Giants","runs":2,"starter":"R"},"home":{"team":"Dragons","runs":0,"starter":"R"}}
-{"date":"2025-04-02","venue":"Kyocera Dome","road":{"team":"Baystars","runs":6,"starter":"R"},"home":{"team":"Tigers","runs":6,"starter":"R"}}
-{"date":"2025-04-02","venue":"ES CON FIELD","road":{"team":"Hawks","runs":1,"starter":"L"},"home":{"team":"Fighters","runs":3,"starter":"R"}}
-{"date":"2025-04-02","venue":"ZOZO Marine","road":{"team":"Buffaloes","runs":3,"starter":"L"},"home":{"team":"Marines","runs":2,"starter":"R"}}
-{"date":"2025-04-03","venue":"Jingu","road":{"team":"Carp","runs":0,"starter":"L"},"home":{"team":"Swallows","runs":3,"starter":"R"}}
-{"date":"2025-04-03","venue":"Vantelin Dome","road":{"team":"Giants","runs":5,"starter":"R"},"home":{"team":"Dragons","runs":3,"starter":"L"}}
-{"date":"2025-04-03","venue":"Kyocera Dome","road":{"team":"Baystars","runs":5,"starter":"L"},"home":{"team":"Tigers","runs":2,"starter":"R"}}
-{"date":"2025-04-03","venue":"Rakuten Mobile","road":{"team":"Lions","runs":1,"starter":"R"},"home":{"team":"Eagles","runs":4,"starter":"R"}}
-{"date":"2025-04-03","venue":"ZOZO Marine","road":{"team":"Buffaloes","runs":3,"starter":"R"},"home":{"team":"Marines","runs":2,"starter":"R"}}
-{"date":"2025-04-04","venue":"Tokyo Dome","road":{"team":"Tigers","runs":7,"starter":"R"},"home":{"team":"Giants","runs":2,"starter":"R"}}
-{"date":"2025-04-04","venue":"Jingu","road":{"team":"Dragons","runs":1,"starter":"R"},"home":{"team":"Swallows","runs":1,"starter":"R"}}
-{"date":"2025-04-04","venue":"Mazda Stadium","road":{"team":"Baystars","runs":2,"starter":"R"},"home":{"team":"Carp","runs":8,"starter":"R"}}
-{"date":"2025-04-04","venue":"ES CON FIELD","road":{"team":"Buffaloes","runs":4,"starter":"L"},"home":{"team":"Fighters","runs":3,"starter":"L"}}
-{"date":"2025-04-04","venue":"ZOZO Marine","road":{"team":"Eagles","runs":3,"starter":"L"},"home":{"team":"Marines","runs":1,"starter":"R"}}
-{"date":"2025-04-04","venue":"MIZUHO PayPay","road":{"team":"Lions","runs":6,"starter":"R"},"home":{"team":"Hawks","runs":0,"starter":"R"}}
-{"date":"2025-04-05","venue":"Tokyo Dome","road":{"team":"Tigers","runs":4,"starter":"L"},"home":{"team":"Giants","runs":3,"starter":"R"}}
-{"date":"2025-04-05","venue":"Jingu","road":{"team":"Dragons","runs":0,"starter":"L"},"home":{"team":"Swallows","runs":2,"starter":"R"}}
-{"date":"2025-04-05","venue":"Mazda Stadium","road":{"team":"Baystars","runs":7,"starter":"L"},"home":{"team":"Carp","runs":8,"starter":"L"}}
-{"date":"2025-04-05","venue":"ES CON FIELD","road":{"team":"Buffaloes","runs":11,"starter":"R"},"home":{"team":"Fighters","runs":1,"starter":"R"}}
-{"date":"2025-04-05","venue":"ZOZO Marine","road":{"team":"Eagles","runs":0,"starter":"R"},"home":{"team":"Marines","runs":1,"starter":"L"}}
-{"date":"2025-04-05","venue":"MIZUHO PayPay","road":{"team":"Lions","runs":6,"starter":"L"},"home":{"team":"Hawks","runs":3,"starter":"L"}}
-{"date":"2025-04-06","venue":"Tokyo Dome","road":{"team":"Tigers","runs":1,"starter":"L"},"home":{"team":"Giants","runs":0,"starter":"L"}}
-{"date":"2025-04-06","venue":"Jingu","road":{"team":"Dragons","runs":6,"starter":"R"},"home":{"team":"Swallows","runs":5,"starter":"R"}}
-{"date":"2025-04-06","venue":"Mazda Stadium","road":{"team":"Baystars","runs":6,"starter":"R"},"home":{"team":"Carp","runs":7,"starter":"L"}}
-{"date":"2025-04-06","venue":"ES CON FIELD","road":{"team":"Buffaloes","runs":6,"starter":"R"},"home":{"team":"Fighters","runs":4,"starter":"R"}}
-{"date":"2025-04-06","venue":"ZOZO Marine","road":{"team":"Eagles","runs":5,"starter":"L"},"home":{"team":"Marines","runs":0,"starter":"R"}}
-{"date":"2025-04-06","venue":"MIZUHO PayPay","road":{"team":"Lions","runs":1,"starter":"R"},"home":{"team":"Hawks","runs":11,"starter":"R"}}
-{"date":"2025-04-08","venue":"Yokohama","road":{"team":"Giants","runs":3,"starter":"L"},"home":{"team":"Baystars","runs":3,"starter":"R"}}
-{"date":"2025-04-08","venue":"Gifu","road":{"team":"Carp","runs":1,"starter":"R"},"home":{"team":"Dragons","runs":1,"starter":"L"}}
-{"date":"2025-04-08","venue":"Koshien","road":{"team":"Swallows","runs":1,"starter":"L"},"home":{"team":"Tigers","runs":0,"starter":"R"}}
-{"date":"2025-04-08","venue":"Rakuten Mobile","road":{"team":"Fighters","runs":5,"starter":"R"},"home":{"team":"Eagles","runs":2,"starter":"L"}}
-{"date":"2025-04-08","venue":"Belluna Dome","road":{"team":"Marines","runs":7,"starter":"R"},"home":{"team":"Lions","runs":3,"starter":"R"}}
-{"date":"2025-04-08","venue":"Kyocera Dome","road":{"team":"Hawks","runs":5,"starter":"L"},"home":{"team":"Buffaloes","runs":2,"starter":"R"}}
-{"date":"2025-04-09","venue":"Yokohama","road":{"team":"Giants","runs":6,"starter":"R"},"home":{"team":"Baystars","runs":3,"starter":"R"}}
-{"date":"2025-04-09","venue":"Vantelin Dome","road":{"team":"Carp","runs":1,"starter":"R"},"home":{"team":"Dragons","runs":3,"starter":"R"}}
-{"date":"2025-04-09","venue":"Koshien","road":{"team":"Swallows","runs":5,"starter":"L"},"home":{"team":"Tigers","runs":3,"starter":"R"}}
-{"date":"2025-04-09","venue":"Rakuten Mobile","road":{"team":"Fighters","runs":8,"starter":"L"},"home":{"team":"Eagles","runs":2,"starter":"L"}}
-{"date":"2025-04-09","venue":"Omiya","road":{"team":"Marines","runs":0,"starter":"R"},"home":{"team":"Lions","runs":2,"starter":"L"}}
-{"date":"2025-04-09","venue":"Kyocera Dome","road":{"team":"Hawks","runs":10,"starter":"R"},"home":{"team":"Buffaloes","runs":9,"starter":"L"}}
-{"date":"2025-04-10","venue":"Vantelin Dome","road":{"team":"Carp","runs":2,"starter":"L"},"home":{"team":"Dragons","runs":1,"starter":"L"}}
-{"date":"2025-04-10","venue":"Rakuten Mobile","road":{"team":"Fighters","runs":10,"starter":"R"},"home":{"team":"Eagles","runs":0,"starter":"R"}}
-{"date":"2025-04-10","venue":"Kyocera Dome","road":{"team":"Hawks","runs":1,"starter":"L"},"home":{"team":"Buffaloes","runs":1,"starter":"R"}}
-{"date":"2025-04-11","venue":"Koshien","road":{"team":"Dragons","runs":3,"starter":"R"},"home":{"team":"Tigers","runs":6,"starter":"R"}}
-{"date":"2025-04-11","venue":"Mazda Stadium","road":{"team":"Giants","runs":3,"starter":"R"},"home":{"team":"Carp","runs":12,"starter":"R"}}
-{"date":"2025-04-11","venue":"ES CON FIELD","road":{"team":"Lions","runs":0,"starter":"R"},"home":{"team":"Fighters","runs":2,"starter":"L"}}
-{"date":"2025-04-11","venue":"Rakuten Mobile","road":{"team":"Buffaloes","runs":4,"starter":"L"},"home":{"team":"Eagles","runs":1,"starter":"L"}}
-{"date":"2025-04-11","venue":"ZOZO Marine","road":{"team":"Hawks","runs":5,"starter":"R"},"home":{"team":"Marines","runs":4,"starter":"R"}}
-{"date":"2025-04-12","venue":"Yokohama","road":{"team":"Swallows","runs":4,"starter":"R"},"home":{"team":"Baystars","runs":5,"starter":"L"}}
-{"date":"2025-04-12","venue":"Koshien","road":{"team":"Dragons","runs":3,"starter":"L"},"home":{"team":"Tigers","runs":2,"starter":"R"}}
-{"date":"2025-04-12","venue":"Mazda Stadium","road":{"team":"Giants","runs":0,"starter":"R"},"home":{"team":"Carp","runs":1,"starter":"L"}}
-{"date":"2025-04-12","venue":"ES CON FIELD","road":{"team":"Lions","runs":2,"starter":"L"},"home":{"team":"Fighters","runs":1,"starter":"R"}}
-{"date":"2025-04-12","venue":"Rakuten Mobile","road":{"team":"Buffaloes","runs":4,"starter":"R"},"home":{"team":"Eagles","runs":2,"starter":"R"}}
-{"date":"2025-04-12","venue":"ZOZO Marine","road":{"team":"Hawks","runs":8,"starter":"L"},"home":{"team":"Marines","runs":0,"starter":"L"}}
-{"date":"2025-04-13","venue":"Mazda Stadium","road":{"team":"Giants","runs":3,"starter":"L"},"home":{"team":"Carp","runs":5,"starter":"L"}}
-{"date":"2025-04-13","venue":"ES CON FIELD","road":{"team":"Lions","runs":7,"starter":"R"},"home":{"team":"Fighters","runs":2,"starter":"R"}}
-{"date":"2025-04-13","venue":"Rakuten Mobile","road":{"team":"Buffaloes","runs":6,"starter":"L"},"home":{"team":"Eagles","runs":1,"starter":"L"}}
-{"date":"2025-04-15","venue":"Tokyo Dome","road":{"team":"Baystars","runs":0,"starter":"R"},"home":{"team":"Giants","runs":1,"starter":"L"}}
-{"date":"2025-04-15","venue":"Matsuyama","road":{"team":"Tigers","runs":5,"starter":"R"},"home":{"team":"Swallows","runs":1,"starter":"R"}}
-{"date":"2025-04-15","venue":"Mazda Stadium","road":{"team":"Dragons","runs":1,"starter":"L"},"home":{"team":"Carp","runs":7,"starter":"R"}}
-{"date":"2025-04-15","venue":"ZOZO Marine","road":{"team":"Fighters","runs":9,"starter":"R"},"home":{"team":"Marines","runs":3,"starter":"R"}}
-{"date":"2025-04-15","venue":"Kyocera Dome","road":{"team":"Lions","runs":0,"starter":"R"},"home":{"team":"Buffaloes","runs":2,"starter":"R"}}
-{"date":"2025-04-15","venue":"MIZUHO PayPay","road":{"team":"Eagles","runs":2,"starter":"L"},"home":{"team":"Hawks","runs":1,"starter":"L"}}
-{"date":"2025-04-16","venue":"Tokyo Dome","road":{"team":"Baystars","runs":0,"starter":"R"},"home":{"team":"Giants","runs":5,"starter":"R"}}
-{"date":"2025-04-16","venue":"Mazda Stadium","road":{"team":"Dragons","runs":2,"starter":"R"},"home":{"team":"Carp","runs":0,"starter":"R"}}
-{"date":"2025-04-16","venue":"ZOZO Marine","road":{"team":"Fighters","runs":0,"starter":"L"},"home":{"team":"Marines","runs":4,"starter":"R"}}
-{"date":"2025-04-16","venue":"Kyocera Dome","road":{"team":"Lions","runs":5,"starter":"L"},"home":{"team":"Buffaloes","runs":0,"starter":"L"}}
-{"date":"2025-04-16","venue":"MIZUHO PayPay","road":{"team":"Eagles","runs":6,"starter":"R"},"home":{"team":"Hawks","runs":2,"starter":"R"}}
-{"date":"2025-04-17","venue":"Tokyo Dome","road":{"team":"Baystars","runs":9,"starter":"L"},"home":{"team":"Giants","runs":1,"starter":"R"}}
-{"date":"2025-04-17","venue":"Jingu","road":{"team":"Tigers","runs":7,"starter":"R"},"home":{"team":"Swallows","runs":5,"starter":"R"}}
-{"date":"2025-04-17","venue":"Kyocera Dome","road":{"team":"Lions","runs":3,"starter":"R"},"home":{"team":"Buffaloes","runs":2,"starter":"R"}}
-{"date":"2025-04-17","venue":"MIZUHO PayPay","road":{"team":"Eagles","runs":4,"starter":"R"},"home":{"team":"Hawks","runs":3,"starter":"L"}}
-{"date":"2025-04-18","venue":"Jingu","road":{"team":"Giants","runs":7,"starter":"R"},"home":{"team":"Swallows","runs":2,"starter":"R"}}
-{"date":"2025-04-18","venue":"Koshien","road":{"team":"Carp","runs":5,"starter":"R"},"home":{"team":"Tigers","runs":2,"starter":"R"}}
-{"date":"2025-04-18","venue":"Rakuten Mobile","road":{"team":"Marines","runs":4,"starter":"R"},"home":{"team":"Eagles","runs":1,"starter":"L"}}
-{"date":"2025-04-18","venue":"Belluna Dome","road":{"team":"Hawks","runs":1,"starter":"R"},"home":{"team":"Lions","runs":2,"starter":"R"}}
-{"date":"2025-04-18","venue":"Kyocera Dome","road":{"team":"Fighters","runs":1,"starter":"R"},"home":{"team":"Buffaloes","runs":2,"starter":"R"}}
-{"date":"2025-04-19","venue":"Jingu","road":{"team":"Giants","runs":6,"starter":"L"},"home":{"team":"Swallows","runs":4,"starter":"L"}}
-{"date":"2025-04-19","venue":"Vantelin Dome","road":{"team":"Baystars","runs":2,"starter":"L"},"home":{"team":"Dragons","runs":3,"starter":"R"}}
-{"date":"2025-04-19","venue":"Koshien","road":{"team":"Carp","runs":3,"starter":"L"},"home":{"team":"Tigers","runs":0,"starter":"R"}}
-{"date":"2025-04-19","venue":"Rakuten Mobile","road":{"team":"Marines","runs":1,"starter":"L"},"home":{"team":"Eagles","runs":2,"starter":"R"}}
-{"date":"2025-04-19","venue":"Belluna Dome","road":{"team":"Hawks","runs":0,"starter":"L"},"home":{"team":"Lions","runs":1,"starter":"L"}}
-{"date":"2025-04-19","venue":"Kyocera Dome","road":{"team":"Fighters","runs":7,"starter":"L"},"home":{"team":"Buffaloes","runs":4,"starter":"R"}}
-{"date":"2025-04-20","venue":"Jingu","road":{"team":"Giants","runs":2,"starter":"R"},"home":{"team":"Swallows","runs":3,"starter":"R"}}
-{"date":"2025-04-20","venue":"Vantelin Dome","road":{"team":"Baystars","runs":0,"starter":"R"},"home":{"team":"Dragons","runs":2,"starter":"L"}}
-{"date":"2025-04-20","venue":"Koshien","road":{"team":"Carp","runs":1,"starter":"L"},"home":{"team":"Tigers","runs":8,"starter":"L"}}
-{"date":"2025-04-20","venue":"Rakuten Mobile","road":{"team":"Marines","runs":1,"starter":"R"},"home":{"team":"Eagles","runs":4,"starter":"L"}}
-{"date":"2025-04-20","venue":"Belluna Dome","road":{"team":"Hawks","runs":3,"starter":"R"},"home":{"team":"Lions","runs":1,"starter":"R"}}
-{"date":"2025-04-20","venue":"Kyocera Dome","road":{"team":"Fighters","runs":2,"starter":"R"},"home":{"team":"Buffaloes","runs":0,"starter":"L"}}
-{"date":"2025-04-22","venue":"Tokyo Dome","road":{"team":"Dragons","runs":1,"starter":"L"},"home":{"team":"Giants","runs":8,"starter":"L"}}
-{"date":"2025-04-22","venue":"Yokohama","road":{"team":"Tigers","runs":4,"starter":"R"},"home":{"team":"Baystars","runs":2,"starter":"R"}}
-{"date":"2025-04-22","venue":"ES CON FIELD","road":{"team":"Eagles","runs":4,"starter":"L"},"home":{"team":"Fighters","runs":2,"starter":"R"}}
-{"date":"2025-04-22","venue":"ZOZO Marine","road":{"team":"Lions","runs":1,"starter":"R"},"home":{"team":"Marines","runs":2,"starter":"R"}}
-{"date":"2025-04-22","venue":"MIZUHO PayPay","road":{"team":"Buffaloes","runs":5,"starter":"L"},"home":{"team":"Hawks","runs":5,"starter":"L"}}
-{"date":"2025-04-23","venue":"Tokyo Dome","road":{"team":"Dragons","runs":0,"starter":"R"},"home":{"team":"Giants","runs":2,"starter":"R"}}
-{"date":"2025-04-23","venue":"Yokohama","road":{"team":"Tigers","runs":3,"starter":"L"},"home":{"team":"Baystars","runs":2,"starter":"R"}}
-{"date":"2025-04-23","venue":"Mazda Stadium","road":{"team":"Swallows","runs":1,"starter":"L"},"home":{"team":"Carp","runs":7,"starter":"R"}}
-{"date":"2025-04-23","venue":"ES CON FIELD","road":{"team":"Eagles","runs":8,"starter":"R"},"home":{"team":"Fighters","runs":3,"starter":"R"}}
-{"date":"2025-04-23","venue":"ZOZO Marine","road":{"team":"Lions","runs":2,"starter":"L"},"home":{"team":"Marines","runs":5,"starter":"R"}}
-{"date":"2025-04-23","venue":"MIZUHO PayPay","road":{"team":"Buffaloes","runs":2,"starter":"L"},"home":{"team":"Hawks","runs":6,"starter":"R"}}
-{"date":"2025-04-24","venue":"Yokohama","road":{"team":"Tigers","runs":4,"starter":"L"},"home":{"team":"Baystars","runs":2,"starter":"R"}}
-{"date":"2025-04-25","venue":"Yokohama","road":{"team":"Carp","runs":1,"starter":"R"},"home":{"team":"Baystars","runs":2,"starter":"L"}}
-{"date":"2025-04-25","venue":"Vantelin Dome","road":{"team":"Swallows","runs":6,"starter":"R"},"home":{"team":"Dragons","runs":4,"starter":"R"}}
-{"date":"2025-04-25","venue":"Koshien","road":{"team":"Giants","runs":1,"starter":"R"},"home":{"team":"Tigers","runs":4,"starter":"R"}}
-{"date":"2025-04-25","venue":"ES CON FIELD","road":{"team":"Marines","runs":2,"starter":"R"},"home":{"team":"Fighters","runs":1,"starter":"R"}}
-{"date":"2025-04-25","venue":"Rakuten Mobile","road":{"team":"Hawks","runs":1,"starter":"R"},"home":{"team":"Eagles","runs":0,"starter":"L"}}
-{"date":"2025-04-25","venue":"Belluna Dome","road":{"team":"Buffaloes","runs":6,"starter":"R"},"home":{"team":"Lions","runs":2,"starter":"R"}}
-{"date":"2025-04-26","venue":"Yokohama","road":{"team":"Carp","runs":0,"starter":"L"},"home":{"team":"Baystars","runs":2,"starter":"L"}}
-{"date":"2025-04-26","venue":"Vantelin Dome","road":{"team":"Swallows","runs":2,"starter":"R"},"home":{"team":"Dragons","runs":5,"starter":"L"}}
-{"date":"2025-04-26","venue":"Koshien","road":{"team":"Giants","runs":2,"starter":"L"},"home":{"team":"Tigers","runs":6,"starter":"R"}}
-{"date":"2025-04-26","venue":"ES CON FIELD","road":{"team":"Marines","runs":1,"starter":"L"},"home":{"team":"Fighters","runs":2,"starter":"L"}}
-{"date":"2025-04-26","venue":"Rakuten Mobile","road":{"team":"Hawks","runs":3,"starter":"L"},"home":{"team":"Eagles","runs":6,"starter":"R"}}
-{"date":"2025-04-26","venue":"Belluna Dome","road":{"team":"Buffaloes","runs":0,"starter":"R"},"home":{"team":"Lions","runs":3,"starter":"L"}}
-{"date":"2025-04-27","venue":"Yokohama","road":{"team":"Carp","runs":1,"starter":"L"},"home":{"team":"Baystars","runs":2,"starter":"R"}}
-{"date":"2025-04-27","venue":"Vantelin Dome","road":{"team":"Swallows","runs":6,"starter":"R"},"home":{"team":"Dragons","runs":2,"starter":"R"}}
-{"date":"2025-04-27","venue":"Koshien","road":{"team":"Giants","runs":2,"starter":"R"},"home":{"team":"Tigers","runs":1,"starter":"L"}}
-{"date":"2025-04-27","venue":"ES CON FIELD","road":{"team":"Marines","runs":5,"starter":"R"},"home":{"team":"Fighters","runs":3,"starter":"R"}}
-{"date":"2025-04-27","venue":"Rakuten Mobile","road":{"team":"Hawks","runs":2,"starter":"L"},"home":{"team":"Eagles","runs":3,"starter":"R"}}
-{"date":"2025-04-27","venue":"Belluna Dome","road":{"team":"Buffaloes","runs":2,"starter":"R"},"home":{"team":"Lions","runs":3,"starter":"R"}}
-{"date":"2025-04-29","venue":"Tokyo Dome","road":{"team":"Carp","runs":3,"starter":"L"},"home":{"team":"Giants","runs":4,"starter":"L"}}
-{"date":"2025-04-29","venue":"Jingu","road":{"team":"Baystars","runs":6,"starter":"R"},"home":{"team":"Swallows","runs":1,"starter":"R"}}
-{"date":"2025-04-29","venue":"Vantelin Dome","road":{"team":"Tigers","runs":1,"starter":"R"},"home":{"team":"Dragons","runs":4,"starter":"R"}}
-{"date":"2025-04-29","venue":"Belluna Dome","road":{"team":"Eagles","runs":1,"starter":"L"},"home":{"team":"Lions","runs":7,"starter":"R"}}
-{"date":"2025-04-29","venue":"Kyocera Dome","road":{"team":"Marines","runs":2,"starter":"R"},"home":{"team":"Buffaloes","runs":3,"starter":"L"}}
-{"date":"2025-04-29","venue":"MIZUHO PayPay","road":{"team":"Fighters","runs":2,"starter":"R"},"home":{"team":"Hawks","runs":1,"starter":"L"}}
-{"date":"2025-04-30","venue":"Tokyo Dome","road":{"team":"Carp","runs":0,"starter":"R"},"home":{"team":"Giants","runs":2,"starter":"R"}}
-{"date":"2025-04-30","venue":"Jingu","road":{"team":"Baystars","runs":1,"starter":"R"},"home":{"team":"Swallows","runs":4,"starter":"L"}}
-{"date":"2025-04-30","venue":"Vantelin Dome","road":{"team":"Tigers","runs":4,"starter":"L"},"home":{"team":"Dragons","runs":5,"starter":"L"}}
-{"date":"2025-04-30","venue":"Belluna Dome","road":{"team":"Eagles","runs":1,"starter":"L"},"home":{"team":"Lions","runs":3,"starter":"L"}}
-{"date":"2025-04-30","venue":"Kyocera Dome","road":{"team":"Marines","runs":0,"starter":"R"},"home":{"team":"Buffaloes","runs":5,"starter":"L"}}
-{"date":"2025-04-30","venue":"MIZUHO PayPay","road":{"team":"Fighters","runs":6,"starter":"L"},"home":{"team":"Hawks","runs":1,"starter":"R"}}
-{"date":"2025-05-01","venue":"Tokyo Dome","road":{"team":"Carp","runs":3,"starter":"R"},"home":{"team":"Giants","runs":4,"starter":"R"}}
-{"date":"2025-05-01","venue":"Jingu","road":{"team":"Baystars","runs":3,"starter":"R"},"home":{"team":"Swallows","runs":0,"starter":"R"}}
-{"date":"2025-05-01","venue":"Vantelin Dome","road":{"team":"Tigers","runs":2,"starter":"L"},"home":{"team":"Dragons","runs":3,"starter":"L"}}
-{"date":"2025-05-01","venue":"Belluna Dome","road":{"team":"Eagles","runs":1,"starter":"R"},"home":{"team":"Lions","runs":2,"starter":"R"}}
-{"date":"2025-05-01","venue":"MIZUHO PayPay","road":{"team":"Fighters","runs":3,"starter":"R"},"home":{"team":"Hawks","runs":2,"starter":"R"}}
-{"date":"2025-05-02","venue":"Koshien","road":{"team":"Swallows","runs":0,"starter":"R"},"home":{"team":"Tigers","runs":4,"starter":"R"}}
-{"date":"2025-05-02","venue":"Mazda Stadium","road":{"team":"Dragons","runs":4,"starter":"R"},"home":{"team":"Carp","runs":2,"starter":"R"}}
-{"date":"2025-05-02","venue":"MIZUHO PayPay","road":{"team":"Marines","runs":3,"starter":"R"},"home":{"team":"Hawks","runs":4,"starter":"R"}}
-{"date":"2025-05-03","venue":"Yokohama","road":{"team":"Giants","runs":0,"starter":"R"},"home":{"team":"Baystars","runs":1,"starter":"R"}}
-{"date":"2025-05-03","venue":"Koshien","road":{"team":"Swallows","runs":1,"starter":"R"},"home":{"team":"Tigers","runs":7,"starter":"R"}}
-{"date":"2025-05-03","venue":"Mazda Stadium","road":{"team":"Dragons","runs":0,"starter":"L"},"home":{"team":"Carp","runs":2,"starter":"L"}}
-{"date":"2025-05-03","venue":"ES CON FIELD","road":{"team":"Lions","runs":4,"starter":"R"},"home":{"team":"Fighters","runs":3,"starter":"L"}}
-{"date":"2025-05-03","venue":"Rakuten Mobile","road":{"team":"Buffaloes","runs":7,"starter":"L"},"home":{"team":"Eagles","runs":0,"starter":"L"}}
-{"date":"2025-05-03","venue":"MIZUHO PayPay","road":{"team":"Marines","runs":0,"starter":"R"},"home":{"team":"Hawks","runs":5,"starter":"L"}}
-{"date":"2025-05-04","venue":"Yokohama","road":{"team":"Giants","runs":3,"starter":"L"},"home":{"team":"Baystars","runs":1,"starter":"L"}}
-{"date":"2025-05-04","venue":"Koshien","road":{"team":"Swallows","runs":5,"starter":"L"},"home":{"team":"Tigers","runs":2,"starter":"L"}}
-{"date":"2025-05-04","venue":"Mazda Stadium","road":{"team":"Dragons","runs":4,"starter":"L"},"home":{"team":"Carp","runs":9,"starter":"L"}}
-{"date":"2025-05-04","venue":"ES CON FIELD","road":{"team":"Lions","runs":2,"starter":"L"},"home":{"team":"Fighters","runs":3,"starter":"R"}}
-{"date":"2025-05-04","venue":"Rakuten Mobile","road":{"team":"Buffaloes","runs":3,"starter":"R"},"home":{"team":"Eagles","runs":14,"starter":"R"}}
-{"date":"2025-05-04","venue":"MIZUHO PayPay","road":{"team":"Marines","runs":3,"starter":"L"},"home":{"team":"Hawks","runs":5,"starter":"L"}}
-{"date":"2025-05-05","venue":"Tokyo Dome","road":{"team":"Tigers","runs":10,"starter":"L"},"home":{"team":"Giants","runs":1,"starter":"R"}}
-{"date":"2025-05-05","venue":"Jingu","road":{"team":"Carp","runs":4,"starter":"L"},"home":{"team":"Swallows","runs":0,"starter":"R"}}
-{"date":"2025-05-05","venue":"Vantelin Dome","road":{"team":"Baystars","runs":2,"starter":"L"},"home":{"team":"Dragons","runs":1,"starter":"L"}}
-{"date":"2025-05-05","venue":"Belluna Dome","road":{"team":"Hawks","runs":2,"starter":"R"},"home":{"team":"Lions","runs":0,"starter":"R"}}
-{"date":"2025-05-05","venue":"ZOZO Marine","road":{"team":"Eagles","runs":2,"starter":"R"},"home":{"team":"Marines","runs":1,"starter":"R"}}
-{"date":"2025-05-05","venue":"Kyocera Dome","road":{"team":"Fighters","runs":0,"starter":"R"},"home":{"team":"Buffaloes","runs":1,"starter":"R"}}
-{"date":"2025-05-06","venue":"Tokyo Dome","road":{"team":"Tigers","runs":7,"starter":"R"},"home":{"team":"Giants","runs":1,"starter":"L"}}
-{"date":"2025-05-06","venue":"Vantelin Dome","road":{"team":"Baystars","runs":3,"starter":"R"},"home":{"team":"Dragons","runs":0,"starter":"R"}}
-{"date":"2025-05-06","venue":"Belluna Dome","road":{"team":"Hawks","runs":10,"starter":"L"},"home":{"team":"Lions","runs":0,"starter":"R"}}
-{"date":"2025-05-06","venue":"Kyocera Dome","road":{"team":"Fighters","runs":7,"starter":"R"},"home":{"team":"Buffaloes","runs":3,"starter":"R"}}
-{"date":"2025-05-07","venue":"Tokyo Dome","road":{"team":"Tigers","runs":4,"starter":"L"},"home":{"team":"Giants","runs":6,"starter":"R"}}
-{"date":"2025-05-07","venue":"Jingu","road":{"team":"Carp","runs":5,"starter":"R"},"home":{"team":"Swallows","runs":3,"starter":"L"}}
-{"date":"2025-05-07","venue":"Vantelin Dome","road":{"team":"Baystars","runs":1,"starter":"R"},"home":{"team":"Dragons","runs":2,"starter":"L"}}
-{"date":"2025-05-07","venue":"Belluna Dome","road":{"team":"Hawks","runs":1,"starter":"R"},"home":{"team":"Lions","runs":7,"starter":"R"}}
-{"date":"2025-05-07","venue":"ZOZO Marine","road":{"team":"Eagles","runs":3,"starter":"L"},"home":{"team":"Marines","runs":7,"starter":"L"}}
-{"date":"2025-05-07","venue":"Kyocera Dome","road":{"team":"Fighters","runs":2,"starter":"L"},"home":{"team":"Buffaloes","runs":2,"starter":"L"}}
-{"date":"2025-05-09","venue":"Jingu","road":{"team":"Giants","runs":2,"starter":"R"},"home":{"team":"Swallows","runs":5,"starter":"R"}}
-{"date":"2025-05-09","venue":"Yokohama","road":{"team":"Carp","runs":3,"starter":"R"},"home":{"team":"Baystars","runs":4,"starter":"R"}}
-{"date":"2025-05-09","venue":"ES CON FIELD","road":{"team":"Eagles","runs":1,"starter":"R"},"home":{"team":"Fighters","runs":2,"starter":"R"}}
-{"date":"2025-05-09","venue":"Omiya","road":{"team":"Marines","runs":0,"starter":"R"},"home":{"team":"Lions","runs":1,"starter":"R"}}
-{"date":"2025-05-09","venue":"Kyocera Dome","road":{"team":"Hawks","runs":11,"starter":"R"},"home":{"team":"Buffaloes","runs":1,"starter":"R"}}
-{"date":"2025-05-10","venue":"Jingu","road":{"team":"Giants","runs":3,"starter":"L"},"home":{"team":"Swallows","runs":2,"starter":"R"}}
-{"date":"2025-05-10","venue":"Yokohama","road":{"team":"Carp","runs":5,"starter":"L"},"home":{"team":"Baystars","runs":3,"starter":"R"}}
-{"date":"2025-05-10","venue":"Koshien","road":{"team":"Dragons","runs":0,"starter":"R"},"home":{"team":"Tigers","runs":2,"starter":"R"}}
-{"date":"2025-05-10","venue":"ES CON FIELD","road":{"team":"Eagles","runs":7,"starter":"L"},"home":{"team":"Fighters","runs":8,"starter":"L"}}
-{"date":"2025-05-10","venue":"Belluna Dome","road":{"team":"Marines","runs":0,"starter":"R"},"home":{"team":"Lions","runs":7,"starter":"R"}}
-{"date":"2025-05-10","venue":"Kyocera Dome","road":{"team":"Hawks","runs":1,"starter":"L"},"home":{"team":"Buffaloes","runs":6,"starter":"L"}}
-{"date":"2025-05-11","venue":"Jingu","road":{"team":"Giants","runs":1,"starter":"R"},"home":{"team":"Swallows","runs":2,"starter":"R"}}
-{"date":"2025-05-11","venue":"Yokohama","road":{"team":"Carp","runs":2,"starter":"L"},"home":{"team":"Baystars","runs":4,"starter":"L"}}
-{"date":"2025-05-11","venue":"Koshien","road":{"team":"Dragons","runs":0,"starter":"L"},"home":{"team":"Tigers","runs":1,"starter":"L"}}
-{"date":"2025-05-11","venue":"ES CON FIELD","road":{"team":"Eagles","runs":0,"starter":"R"},"home":{"team":"Fighters","runs":4,"starter":"R"}}
-{"date":"2025-05-11","venue":"Belluna Dome","road":{"team":"Marines","runs":0,"starter":"R"},"home":{"team":"Lions","runs":10,"starter":"L"}}
-{"date":"2025-05-11","venue":"Kyocera Dome","road":{"team":"Hawks","runs":7,"starter":"R"},"home":{"team":"Buffaloes","runs":1,"starter":"L"}}
-{"date":"2025-05-13","venue":"HARD OFF Niigata","road":{"team":"Tigers","runs":1,"starter":"R"},"home":{"team":"Baystars","runs":1,"starter":"L"}}
-{"date":"2025-05-13","venue":"Toyohashi","road":{"team":"Swallows","runs":4,"starter":"R"},"home":{"team":"Dragons","runs":5,"starter":"L"}}
-{"date":"2025-05-13","venue":"Mazda Stadium","road":{"team":"Giants","runs":4,"starter":"R"},"home":{"team":"Carp","runs":5,"starter":"L"}}
-{"date":"2025-05-13","venue":"ES CON FIELD","road":{"team":"Buffaloes","runs":0,"starter":"R"},"home":{"team":"Fighters","runs":7,"starter":"R"}}
-{"date":"2025-05-13","venue":"Rakuten Mobile","road":{"team":"Marines","runs":3,"starter":"L"},"home":{"team":"Eagles","runs":4,"starter":"R"}}
-{"date":"2025-05-13","venue":"Kyocera Dome","road":{"team":"Lions","runs":1,"starter":"L"},"home":{"team":"Hawks","runs":6,"starter":"L"}}
-{"date":"2025-05-14","venue":"Vantelin Dome","road":{"team":"Swallows","runs":0,"starter":"R"},"home":{"team":"Dragons","runs":2,"starter":"R"}}
-{"date":"2025-05-14","venue":"Mazda Stadium","road":{"team":"Giants","runs":0,"starter":"L"},"home":{"team":"Carp","runs":3,"starter":"R"}}
-{"date":"2025-05-14","venue":"ES CON FIELD","road":{"team":"Buffaloes","runs":9,"starter":"L"},"home":{"team":"Fighters","runs":5,"starter":"R"}}
-{"date":"2025-05-14","venue":"Rakuten Mobile","road":{"team":"Marines","runs":0,"starter":"R"},"home":{"team":"Eagles","runs":4,"starter":"R"}}
-{"date":"2025-05-14","venue":"MIZUHO PayPay","road":{"team":"Lions","runs":3,"starter":"L"},"home":{"team":"Hawks","runs":1,"starter":"R"}}
-{"date":"2025-05-15","venue":"Yokohama","road":{"team":"Tigers","runs":0,"starter":"R"},"home":{"team":"Baystars","runs":1,"starter":"R"}}
-{"date":"2025-05-15","venue":"Mazda Stadium","road":{"team":"Giants","runs":1,"starter":"R"},"home":{"team":"Carp","runs":5,"starter":"R"}}
-{"date":"2025-05-15","venue":"ES CON FIELD","road":{"team":"Buffaloes","runs":0,"starter":"R"},"home":{"team":"Fighters","runs":7,"starter":"L"}}
-{"date":"2025-05-15","venue":"Tokyo Dome","road":{"team":"Marines","runs":5,"starter":"L"},"home":{"team":"Eagles","runs":2,"starter":"L"}}
-{"date":"2025-05-15","venue":"MIZUHO PayPay","road":{"team":"Lions","runs":0,"starter":"R"},"home":{"team":"Hawks","runs":5,"starter":"L"}}
-{"date":"2025-05-16","venue":"Tokyo Dome","road":{"team":"Dragons","runs":2,"starter":"L"},"home":{"team":"Giants","runs":4,"starter":"R"}}
-{"date":"2025-05-16","venue":"Jingu","road":{"team":"Baystars","runs":8,"starter":"R"},"home":{"team":"Swallows","runs":6,"starter":"L"}}
-{"date":"2025-05-16","venue":"Koshien","road":{"team":"Carp","runs":4,"starter":"R"},"home":{"team":"Tigers","runs":2,"starter":"R"}}
-{"date":"2025-05-16","venue":"Belluna Dome","road":{"team":"Buffaloes","runs":0,"starter":"R"},"home":{"team":"Lions","runs":3,"starter":"R"}}
-{"date":"2025-05-16","venue":"ZOZO Marine","road":{"team":"Fighters","runs":8,"starter":"L"},"home":{"team":"Marines","runs":0,"starter":"R"}}
-{"date":"2025-05-16","venue":"MIZUHO PayPay","road":{"team":"Eagles","runs":5,"starter":"L"},"home":{"team":"Hawks","runs":1,"starter":"R"}}
-{"date":"2025-05-17","venue":"Tokyo Dome","road":{"team":"Dragons","runs":0,"starter":"R"},"home":{"team":"Giants","runs":1,"starter":"L"}}
-{"date":"2025-05-17","venue":"Jingu","road":{"team":"Baystars","runs":6,"starter":"R"},"home":{"team":"Swallows","runs":7,"starter":"R"}}
-{"date":"2025-05-17","venue":"Koshien","road":{"team":"Carp","runs":2,"starter":"L"},"home":{"team":"Tigers","runs":5,"starter":"L"}}
-{"date":"2025-05-17","venue":"Belluna Dome","road":{"team":"Buffaloes","runs":2,"starter":"R"},"home":{"team":"Lions","runs":3,"starter":"R"}}
-{"date":"2025-05-17","venue":"MIZUHO PayPay","road":{"team":"Eagles","runs":1,"starter":"R"},"home":{"team":"Hawks","runs":2,"starter":"L"}}
-{"date":"2025-05-18","venue":"Tokyo Dome","road":{"team":"Dragons","runs":7,"starter":"L"},"home":{"team":"Giants","runs":4,"starter":"R"}}
-{"date":"2025-05-18","venue":"Jingu","road":{"team":"Baystars","runs":10,"starter":"L"},"home":{"team":"Swallows","runs":2,"starter":"L"}}
-{"date":"2025-05-18","venue":"Koshien","road":{"team":"Carp","runs":1,"starter":"L"},"home":{"team":"Tigers","runs":3,"starter":"L"}}
-{"date":"2025-05-18","venue":"Belluna Dome","road":{"team":"Buffaloes","runs":3,"starter":"L"},"home":{"team":"Lions","runs":1,"starter":"L"}}
-{"date":"2025-05-18","venue":"ZOZO Marine","road":{"team":"Fighters","runs":1,"starter":"R"},"home":{"team":"Marines","runs":2,"starter":"R"}}
-{"date":"2025-05-18","venue":"MIZUHO PayPay","road":{"team":"Eagles","runs":1,"starter":"R"},"home":{"team":"Hawks","runs":2,"starter":"R"}}
-{"date":"2025-05-20","venue":"Yokohama","road":{"team":"Dragons","runs":2,"starter":"L"},"home":{"team":"Baystars","runs":10,"starter":"L"}}
-{"date":"2025-05-20","venue":"Koshien","road":{"team":"Giants","runs":0,"starter":"R"},"home":{"team":"Tigers","runs":4,"starter":"R"}}
-{"date":"2025-05-20","venue":"Mazda Stadium","road":{"team":"Swallows","runs":2,"starter":"R"},"home":{"team":"Carp","runs":3,"starter":"L"}}
-{"date":"2025-05-20","venue":"ES CON FIELD","road":{"team":"Hawks","runs":5,"starter":"L"},"home":{"team":"Fighters","runs":2,"starter":"R"}}
-{"date":"2025-05-20","venue":"Morioka","road":{"team":"Lions","runs":1,"starter":"L"},"home":{"team":"Eagles","runs":0,"starter":"R"}}
-{"date":"2025-05-20","venue":"Kyocera Dome","road":{"team":"Marines","runs":1,"starter":"R"},"home":{"team":"Buffaloes","runs":2,"starter":"R"}}
-{"date":"2025-05-21","venue":"Yokohama","road":{"team":"Dragons","runs":6,"starter":"L"},"home":{"team":"Baystars","runs":5,"starter":"R"}}
-{"date":"2025-05-21","venue":"Koshien","road":{"team":"Giants","runs":5,"starter":"L"},"home":{"team":"Tigers","runs":4,"starter":"R"}}
-{"date":"2025-05-21","venue":"ES CON FIELD","road":{"team":"Hawks","runs":1,"starter":"L"},"home":{"team":"Fighters","runs":2,"starter":"R"}}
-{"date":"2025-05-21","venue":"Kyocera Dome","road":{"team":"Marines","runs":1,"starter":"R"},"home":{"team":"Buffaloes","runs":6,"starter":"L"}}
-{"date":"2025-05-22","venue":"Yokohama","road":{"team":"Dragons","runs":0,"starter":"L"},"home":{"team":"Baystars","runs":4,"starter":"R"}}
-{"date":"2025-05-22","venue":"Koshien","road":{"team":"Giants","runs":3,"starter":"R"},"home":{"team":"Tigers","runs":2,"starter":"R"}}
-{"date":"2025-05-22","venue":"Mazda Stadium","road":{"team":"Swallows","runs":2,"starter":"R"},"home":{"team":"Carp","runs":2,"starter":"R"}}
-{"date":"2025-05-22","venue":"ES CON FIELD","road":{"team":"Hawks","runs":4,"starter":"L"},"home":{"team":"Fighters","runs":3,"starter":"R"}}
-{"date":"2025-05-22","venue":"Rakuten Mobile","road":{"team":"Lions","runs":1,"starter":"L"},"home":{"team":"Eagles","runs":2,"starter":"R"}}
-{"date":"2025-05-22","venue":"Kyocera Dome","road":{"team":"Marines","runs":9,"starter":"R"},"home":{"team":"Buffaloes","runs":1,"starter":"L"}}
-{"date":"2025-05-23","venue":"Tokyo Dome","road":{"team":"Swallows","runs":0,"starter":"L"},"home":{"team":"Giants","runs":5,"starter":"R"}}
-{"date":"2025-05-23","venue":"Vantelin Dome","road":{"team":"Tigers","runs":3,"starter":"R"},"home":{"team":"Dragons","runs":0,"starter":"R"}}
-{"date":"2025-05-23","venue":"Mazda Stadium","road":{"team":"Baystars","runs":2,"starter":"R"},"home":{"team":"Carp","runs":1,"starter":"R"}}
-{"date":"2025-05-23","venue":"Rakuten Mobile","road":{"team":"Fighters","runs":1,"starter":"R"},"home":{"team":"Eagles","runs":0,"starter":"L"}}
-{"date":"2025-05-23","venue":"ZOZO Marine","road":{"team":"Lions","runs":3,"starter":"R"},"home":{"team":"Marines","runs":9,"starter":"L"}}
-{"date":"2025-05-24","venue":"Tokyo Dome","road":{"team":"Swallows","runs":2,"starter":"R"},"home":{"team":"Giants","runs":4,"starter":"L"}}
-{"date":"2025-05-24","venue":"Vantelin Dome","road":{"team":"Tigers","runs":4,"starter":"L"},"home":{"team":"Dragons","runs":5,"starter":"R"}}
-{"date":"2025-05-24","venue":"Rakuten Mobile","road":{"team":"Fighters","runs":1,"starter":"L"},"home":{"team":"Eagles","runs":2,"starter":"R"}}
-{"date":"2025-05-24","venue":"ZOZO Marine","road":{"team":"Lions","runs":6,"starter":"R"},"home":{"team":"Marines","runs":1,"starter":"L"}}
-{"date":"2025-05-25","venue":"Tokyo Dome","road":{"team":"Swallows","runs":2,"starter":"R"},"home":{"team":"Giants","runs":5,"starter":"R"}}
-{"date":"2025-05-25","venue":"Vantelin Dome","road":{"team":"Tigers","runs":5,"starter":"L"},"home":{"team":"Dragons","runs":1,"starter":"L"}}
-{"date":"2025-05-25","venue":"Mazda Stadium","road":{"team":"Baystars","runs":0,"starter":"L"},"home":{"team":"Carp","runs":3,"starter":"L"}}
-{"date":"2025-05-25","venue":"Rakuten Mobile","road":{"team":"Fighters","runs":1,"starter":"L"},"home":{"team":"Eagles","runs":1,"starter":"R"}}
-{"date":"2025-05-25","venue":"ZOZO Marine","road":{"team":"Lions","runs":8,"starter":"L"},"home":{"team":"Marines","runs":0,"starter":"R"}}
-{"date":"2025-05-25","venue":"Kagoshima","road":{"team":"Buffaloes","runs":13,"starter":"L"},"home":{"team":"Hawks","runs":5,"starter":"R"}}
-{"date":"2025-05-27","venue":"Toyama","road":{"team":"Carp","runs":2,"starter":"L"},"home":{"team":"Giants","runs":1,"starter":"L"}}
-{"date":"2025-05-27","venue":"Jingu","road":{"team":"Dragons","runs":1,"starter":"L"},"home":{"team":"Swallows","runs":2,"starter":"R"}}
-{"date":"2025-05-27","venue":"Kurashiki","road":{"team":"Baystars","runs":0,"starter":"R"},"home":{"team":"Tigers","runs":1,"starter":"R"}}
-{"date":"2025-05-27","venue":"Maebashi","road":{"team":"Eagles","runs":3,"starter":"R"},"home":{"team":"Lions","runs":1,"starter":"R"}}
-{"date":"2025-05-27","venue":"ZOZO Marine","road":{"team":"Buffaloes","runs":4,"starter":"R"},"home":{"team":"Marines","runs":6,"starter":"R"}}
-{"date":"2025-05-27","venue":"MIZUHO PayPay","road":{"team":"Fighters","runs":5,"starter":"R"},"home":{"team":"Hawks","runs":2,"starter":"R"}}
-{"date":"2025-05-28","venue":"Kanazawa","road":{"team":"Carp","runs":1,"starter":"R"},"home":{"team":"Giants","runs":4,"starter":"R"}}
-{"date":"2025-05-28","venue":"Jingu","road":{"team":"Dragons","runs":4,"starter":"L"},"home":{"team":"Swallows","runs":1,"starter":"R"}}
-{"date":"2025-05-28","venue":"Koshien","road":{"team":"Baystars","runs":0,"starter":"L"},"home":{"team":"Tigers","runs":1,"starter":"L"}}
-{"date":"2025-05-28","venue":"Belluna Dome","road":{"team":"Eagles","runs":0,"starter":"R"},"home":{"team":"Lions","runs":6,"starter":"R"}}
-{"date":"2025-05-28","venue":"ZOZO Marine","road":{"team":"Buffaloes","runs":2,"starter":"R"},"home":{"team":"Marines","runs":1,"starter":"R"}}
-{"date":"2025-05-28","venue":"MIZUHO PayPay","road":{"team":"Fighters","runs":1,"starter":"L"},"home":{"team":"Hawks","runs":2,"starter":"L"}}
-{"date":"2025-05-29","venue":"Jingu","road":{"team":"Dragons","runs":6,"starter":"L"},"home":{"team":"Swallows","runs":0,"starter":"R"}}
-{"date":"2025-05-29","venue":"Koshien","road":{"team":"Baystars","runs":5,"starter":"R"},"home":{"team":"Tigers","runs":1,"starter":"R"}}
-{"date":"2025-05-29","venue":"Belluna Dome","road":{"team":"Eagles","runs":6,"starter":"R"},"home":{"team":"Lions","runs":3,"starter":"L"}}
-{"date":"2025-05-30","venue":"Yokohama","road":{"team":"Swallows","runs":2,"starter":"L"},"home":{"team":"Baystars","runs":6,"starter":"R"}}
-{"date":"2025-05-30","venue":"Vantelin Dome","road":{"team":"Giants","runs":4,"starter":"R"},"home":{"team":"Dragons","runs":1,"starter":"L"}}
-{"date":"2025-05-30","venue":"Mazda Stadium","road":{"team":"Tigers","runs":5,"starter":"R"},"home":{"team":"Carp","runs":2,"starter":"R"}}
-{"date":"2025-05-30","venue":"ES CON FIELD","road":{"team":"Marines","runs":1,"starter":"L"},"home":{"team":"Fighters","runs":4,"starter":"R"}}
-{"date":"2025-05-30","venue":"Rakuten Mobile","road":{"team":"Hawks","runs":4,"starter":"L"},"home":{"team":"Eagles","runs":2,"starter":"R"}}
-{"date":"2025-05-31","venue":"Yokohama","road":{"team":"Swallows","runs":2,"starter":"R"},"home":{"team":"Baystars","runs":5,"starter":"R"}}
-{"date":"2025-05-31","venue":"Vantelin Dome","road":{"team":"Giants","runs":2,"starter":"L"},"home":{"team":"Dragons","runs":4,"starter":"R"}}
-{"date":"2025-05-31","venue":"Mazda Stadium","road":{"team":"Tigers","runs":2,"starter":"L"},"home":{"team":"Carp","runs":0,"starter":"L"}}
-{"date":"2025-05-31","venue":"ES CON FIELD","road":{"team":"Marines","runs":3,"starter":"R"},"home":{"team":"Fighters","runs":4,"starter":"L"}}
-{"date":"2025-05-31","venue":"Hotto Kobe","road":{"team":"Lions","runs":2,"starter":"R"},"home":{"team":"Buffaloes","runs":3,"starter":"L"}}
-{"date":"2025-06-01","venue":"Yokohama","road":{"team":"Swallows","runs":2,"starter":"R"},"home":{"team":"Baystars","runs":3,"starter":"R"}}
-{"date":"2025-06-01","venue":"Vantelin Dome","road":{"team":"Giants","runs":1,"starter":"R"},"home":{"team":"Dragons","runs":4,"starter":"L"}}
-{"date":"2025-06-01","venue":"Mazda Stadium","road":{"team":"Tigers","runs":8,"starter":"L"},"home":{"team":"Carp","runs":0,"starter":"L"}}
-{"date":"2025-06-01","venue":"ES CON FIELD","road":{"team":"Marines","runs":0,"starter":"R"},"home":{"team":"Fighters","runs":1,"starter":"R"}}
-{"date":"2025-06-01","venue":"Rakuten Mobile","road":{"team":"Hawks","runs":0,"starter":"L"},"home":{"team":"Eagles","runs":3,"starter":"L"}}
-{"date":"2025-06-01","venue":"Hotto Kobe","road":{"team":"Lions","runs":3,"starter":"R"},"home":{"team":"Buffaloes","runs":2,"starter":"L"}}
-{"date":"2025-06-03","venue":"ES CON FIELD","road":{"team":"Tigers","runs":1,"starter":"R"},"home":{"team":"Fighters","runs":0,"starter":"R"}}
-{"date":"2025-06-03","venue":"Rakuten Mobile","road":{"team":"Baystars","runs":6,"starter":"L"},"home":{"team":"Eagles","runs":3,"starter":"R"}}
-{"date":"2025-06-03","venue":"Belluna Dome","road":{"team":"Swallows","runs":0,"starter":"R"},"home":{"team":"Lions","runs":1,"starter":"L"}}
-{"date":"2025-06-03","venue":"Kyocera Dome","road":{"team":"Carp","runs":5,"starter":"L"},"home":{"team":"Buffaloes","runs":2,"starter":"R"}}
-{"date":"2025-06-03","venue":"MIZUHO PayPay","road":{"team":"Dragons","runs":0,"starter":"R"},"home":{"team":"Hawks","runs":4,"starter":"R"}}
-{"date":"2025-06-04","venue":"ES CON FIELD","road":{"team":"Tigers","runs":4,"starter":"L"},"home":{"team":"Fighters","runs":5,"starter":"L"}}
-{"date":"2025-06-04","venue":"Rakuten Mobile","road":{"team":"Baystars","runs":1,"starter":"R"},"home":{"team":"Eagles","runs":3,"starter":"R"}}
-{"date":"2025-06-04","venue":"Belluna Dome","road":{"team":"Swallows","runs":2,"starter":"R"},"home":{"team":"Lions","runs":4,"starter":"R"}}
-{"date":"2025-06-04","venue":"ZOZO Marine","road":{"team":"Giants","runs":3,"starter":"L"},"home":{"team":"Marines","runs":5,"starter":"R"}}
-{"date":"2025-06-04","venue":"Kyocera Dome","road":{"team":"Carp","runs":1,"starter":"R"},"home":{"team":"Buffaloes","runs":6,"starter":"L"}}
-{"date":"2025-06-04","venue":"MIZUHO PayPay","road":{"team":"Dragons","runs":2,"starter":"L"},"home":{"team":"Hawks","runs":8,"starter":"L"}}
-{"date":"2025-06-05","venue":"ES CON FIELD","road":{"team":"Tigers","runs":7,"starter":"R"},"home":{"team":"Fighters","runs":1,"starter":"L"}}
-{"date":"2025-06-05","venue":"Koriyama","road":{"team":"Baystars","runs":5,"starter":"L"},"home":{"team":"Eagles","runs":0,"starter":"R"}}
-{"date":"2025-06-05","venue":"Belluna Dome","road":{"team":"Swallows","runs":4,"starter":"R"},"home":{"team":"Lions","runs":1,"starter":"L"}}
-{"date":"2025-06-05","venue":"ZOZO Marine","road":{"team":"Giants","runs":1,"starter":"R"},"home":{"team":"Marines","runs":2,"starter":"R"}}
-{"date":"2025-06-05","venue":"Kyocera Dome","road":{"team":"Carp","runs":3,"starter":"R"},"home":{"team":"Buffaloes","runs":4,"starter":"R"}}
-{"date":"2025-06-05","venue":"MIZUHO PayPay","road":{"team":"Dragons","runs":4,"starter":"L"},"home":{"team":"Hawks","runs":8,"starter":"L"}}
-{"date":"2025-06-06","venue":"Tokyo Dome","road":{"team":"Eagles","runs":2,"starter":"R"},"home":{"team":"Giants","runs":0,"starter":"R"}}
-{"date":"2025-06-06","venue":"Jingu","road":{"team":"Hawks","runs":2,"starter":"L"},"home":{"team":"Swallows","runs":3,"starter":"L"}}
-{"date":"2025-06-06","venue":"Yokohama","road":{"team":"Fighters","runs":1,"starter":"R"},"home":{"team":"Baystars","runs":2,"starter":"R"}}
-{"date":"2025-06-06","venue":"Vantelin Dome","road":{"team":"Marines","runs":2,"starter":"L"},"home":{"team":"Dragons","runs":3,"starter":"L"}}
-{"date":"2025-06-06","venue":"Koshien","road":{"team":"Buffaloes","runs":0,"starter":"R"},"home":{"team":"Tigers","runs":1,"starter":"R"}}
-{"date":"2025-06-06","venue":"Mazda Stadium","road":{"team":"Lions","runs":2,"starter":"R"},"home":{"team":"Carp","runs":3,"starter":"R"}}
-{"date":"2025-06-07","venue":"Tokyo Dome","road":{"team":"Eagles","runs":0,"starter":"R"},"home":{"team":"Giants","runs":2,"starter":"L"}}
-{"date":"2025-06-07","venue":"Jingu","road":{"team":"Hawks","runs":8,"starter":"R"},"home":{"team":"Swallows","runs":1,"starter":"R"}}
-{"date":"2025-06-07","venue":"Yokohama","road":{"team":"Fighters","runs":7,"starter":"L"},"home":{"team":"Baystars","runs":4,"starter":"R"}}
-{"date":"2025-06-07","venue":"Vantelin Dome","road":{"team":"Marines","runs":3,"starter":"R"},"home":{"team":"Dragons","runs":4,"starter":"R"}}
-{"date":"2025-06-07","venue":"Koshien","road":{"team":"Buffaloes","runs":2,"starter":"L"},"home":{"team":"Tigers","runs":8,"starter":"L"}}
-{"date":"2025-06-07","venue":"Mazda Stadium","road":{"team":"Lions","runs":2,"starter":"R"},"home":{"team":"Carp","runs":5,"starter":"L"}}
-{"date":"2025-06-08","venue":"Tokyo Dome","road":{"team":"Eagles","runs":0,"starter":"L"},"home":{"team":"Giants","runs":5,"starter":"R"}}
-{"date":"2025-06-08","venue":"Jingu","road":{"team":"Hawks","runs":2,"starter":"L"},"home":{"team":"Swallows","runs":4,"starter":"L"}}
-{"date":"2025-06-08","venue":"Yokohama","road":{"team":"Fighters","runs":4,"starter":"R"},"home":{"team":"Baystars","runs":5,"starter":"R"}}
-{"date":"2025-06-08","venue":"Vantelin Dome","road":{"team":"Marines","runs":0,"starter":"R"},"home":{"team":"Dragons","runs":3,"starter":"L"}}
-{"date":"2025-06-08","venue":"Koshien","road":{"team":"Buffaloes","runs":1,"starter":"L"},"home":{"team":"Tigers","runs":8,"starter":"L"}}
-{"date":"2025-06-08","venue":"Mazda Stadium","road":{"team":"Lions","runs":0,"starter":"L"},"home":{"team":"Carp","runs":10,"starter":"L"}}
-{"date":"2025-06-10","venue":"ES CON FIELD","road":{"team":"Swallows","runs":1,"starter":"R"},"home":{"team":"Fighters","runs":3,"starter":"R"}}
-{"date":"2025-06-10","venue":"Yamagata","road":{"team":"Dragons","runs":3,"starter":"L"},"home":{"team":"Eagles","runs":1,"starter":"R"}}
-{"date":"2025-06-10","venue":"Belluna Dome","road":{"team":"Tigers","runs":2,"starter":"R"},"home":{"team":"Lions","runs":4,"starter":"L"}}
-{"date":"2025-06-10","venue":"ZOZO Marine","road":{"team":"Carp","runs":1,"starter":"L"},"home":{"team":"Marines","runs":6,"starter":"L"}}
-{"date":"2025-06-10","venue":"Kyocera Dome","road":{"team":"Baystars","runs":0,"starter":"L"},"home":{"team":"Buffaloes","runs":2,"starter":"R"}}
-{"date":"2025-06-10","venue":"MIZUHO PayPay","road":{"team":"Giants","runs":2,"starter":"L"},"home":{"team":"Hawks","runs":5,"starter":"R"}}
-{"date":"2025-06-11","venue":"ES CON FIELD","road":{"team":"Swallows","runs":2,"starter":"R"},"home":{"team":"Fighters","runs":8,"starter":"L"}}
-{"date":"2025-06-11","venue":"Rakuten Mobile","road":{"team":"Dragons","runs":8,"starter":"R"},"home":{"team":"Eagles","runs":5,"starter":"R"}}
-{"date":"2025-06-11","venue":"Belluna Dome","road":{"team":"Tigers","runs":2,"starter":"L"},"home":{"team":"Lions","runs":3,"starter":"R"}}
-{"date":"2025-06-11","venue":"ZOZO Marine","road":{"team":"Carp","runs":6,"starter":"R"},"home":{"team":"Marines","runs":2,"starter":"R"}}
-{"date":"2025-06-11","venue":"Kyocera Dome","road":{"team":"Baystars","runs":4,"starter":"R"},"home":{"team":"Buffaloes","runs":0,"starter":"L"}}
-{"date":"2025-06-11","venue":"MIZUHO PayPay","road":{"team":"Giants","runs":7,"starter":"R"},"home":{"team":"Hawks","runs":3,"starter":"L"}}
-{"date":"2025-06-12","venue":"ES CON FIELD","road":{"team":"Swallows","runs":1,"starter":"R"},"home":{"team":"Fighters","runs":6,"starter":"R"}}
-{"date":"2025-06-12","venue":"Rakuten Mobile","road":{"team":"Dragons","runs":0,"starter":"L"},"home":{"team":"Eagles","runs":4,"starter":"R"}}
-{"date":"2025-06-12","venue":"Belluna Dome","road":{"team":"Tigers","runs":1,"starter":"R"},"home":{"team":"Lions","runs":4,"starter":"L"}}
-{"date":"2025-06-12","venue":"ZOZO Marine","road":{"team":"Carp","runs":4,"starter":"R"},"home":{"team":"Marines","runs":5,"starter":"R"}}
-{"date":"2025-06-12","venue":"Kyocera Dome","road":{"team":"Baystars","runs":2,"starter":"R"},"home":{"team":"Buffaloes","runs":4,"starter":"R"}}
-{"date":"2025-06-12","venue":"MIZUHO PayPay","road":{"team":"Giants","runs":0,"starter":"R"},"home":{"team":"Hawks","runs":0,"starter":"L"}}
-{"date":"2025-06-13","venue":"ES CON FIELD","road":{"team":"Carp","runs":6,"starter":"R"},"home":{"team":"Fighters","runs":2,"starter":"R"}}
-{"date":"2025-06-13","venue":"Rakuten Mobile","road":{"team":"Tigers","runs":2,"starter":"R"},"home":{"team":"Eagles","runs":3,"starter":"R"}}
-{"date":"2025-06-13","venue":"Belluna Dome","road":{"team":"Dragons","runs":2,"starter":"L"},"home":{"team":"Lions","runs":1,"starter":"R"}}
-{"date":"2025-06-13","venue":"ZOZO Marine","road":{"team":"Swallows","runs":4,"starter":"R"},"home":{"team":"Marines","runs":5,"starter":"R"}}
-{"date":"2025-06-13","venue":"Kyocera Dome","road":{"team":"Giants","runs":3,"starter":"R"},"home":{"team":"Buffaloes","runs":7,"starter":"R"}}
-{"date":"2025-06-13","venue":"MIZUHO PayPay","road":{"team":"Baystars","runs":1,"starter":"L"},"home":{"team":"Hawks","runs":4,"starter":"L"}}
-{"date":"2025-06-14","venue":"ES CON FIELD","road":{"team":"Carp","runs":0,"starter":"L"},"home":{"team":"Fighters","runs":5,"starter":"L"}}
-{"date":"2025-06-14","venue":"Rakuten Mobile","road":{"team":"Tigers","runs":4,"starter":"L"},"home":{"team":"Eagles","runs":5,"starter":"L"}}
-{"date":"2025-06-14","venue":"Belluna Dome","road":{"team":"Dragons","runs":1,"starter":"R"},"home":{"team":"Lions","runs":2,"starter":"R"}}
-{"date":"2025-06-14","venue":"ZOZO Marine","road":{"team":"Swallows","runs":5,"starter":"R"},"home":{"team":"Marines","runs":0,"starter":"L"}}
-{"date":"2025-06-14","venue":"Kyocera Dome","road":{"team":"Giants","runs":1,"starter":"L"},"home":{"team":"Buffaloes","runs":2,"starter":"L"}}
-{"date":"2025-06-14","venue":"MIZUHO PayPay","road":{"team":"Baystars","runs":0,"starter":"R"},"home":{"team":"Hawks","runs":4,"starter":"R"}}
-{"date":"2025-06-15","venue":"ES CON FIELD","road":{"team":"Carp","runs":7,"starter":"L"},"home":{"team":"Fighters","runs":8,"starter":"R"}}
-{"date":"2025-06-15","venue":"Rakuten Mobile","road":{"team":"Tigers","runs":2,"starter":"L"},"home":{"team":"Eagles","runs":3,"starter":"L"}}
-{"date":"2025-06-15","venue":"Belluna Dome","road":{"team":"Dragons","runs":0,"starter":"L"},"home":{"team":"Lions","runs":1,"starter":"L"}}
-{"date":"2025-06-15","venue":"ZOZO Marine","road":{"team":"Swallows","runs":4,"starter":"L"},"home":{"team":"Marines","runs":5,"starter":"R"}}
-{"date":"2025-06-15","venue":"Kyocera Dome","road":{"team":"Giants","runs":3,"starter":"R"},"home":{"team":"Buffaloes","runs":8,"starter":"L"}}
-{"date":"2025-06-15","venue":"MIZUHO PayPay","road":{"team":"Baystars","runs":3,"starter":"R"},"home":{"team":"Hawks","runs":4,"starter":"L"}}
-{"date":"2025-06-17","venue":"Tokyo Dome","road":{"team":"Fighters","runs":4,"starter":"R"},"home":{"team":"Giants","runs":1,"starter":"L"}}
-{"date":"2025-06-17","venue":"Jingu","road":{"team":"Eagles","runs":4,"starter":"R"},"home":{"team":"Swallows","runs":4,"starter":"R"}}
-{"date":"2025-06-17","venue":"Yokohama","road":{"team":"Lions","runs":3,"starter":"R"},"home":{"team":"Baystars","runs":0,"starter":"R"}}
-{"date":"2025-06-17","venue":"Vantelin Dome","road":{"team":"Buffaloes","runs":5,"starter":"R"},"home":{"team":"Dragons","runs":3,"starter":"L"}}
-{"date":"2025-06-17","venue":"Koshien","road":{"team":"Marines","runs":3,"starter":"R"},"home":{"team":"Tigers","runs":1,"starter":"R"}}
-{"date":"2025-06-17","venue":"Mazda Stadium","road":{"team":"Hawks","runs":2,"starter":"R"},"home":{"team":"Carp","runs":0,"starter":"L"}}
-{"date":"2025-06-18","venue":"Tokyo Dome","road":{"team":"Fighters","runs":1,"starter":"L"},"home":{"team":"Giants","runs":2,"starter":"R"}}
-{"date":"2025-06-18","venue":"Jingu","road":{"team":"Eagles","runs":6,"starter":"R"},"home":{"team":"Swallows","runs":2,"starter":"R"}}
-{"date":"2025-06-18","venue":"Yokohama","road":{"team":"Lions","runs":2,"starter":"L"},"home":{"team":"Baystars","runs":4,"starter":"R"}}
-{"date":"2025-06-18","venue":"Vantelin Dome","road":{"team":"Buffaloes","runs":3,"starter":"R"},"home":{"team":"Dragons","runs":6,"starter":"R"}}
-{"date":"2025-06-18","venue":"Koshien","road":{"team":"Marines","runs":1,"starter":"R"},"home":{"team":"Tigers","runs":8,"starter":"L"}}
-{"date":"2025-06-18","venue":"Mazda Stadium","road":{"team":"Hawks","runs":4,"starter":"L"},"home":{"team":"Carp","runs":8,"starter":"R"}}
-{"date":"2025-06-19","venue":"Tokyo Dome","road":{"team":"Fighters","runs":4,"starter":"R"},"home":{"team":"Giants","runs":1,"starter":"R"}}
-{"date":"2025-06-19","venue":"Jingu","road":{"team":"Eagles","runs":3,"starter":"R"},"home":{"team":"Swallows","runs":1,"starter":"R"}}
-{"date":"2025-06-19","venue":"Yokohama","road":{"team":"Lions","runs":2,"starter":"R"},"home":{"team":"Baystars","runs":1,"starter":"L"}}
-{"date":"2025-06-19","venue":"Vantelin Dome","road":{"team":"Buffaloes","runs":6,"starter":"L"},"home":{"team":"Dragons","runs":1,"starter":"L"}}
-{"date":"2025-06-19","venue":"Koshien","road":{"team":"Marines","runs":0,"starter":"R"},"home":{"team":"Tigers","runs":2,"starter":"R"}}
-{"date":"2025-06-19","venue":"Mazda Stadium","road":{"team":"Hawks","runs":16,"starter":"L"},"home":{"team":"Carp","runs":2,"starter":"R"}}
-{"date":"2025-06-20","venue":"Tokyo Dome","road":{"team":"Lions","runs":1,"starter":"R"},"home":{"team":"Giants","runs":2,"starter":"R"}}
-{"date":"2025-06-20","venue":"Jingu","road":{"team":"Buffaloes","runs":10,"starter":"R"},"home":{"team":"Swallows","runs":8,"starter":"R"}}
-{"date":"2025-06-20","venue":"Yokohama","road":{"team":"Marines","runs":6,"starter":"R"},"home":{"team":"Baystars","runs":1,"starter":"L"}}
-{"date":"2025-06-20","venue":"Vantelin Dome","road":{"team":"Fighters","runs":1,"starter":"R"},"home":{"team":"Dragons","runs":0,"starter":"L"}}
-{"date":"2025-06-20","venue":"Koshien","road":{"team":"Hawks","runs":2,"starter":"L"},"home":{"team":"Tigers","runs":1,"starter":"R"}}
-{"date":"2025-06-20","venue":"Mazda Stadium","road":{"team":"Eagles","runs":4,"starter":"L"},"home":{"team":"Carp","runs":0,"starter":"R"}}
-{"date":"2025-06-21","venue":"Tokyo Dome","road":{"team":"Lions","runs":2,"starter":"R"},"home":{"team":"Giants","runs":5,"starter":"L"}}
-{"date":"2025-06-21","venue":"Jingu","road":{"team":"Buffaloes","runs":2,"starter":"L"},"home":{"team":"Swallows","runs":5,"starter":"R"}}
-{"date":"2025-06-21","venue":"Yokohama","road":{"team":"Marines","runs":0,"starter":"R"},"home":{"team":"Baystars","runs":5,"starter":"R"}}
-{"date":"2025-06-21","venue":"Vantelin Dome","road":{"team":"Fighters","runs":3,"starter":"L"},"home":{"team":"Dragons","runs":2,"starter":"R"}}
-{"date":"2025-06-21","venue":"Koshien","road":{"team":"Hawks","runs":0,"starter":"R"},"home":{"team":"Tigers","runs":3,"starter":"L"}}
-{"date":"2025-06-21","venue":"Mazda Stadium","road":{"team":"Eagles","runs":3,"starter":"R"},"home":{"team":"Carp","runs":8,"starter":"L"}}
-{"date":"2025-06-22","venue":"Tokyo Dome","road":{"team":"Lions","runs":5,"starter":"L"},"home":{"team":"Giants","runs":0,"starter":"R"}}
-{"date":"2025-06-22","venue":"Jingu","road":{"team":"Buffaloes","runs":4,"starter":"L"},"home":{"team":"Swallows","runs":2,"starter":"R"}}
-{"date":"2025-06-22","venue":"Yokohama","road":{"team":"Marines","runs":10,"starter":"R"},"home":{"team":"Baystars","runs":9,"starter":"R"}}
-{"date":"2025-06-22","venue":"Vantelin Dome","road":{"team":"Fighters","runs":1,"starter":"R"},"home":{"team":"Dragons","runs":4,"starter":"L"}}
-{"date":"2025-06-22","venue":"Koshien","road":{"team":"Hawks","runs":3,"starter":"L"},"home":{"team":"Tigers","runs":1,"starter":"L"}}
-{"date":"2025-06-22","venue":"Mazda Stadium","road":{"team":"Eagles","runs":2,"starter":"L"},"home":{"team":"Carp","runs":5,"starter":"L"}}
-{"date":"2025-06-24","venue":"ZOZO Marine","road":{"team":"Giants","runs":4,"starter":"R"},"home":{"team":"Marines","runs":6,"starter":"L"}}
-{"date":"2025-06-27","venue":"Tokyo Dome","road":{"team":"Baystars","runs":0,"starter":"L"},"home":{"team":"Giants","runs":4,"starter":"R"}}
-{"date":"2025-06-27","venue":"Jingu","road":{"team":"Tigers","runs":3,"starter":"R"},"home":{"team":"Swallows","runs":4,"starter":"R"}}
-{"date":"2025-06-27","venue":"Vantelin Dome","road":{"team":"Carp","runs":2,"starter":"R"},"home":{"team":"Dragons","runs":3,"starter":"L"}}
-{"date":"2025-06-27","venue":"Belluna Dome","road":{"team":"Fighters","runs":5,"starter":"R"},"home":{"team":"Lions","runs":2,"starter":"R"}}
-{"date":"2025-06-27","venue":"ZOZO Marine","road":{"team":"Hawks","runs":6,"starter":"L"},"home":{"team":"Marines","runs":3,"starter":"R"}}
-{"date":"2025-06-27","venue":"Kyocera Dome","road":{"team":"Eagles","runs":2,"starter":"L"},"home":{"team":"Buffaloes","runs":10,"starter":"R"}}
-{"date":"2025-06-28","venue":"Tokyo Dome","road":{"team":"Baystars","runs":0,"starter":"R"},"home":{"team":"Giants","runs":5,"starter":"L"}}
-{"date":"2025-06-28","venue":"Jingu","road":{"team":"Tigers","runs":2,"starter":"R"},"home":{"team":"Swallows","runs":0,"starter":"L"}}
-{"date":"2025-06-28","venue":"Vantelin Dome","road":{"team":"Carp","runs":2,"starter":"L"},"home":{"team":"Dragons","runs":1,"starter":"R"}}
-{"date":"2025-06-28","venue":"Belluna Dome","road":{"team":"Fighters","runs":2,"starter":"L"},"home":{"team":"Lions","runs":3,"starter":"L"}}
-{"date":"2025-06-28","venue":"ZOZO Marine","road":{"team":"Hawks","runs":0,"starter":"R"},"home":{"team":"Marines","runs":5,"starter":"R"}}
-{"date":"2025-06-28","venue":"Kyocera Dome","road":{"team":"Eagles","runs":3,"starter":"R"},"home":{"team":"Buffaloes","runs":7,"starter":"L"}}
-{"date":"2025-06-29","venue":"Tokyo Dome","road":{"team":"Baystars","runs":0,"starter":"R"},"home":{"team":"Giants","runs":1,"starter":"R"}}
-{"date":"2025-06-29","venue":"Jingu","road":{"team":"Tigers","runs":6,"starter":"L"},"home":{"team":"Swallows","runs":0,"starter":"R"}}
-{"date":"2025-06-29","venue":"Vantelin Dome","road":{"team":"Carp","runs":2,"starter":"L"},"home":{"team":"Dragons","runs":1,"starter":"L"}}
-{"date":"2025-06-29","venue":"Belluna Dome","road":{"team":"Fighters","runs":2,"starter":"R"},"home":{"team":"Lions","runs":1,"starter":"R"}}
-{"date":"2025-06-29","venue":"ZOZO Marine","road":{"team":"Hawks","runs":2,"starter":"R"},"home":{"team":"Marines","runs":1,"starter":"R"}}
-{"date":"2025-06-29","venue":"Kyocera Dome","road":{"team":"Eagles","runs":4,"starter":"L"},"home":{"team":"Buffaloes","runs":2,"starter":"R"}}
-{"date":"2025-07-01","venue":"Yokohama","road":{"team":"Dragons","runs":2,"starter":"L"},"home":{"team":"Baystars","runs":3,"starter":"L"}}
-{"date":"2025-07-01","venue":"Koshien","road":{"team":"Giants","runs":1,"starter":"R"},"home":{"team":"Tigers","runs":2,"starter":"R"}}
-{"date":"2025-07-01","venue":"Mazda Stadium","road":{"team":"Swallows","runs":2,"starter":"R"},"home":{"team":"Carp","runs":2,"starter":"L"}}
-{"date":"2025-07-01","venue":"Rakuten Mobile","road":{"team":"Marines","runs":0,"starter":"R"},"home":{"team":"Eagles","runs":6,"starter":"R"}}
-{"date":"2025-07-01","venue":"Naha","road":{"team":"Buffaloes","runs":3,"starter":"R"},"home":{"team":"Lions","runs":0,"starter":"R"}}
-{"date":"2025-07-01","venue":"Tokyo Dome","road":{"team":"Fighters","runs":0,"starter":"R"},"home":{"team":"Hawks","runs":1,"starter":"R"}}
-{"date":"2025-07-02","venue":"Yokohama","road":{"team":"Dragons","runs":3,"starter":"R"},"home":{"team":"Baystars","runs":4,"starter":"R"}}
-{"date":"2025-07-02","venue":"Koshien","road":{"team":"Giants","runs":0,"starter":"L"},"home":{"team":"Tigers","runs":1,"starter":"L"}}
-{"date":"2025-07-02","venue":"Mazda Stadium","road":{"team":"Swallows","runs":1,"starter":"R"},"home":{"team":"Carp","runs":2,"starter":"R"}}
-{"date":"2025-07-02","venue":"Rakuten Mobile","road":{"team":"Marines","runs":6,"starter":"R"},"home":{"team":"Eagles","runs":3,"starter":"R"}}
-{"date":"2025-07-02","venue":"Naha","road":{"team":"Buffaloes","runs":6,"starter":"L"},"home":{"team":"Lions","runs":2,"starter":"R"}}
-{"date":"2025-07-02","venue":"MIZUHO PayPay","road":{"team":"Fighters","runs":1,"starter":"L"},"home":{"team":"Hawks","runs":2,"starter":"L"}}
-{"date":"2025-07-03","venue":"Yokohama","road":{"team":"Dragons","runs":5,"starter":"L"},"home":{"team":"Baystars","runs":8,"starter":"R"}}
-{"date":"2025-07-03","venue":"Koshien","road":{"team":"Giants","runs":2,"starter":"L"},"home":{"team":"Tigers","runs":3,"starter":"L"}}
-{"date":"2025-07-03","venue":"Mazda Stadium","road":{"team":"Swallows","runs":5,"starter":"R"},"home":{"team":"Carp","runs":0,"starter":"L"}}
-{"date":"2025-07-03","venue":"MIZUHO PayPay","road":{"team":"Fighters","runs":1,"starter":"R"},"home":{"team":"Hawks","runs":4,"starter":"L"}}
-{"date":"2025-07-04","venue":"Tokyo Dome","road":{"team":"Carp","runs":0,"starter":"R"},"home":{"team":"Giants","runs":1,"starter":"R"}}
-{"date":"2025-07-04","venue":"Yokohama","road":{"team":"Tigers","runs":7,"starter":"R"},"home":{"team":"Baystars","runs":1,"starter":"L"}}
-{"date":"2025-07-04","venue":"Vantelin Dome","road":{"team":"Swallows","runs":1,"starter":"R"},"home":{"team":"Dragons","runs":2,"starter":"L"}}
-{"date":"2025-07-04","venue":"ES CON FIELD","road":{"team":"Eagles","runs":1,"starter":"L"},"home":{"team":"Fighters","runs":7,"starter":"R"}}
-{"date":"2025-07-04","venue":"Hotto Kobe","road":{"team":"Marines","runs":6,"starter":"R"},"home":{"team":"Buffaloes","runs":8,"starter":"L"}}
-{"date":"2025-07-04","venue":"MIZUHO PayPay","road":{"team":"Lions","runs":1,"starter":"L"},"home":{"team":"Hawks","runs":0,"starter":"L"}}
-{"date":"2025-07-05","venue":"Tokyo Dome","road":{"team":"Carp","runs":0,"starter":"L"},"home":{"team":"Giants","runs":0,"starter":"L"}}
-{"date":"2025-07-05","venue":"Yokohama","road":{"team":"Tigers","runs":3,"starter":"R"},"home":{"team":"Baystars","runs":0,"starter":"R"}}
-{"date":"2025-07-05","venue":"Vantelin Dome","road":{"team":"Swallows","runs":6,"starter":"L"},"home":{"team":"Dragons","runs":4,"starter":"R"}}
-{"date":"2025-07-05","venue":"ES CON FIELD","road":{"team":"Eagles","runs":1,"starter":"R"},"home":{"team":"Fighters","runs":12,"starter":"L"}}
-{"date":"2025-07-05","venue":"Hotto Kobe","road":{"team":"Marines","runs":8,"starter":"L"},"home":{"team":"Buffaloes","runs":2,"starter":"L"}}
-{"date":"2025-07-05","venue":"MIZUHO PayPay","road":{"team":"Lions","runs":3,"starter":"R"},"home":{"team":"Hawks","runs":4,"starter":"R"}}
-{"date":"2025-07-06","venue":"Tokyo Dome","road":{"team":"Carp","runs":3,"starter":"L"},"home":{"team":"Giants","runs":2,"starter":"R"}}
-{"date":"2025-07-06","venue":"Yokohama","road":{"team":"Tigers","runs":5,"starter":"L"},"home":{"team":"Baystars","runs":1,"starter":"R"}}
-{"date":"2025-07-06","venue":"Vantelin Dome","road":{"team":"Swallows","runs":5,"starter":"R"},"home":{"team":"Dragons","runs":4,"starter":"L"}}
-{"date":"2025-07-06","venue":"ES CON FIELD","road":{"team":"Eagles","runs":6,"starter":"L"},"home":{"team":"Fighters","runs":8,"starter":"R"}}
-{"date":"2025-07-06","venue":"Kyocera Dome","road":{"team":"Marines","runs":1,"starter":"L"},"home":{"team":"Buffaloes","runs":4,"starter":"R"}}
-{"date":"2025-07-06","venue":"MIZUHO PayPay","road":{"team":"Lions","runs":1,"starter":"L"},"home":{"team":"Hawks","runs":3,"starter":"R"}}
-{"date":"2025-07-08","venue":"Yamagata","road":{"team":"Dragons","runs":4,"starter":"L"},"home":{"team":"Giants","runs":5,"starter":"R"}}
-{"date":"2025-07-08","venue":"Jingu","road":{"team":"Baystars","runs":4,"starter":"L"},"home":{"team":"Swallows","runs":0,"starter":"R"}}
-{"date":"2025-07-08","venue":"Mazda Stadium","road":{"team":"Tigers","runs":6,"starter":"R"},"home":{"team":"Carp","runs":1,"starter":"L"}}
-{"date":"2025-07-08","venue":"Belluna Dome","road":{"team":"Eagles","runs":7,"starter":"R"},"home":{"team":"Lions","runs":2,"starter":"R"}}
-{"date":"2025-07-08","venue":"ZOZO Marine","road":{"team":"Fighters","runs":5,"starter":"R"},"home":{"team":"Marines","runs":4,"starter":"R"}}
-{"date":"2025-07-08","venue":"Kyocera Dome","road":{"team":"Hawks","runs":9,"starter":"R"},"home":{"team":"Buffaloes","runs":1,"starter":"R"}}
+{"date":"2025-03-28","venue":"Tokyo Dome","road":{"team":"Swallows","runs":5,"starter":"R"},"home":{"team":"Giants","runs":6,"starter":"R"},"firstRun":"Swallows","isWalkOff":true,"isExtraInnings":true,"hadComback":true}
+{"date":"2025-03-28","venue":"Yokohama","road":{"team":"Dragons","runs":0,"starter":"R"},"home":{"team":"Baystars","runs":5,"starter":"L"},"firstRun":"Baystars","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-03-28","venue":"Mazda Stadium","road":{"team":"Tigers","runs":4,"starter":"R"},"home":{"team":"Carp","runs":0,"starter":"R"},"firstRun":"Tigers","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-03-28","venue":"Belluna Dome","road":{"team":"Fighters","runs":2,"starter":"R"},"home":{"team":"Lions","runs":0,"starter":"R"},"firstRun":"Fighters","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-03-28","venue":"Kyocera Dome","road":{"team":"Eagles","runs":2,"starter":"L"},"home":{"team":"Buffaloes","runs":3,"starter":"L"},"firstRun":"Buffaloes","isWalkOff":true,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-03-28","venue":"MIZUHO PayPay","road":{"team":"Marines","runs":8,"starter":"L"},"home":{"team":"Hawks","runs":2,"starter":"R"},"firstRun":"Hawks","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-03-29","venue":"Tokyo Dome","road":{"team":"Swallows","runs":0,"starter":"R"},"home":{"team":"Giants","runs":12,"starter":"R"},"firstRun":"Giants","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-03-29","venue":"Yokohama","road":{"team":"Dragons","runs":1,"starter":"L"},"home":{"team":"Baystars","runs":0,"starter":"R"},"firstRun":"Dragons","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-03-29","venue":"Mazda Stadium","road":{"team":"Tigers","runs":3,"starter":"L"},"home":{"team":"Carp","runs":2,"starter":"L"},"firstRun":"Carp","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-03-29","venue":"Belluna Dome","road":{"team":"Fighters","runs":3,"starter":"L"},"home":{"team":"Lions","runs":2,"starter":"R"},"firstRun":"Fighters","isWalkOff":false,"isExtraInnings":true,"hadComback":false}
+{"date":"2025-03-29","venue":"Kyocera Dome","road":{"team":"Eagles","runs":5,"starter":"L"},"home":{"team":"Buffaloes","runs":4,"starter":"R"},"firstRun":"Eagles","isWalkOff":false,"isExtraInnings":true,"hadComback":false}
+{"date":"2025-03-29","venue":"MIZUHO PayPay","road":{"team":"Marines","runs":5,"starter":"R"},"home":{"team":"Hawks","runs":4,"starter":"L"},"firstRun":"Hawks","isWalkOff":false,"isExtraInnings":true,"hadComback":true}
+{"date":"2025-03-30","venue":"Tokyo Dome","road":{"team":"Swallows","runs":0,"starter":"L"},"home":{"team":"Giants","runs":3,"starter":"L"},"firstRun":"Giants","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-03-30","venue":"Yokohama","road":{"team":"Dragons","runs":1,"starter":"R"},"home":{"team":"Baystars","runs":2,"starter":"R"},"firstRun":"Baystars","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-03-30","venue":"Mazda Stadium","road":{"team":"Tigers","runs":0,"starter":"L"},"home":{"team":"Carp","runs":2,"starter":"L"},"firstRun":"Carp","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-03-30","venue":"Belluna Dome","road":{"team":"Fighters","runs":7,"starter":"R"},"home":{"team":"Lions","runs":5,"starter":"R"},"firstRun":"Fighters","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-03-30","venue":"Kyocera Dome","road":{"team":"Eagles","runs":1,"starter":"L"},"home":{"team":"Buffaloes","runs":6,"starter":"R"},"firstRun":"Buffaloes","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-03-30","venue":"MIZUHO PayPay","road":{"team":"Marines","runs":7,"starter":"R"},"home":{"team":"Hawks","runs":4,"starter":"R"},"firstRun":"Hawks","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-04-01","venue":"Vantelin Dome","road":{"team":"Giants","runs":2,"starter":"L"},"home":{"team":"Dragons","runs":3,"starter":"L"},"firstRun":"Dragons","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-01","venue":"Kyocera Dome","road":{"team":"Baystars","runs":7,"starter":"R"},"home":{"team":"Tigers","runs":1,"starter":"R"},"firstRun":"Tigers","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-04-01","venue":"ES CON FIELD","road":{"team":"Hawks","runs":5,"starter":"L"},"home":{"team":"Fighters","runs":1,"starter":"R"},"firstRun":"Hawks","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-02","venue":"Jingu","road":{"team":"Carp","runs":4,"starter":"R"},"home":{"team":"Swallows","runs":5,"starter":"L"},"firstRun":"Swallows","isWalkOff":true,"isExtraInnings":true,"hadComback":true}
+{"date":"2025-04-02","venue":"Vantelin Dome","road":{"team":"Giants","runs":2,"starter":"R"},"home":{"team":"Dragons","runs":0,"starter":"R"},"firstRun":"Giants","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-02","venue":"Kyocera Dome","road":{"team":"Baystars","runs":6,"starter":"R"},"home":{"team":"Tigers","runs":6,"starter":"R"},"firstRun":"Baystars","isWalkOff":false,"isExtraInnings":true,"hadComback":true}
+{"date":"2025-04-02","venue":"ES CON FIELD","road":{"team":"Hawks","runs":1,"starter":"L"},"home":{"team":"Fighters","runs":3,"starter":"R"},"firstRun":"Fighters","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-02","venue":"ZOZO Marine","road":{"team":"Buffaloes","runs":3,"starter":"L"},"home":{"team":"Marines","runs":2,"starter":"R"},"firstRun":"Marines","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-04-03","venue":"Jingu","road":{"team":"Carp","runs":0,"starter":"L"},"home":{"team":"Swallows","runs":3,"starter":"R"},"firstRun":"Swallows","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-03","venue":"Vantelin Dome","road":{"team":"Giants","runs":5,"starter":"R"},"home":{"team":"Dragons","runs":3,"starter":"L"},"firstRun":"Giants","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-03","venue":"Kyocera Dome","road":{"team":"Baystars","runs":5,"starter":"L"},"home":{"team":"Tigers","runs":2,"starter":"R"},"firstRun":"Baystars","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-03","venue":"Rakuten Mobile","road":{"team":"Lions","runs":1,"starter":"R"},"home":{"team":"Eagles","runs":4,"starter":"R"},"firstRun":"Lions","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-04-03","venue":"ZOZO Marine","road":{"team":"Buffaloes","runs":3,"starter":"R"},"home":{"team":"Marines","runs":2,"starter":"R"},"firstRun":"Buffaloes","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-04","venue":"Tokyo Dome","road":{"team":"Tigers","runs":7,"starter":"R"},"home":{"team":"Giants","runs":2,"starter":"R"},"firstRun":"Tigers","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-04","venue":"Jingu","road":{"team":"Dragons","runs":1,"starter":"R"},"home":{"team":"Swallows","runs":1,"starter":"R"},"firstRun":"Dragons","isWalkOff":false,"isExtraInnings":true,"hadComback":false}
+{"date":"2025-04-04","venue":"Mazda Stadium","road":{"team":"Baystars","runs":2,"starter":"R"},"home":{"team":"Carp","runs":8,"starter":"R"},"firstRun":"Baystars","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-04-04","venue":"ES CON FIELD","road":{"team":"Buffaloes","runs":4,"starter":"L"},"home":{"team":"Fighters","runs":3,"starter":"L"},"firstRun":"Buffaloes","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-04","venue":"ZOZO Marine","road":{"team":"Eagles","runs":3,"starter":"L"},"home":{"team":"Marines","runs":1,"starter":"R"},"firstRun":"Eagles","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-04","venue":"MIZUHO PayPay","road":{"team":"Lions","runs":6,"starter":"R"},"home":{"team":"Hawks","runs":0,"starter":"R"},"firstRun":"Lions","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-05","venue":"Tokyo Dome","road":{"team":"Tigers","runs":4,"starter":"L"},"home":{"team":"Giants","runs":3,"starter":"R"},"firstRun":"Tigers","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-05","venue":"Jingu","road":{"team":"Dragons","runs":0,"starter":"L"},"home":{"team":"Swallows","runs":2,"starter":"R"},"firstRun":"Swallows","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-05","venue":"Mazda Stadium","road":{"team":"Baystars","runs":7,"starter":"L"},"home":{"team":"Carp","runs":8,"starter":"L"},"firstRun":"Baystars","isWalkOff":true,"isExtraInnings":true,"hadComback":true}
+{"date":"2025-04-05","venue":"ES CON FIELD","road":{"team":"Buffaloes","runs":11,"starter":"R"},"home":{"team":"Fighters","runs":1,"starter":"R"},"firstRun":"Buffaloes","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-05","venue":"ZOZO Marine","road":{"team":"Eagles","runs":0,"starter":"R"},"home":{"team":"Marines","runs":1,"starter":"L"},"firstRun":"Marines","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-05","venue":"MIZUHO PayPay","road":{"team":"Lions","runs":6,"starter":"L"},"home":{"team":"Hawks","runs":3,"starter":"L"},"firstRun":"Lions","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-06","venue":"Tokyo Dome","road":{"team":"Tigers","runs":1,"starter":"L"},"home":{"team":"Giants","runs":0,"starter":"L"},"firstRun":"Tigers","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-06","venue":"Jingu","road":{"team":"Dragons","runs":6,"starter":"R"},"home":{"team":"Swallows","runs":5,"starter":"R"},"firstRun":"Dragons","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-04-06","venue":"Mazda Stadium","road":{"team":"Baystars","runs":6,"starter":"R"},"home":{"team":"Carp","runs":7,"starter":"L"},"firstRun":"Carp","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-06","venue":"ES CON FIELD","road":{"team":"Buffaloes","runs":6,"starter":"R"},"home":{"team":"Fighters","runs":4,"starter":"R"},"firstRun":"Fighters","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-04-06","venue":"ZOZO Marine","road":{"team":"Eagles","runs":5,"starter":"L"},"home":{"team":"Marines","runs":0,"starter":"R"},"firstRun":"Eagles","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-06","venue":"MIZUHO PayPay","road":{"team":"Lions","runs":1,"starter":"R"},"home":{"team":"Hawks","runs":11,"starter":"R"},"firstRun":"Hawks","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-08","venue":"Yokohama","road":{"team":"Giants","runs":3,"starter":"L"},"home":{"team":"Baystars","runs":3,"starter":"R"},"firstRun":"Baystars","isWalkOff":false,"isExtraInnings":true,"hadComback":false}
+{"date":"2025-04-08","venue":"Gifu","road":{"team":"Carp","runs":1,"starter":"R"},"home":{"team":"Dragons","runs":1,"starter":"L"},"firstRun":"Dragons","isWalkOff":false,"isExtraInnings":true,"hadComback":false}
+{"date":"2025-04-08","venue":"Koshien","road":{"team":"Swallows","runs":1,"starter":"L"},"home":{"team":"Tigers","runs":0,"starter":"R"},"firstRun":"Swallows","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-08","venue":"Rakuten Mobile","road":{"team":"Fighters","runs":5,"starter":"R"},"home":{"team":"Eagles","runs":2,"starter":"L"},"firstRun":"Eagles","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-04-08","venue":"Belluna Dome","road":{"team":"Marines","runs":7,"starter":"R"},"home":{"team":"Lions","runs":3,"starter":"R"},"firstRun":"Marines","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-08","venue":"Kyocera Dome","road":{"team":"Hawks","runs":5,"starter":"L"},"home":{"team":"Buffaloes","runs":2,"starter":"R"},"firstRun":"Hawks","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-09","venue":"Yokohama","road":{"team":"Giants","runs":6,"starter":"R"},"home":{"team":"Baystars","runs":3,"starter":"R"},"firstRun":"Giants","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-09","venue":"Vantelin Dome","road":{"team":"Carp","runs":1,"starter":"R"},"home":{"team":"Dragons","runs":3,"starter":"R"},"firstRun":"Dragons","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-09","venue":"Koshien","road":{"team":"Swallows","runs":5,"starter":"L"},"home":{"team":"Tigers","runs":3,"starter":"R"},"firstRun":"Tigers","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-04-09","venue":"Rakuten Mobile","road":{"team":"Fighters","runs":8,"starter":"L"},"home":{"team":"Eagles","runs":2,"starter":"L"},"firstRun":"Fighters","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-09","venue":"Omiya","road":{"team":"Marines","runs":0,"starter":"R"},"home":{"team":"Lions","runs":2,"starter":"L"},"firstRun":"Lions","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-09","venue":"Kyocera Dome","road":{"team":"Hawks","runs":10,"starter":"R"},"home":{"team":"Buffaloes","runs":9,"starter":"L"},"firstRun":"Buffaloes","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-04-10","venue":"Vantelin Dome","road":{"team":"Carp","runs":2,"starter":"L"},"home":{"team":"Dragons","runs":1,"starter":"L"},"firstRun":"Dragons","isWalkOff":false,"isExtraInnings":true,"hadComback":true}
+{"date":"2025-04-10","venue":"Rakuten Mobile","road":{"team":"Fighters","runs":10,"starter":"R"},"home":{"team":"Eagles","runs":0,"starter":"R"},"firstRun":"Fighters","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-10","venue":"Kyocera Dome","road":{"team":"Hawks","runs":1,"starter":"L"},"home":{"team":"Buffaloes","runs":1,"starter":"R"},"firstRun":"Hawks","isWalkOff":false,"isExtraInnings":true,"hadComback":false}
+{"date":"2025-04-11","venue":"Koshien","road":{"team":"Dragons","runs":3,"starter":"R"},"home":{"team":"Tigers","runs":6,"starter":"R"},"firstRun":"Dragons","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-04-11","venue":"Mazda Stadium","road":{"team":"Giants","runs":3,"starter":"R"},"home":{"team":"Carp","runs":12,"starter":"R"},"firstRun":"Giants","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-04-11","venue":"ES CON FIELD","road":{"team":"Lions","runs":0,"starter":"R"},"home":{"team":"Fighters","runs":2,"starter":"L"},"firstRun":"Fighters","isWalkOff":true,"isExtraInnings":true,"hadComback":false}
+{"date":"2025-04-11","venue":"Rakuten Mobile","road":{"team":"Buffaloes","runs":4,"starter":"L"},"home":{"team":"Eagles","runs":1,"starter":"L"},"firstRun":"Buffaloes","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-11","venue":"ZOZO Marine","road":{"team":"Hawks","runs":5,"starter":"R"},"home":{"team":"Marines","runs":4,"starter":"R"},"firstRun":"Hawks","isWalkOff":false,"isExtraInnings":true,"hadComback":true}
+{"date":"2025-04-12","venue":"Yokohama","road":{"team":"Swallows","runs":4,"starter":"R"},"home":{"team":"Baystars","runs":5,"starter":"L"},"firstRun":"Baystars","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-12","venue":"Koshien","road":{"team":"Dragons","runs":3,"starter":"L"},"home":{"team":"Tigers","runs":2,"starter":"R"},"firstRun":"Dragons","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-12","venue":"Mazda Stadium","road":{"team":"Giants","runs":0,"starter":"R"},"home":{"team":"Carp","runs":1,"starter":"L"},"firstRun":"Carp","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-12","venue":"ES CON FIELD","road":{"team":"Lions","runs":2,"starter":"L"},"home":{"team":"Fighters","runs":1,"starter":"R"},"firstRun":"Lions","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-12","venue":"Rakuten Mobile","road":{"team":"Buffaloes","runs":4,"starter":"R"},"home":{"team":"Eagles","runs":2,"starter":"R"},"firstRun":"Buffaloes","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-12","venue":"ZOZO Marine","road":{"team":"Hawks","runs":8,"starter":"L"},"home":{"team":"Marines","runs":0,"starter":"L"},"firstRun":"Hawks","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-13","venue":"Mazda Stadium","road":{"team":"Giants","runs":3,"starter":"L"},"home":{"team":"Carp","runs":5,"starter":"L"},"firstRun":"Carp","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-13","venue":"ES CON FIELD","road":{"team":"Lions","runs":7,"starter":"R"},"home":{"team":"Fighters","runs":2,"starter":"R"},"firstRun":"Lions","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-13","venue":"Rakuten Mobile","road":{"team":"Buffaloes","runs":6,"starter":"L"},"home":{"team":"Eagles","runs":1,"starter":"L"},"firstRun":"Buffaloes","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-15","venue":"Tokyo Dome","road":{"team":"Baystars","runs":0,"starter":"R"},"home":{"team":"Giants","runs":1,"starter":"L"},"firstRun":"Giants","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-15","venue":"Matsuyama","road":{"team":"Tigers","runs":5,"starter":"R"},"home":{"team":"Swallows","runs":1,"starter":"R"},"firstRun":"Tigers","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-15","venue":"Mazda Stadium","road":{"team":"Dragons","runs":1,"starter":"L"},"home":{"team":"Carp","runs":7,"starter":"R"},"firstRun":"Carp","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-15","venue":"ZOZO Marine","road":{"team":"Fighters","runs":9,"starter":"R"},"home":{"team":"Marines","runs":3,"starter":"R"},"firstRun":"Marines","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-04-15","venue":"Kyocera Dome","road":{"team":"Lions","runs":0,"starter":"R"},"home":{"team":"Buffaloes","runs":2,"starter":"R"},"firstRun":"Buffaloes","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-15","venue":"MIZUHO PayPay","road":{"team":"Eagles","runs":2,"starter":"L"},"home":{"team":"Hawks","runs":1,"starter":"L"},"firstRun":"Eagles","isWalkOff":false,"isExtraInnings":true,"hadComback":false}
+{"date":"2025-04-16","venue":"Tokyo Dome","road":{"team":"Baystars","runs":0,"starter":"R"},"home":{"team":"Giants","runs":5,"starter":"R"},"firstRun":"Giants","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-16","venue":"Mazda Stadium","road":{"team":"Dragons","runs":2,"starter":"R"},"home":{"team":"Carp","runs":0,"starter":"R"},"firstRun":"Dragons","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-16","venue":"ZOZO Marine","road":{"team":"Fighters","runs":0,"starter":"L"},"home":{"team":"Marines","runs":4,"starter":"R"},"firstRun":"Marines","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-16","venue":"Kyocera Dome","road":{"team":"Lions","runs":5,"starter":"L"},"home":{"team":"Buffaloes","runs":0,"starter":"L"},"firstRun":"Lions","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-16","venue":"MIZUHO PayPay","road":{"team":"Eagles","runs":6,"starter":"R"},"home":{"team":"Hawks","runs":2,"starter":"R"},"firstRun":"Eagles","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-17","venue":"Tokyo Dome","road":{"team":"Baystars","runs":9,"starter":"L"},"home":{"team":"Giants","runs":1,"starter":"R"},"firstRun":"Baystars","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-17","venue":"Jingu","road":{"team":"Tigers","runs":7,"starter":"R"},"home":{"team":"Swallows","runs":5,"starter":"R"},"firstRun":"Swallows","isWalkOff":false,"isExtraInnings":true,"hadComback":true}
+{"date":"2025-04-17","venue":"Kyocera Dome","road":{"team":"Lions","runs":3,"starter":"R"},"home":{"team":"Buffaloes","runs":2,"starter":"R"},"firstRun":"Buffaloes","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-04-17","venue":"MIZUHO PayPay","road":{"team":"Eagles","runs":4,"starter":"R"},"home":{"team":"Hawks","runs":3,"starter":"L"},"firstRun":"Hawks","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-04-18","venue":"Jingu","road":{"team":"Giants","runs":7,"starter":"R"},"home":{"team":"Swallows","runs":2,"starter":"R"},"firstRun":"Giants","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-18","venue":"Koshien","road":{"team":"Carp","runs":5,"starter":"R"},"home":{"team":"Tigers","runs":2,"starter":"R"},"firstRun":"Tigers","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-04-18","venue":"Rakuten Mobile","road":{"team":"Marines","runs":4,"starter":"R"},"home":{"team":"Eagles","runs":1,"starter":"L"},"firstRun":"Marines","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-18","venue":"Belluna Dome","road":{"team":"Hawks","runs":1,"starter":"R"},"home":{"team":"Lions","runs":2,"starter":"R"},"firstRun":"Lions","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-18","venue":"Kyocera Dome","road":{"team":"Fighters","runs":1,"starter":"R"},"home":{"team":"Buffaloes","runs":2,"starter":"R"},"firstRun":"Fighters","isWalkOff":true,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-04-19","venue":"Jingu","road":{"team":"Giants","runs":6,"starter":"L"},"home":{"team":"Swallows","runs":4,"starter":"L"},"firstRun":"Swallows","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-04-19","venue":"Vantelin Dome","road":{"team":"Baystars","runs":2,"starter":"L"},"home":{"team":"Dragons","runs":3,"starter":"R"},"firstRun":"Dragons","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-19","venue":"Koshien","road":{"team":"Carp","runs":3,"starter":"L"},"home":{"team":"Tigers","runs":0,"starter":"R"},"firstRun":"Carp","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-19","venue":"Rakuten Mobile","road":{"team":"Marines","runs":1,"starter":"L"},"home":{"team":"Eagles","runs":2,"starter":"R"},"firstRun":"Eagles","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-19","venue":"Belluna Dome","road":{"team":"Hawks","runs":0,"starter":"L"},"home":{"team":"Lions","runs":1,"starter":"L"},"firstRun":"Lions","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-19","venue":"Kyocera Dome","road":{"team":"Fighters","runs":7,"starter":"L"},"home":{"team":"Buffaloes","runs":4,"starter":"R"},"firstRun":"Fighters","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-04-20","venue":"Jingu","road":{"team":"Giants","runs":2,"starter":"R"},"home":{"team":"Swallows","runs":3,"starter":"R"},"firstRun":"Swallows","isWalkOff":true,"isExtraInnings":true,"hadComback":false}
+{"date":"2025-04-20","venue":"Vantelin Dome","road":{"team":"Baystars","runs":0,"starter":"R"},"home":{"team":"Dragons","runs":2,"starter":"L"},"firstRun":"Dragons","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-20","venue":"Koshien","road":{"team":"Carp","runs":1,"starter":"L"},"home":{"team":"Tigers","runs":8,"starter":"L"},"firstRun":"Tigers","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-20","venue":"Rakuten Mobile","road":{"team":"Marines","runs":1,"starter":"R"},"home":{"team":"Eagles","runs":4,"starter":"L"},"firstRun":"Eagles","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-20","venue":"Belluna Dome","road":{"team":"Hawks","runs":3,"starter":"R"},"home":{"team":"Lions","runs":1,"starter":"R"},"firstRun":"Lions","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-04-20","venue":"Kyocera Dome","road":{"team":"Fighters","runs":2,"starter":"R"},"home":{"team":"Buffaloes","runs":0,"starter":"L"},"firstRun":"Fighters","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-22","venue":"Tokyo Dome","road":{"team":"Dragons","runs":1,"starter":"L"},"home":{"team":"Giants","runs":8,"starter":"L"},"firstRun":"Giants","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-22","venue":"Yokohama","road":{"team":"Tigers","runs":4,"starter":"R"},"home":{"team":"Baystars","runs":2,"starter":"R"},"firstRun":"Tigers","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-22","venue":"ES CON FIELD","road":{"team":"Eagles","runs":4,"starter":"L"},"home":{"team":"Fighters","runs":2,"starter":"R"},"firstRun":"Fighters","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-04-22","venue":"ZOZO Marine","road":{"team":"Lions","runs":1,"starter":"R"},"home":{"team":"Marines","runs":2,"starter":"R"},"firstRun":"Lions","isWalkOff":true,"isExtraInnings":true,"hadComback":true}
+{"date":"2025-04-22","venue":"MIZUHO PayPay","road":{"team":"Buffaloes","runs":5,"starter":"L"},"home":{"team":"Hawks","runs":5,"starter":"L"},"firstRun":"Buffaloes","isWalkOff":false,"isExtraInnings":true,"hadComback":false}
+{"date":"2025-04-23","venue":"Tokyo Dome","road":{"team":"Dragons","runs":0,"starter":"R"},"home":{"team":"Giants","runs":2,"starter":"R"},"firstRun":"Giants","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-23","venue":"Yokohama","road":{"team":"Tigers","runs":3,"starter":"L"},"home":{"team":"Baystars","runs":2,"starter":"R"},"firstRun":"Tigers","isWalkOff":false,"isExtraInnings":true,"hadComback":false}
+{"date":"2025-04-23","venue":"Mazda Stadium","road":{"team":"Swallows","runs":1,"starter":"L"},"home":{"team":"Carp","runs":7,"starter":"R"},"firstRun":"Carp","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-23","venue":"ES CON FIELD","road":{"team":"Eagles","runs":8,"starter":"R"},"home":{"team":"Fighters","runs":3,"starter":"R"},"firstRun":"Eagles","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-23","venue":"ZOZO Marine","road":{"team":"Lions","runs":2,"starter":"L"},"home":{"team":"Marines","runs":5,"starter":"R"},"firstRun":"Lions","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-04-23","venue":"MIZUHO PayPay","road":{"team":"Buffaloes","runs":2,"starter":"L"},"home":{"team":"Hawks","runs":6,"starter":"R"},"firstRun":"Hawks","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-24","venue":"Yokohama","road":{"team":"Tigers","runs":4,"starter":"L"},"home":{"team":"Baystars","runs":2,"starter":"R"},"firstRun":"Baystars","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-04-25","venue":"Yokohama","road":{"team":"Carp","runs":1,"starter":"R"},"home":{"team":"Baystars","runs":2,"starter":"L"},"firstRun":"Carp","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-04-25","venue":"Vantelin Dome","road":{"team":"Swallows","runs":6,"starter":"R"},"home":{"team":"Dragons","runs":4,"starter":"R"},"firstRun":"Dragons","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-04-25","venue":"Koshien","road":{"team":"Giants","runs":1,"starter":"R"},"home":{"team":"Tigers","runs":4,"starter":"R"},"firstRun":"Tigers","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-25","venue":"ES CON FIELD","road":{"team":"Marines","runs":2,"starter":"R"},"home":{"team":"Fighters","runs":1,"starter":"R"},"firstRun":"Fighters","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-04-25","venue":"Rakuten Mobile","road":{"team":"Hawks","runs":1,"starter":"R"},"home":{"team":"Eagles","runs":0,"starter":"L"},"firstRun":"Hawks","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-25","venue":"Belluna Dome","road":{"team":"Buffaloes","runs":6,"starter":"R"},"home":{"team":"Lions","runs":2,"starter":"R"},"firstRun":"Lions","isWalkOff":false,"isExtraInnings":true,"hadComback":true}
+{"date":"2025-04-26","venue":"Yokohama","road":{"team":"Carp","runs":0,"starter":"L"},"home":{"team":"Baystars","runs":2,"starter":"L"},"firstRun":"Baystars","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-26","venue":"Vantelin Dome","road":{"team":"Swallows","runs":2,"starter":"R"},"home":{"team":"Dragons","runs":5,"starter":"L"},"firstRun":"Dragons","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-26","venue":"Koshien","road":{"team":"Giants","runs":2,"starter":"L"},"home":{"team":"Tigers","runs":6,"starter":"R"},"firstRun":"Giants","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-04-26","venue":"ES CON FIELD","road":{"team":"Marines","runs":1,"starter":"L"},"home":{"team":"Fighters","runs":2,"starter":"L"},"firstRun":"Marines","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-04-26","venue":"Rakuten Mobile","road":{"team":"Hawks","runs":3,"starter":"L"},"home":{"team":"Eagles","runs":6,"starter":"R"},"firstRun":"Eagles","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-26","venue":"Belluna Dome","road":{"team":"Buffaloes","runs":0,"starter":"R"},"home":{"team":"Lions","runs":3,"starter":"L"},"firstRun":"Lions","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-27","venue":"Yokohama","road":{"team":"Carp","runs":1,"starter":"L"},"home":{"team":"Baystars","runs":2,"starter":"R"},"firstRun":"Carp","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-04-27","venue":"Vantelin Dome","road":{"team":"Swallows","runs":6,"starter":"R"},"home":{"team":"Dragons","runs":2,"starter":"R"},"firstRun":"Dragons","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-04-27","venue":"Koshien","road":{"team":"Giants","runs":2,"starter":"R"},"home":{"team":"Tigers","runs":1,"starter":"L"},"firstRun":"Tigers","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-04-27","venue":"ES CON FIELD","road":{"team":"Marines","runs":5,"starter":"R"},"home":{"team":"Fighters","runs":3,"starter":"R"},"firstRun":"Marines","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-27","venue":"Rakuten Mobile","road":{"team":"Hawks","runs":2,"starter":"L"},"home":{"team":"Eagles","runs":3,"starter":"R"},"firstRun":"Eagles","isWalkOff":true,"isExtraInnings":true,"hadComback":false}
+{"date":"2025-04-27","venue":"Belluna Dome","road":{"team":"Buffaloes","runs":2,"starter":"R"},"home":{"team":"Lions","runs":3,"starter":"R"},"firstRun":"Lions","isWalkOff":true,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-29","venue":"Tokyo Dome","road":{"team":"Carp","runs":3,"starter":"L"},"home":{"team":"Giants","runs":4,"starter":"L"},"firstRun":"Giants","isWalkOff":true,"isExtraInnings":true,"hadComback":true}
+{"date":"2025-04-29","venue":"Jingu","road":{"team":"Baystars","runs":6,"starter":"R"},"home":{"team":"Swallows","runs":1,"starter":"R"},"firstRun":"Baystars","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-29","venue":"Vantelin Dome","road":{"team":"Tigers","runs":1,"starter":"R"},"home":{"team":"Dragons","runs":4,"starter":"R"},"firstRun":"Dragons","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-29","venue":"Belluna Dome","road":{"team":"Eagles","runs":1,"starter":"L"},"home":{"team":"Lions","runs":7,"starter":"R"},"firstRun":"Lions","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-29","venue":"Kyocera Dome","road":{"team":"Marines","runs":2,"starter":"R"},"home":{"team":"Buffaloes","runs":3,"starter":"L"},"firstRun":"Buffaloes","isWalkOff":true,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-04-29","venue":"MIZUHO PayPay","road":{"team":"Fighters","runs":2,"starter":"R"},"home":{"team":"Hawks","runs":1,"starter":"L"},"firstRun":"Hawks","isWalkOff":false,"isExtraInnings":true,"hadComback":true}
+{"date":"2025-04-30","venue":"Tokyo Dome","road":{"team":"Carp","runs":0,"starter":"R"},"home":{"team":"Giants","runs":2,"starter":"R"},"firstRun":"Giants","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-30","venue":"Jingu","road":{"team":"Baystars","runs":1,"starter":"R"},"home":{"team":"Swallows","runs":4,"starter":"L"},"firstRun":"Swallows","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-30","venue":"Vantelin Dome","road":{"team":"Tigers","runs":4,"starter":"L"},"home":{"team":"Dragons","runs":5,"starter":"L"},"firstRun":"Tigers","isWalkOff":true,"isExtraInnings":true,"hadComback":true}
+{"date":"2025-04-30","venue":"Belluna Dome","road":{"team":"Eagles","runs":1,"starter":"L"},"home":{"team":"Lions","runs":3,"starter":"L"},"firstRun":"Lions","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-30","venue":"Kyocera Dome","road":{"team":"Marines","runs":0,"starter":"R"},"home":{"team":"Buffaloes","runs":5,"starter":"L"},"firstRun":"Buffaloes","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-04-30","venue":"MIZUHO PayPay","road":{"team":"Fighters","runs":6,"starter":"L"},"home":{"team":"Hawks","runs":1,"starter":"R"},"firstRun":"Fighters","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-01","venue":"Tokyo Dome","road":{"team":"Carp","runs":3,"starter":"R"},"home":{"team":"Giants","runs":4,"starter":"R"},"firstRun":"Carp","isWalkOff":true,"isExtraInnings":true,"hadComback":true}
+{"date":"2025-05-01","venue":"Jingu","road":{"team":"Baystars","runs":3,"starter":"R"},"home":{"team":"Swallows","runs":0,"starter":"R"},"firstRun":"Baystars","isWalkOff":false,"isExtraInnings":true,"hadComback":false}
+{"date":"2025-05-01","venue":"Vantelin Dome","road":{"team":"Tigers","runs":2,"starter":"L"},"home":{"team":"Dragons","runs":3,"starter":"L"},"firstRun":"Tigers","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-05-01","venue":"Belluna Dome","road":{"team":"Eagles","runs":1,"starter":"R"},"home":{"team":"Lions","runs":2,"starter":"R"},"firstRun":"Lions","isWalkOff":true,"isExtraInnings":true,"hadComback":false}
+{"date":"2025-05-01","venue":"MIZUHO PayPay","road":{"team":"Fighters","runs":3,"starter":"R"},"home":{"team":"Hawks","runs":2,"starter":"R"},"firstRun":"Hawks","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-05-02","venue":"Koshien","road":{"team":"Swallows","runs":0,"starter":"R"},"home":{"team":"Tigers","runs":4,"starter":"R"},"firstRun":"Tigers","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-02","venue":"Mazda Stadium","road":{"team":"Dragons","runs":4,"starter":"R"},"home":{"team":"Carp","runs":2,"starter":"R"},"firstRun":"Carp","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-05-02","venue":"MIZUHO PayPay","road":{"team":"Marines","runs":3,"starter":"R"},"home":{"team":"Hawks","runs":4,"starter":"R"},"firstRun":"Marines","isWalkOff":true,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-05-03","venue":"Yokohama","road":{"team":"Giants","runs":0,"starter":"R"},"home":{"team":"Baystars","runs":1,"starter":"R"},"firstRun":"Baystars","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-03","venue":"Koshien","road":{"team":"Swallows","runs":1,"starter":"R"},"home":{"team":"Tigers","runs":7,"starter":"R"},"firstRun":"Tigers","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-03","venue":"Mazda Stadium","road":{"team":"Dragons","runs":0,"starter":"L"},"home":{"team":"Carp","runs":2,"starter":"L"},"firstRun":"Carp","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-03","venue":"ES CON FIELD","road":{"team":"Lions","runs":4,"starter":"R"},"home":{"team":"Fighters","runs":3,"starter":"L"},"firstRun":"Lions","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-03","venue":"Rakuten Mobile","road":{"team":"Buffaloes","runs":7,"starter":"L"},"home":{"team":"Eagles","runs":0,"starter":"L"},"firstRun":"Buffaloes","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-03","venue":"MIZUHO PayPay","road":{"team":"Marines","runs":0,"starter":"R"},"home":{"team":"Hawks","runs":5,"starter":"L"},"firstRun":"Hawks","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-04","venue":"Yokohama","road":{"team":"Giants","runs":3,"starter":"L"},"home":{"team":"Baystars","runs":1,"starter":"L"},"firstRun":"Giants","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-04","venue":"Koshien","road":{"team":"Swallows","runs":5,"starter":"L"},"home":{"team":"Tigers","runs":2,"starter":"L"},"firstRun":"Swallows","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-04","venue":"Mazda Stadium","road":{"team":"Dragons","runs":4,"starter":"L"},"home":{"team":"Carp","runs":9,"starter":"L"},"firstRun":"Dragons","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-05-04","venue":"ES CON FIELD","road":{"team":"Lions","runs":2,"starter":"L"},"home":{"team":"Fighters","runs":3,"starter":"R"},"firstRun":"Fighters","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-04","venue":"Rakuten Mobile","road":{"team":"Buffaloes","runs":3,"starter":"R"},"home":{"team":"Eagles","runs":14,"starter":"R"},"firstRun":"Buffaloes","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-05-04","venue":"MIZUHO PayPay","road":{"team":"Marines","runs":3,"starter":"L"},"home":{"team":"Hawks","runs":5,"starter":"L"},"firstRun":"Marines","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-05-05","venue":"Tokyo Dome","road":{"team":"Tigers","runs":10,"starter":"L"},"home":{"team":"Giants","runs":1,"starter":"R"},"firstRun":"Giants","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-05-05","venue":"Jingu","road":{"team":"Carp","runs":4,"starter":"L"},"home":{"team":"Swallows","runs":0,"starter":"R"},"firstRun":"Carp","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-05","venue":"Vantelin Dome","road":{"team":"Baystars","runs":2,"starter":"L"},"home":{"team":"Dragons","runs":1,"starter":"L"},"firstRun":"Dragons","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-05-05","venue":"Belluna Dome","road":{"team":"Hawks","runs":2,"starter":"R"},"home":{"team":"Lions","runs":0,"starter":"R"},"firstRun":"Hawks","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-05","venue":"ZOZO Marine","road":{"team":"Eagles","runs":2,"starter":"R"},"home":{"team":"Marines","runs":1,"starter":"R"},"firstRun":"Eagles","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-05","venue":"Kyocera Dome","road":{"team":"Fighters","runs":0,"starter":"R"},"home":{"team":"Buffaloes","runs":1,"starter":"R"},"firstRun":"Buffaloes","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-06","venue":"Tokyo Dome","road":{"team":"Tigers","runs":7,"starter":"R"},"home":{"team":"Giants","runs":1,"starter":"L"},"firstRun":"Tigers","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-06","venue":"Vantelin Dome","road":{"team":"Baystars","runs":3,"starter":"R"},"home":{"team":"Dragons","runs":0,"starter":"R"},"firstRun":"Baystars","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-06","venue":"Belluna Dome","road":{"team":"Hawks","runs":10,"starter":"L"},"home":{"team":"Lions","runs":0,"starter":"R"},"firstRun":"Hawks","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-06","venue":"Kyocera Dome","road":{"team":"Fighters","runs":7,"starter":"R"},"home":{"team":"Buffaloes","runs":3,"starter":"R"},"firstRun":"Fighters","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-07","venue":"Tokyo Dome","road":{"team":"Tigers","runs":4,"starter":"L"},"home":{"team":"Giants","runs":6,"starter":"R"},"firstRun":"Giants","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-07","venue":"Jingu","road":{"team":"Carp","runs":5,"starter":"R"},"home":{"team":"Swallows","runs":3,"starter":"L"},"firstRun":"Carp","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-07","venue":"Vantelin Dome","road":{"team":"Baystars","runs":1,"starter":"R"},"home":{"team":"Dragons","runs":2,"starter":"L"},"firstRun":"Dragons","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-07","venue":"Belluna Dome","road":{"team":"Hawks","runs":1,"starter":"R"},"home":{"team":"Lions","runs":7,"starter":"R"},"firstRun":"Hawks","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-05-07","venue":"ZOZO Marine","road":{"team":"Eagles","runs":3,"starter":"L"},"home":{"team":"Marines","runs":7,"starter":"L"},"firstRun":"Marines","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-07","venue":"Kyocera Dome","road":{"team":"Fighters","runs":2,"starter":"L"},"home":{"team":"Buffaloes","runs":2,"starter":"L"},"firstRun":"Fighters","isWalkOff":false,"isExtraInnings":true,"hadComback":false}
+{"date":"2025-05-09","venue":"Jingu","road":{"team":"Giants","runs":2,"starter":"R"},"home":{"team":"Swallows","runs":5,"starter":"R"},"firstRun":"Giants","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-05-09","venue":"Yokohama","road":{"team":"Carp","runs":3,"starter":"R"},"home":{"team":"Baystars","runs":4,"starter":"R"},"firstRun":"Baystars","isWalkOff":true,"isExtraInnings":true,"hadComback":true}
+{"date":"2025-05-09","venue":"ES CON FIELD","road":{"team":"Eagles","runs":1,"starter":"R"},"home":{"team":"Fighters","runs":2,"starter":"R"},"firstRun":"Fighters","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-09","venue":"Omiya","road":{"team":"Marines","runs":0,"starter":"R"},"home":{"team":"Lions","runs":1,"starter":"R"},"firstRun":"Lions","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-09","venue":"Kyocera Dome","road":{"team":"Hawks","runs":11,"starter":"R"},"home":{"team":"Buffaloes","runs":1,"starter":"R"},"firstRun":"Buffaloes","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-05-10","venue":"Jingu","road":{"team":"Giants","runs":3,"starter":"L"},"home":{"team":"Swallows","runs":2,"starter":"R"},"firstRun":"Giants","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-10","venue":"Yokohama","road":{"team":"Carp","runs":5,"starter":"L"},"home":{"team":"Baystars","runs":3,"starter":"R"},"firstRun":"Baystars","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-05-10","venue":"Koshien","road":{"team":"Dragons","runs":0,"starter":"R"},"home":{"team":"Tigers","runs":2,"starter":"R"},"firstRun":"Tigers","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-10","venue":"ES CON FIELD","road":{"team":"Eagles","runs":7,"starter":"L"},"home":{"team":"Fighters","runs":8,"starter":"L"},"firstRun":"Fighters","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-05-10","venue":"Belluna Dome","road":{"team":"Marines","runs":0,"starter":"R"},"home":{"team":"Lions","runs":7,"starter":"R"},"firstRun":"Lions","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-10","venue":"Kyocera Dome","road":{"team":"Hawks","runs":1,"starter":"L"},"home":{"team":"Buffaloes","runs":6,"starter":"L"},"firstRun":"Buffaloes","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-11","venue":"Jingu","road":{"team":"Giants","runs":1,"starter":"R"},"home":{"team":"Swallows","runs":2,"starter":"R"},"firstRun":"Swallows","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-11","venue":"Yokohama","road":{"team":"Carp","runs":2,"starter":"L"},"home":{"team":"Baystars","runs":4,"starter":"L"},"firstRun":"Baystars","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-11","venue":"Koshien","road":{"team":"Dragons","runs":0,"starter":"L"},"home":{"team":"Tigers","runs":1,"starter":"L"},"firstRun":"Tigers","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-11","venue":"ES CON FIELD","road":{"team":"Eagles","runs":0,"starter":"R"},"home":{"team":"Fighters","runs":4,"starter":"R"},"firstRun":"Fighters","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-11","venue":"Belluna Dome","road":{"team":"Marines","runs":0,"starter":"R"},"home":{"team":"Lions","runs":10,"starter":"L"},"firstRun":"Lions","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-11","venue":"Kyocera Dome","road":{"team":"Hawks","runs":7,"starter":"R"},"home":{"team":"Buffaloes","runs":1,"starter":"L"},"firstRun":"Hawks","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-13","venue":"HARD OFF Niigata","road":{"team":"Tigers","runs":1,"starter":"R"},"home":{"team":"Baystars","runs":1,"starter":"L"},"firstRun":"Baystars","isWalkOff":false,"isExtraInnings":true,"hadComback":false}
+{"date":"2025-05-13","venue":"Toyohashi","road":{"team":"Swallows","runs":4,"starter":"R"},"home":{"team":"Dragons","runs":5,"starter":"L"},"firstRun":"Swallows","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-05-13","venue":"Mazda Stadium","road":{"team":"Giants","runs":4,"starter":"R"},"home":{"team":"Carp","runs":5,"starter":"L"},"firstRun":"Carp","isWalkOff":true,"isExtraInnings":true,"hadComback":false}
+{"date":"2025-05-13","venue":"ES CON FIELD","road":{"team":"Buffaloes","runs":0,"starter":"R"},"home":{"team":"Fighters","runs":7,"starter":"R"},"firstRun":"Fighters","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-13","venue":"Rakuten Mobile","road":{"team":"Marines","runs":3,"starter":"L"},"home":{"team":"Eagles","runs":4,"starter":"R"},"firstRun":"Eagles","isWalkOff":true,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-13","venue":"Kyocera Dome","road":{"team":"Lions","runs":1,"starter":"L"},"home":{"team":"Hawks","runs":6,"starter":"L"},"firstRun":"Hawks","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-14","venue":"Vantelin Dome","road":{"team":"Swallows","runs":0,"starter":"R"},"home":{"team":"Dragons","runs":2,"starter":"R"},"firstRun":"Dragons","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-14","venue":"Mazda Stadium","road":{"team":"Giants","runs":0,"starter":"L"},"home":{"team":"Carp","runs":3,"starter":"R"},"firstRun":"Carp","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-14","venue":"ES CON FIELD","road":{"team":"Buffaloes","runs":9,"starter":"L"},"home":{"team":"Fighters","runs":5,"starter":"R"},"firstRun":"Buffaloes","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-05-14","venue":"Rakuten Mobile","road":{"team":"Marines","runs":0,"starter":"R"},"home":{"team":"Eagles","runs":4,"starter":"R"},"firstRun":"Eagles","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-14","venue":"MIZUHO PayPay","road":{"team":"Lions","runs":3,"starter":"L"},"home":{"team":"Hawks","runs":1,"starter":"R"},"firstRun":"Lions","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-15","venue":"Yokohama","road":{"team":"Tigers","runs":0,"starter":"R"},"home":{"team":"Baystars","runs":1,"starter":"R"},"firstRun":"Baystars","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-15","venue":"Mazda Stadium","road":{"team":"Giants","runs":1,"starter":"R"},"home":{"team":"Carp","runs":5,"starter":"R"},"firstRun":"Giants","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-05-15","venue":"ES CON FIELD","road":{"team":"Buffaloes","runs":0,"starter":"R"},"home":{"team":"Fighters","runs":7,"starter":"L"},"firstRun":"Fighters","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-15","venue":"Tokyo Dome","road":{"team":"Marines","runs":5,"starter":"L"},"home":{"team":"Eagles","runs":2,"starter":"L"},"firstRun":"Marines","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-15","venue":"MIZUHO PayPay","road":{"team":"Lions","runs":0,"starter":"R"},"home":{"team":"Hawks","runs":5,"starter":"L"},"firstRun":"Hawks","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-16","venue":"Tokyo Dome","road":{"team":"Dragons","runs":2,"starter":"L"},"home":{"team":"Giants","runs":4,"starter":"R"},"firstRun":"Giants","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-05-16","venue":"Jingu","road":{"team":"Baystars","runs":8,"starter":"R"},"home":{"team":"Swallows","runs":6,"starter":"L"},"firstRun":"Baystars","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-05-16","venue":"Koshien","road":{"team":"Carp","runs":4,"starter":"R"},"home":{"team":"Tigers","runs":2,"starter":"R"},"firstRun":"Carp","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-16","venue":"Belluna Dome","road":{"team":"Buffaloes","runs":0,"starter":"R"},"home":{"team":"Lions","runs":3,"starter":"R"},"firstRun":"Lions","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-16","venue":"ZOZO Marine","road":{"team":"Fighters","runs":8,"starter":"L"},"home":{"team":"Marines","runs":0,"starter":"R"},"firstRun":"Fighters","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-16","venue":"MIZUHO PayPay","road":{"team":"Eagles","runs":5,"starter":"L"},"home":{"team":"Hawks","runs":1,"starter":"R"},"firstRun":"Eagles","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-17","venue":"Tokyo Dome","road":{"team":"Dragons","runs":0,"starter":"R"},"home":{"team":"Giants","runs":1,"starter":"L"},"firstRun":"Giants","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-17","venue":"Jingu","road":{"team":"Baystars","runs":6,"starter":"R"},"home":{"team":"Swallows","runs":7,"starter":"R"},"firstRun":"Swallows","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-05-17","venue":"Koshien","road":{"team":"Carp","runs":2,"starter":"L"},"home":{"team":"Tigers","runs":5,"starter":"L"},"firstRun":"Tigers","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-17","venue":"Belluna Dome","road":{"team":"Buffaloes","runs":2,"starter":"R"},"home":{"team":"Lions","runs":3,"starter":"R"},"firstRun":"Lions","isWalkOff":true,"isExtraInnings":true,"hadComback":false}
+{"date":"2025-05-17","venue":"MIZUHO PayPay","road":{"team":"Eagles","runs":1,"starter":"R"},"home":{"team":"Hawks","runs":2,"starter":"L"},"firstRun":"Hawks","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-18","venue":"Tokyo Dome","road":{"team":"Dragons","runs":7,"starter":"L"},"home":{"team":"Giants","runs":4,"starter":"R"},"firstRun":"Dragons","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-05-18","venue":"Jingu","road":{"team":"Baystars","runs":10,"starter":"L"},"home":{"team":"Swallows","runs":2,"starter":"L"},"firstRun":"Swallows","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-05-18","venue":"Koshien","road":{"team":"Carp","runs":1,"starter":"L"},"home":{"team":"Tigers","runs":3,"starter":"L"},"firstRun":"Carp","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-05-18","venue":"Belluna Dome","road":{"team":"Buffaloes","runs":3,"starter":"L"},"home":{"team":"Lions","runs":1,"starter":"L"},"firstRun":"Lions","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-05-18","venue":"ZOZO Marine","road":{"team":"Fighters","runs":1,"starter":"R"},"home":{"team":"Marines","runs":2,"starter":"R"},"firstRun":"Fighters","isWalkOff":true,"isExtraInnings":true,"hadComback":true}
+{"date":"2025-05-18","venue":"MIZUHO PayPay","road":{"team":"Eagles","runs":1,"starter":"R"},"home":{"team":"Hawks","runs":2,"starter":"R"},"firstRun":"Hawks","isWalkOff":true,"isExtraInnings":true,"hadComback":false}
+{"date":"2025-05-20","venue":"Yokohama","road":{"team":"Dragons","runs":2,"starter":"L"},"home":{"team":"Baystars","runs":10,"starter":"L"},"firstRun":"Baystars","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-20","venue":"Koshien","road":{"team":"Giants","runs":0,"starter":"R"},"home":{"team":"Tigers","runs":4,"starter":"R"},"firstRun":"Tigers","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-20","venue":"Mazda Stadium","road":{"team":"Swallows","runs":2,"starter":"R"},"home":{"team":"Carp","runs":3,"starter":"L"},"firstRun":"Carp","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-20","venue":"ES CON FIELD","road":{"team":"Hawks","runs":5,"starter":"L"},"home":{"team":"Fighters","runs":2,"starter":"R"},"firstRun":"Fighters","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-05-20","venue":"Morioka","road":{"team":"Lions","runs":1,"starter":"L"},"home":{"team":"Eagles","runs":0,"starter":"R"},"firstRun":"Lions","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-20","venue":"Kyocera Dome","road":{"team":"Marines","runs":1,"starter":"R"},"home":{"team":"Buffaloes","runs":2,"starter":"R"},"firstRun":"Buffaloes","isWalkOff":true,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-21","venue":"Yokohama","road":{"team":"Dragons","runs":6,"starter":"L"},"home":{"team":"Baystars","runs":5,"starter":"R"},"firstRun":"Dragons","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-21","venue":"Koshien","road":{"team":"Giants","runs":5,"starter":"L"},"home":{"team":"Tigers","runs":4,"starter":"R"},"firstRun":"Giants","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-21","venue":"ES CON FIELD","road":{"team":"Hawks","runs":1,"starter":"L"},"home":{"team":"Fighters","runs":2,"starter":"R"},"firstRun":"Hawks","isWalkOff":true,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-05-21","venue":"Kyocera Dome","road":{"team":"Marines","runs":1,"starter":"R"},"home":{"team":"Buffaloes","runs":6,"starter":"L"},"firstRun":"Buffaloes","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-22","venue":"Yokohama","road":{"team":"Dragons","runs":0,"starter":"L"},"home":{"team":"Baystars","runs":4,"starter":"R"},"firstRun":"Baystars","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-22","venue":"Koshien","road":{"team":"Giants","runs":3,"starter":"R"},"home":{"team":"Tigers","runs":2,"starter":"R"},"firstRun":"Giants","isWalkOff":false,"isExtraInnings":true,"hadComback":true}
+{"date":"2025-05-22","venue":"Mazda Stadium","road":{"team":"Swallows","runs":2,"starter":"R"},"home":{"team":"Carp","runs":2,"starter":"R"},"firstRun":"Swallows","isWalkOff":false,"isExtraInnings":true,"hadComback":false}
+{"date":"2025-05-22","venue":"ES CON FIELD","road":{"team":"Hawks","runs":4,"starter":"L"},"home":{"team":"Fighters","runs":3,"starter":"R"},"firstRun":"Hawks","isWalkOff":false,"isExtraInnings":true,"hadComback":false}
+{"date":"2025-05-22","venue":"Rakuten Mobile","road":{"team":"Lions","runs":1,"starter":"L"},"home":{"team":"Eagles","runs":2,"starter":"R"},"firstRun":"Lions","isWalkOff":true,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-05-22","venue":"Kyocera Dome","road":{"team":"Marines","runs":9,"starter":"R"},"home":{"team":"Buffaloes","runs":1,"starter":"L"},"firstRun":"Marines","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-23","venue":"Tokyo Dome","road":{"team":"Swallows","runs":0,"starter":"L"},"home":{"team":"Giants","runs":5,"starter":"R"},"firstRun":"Giants","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-23","venue":"Vantelin Dome","road":{"team":"Tigers","runs":3,"starter":"R"},"home":{"team":"Dragons","runs":0,"starter":"R"},"firstRun":"Tigers","isWalkOff":false,"isExtraInnings":true,"hadComback":false}
+{"date":"2025-05-23","venue":"Mazda Stadium","road":{"team":"Baystars","runs":2,"starter":"R"},"home":{"team":"Carp","runs":1,"starter":"R"},"firstRun":"Baystars","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-23","venue":"Rakuten Mobile","road":{"team":"Fighters","runs":1,"starter":"R"},"home":{"team":"Eagles","runs":0,"starter":"L"},"firstRun":"Fighters","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-23","venue":"ZOZO Marine","road":{"team":"Lions","runs":3,"starter":"R"},"home":{"team":"Marines","runs":9,"starter":"L"},"firstRun":"Lions","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-05-24","venue":"Tokyo Dome","road":{"team":"Swallows","runs":2,"starter":"R"},"home":{"team":"Giants","runs":4,"starter":"L"},"firstRun":"Giants","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-24","venue":"Vantelin Dome","road":{"team":"Tigers","runs":4,"starter":"L"},"home":{"team":"Dragons","runs":5,"starter":"R"},"firstRun":"Dragons","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-24","venue":"Rakuten Mobile","road":{"team":"Fighters","runs":1,"starter":"L"},"home":{"team":"Eagles","runs":2,"starter":"R"},"firstRun":"Eagles","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-24","venue":"ZOZO Marine","road":{"team":"Lions","runs":6,"starter":"R"},"home":{"team":"Marines","runs":1,"starter":"L"},"firstRun":"Lions","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-25","venue":"Tokyo Dome","road":{"team":"Swallows","runs":2,"starter":"R"},"home":{"team":"Giants","runs":5,"starter":"R"},"firstRun":"Giants","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-25","venue":"Vantelin Dome","road":{"team":"Tigers","runs":5,"starter":"L"},"home":{"team":"Dragons","runs":1,"starter":"L"},"firstRun":"Tigers","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-25","venue":"Mazda Stadium","road":{"team":"Baystars","runs":0,"starter":"L"},"home":{"team":"Carp","runs":3,"starter":"L"},"firstRun":"Carp","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-25","venue":"Rakuten Mobile","road":{"team":"Fighters","runs":1,"starter":"L"},"home":{"team":"Eagles","runs":1,"starter":"R"},"firstRun":"Fighters","isWalkOff":false,"isExtraInnings":true,"hadComback":false}
+{"date":"2025-05-25","venue":"ZOZO Marine","road":{"team":"Lions","runs":8,"starter":"L"},"home":{"team":"Marines","runs":0,"starter":"R"},"firstRun":"Lions","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-25","venue":"Kagoshima","road":{"team":"Buffaloes","runs":13,"starter":"L"},"home":{"team":"Hawks","runs":5,"starter":"R"},"firstRun":"Buffaloes","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-05-27","venue":"Toyama","road":{"team":"Carp","runs":2,"starter":"L"},"home":{"team":"Giants","runs":1,"starter":"L"},"firstRun":"Carp","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-27","venue":"Jingu","road":{"team":"Dragons","runs":1,"starter":"L"},"home":{"team":"Swallows","runs":2,"starter":"R"},"firstRun":"Swallows","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-27","venue":"Kurashiki","road":{"team":"Baystars","runs":0,"starter":"R"},"home":{"team":"Tigers","runs":1,"starter":"R"},"firstRun":"Tigers","isWalkOff":true,"isExtraInnings":true,"hadComback":false}
+{"date":"2025-05-27","venue":"Maebashi","road":{"team":"Eagles","runs":3,"starter":"R"},"home":{"team":"Lions","runs":1,"starter":"R"},"firstRun":"Lions","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-05-27","venue":"ZOZO Marine","road":{"team":"Buffaloes","runs":4,"starter":"R"},"home":{"team":"Marines","runs":6,"starter":"R"},"firstRun":"Marines","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-27","venue":"MIZUHO PayPay","road":{"team":"Fighters","runs":5,"starter":"R"},"home":{"team":"Hawks","runs":2,"starter":"R"},"firstRun":"Fighters","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-28","venue":"Kanazawa","road":{"team":"Carp","runs":1,"starter":"R"},"home":{"team":"Giants","runs":4,"starter":"R"},"firstRun":"Carp","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-05-28","venue":"Jingu","road":{"team":"Dragons","runs":4,"starter":"L"},"home":{"team":"Swallows","runs":1,"starter":"R"},"firstRun":"Dragons","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-28","venue":"Koshien","road":{"team":"Baystars","runs":0,"starter":"L"},"home":{"team":"Tigers","runs":1,"starter":"L"},"firstRun":"Tigers","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-28","venue":"Belluna Dome","road":{"team":"Eagles","runs":0,"starter":"R"},"home":{"team":"Lions","runs":6,"starter":"R"},"firstRun":"Lions","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-28","venue":"ZOZO Marine","road":{"team":"Buffaloes","runs":2,"starter":"R"},"home":{"team":"Marines","runs":1,"starter":"R"},"firstRun":"Marines","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-05-28","venue":"MIZUHO PayPay","road":{"team":"Fighters","runs":1,"starter":"L"},"home":{"team":"Hawks","runs":2,"starter":"L"},"firstRun":"Fighters","isWalkOff":true,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-05-29","venue":"Jingu","road":{"team":"Dragons","runs":6,"starter":"L"},"home":{"team":"Swallows","runs":0,"starter":"R"},"firstRun":"Dragons","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-29","venue":"Koshien","road":{"team":"Baystars","runs":5,"starter":"R"},"home":{"team":"Tigers","runs":1,"starter":"R"},"firstRun":"Tigers","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-05-29","venue":"Belluna Dome","road":{"team":"Eagles","runs":6,"starter":"R"},"home":{"team":"Lions","runs":3,"starter":"L"},"firstRun":"Lions","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-05-30","venue":"Yokohama","road":{"team":"Swallows","runs":2,"starter":"L"},"home":{"team":"Baystars","runs":6,"starter":"R"},"firstRun":"Baystars","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-30","venue":"Vantelin Dome","road":{"team":"Giants","runs":4,"starter":"R"},"home":{"team":"Dragons","runs":1,"starter":"L"},"firstRun":"Dragons","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-05-30","venue":"Mazda Stadium","road":{"team":"Tigers","runs":5,"starter":"R"},"home":{"team":"Carp","runs":2,"starter":"R"},"firstRun":"Carp","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-05-30","venue":"ES CON FIELD","road":{"team":"Marines","runs":1,"starter":"L"},"home":{"team":"Fighters","runs":4,"starter":"R"},"firstRun":"Fighters","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-30","venue":"Rakuten Mobile","road":{"team":"Hawks","runs":4,"starter":"L"},"home":{"team":"Eagles","runs":2,"starter":"R"},"firstRun":"Eagles","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-05-31","venue":"Yokohama","road":{"team":"Swallows","runs":2,"starter":"R"},"home":{"team":"Baystars","runs":5,"starter":"R"},"firstRun":"Baystars","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-31","venue":"Vantelin Dome","road":{"team":"Giants","runs":2,"starter":"L"},"home":{"team":"Dragons","runs":4,"starter":"R"},"firstRun":"Dragons","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-05-31","venue":"Mazda Stadium","road":{"team":"Tigers","runs":2,"starter":"L"},"home":{"team":"Carp","runs":0,"starter":"L"},"firstRun":"Tigers","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-05-31","venue":"ES CON FIELD","road":{"team":"Marines","runs":3,"starter":"R"},"home":{"team":"Fighters","runs":4,"starter":"L"},"firstRun":"Fighters","isWalkOff":true,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-05-31","venue":"Hotto Kobe","road":{"team":"Lions","runs":2,"starter":"R"},"home":{"team":"Buffaloes","runs":3,"starter":"L"},"firstRun":"Buffaloes","isWalkOff":true,"isExtraInnings":true,"hadComback":false}
+{"date":"2025-06-01","venue":"Yokohama","road":{"team":"Swallows","runs":2,"starter":"R"},"home":{"team":"Baystars","runs":3,"starter":"R"},"firstRun":"Swallows","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-06-01","venue":"Vantelin Dome","road":{"team":"Giants","runs":1,"starter":"R"},"home":{"team":"Dragons","runs":4,"starter":"L"},"firstRun":"Giants","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-06-01","venue":"Mazda Stadium","road":{"team":"Tigers","runs":8,"starter":"L"},"home":{"team":"Carp","runs":0,"starter":"L"},"firstRun":"Tigers","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-01","venue":"ES CON FIELD","road":{"team":"Marines","runs":0,"starter":"R"},"home":{"team":"Fighters","runs":1,"starter":"R"},"firstRun":"Fighters","isWalkOff":true,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-01","venue":"Rakuten Mobile","road":{"team":"Hawks","runs":0,"starter":"L"},"home":{"team":"Eagles","runs":3,"starter":"L"},"firstRun":"Eagles","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-01","venue":"Hotto Kobe","road":{"team":"Lions","runs":3,"starter":"R"},"home":{"team":"Buffaloes","runs":2,"starter":"L"},"firstRun":"Lions","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-06-03","venue":"ES CON FIELD","road":{"team":"Tigers","runs":1,"starter":"R"},"home":{"team":"Fighters","runs":0,"starter":"R"},"firstRun":"Tigers","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-03","venue":"Rakuten Mobile","road":{"team":"Baystars","runs":6,"starter":"L"},"home":{"team":"Eagles","runs":3,"starter":"R"},"firstRun":"Baystars","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-03","venue":"Belluna Dome","road":{"team":"Swallows","runs":0,"starter":"R"},"home":{"team":"Lions","runs":1,"starter":"L"},"firstRun":"Lions","isWalkOff":true,"isExtraInnings":true,"hadComback":false}
+{"date":"2025-06-03","venue":"Kyocera Dome","road":{"team":"Carp","runs":5,"starter":"L"},"home":{"team":"Buffaloes","runs":2,"starter":"R"},"firstRun":"Carp","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-03","venue":"MIZUHO PayPay","road":{"team":"Dragons","runs":0,"starter":"R"},"home":{"team":"Hawks","runs":4,"starter":"R"},"firstRun":"Hawks","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-04","venue":"ES CON FIELD","road":{"team":"Tigers","runs":4,"starter":"L"},"home":{"team":"Fighters","runs":5,"starter":"L"},"firstRun":"Fighters","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-04","venue":"Rakuten Mobile","road":{"team":"Baystars","runs":1,"starter":"R"},"home":{"team":"Eagles","runs":3,"starter":"R"},"firstRun":"Eagles","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-04","venue":"Belluna Dome","road":{"team":"Swallows","runs":2,"starter":"R"},"home":{"team":"Lions","runs":4,"starter":"R"},"firstRun":"Lions","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-04","venue":"ZOZO Marine","road":{"team":"Giants","runs":3,"starter":"L"},"home":{"team":"Marines","runs":5,"starter":"R"},"firstRun":"Marines","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-04","venue":"Kyocera Dome","road":{"team":"Carp","runs":1,"starter":"R"},"home":{"team":"Buffaloes","runs":6,"starter":"L"},"firstRun":"Buffaloes","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-04","venue":"MIZUHO PayPay","road":{"team":"Dragons","runs":2,"starter":"L"},"home":{"team":"Hawks","runs":8,"starter":"L"},"firstRun":"Hawks","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-05","venue":"ES CON FIELD","road":{"team":"Tigers","runs":7,"starter":"R"},"home":{"team":"Fighters","runs":1,"starter":"L"},"firstRun":"Tigers","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-05","venue":"Koriyama","road":{"team":"Baystars","runs":5,"starter":"L"},"home":{"team":"Eagles","runs":0,"starter":"R"},"firstRun":"Baystars","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-05","venue":"Belluna Dome","road":{"team":"Swallows","runs":4,"starter":"R"},"home":{"team":"Lions","runs":1,"starter":"L"},"firstRun":"Swallows","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-05","venue":"ZOZO Marine","road":{"team":"Giants","runs":1,"starter":"R"},"home":{"team":"Marines","runs":2,"starter":"R"},"firstRun":"Marines","isWalkOff":true,"isExtraInnings":true,"hadComback":false}
+{"date":"2025-06-05","venue":"Kyocera Dome","road":{"team":"Carp","runs":3,"starter":"R"},"home":{"team":"Buffaloes","runs":4,"starter":"R"},"firstRun":"Buffaloes","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-06-05","venue":"MIZUHO PayPay","road":{"team":"Dragons","runs":4,"starter":"L"},"home":{"team":"Hawks","runs":8,"starter":"L"},"firstRun":"Hawks","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-06","venue":"Tokyo Dome","road":{"team":"Eagles","runs":2,"starter":"R"},"home":{"team":"Giants","runs":0,"starter":"R"},"firstRun":"Eagles","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-06","venue":"Jingu","road":{"team":"Hawks","runs":2,"starter":"L"},"home":{"team":"Swallows","runs":3,"starter":"L"},"firstRun":"Hawks","isWalkOff":true,"isExtraInnings":true,"hadComback":true}
+{"date":"2025-06-06","venue":"Yokohama","road":{"team":"Fighters","runs":1,"starter":"R"},"home":{"team":"Baystars","runs":2,"starter":"R"},"firstRun":"Baystars","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-06","venue":"Vantelin Dome","road":{"team":"Marines","runs":2,"starter":"L"},"home":{"team":"Dragons","runs":3,"starter":"L"},"firstRun":"Dragons","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-06","venue":"Koshien","road":{"team":"Buffaloes","runs":0,"starter":"R"},"home":{"team":"Tigers","runs":1,"starter":"R"},"firstRun":"Tigers","isWalkOff":true,"isExtraInnings":true,"hadComback":false}
+{"date":"2025-06-06","venue":"Mazda Stadium","road":{"team":"Lions","runs":2,"starter":"R"},"home":{"team":"Carp","runs":3,"starter":"R"},"firstRun":"Lions","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-06-07","venue":"Tokyo Dome","road":{"team":"Eagles","runs":0,"starter":"R"},"home":{"team":"Giants","runs":2,"starter":"L"},"firstRun":"Giants","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-07","venue":"Jingu","road":{"team":"Hawks","runs":8,"starter":"R"},"home":{"team":"Swallows","runs":1,"starter":"R"},"firstRun":"Hawks","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-07","venue":"Yokohama","road":{"team":"Fighters","runs":7,"starter":"L"},"home":{"team":"Baystars","runs":4,"starter":"R"},"firstRun":"Fighters","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-07","venue":"Vantelin Dome","road":{"team":"Marines","runs":3,"starter":"R"},"home":{"team":"Dragons","runs":4,"starter":"R"},"firstRun":"Dragons","isWalkOff":true,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-06-07","venue":"Koshien","road":{"team":"Buffaloes","runs":2,"starter":"L"},"home":{"team":"Tigers","runs":8,"starter":"L"},"firstRun":"Buffaloes","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-06-07","venue":"Mazda Stadium","road":{"team":"Lions","runs":2,"starter":"R"},"home":{"team":"Carp","runs":5,"starter":"L"},"firstRun":"Carp","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-08","venue":"Tokyo Dome","road":{"team":"Eagles","runs":0,"starter":"L"},"home":{"team":"Giants","runs":5,"starter":"R"},"firstRun":"Giants","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-08","venue":"Jingu","road":{"team":"Hawks","runs":2,"starter":"L"},"home":{"team":"Swallows","runs":4,"starter":"L"},"firstRun":"Swallows","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-08","venue":"Yokohama","road":{"team":"Fighters","runs":4,"starter":"R"},"home":{"team":"Baystars","runs":5,"starter":"R"},"firstRun":"Baystars","isWalkOff":true,"isExtraInnings":true,"hadComback":true}
+{"date":"2025-06-08","venue":"Vantelin Dome","road":{"team":"Marines","runs":0,"starter":"R"},"home":{"team":"Dragons","runs":3,"starter":"L"},"firstRun":"Dragons","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-08","venue":"Koshien","road":{"team":"Buffaloes","runs":1,"starter":"L"},"home":{"team":"Tigers","runs":8,"starter":"L"},"firstRun":"Tigers","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-08","venue":"Mazda Stadium","road":{"team":"Lions","runs":0,"starter":"L"},"home":{"team":"Carp","runs":10,"starter":"L"},"firstRun":"Carp","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-10","venue":"ES CON FIELD","road":{"team":"Swallows","runs":1,"starter":"R"},"home":{"team":"Fighters","runs":3,"starter":"R"},"firstRun":"Fighters","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-10","venue":"Yamagata","road":{"team":"Dragons","runs":3,"starter":"L"},"home":{"team":"Eagles","runs":1,"starter":"R"},"firstRun":"Eagles","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-06-10","venue":"Belluna Dome","road":{"team":"Tigers","runs":2,"starter":"R"},"home":{"team":"Lions","runs":4,"starter":"L"},"firstRun":"Tigers","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-06-10","venue":"ZOZO Marine","road":{"team":"Carp","runs":1,"starter":"L"},"home":{"team":"Marines","runs":6,"starter":"L"},"firstRun":"Marines","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-10","venue":"Kyocera Dome","road":{"team":"Baystars","runs":0,"starter":"L"},"home":{"team":"Buffaloes","runs":2,"starter":"R"},"firstRun":"Buffaloes","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-10","venue":"MIZUHO PayPay","road":{"team":"Giants","runs":2,"starter":"L"},"home":{"team":"Hawks","runs":5,"starter":"R"},"firstRun":"Hawks","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-06-11","venue":"ES CON FIELD","road":{"team":"Swallows","runs":2,"starter":"R"},"home":{"team":"Fighters","runs":8,"starter":"L"},"firstRun":"Swallows","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-06-11","venue":"Rakuten Mobile","road":{"team":"Dragons","runs":8,"starter":"R"},"home":{"team":"Eagles","runs":5,"starter":"R"},"firstRun":"Dragons","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-11","venue":"Belluna Dome","road":{"team":"Tigers","runs":2,"starter":"L"},"home":{"team":"Lions","runs":3,"starter":"R"},"firstRun":"Tigers","isWalkOff":true,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-06-11","venue":"ZOZO Marine","road":{"team":"Carp","runs":6,"starter":"R"},"home":{"team":"Marines","runs":2,"starter":"R"},"firstRun":"Marines","isWalkOff":false,"isExtraInnings":true,"hadComback":true}
+{"date":"2025-06-11","venue":"Kyocera Dome","road":{"team":"Baystars","runs":4,"starter":"R"},"home":{"team":"Buffaloes","runs":0,"starter":"L"},"firstRun":"Baystars","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-11","venue":"MIZUHO PayPay","road":{"team":"Giants","runs":7,"starter":"R"},"home":{"team":"Hawks","runs":3,"starter":"L"},"firstRun":"Giants","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-12","venue":"ES CON FIELD","road":{"team":"Swallows","runs":1,"starter":"R"},"home":{"team":"Fighters","runs":6,"starter":"R"},"firstRun":"Swallows","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-06-12","venue":"Rakuten Mobile","road":{"team":"Dragons","runs":0,"starter":"L"},"home":{"team":"Eagles","runs":4,"starter":"R"},"firstRun":"Eagles","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-12","venue":"Belluna Dome","road":{"team":"Tigers","runs":1,"starter":"R"},"home":{"team":"Lions","runs":4,"starter":"L"},"firstRun":"Tigers","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-06-12","venue":"ZOZO Marine","road":{"team":"Carp","runs":4,"starter":"R"},"home":{"team":"Marines","runs":5,"starter":"R"},"firstRun":"Marines","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-12","venue":"Kyocera Dome","road":{"team":"Baystars","runs":2,"starter":"R"},"home":{"team":"Buffaloes","runs":4,"starter":"R"},"firstRun":"Buffaloes","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-12","venue":"MIZUHO PayPay","road":{"team":"Giants","runs":0,"starter":"R"},"home":{"team":"Hawks","runs":0,"starter":"L"},"firstRun":"Hawks","isWalkOff":false,"isExtraInnings":true,"hadComback":false}
+{"date":"2025-06-13","venue":"ES CON FIELD","road":{"team":"Carp","runs":6,"starter":"R"},"home":{"team":"Fighters","runs":2,"starter":"R"},"firstRun":"Carp","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-13","venue":"Rakuten Mobile","road":{"team":"Tigers","runs":2,"starter":"R"},"home":{"team":"Eagles","runs":3,"starter":"R"},"firstRun":"Tigers","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-06-13","venue":"Belluna Dome","road":{"team":"Dragons","runs":2,"starter":"L"},"home":{"team":"Lions","runs":1,"starter":"R"},"firstRun":"Lions","isWalkOff":false,"isExtraInnings":true,"hadComback":true}
+{"date":"2025-06-13","venue":"ZOZO Marine","road":{"team":"Swallows","runs":4,"starter":"R"},"home":{"team":"Marines","runs":5,"starter":"R"},"firstRun":"Marines","isWalkOff":true,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-06-13","venue":"Kyocera Dome","road":{"team":"Giants","runs":3,"starter":"R"},"home":{"team":"Buffaloes","runs":7,"starter":"R"},"firstRun":"Giants","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-06-13","venue":"MIZUHO PayPay","road":{"team":"Baystars","runs":1,"starter":"L"},"home":{"team":"Hawks","runs":4,"starter":"L"},"firstRun":"Hawks","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-14","venue":"ES CON FIELD","road":{"team":"Carp","runs":0,"starter":"L"},"home":{"team":"Fighters","runs":5,"starter":"L"},"firstRun":"Fighters","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-14","venue":"Rakuten Mobile","road":{"team":"Tigers","runs":4,"starter":"L"},"home":{"team":"Eagles","runs":5,"starter":"L"},"firstRun":"Tigers","isWalkOff":true,"isExtraInnings":true,"hadComback":true}
+{"date":"2025-06-14","venue":"Belluna Dome","road":{"team":"Dragons","runs":1,"starter":"R"},"home":{"team":"Lions","runs":2,"starter":"R"},"firstRun":"Lions","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-14","venue":"ZOZO Marine","road":{"team":"Swallows","runs":5,"starter":"R"},"home":{"team":"Marines","runs":0,"starter":"L"},"firstRun":"Swallows","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-14","venue":"Kyocera Dome","road":{"team":"Giants","runs":1,"starter":"L"},"home":{"team":"Buffaloes","runs":2,"starter":"L"},"firstRun":"Buffaloes","isWalkOff":true,"isExtraInnings":true,"hadComback":false}
+{"date":"2025-06-14","venue":"MIZUHO PayPay","road":{"team":"Baystars","runs":0,"starter":"R"},"home":{"team":"Hawks","runs":4,"starter":"R"},"firstRun":"Hawks","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-15","venue":"ES CON FIELD","road":{"team":"Carp","runs":7,"starter":"L"},"home":{"team":"Fighters","runs":8,"starter":"R"},"firstRun":"Carp","isWalkOff":true,"isExtraInnings":true,"hadComback":true}
+{"date":"2025-06-15","venue":"Rakuten Mobile","road":{"team":"Tigers","runs":2,"starter":"L"},"home":{"team":"Eagles","runs":3,"starter":"L"},"firstRun":"Eagles","isWalkOff":true,"isExtraInnings":true,"hadComback":false}
+{"date":"2025-06-15","venue":"Belluna Dome","road":{"team":"Dragons","runs":0,"starter":"L"},"home":{"team":"Lions","runs":1,"starter":"L"},"firstRun":"Lions","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-15","venue":"ZOZO Marine","road":{"team":"Swallows","runs":4,"starter":"L"},"home":{"team":"Marines","runs":5,"starter":"R"},"firstRun":"Swallows","isWalkOff":true,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-06-15","venue":"Kyocera Dome","road":{"team":"Giants","runs":3,"starter":"R"},"home":{"team":"Buffaloes","runs":8,"starter":"L"},"firstRun":"Giants","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-06-15","venue":"MIZUHO PayPay","road":{"team":"Baystars","runs":3,"starter":"R"},"home":{"team":"Hawks","runs":4,"starter":"L"},"firstRun":"Hawks","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-06-17","venue":"Tokyo Dome","road":{"team":"Fighters","runs":4,"starter":"R"},"home":{"team":"Giants","runs":1,"starter":"L"},"firstRun":"Fighters","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-17","venue":"Jingu","road":{"team":"Eagles","runs":4,"starter":"R"},"home":{"team":"Swallows","runs":4,"starter":"R"},"firstRun":"Eagles","isWalkOff":false,"isExtraInnings":true,"hadComback":true}
+{"date":"2025-06-17","venue":"Yokohama","road":{"team":"Lions","runs":3,"starter":"R"},"home":{"team":"Baystars","runs":0,"starter":"R"},"firstRun":"Lions","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-17","venue":"Vantelin Dome","road":{"team":"Buffaloes","runs":5,"starter":"R"},"home":{"team":"Dragons","runs":3,"starter":"L"},"firstRun":"Buffaloes","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-17","venue":"Koshien","road":{"team":"Marines","runs":3,"starter":"R"},"home":{"team":"Tigers","runs":1,"starter":"R"},"firstRun":"Tigers","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-06-17","venue":"Mazda Stadium","road":{"team":"Hawks","runs":2,"starter":"R"},"home":{"team":"Carp","runs":0,"starter":"L"},"firstRun":"Hawks","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-18","venue":"Tokyo Dome","road":{"team":"Fighters","runs":1,"starter":"L"},"home":{"team":"Giants","runs":2,"starter":"R"},"firstRun":"Fighters","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-06-18","venue":"Jingu","road":{"team":"Eagles","runs":6,"starter":"R"},"home":{"team":"Swallows","runs":2,"starter":"R"},"firstRun":"Eagles","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-18","venue":"Yokohama","road":{"team":"Lions","runs":2,"starter":"L"},"home":{"team":"Baystars","runs":4,"starter":"R"},"firstRun":"Baystars","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-06-18","venue":"Vantelin Dome","road":{"team":"Buffaloes","runs":3,"starter":"R"},"home":{"team":"Dragons","runs":6,"starter":"R"},"firstRun":"Buffaloes","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-06-18","venue":"Koshien","road":{"team":"Marines","runs":1,"starter":"R"},"home":{"team":"Tigers","runs":8,"starter":"L"},"firstRun":"Tigers","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-18","venue":"Mazda Stadium","road":{"team":"Hawks","runs":4,"starter":"L"},"home":{"team":"Carp","runs":8,"starter":"R"},"firstRun":"Hawks","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-06-19","venue":"Tokyo Dome","road":{"team":"Fighters","runs":4,"starter":"R"},"home":{"team":"Giants","runs":1,"starter":"R"},"firstRun":"Fighters","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-19","venue":"Jingu","road":{"team":"Eagles","runs":3,"starter":"R"},"home":{"team":"Swallows","runs":1,"starter":"R"},"firstRun":"Eagles","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-19","venue":"Yokohama","road":{"team":"Lions","runs":2,"starter":"R"},"home":{"team":"Baystars","runs":1,"starter":"L"},"firstRun":"Lions","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-19","venue":"Vantelin Dome","road":{"team":"Buffaloes","runs":6,"starter":"L"},"home":{"team":"Dragons","runs":1,"starter":"L"},"firstRun":"Buffaloes","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-19","venue":"Koshien","road":{"team":"Marines","runs":0,"starter":"R"},"home":{"team":"Tigers","runs":2,"starter":"R"},"firstRun":"Tigers","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-19","venue":"Mazda Stadium","road":{"team":"Hawks","runs":16,"starter":"L"},"home":{"team":"Carp","runs":2,"starter":"R"},"firstRun":"Hawks","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-20","venue":"Tokyo Dome","road":{"team":"Lions","runs":1,"starter":"R"},"home":{"team":"Giants","runs":2,"starter":"R"},"firstRun":"Lions","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-06-20","venue":"Jingu","road":{"team":"Buffaloes","runs":10,"starter":"R"},"home":{"team":"Swallows","runs":8,"starter":"R"},"firstRun":"Buffaloes","isWalkOff":false,"isExtraInnings":true,"hadComback":false}
+{"date":"2025-06-20","venue":"Yokohama","road":{"team":"Marines","runs":6,"starter":"R"},"home":{"team":"Baystars","runs":1,"starter":"L"},"firstRun":"Marines","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-20","venue":"Vantelin Dome","road":{"team":"Fighters","runs":1,"starter":"R"},"home":{"team":"Dragons","runs":0,"starter":"L"},"firstRun":"Fighters","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-20","venue":"Koshien","road":{"team":"Hawks","runs":2,"starter":"L"},"home":{"team":"Tigers","runs":1,"starter":"R"},"firstRun":"Hawks","isWalkOff":false,"isExtraInnings":true,"hadComback":false}
+{"date":"2025-06-20","venue":"Mazda Stadium","road":{"team":"Eagles","runs":4,"starter":"L"},"home":{"team":"Carp","runs":0,"starter":"R"},"firstRun":"Eagles","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-21","venue":"Tokyo Dome","road":{"team":"Lions","runs":2,"starter":"R"},"home":{"team":"Giants","runs":5,"starter":"L"},"firstRun":"Lions","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-06-21","venue":"Jingu","road":{"team":"Buffaloes","runs":2,"starter":"L"},"home":{"team":"Swallows","runs":5,"starter":"R"},"firstRun":"Buffaloes","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-06-21","venue":"Yokohama","road":{"team":"Marines","runs":0,"starter":"R"},"home":{"team":"Baystars","runs":5,"starter":"R"},"firstRun":"Baystars","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-21","venue":"Vantelin Dome","road":{"team":"Fighters","runs":3,"starter":"L"},"home":{"team":"Dragons","runs":2,"starter":"R"},"firstRun":"Fighters","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-21","venue":"Koshien","road":{"team":"Hawks","runs":0,"starter":"R"},"home":{"team":"Tigers","runs":3,"starter":"L"},"firstRun":"Tigers","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-21","venue":"Mazda Stadium","road":{"team":"Eagles","runs":3,"starter":"R"},"home":{"team":"Carp","runs":8,"starter":"L"},"firstRun":"Carp","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-22","venue":"Tokyo Dome","road":{"team":"Lions","runs":5,"starter":"L"},"home":{"team":"Giants","runs":0,"starter":"R"},"firstRun":"Lions","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-22","venue":"Jingu","road":{"team":"Buffaloes","runs":4,"starter":"L"},"home":{"team":"Swallows","runs":2,"starter":"R"},"firstRun":"Buffaloes","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-22","venue":"Yokohama","road":{"team":"Marines","runs":10,"starter":"R"},"home":{"team":"Baystars","runs":9,"starter":"R"},"firstRun":"Marines","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-22","venue":"Vantelin Dome","road":{"team":"Fighters","runs":1,"starter":"R"},"home":{"team":"Dragons","runs":4,"starter":"L"},"firstRun":"Dragons","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-22","venue":"Koshien","road":{"team":"Hawks","runs":3,"starter":"L"},"home":{"team":"Tigers","runs":1,"starter":"L"},"firstRun":"Hawks","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-22","venue":"Mazda Stadium","road":{"team":"Eagles","runs":2,"starter":"L"},"home":{"team":"Carp","runs":5,"starter":"L"},"firstRun":"Eagles","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-06-24","venue":"ZOZO Marine","road":{"team":"Giants","runs":4,"starter":"R"},"home":{"team":"Marines","runs":6,"starter":"L"},"firstRun":"Giants","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-06-27","venue":"Tokyo Dome","road":{"team":"Baystars","runs":0,"starter":"L"},"home":{"team":"Giants","runs":4,"starter":"R"},"firstRun":"Giants","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-27","venue":"Jingu","road":{"team":"Tigers","runs":3,"starter":"R"},"home":{"team":"Swallows","runs":4,"starter":"R"},"firstRun":"Tigers","isWalkOff":true,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-06-27","venue":"Vantelin Dome","road":{"team":"Carp","runs":2,"starter":"R"},"home":{"team":"Dragons","runs":3,"starter":"L"},"firstRun":"Dragons","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-06-27","venue":"Belluna Dome","road":{"team":"Fighters","runs":5,"starter":"R"},"home":{"team":"Lions","runs":2,"starter":"R"},"firstRun":"Lions","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-06-27","venue":"ZOZO Marine","road":{"team":"Hawks","runs":6,"starter":"L"},"home":{"team":"Marines","runs":3,"starter":"R"},"firstRun":"Marines","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-06-27","venue":"Kyocera Dome","road":{"team":"Eagles","runs":2,"starter":"L"},"home":{"team":"Buffaloes","runs":10,"starter":"R"},"firstRun":"Buffaloes","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-28","venue":"Tokyo Dome","road":{"team":"Baystars","runs":0,"starter":"R"},"home":{"team":"Giants","runs":5,"starter":"L"},"firstRun":"Giants","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-28","venue":"Jingu","road":{"team":"Tigers","runs":2,"starter":"R"},"home":{"team":"Swallows","runs":0,"starter":"L"},"firstRun":"Tigers","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-28","venue":"Vantelin Dome","road":{"team":"Carp","runs":2,"starter":"L"},"home":{"team":"Dragons","runs":1,"starter":"R"},"firstRun":"Dragons","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-06-28","venue":"Belluna Dome","road":{"team":"Fighters","runs":2,"starter":"L"},"home":{"team":"Lions","runs":3,"starter":"L"},"firstRun":"Fighters","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-06-28","venue":"ZOZO Marine","road":{"team":"Hawks","runs":0,"starter":"R"},"home":{"team":"Marines","runs":5,"starter":"R"},"firstRun":"Marines","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-28","venue":"Kyocera Dome","road":{"team":"Eagles","runs":3,"starter":"R"},"home":{"team":"Buffaloes","runs":7,"starter":"L"},"firstRun":"Buffaloes","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-29","venue":"Tokyo Dome","road":{"team":"Baystars","runs":0,"starter":"R"},"home":{"team":"Giants","runs":1,"starter":"R"},"firstRun":"Giants","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-29","venue":"Jingu","road":{"team":"Tigers","runs":6,"starter":"L"},"home":{"team":"Swallows","runs":0,"starter":"R"},"firstRun":"Tigers","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-29","venue":"Vantelin Dome","road":{"team":"Carp","runs":2,"starter":"L"},"home":{"team":"Dragons","runs":1,"starter":"L"},"firstRun":"Carp","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-29","venue":"Belluna Dome","road":{"team":"Fighters","runs":2,"starter":"R"},"home":{"team":"Lions","runs":1,"starter":"R"},"firstRun":"Lions","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-06-29","venue":"ZOZO Marine","road":{"team":"Hawks","runs":2,"starter":"R"},"home":{"team":"Marines","runs":1,"starter":"R"},"firstRun":"Hawks","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-06-29","venue":"Kyocera Dome","road":{"team":"Eagles","runs":4,"starter":"L"},"home":{"team":"Buffaloes","runs":2,"starter":"R"},"firstRun":"Buffaloes","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-07-01","venue":"Yokohama","road":{"team":"Dragons","runs":2,"starter":"L"},"home":{"team":"Baystars","runs":3,"starter":"L"},"firstRun":"Baystars","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-07-01","venue":"Koshien","road":{"team":"Giants","runs":1,"starter":"R"},"home":{"team":"Tigers","runs":2,"starter":"R"},"firstRun":"Tigers","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-07-01","venue":"Mazda Stadium","road":{"team":"Swallows","runs":2,"starter":"R"},"home":{"team":"Carp","runs":2,"starter":"L"},"firstRun":"Swallows","isWalkOff":false,"isExtraInnings":true,"hadComback":false}
+{"date":"2025-07-01","venue":"Rakuten Mobile","road":{"team":"Marines","runs":0,"starter":"R"},"home":{"team":"Eagles","runs":6,"starter":"R"},"firstRun":"Eagles","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-07-01","venue":"Naha","road":{"team":"Buffaloes","runs":3,"starter":"R"},"home":{"team":"Lions","runs":0,"starter":"R"},"firstRun":"Buffaloes","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-07-01","venue":"Tokyo Dome","road":{"team":"Fighters","runs":0,"starter":"R"},"home":{"team":"Hawks","runs":1,"starter":"R"},"firstRun":"Hawks","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-07-02","venue":"Yokohama","road":{"team":"Dragons","runs":3,"starter":"R"},"home":{"team":"Baystars","runs":4,"starter":"R"},"firstRun":"Dragons","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-07-02","venue":"Koshien","road":{"team":"Giants","runs":0,"starter":"L"},"home":{"team":"Tigers","runs":1,"starter":"L"},"firstRun":"Tigers","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-07-02","venue":"Mazda Stadium","road":{"team":"Swallows","runs":1,"starter":"R"},"home":{"team":"Carp","runs":2,"starter":"R"},"firstRun":"Swallows","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-07-02","venue":"Rakuten Mobile","road":{"team":"Marines","runs":6,"starter":"R"},"home":{"team":"Eagles","runs":3,"starter":"R"},"firstRun":"Eagles","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-07-02","venue":"Naha","road":{"team":"Buffaloes","runs":6,"starter":"L"},"home":{"team":"Lions","runs":2,"starter":"R"},"firstRun":"Buffaloes","isWalkOff":false,"isExtraInnings":true,"hadComback":false}
+{"date":"2025-07-02","venue":"MIZUHO PayPay","road":{"team":"Fighters","runs":1,"starter":"L"},"home":{"team":"Hawks","runs":2,"starter":"L"},"firstRun":"Fighters","isWalkOff":true,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-07-03","venue":"Yokohama","road":{"team":"Dragons","runs":5,"starter":"L"},"home":{"team":"Baystars","runs":8,"starter":"R"},"firstRun":"Dragons","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-07-03","venue":"Koshien","road":{"team":"Giants","runs":2,"starter":"L"},"home":{"team":"Tigers","runs":3,"starter":"L"},"firstRun":"Giants","isWalkOff":true,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-07-03","venue":"Mazda Stadium","road":{"team":"Swallows","runs":5,"starter":"R"},"home":{"team":"Carp","runs":0,"starter":"L"},"firstRun":"Swallows","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-07-03","venue":"MIZUHO PayPay","road":{"team":"Fighters","runs":1,"starter":"R"},"home":{"team":"Hawks","runs":4,"starter":"L"},"firstRun":"Hawks","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-07-04","venue":"Tokyo Dome","road":{"team":"Carp","runs":0,"starter":"R"},"home":{"team":"Giants","runs":1,"starter":"R"},"firstRun":"Giants","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-07-04","venue":"Yokohama","road":{"team":"Tigers","runs":7,"starter":"R"},"home":{"team":"Baystars","runs":1,"starter":"L"},"firstRun":"Baystars","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-07-04","venue":"Vantelin Dome","road":{"team":"Swallows","runs":1,"starter":"R"},"home":{"team":"Dragons","runs":2,"starter":"L"},"firstRun":"Dragons","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-07-04","venue":"ES CON FIELD","road":{"team":"Eagles","runs":1,"starter":"L"},"home":{"team":"Fighters","runs":7,"starter":"R"},"firstRun":"Fighters","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-07-04","venue":"Hotto Kobe","road":{"team":"Marines","runs":6,"starter":"R"},"home":{"team":"Buffaloes","runs":8,"starter":"L"},"firstRun":"Buffaloes","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-07-04","venue":"MIZUHO PayPay","road":{"team":"Lions","runs":1,"starter":"L"},"home":{"team":"Hawks","runs":0,"starter":"L"},"firstRun":"Lions","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-07-05","venue":"Tokyo Dome","road":{"team":"Carp","runs":0,"starter":"L"},"home":{"team":"Giants","runs":0,"starter":"L"},"firstRun":"Giants","isWalkOff":false,"isExtraInnings":true,"hadComback":false}
+{"date":"2025-07-05","venue":"Yokohama","road":{"team":"Tigers","runs":3,"starter":"R"},"home":{"team":"Baystars","runs":0,"starter":"R"},"firstRun":"Tigers","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-07-05","venue":"Vantelin Dome","road":{"team":"Swallows","runs":6,"starter":"L"},"home":{"team":"Dragons","runs":4,"starter":"R"},"firstRun":"Dragons","isWalkOff":false,"isExtraInnings":true,"hadComback":true}
+{"date":"2025-07-05","venue":"ES CON FIELD","road":{"team":"Eagles","runs":1,"starter":"R"},"home":{"team":"Fighters","runs":12,"starter":"L"},"firstRun":"Fighters","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-07-05","venue":"Hotto Kobe","road":{"team":"Marines","runs":8,"starter":"L"},"home":{"team":"Buffaloes","runs":2,"starter":"L"},"firstRun":"Marines","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-07-05","venue":"MIZUHO PayPay","road":{"team":"Lions","runs":3,"starter":"R"},"home":{"team":"Hawks","runs":4,"starter":"R"},"firstRun":"Lions","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-07-06","venue":"Tokyo Dome","road":{"team":"Carp","runs":3,"starter":"L"},"home":{"team":"Giants","runs":2,"starter":"R"},"firstRun":"Giants","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-07-06","venue":"Yokohama","road":{"team":"Tigers","runs":5,"starter":"L"},"home":{"team":"Baystars","runs":1,"starter":"R"},"firstRun":"Tigers","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-07-06","venue":"Vantelin Dome","road":{"team":"Swallows","runs":5,"starter":"R"},"home":{"team":"Dragons","runs":4,"starter":"L"},"firstRun":"Swallows","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-07-06","venue":"ES CON FIELD","road":{"team":"Eagles","runs":6,"starter":"L"},"home":{"team":"Fighters","runs":8,"starter":"R"},"firstRun":"Eagles","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-07-06","venue":"Kyocera Dome","road":{"team":"Marines","runs":1,"starter":"L"},"home":{"team":"Buffaloes","runs":4,"starter":"R"},"firstRun":"Marines","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-07-06","venue":"MIZUHO PayPay","road":{"team":"Lions","runs":1,"starter":"L"},"home":{"team":"Hawks","runs":3,"starter":"R"},"firstRun":"Lions","isWalkOff":false,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-07-08","venue":"Yamagata","road":{"team":"Dragons","runs":4,"starter":"L"},"home":{"team":"Giants","runs":5,"starter":"R"},"firstRun":"Dragons","isWalkOff":true,"isExtraInnings":false,"hadComback":true}
+{"date":"2025-07-08","venue":"Jingu","road":{"team":"Baystars","runs":4,"starter":"L"},"home":{"team":"Swallows","runs":0,"starter":"R"},"firstRun":"Baystars","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-07-08","venue":"Mazda Stadium","road":{"team":"Tigers","runs":6,"starter":"R"},"home":{"team":"Carp","runs":1,"starter":"L"},"firstRun":"Tigers","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-07-08","venue":"Belluna Dome","road":{"team":"Eagles","runs":7,"starter":"R"},"home":{"team":"Lions","runs":2,"starter":"R"},"firstRun":"Eagles","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
+{"date":"2025-07-08","venue":"ZOZO Marine","road":{"team":"Fighters","runs":5,"starter":"R"},"home":{"team":"Marines","runs":4,"starter":"R"},"firstRun":"Fighters","isWalkOff":false,"isExtraInnings":true,"hadComback":false}
+{"date":"2025-07-08","venue":"Kyocera Dome","road":{"team":"Hawks","runs":9,"starter":"R"},"home":{"team":"Buffaloes","runs":1,"starter":"R"},"firstRun":"Hawks","isWalkOff":false,"isExtraInnings":false,"hadComback":false}
