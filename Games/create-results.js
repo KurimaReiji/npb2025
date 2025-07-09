@@ -36,15 +36,45 @@ function updateResults(date) {
         .map((id) => game.players.find((p) => p.id === id))
         .map((pitcher) => pitcher.pitchHand)
         ;
+      const road = { team: findTeam(game.teams.road.team).teamName, runs: game.teamStats.road.runs, starter: starters.at(0) };
+      const home = { team: findTeam(game.teams.home.team).teamName, runs: game.teamStats.home.runs, starter: starters.at(1) };
+
+      const runBalance = getRunBalance(game.innings);
+      const firstRun = [home.team, null, road.team].at(1 + Math.sign(runBalance.filter((n) => n !== 0).at(0)));
+      const isWalkOff = runBalance.at(-1) < 0 && runBalance.at(-2) >= 0;
+      const isExtraInnings = runBalance.length > 18;
       return {
         date: game.date,
         venue: game.venue.boxscoreName,
-        road: { team: findTeam(game.teams.road.team).teamName, runs: game.teamStats.road.runs, starter: starters.at(0) },
-        home: { team: findTeam(game.teams.home.team).teamName, runs: game.teamStats.home.runs, starter: starters.at(1) },
+        road,
+        home,
+        firstRun,
+        isWalkOff,
+        isExtraInnings,
+        hadComback: hadComback(runBalance),
       }
     })
     .forEach((game) => {
       appendToResults(game);
     })
     ;
+}
+
+function getRunBalance(innings) {
+  const balance = [];
+  let currentBalance = 0;
+
+  innings.forEach((inn) => {
+    currentBalance += inn.road.runs;
+    balance.push(currentBalance);
+
+    currentBalance -= inn.home.runs;
+    balance.push(currentBalance);
+  });
+  return balance;
+}
+
+function hadComback(runBalance) {
+  const [min, max] = [Math.min(...runBalance), Math.max(...runBalance)];
+  return min * max < 0;
 }
