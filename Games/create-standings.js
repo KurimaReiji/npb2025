@@ -19,8 +19,11 @@ class AddWinner extends TransformStream {
         const isOneRunGame = Math.abs(game.home.runs - game.road.runs) === 1;
         const isShutout = game.home.runs === 0 || game.road.runs === 0;
         const isDoubleDigitRuns = game.home.runs > 9 || game.road.runs > 9;
+        const isExtraInnings = game.isExtraInnings;
+        const isWalkOff = game.isWalkOff;
+        const hadComback = game.hadComback;
 
-        const res = Object.assign({}, game, { winner, loser, isOneRunGame, isShutout, isDoubleDigitRuns });
+        const res = Object.assign({}, game, { winner, loser, isOneRunGame, isShutout, isDoubleDigitRuns, isExtraInnings, isWalkOff, hadComback });
         controller.enqueue(res);
       }
     })
@@ -47,6 +50,8 @@ class SplitHomeRoad extends TransformStream {
               ties: game.winner === "Tied" ? 1 : 0,
               isHome: game[rh].team === game.home.team,
               isRoad: game[rh].team === game.road.team,
+              isFirstRunScored: game.firstRun === game[rh].team,
+              isFirstRunAllowed: game.firstRun === game[op].team,
               wlt: game.winner === game[rh].team ? "W" : game.loser === game[rh].team ? "L" : "T",
             })
           })
@@ -73,6 +78,11 @@ const items = {
     { type: "oneRun", wins: 0, losses: 0 },
     { type: "shutout", pitching: 0, batting: 0, ties: 0 },
     { type: "doubleDigitRuns", scored: 0, allowed: 0 },
+    { type: "extraInning", wins: 0, losses: 0, ties: 0 },
+    { type: "walkoff", wins: 0, losses: 0, ties: 0 },
+    { type: "comback", wins: 0, losses: 0, ties: 0 },
+    { type: "firstRunScored", wins: 0, losses: 0, ties: 0 },
+    { type: "firstRunAllowed", wins: 0, losses: 0, ties: 0 },
   ],
 };
 
@@ -113,6 +123,46 @@ for await (const cur of readable) {
   if (cur.isVsLHP) {
     ["wins", "losses", "ties"].forEach((wl) => {
       const item = "left";
+      data[cur.target].overall.splitRecords.find(sp => sp.type === item)[wl] += cur[wl];
+      if (cur.isHome) data[cur.target].home.splitRecords.find(sp => sp.type === item)[wl] += cur[wl];
+      if (cur.isRoad) data[cur.target].road.splitRecords.find(sp => sp.type === item)[wl] += cur[wl];
+    });
+  }
+  if (cur.isExtraInnings) {
+    ["wins", "losses", "ties"].forEach((wl) => {
+      const item = "extraInning";
+      data[cur.target].overall.splitRecords.find(sp => sp.type === item)[wl] += cur[wl];
+      if (cur.isHome) data[cur.target].home.splitRecords.find(sp => sp.type === item)[wl] += cur[wl];
+      if (cur.isRoad) data[cur.target].road.splitRecords.find(sp => sp.type === item)[wl] += cur[wl];
+    });
+  }
+  if (cur.isWalkOff) {
+    ["wins", "losses", "ties"].forEach((wl) => {
+      const item = "walkoff";
+      data[cur.target].overall.splitRecords.find(sp => sp.type === item)[wl] += cur[wl];
+      if (cur.isHome) data[cur.target].home.splitRecords.find(sp => sp.type === item)[wl] += cur[wl];
+      if (cur.isRoad) data[cur.target].road.splitRecords.find(sp => sp.type === item)[wl] += cur[wl];
+    });
+  }
+  if (cur.hadComback) {
+    ["wins", "losses", "ties"].forEach((wl) => {
+      const item = "comback";
+      data[cur.target].overall.splitRecords.find(sp => sp.type === item)[wl] += cur[wl];
+      if (cur.isHome) data[cur.target].home.splitRecords.find(sp => sp.type === item)[wl] += cur[wl];
+      if (cur.isRoad) data[cur.target].road.splitRecords.find(sp => sp.type === item)[wl] += cur[wl];
+    });
+  }
+  if (cur.isFirstRunScored) {
+    ["wins", "losses", "ties"].forEach((wl) => {
+      const item = "firstRunScored";
+      data[cur.target].overall.splitRecords.find(sp => sp.type === item)[wl] += cur[wl];
+      if (cur.isHome) data[cur.target].home.splitRecords.find(sp => sp.type === item)[wl] += cur[wl];
+      if (cur.isRoad) data[cur.target].road.splitRecords.find(sp => sp.type === item)[wl] += cur[wl];
+    });
+  }
+  if (cur.isFirstRunAllowed) {
+    ["wins", "losses", "ties"].forEach((wl) => {
+      const item = "firstRunAllowed";
       data[cur.target].overall.splitRecords.find(sp => sp.type === item)[wl] += cur[wl];
       if (cur.isHome) data[cur.target].home.splitRecords.find(sp => sp.type === item)[wl] += cur[wl];
       if (cur.isRoad) data[cur.target].road.splitRecords.find(sp => sp.type === item)[wl] += cur[wl];
@@ -193,14 +243,14 @@ const json = {
   "records": [
     {
       standingsType: "regular season",
-      season: "2024",
+      season: "2025",
       league: "Central League",
       lastUpdated: cl.map(o => o.lastUpdated).sort().at(-1),
       teamRecords: cl,
     },
     {
       standingsType: "regular season",
-      season: "2024",
+      season: "2025",
       league: "Pacific League",
       lastUpdated: pl.map(o => o.lastUpdated).sort().at(-1),
       teamRecords: pl,
