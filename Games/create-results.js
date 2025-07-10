@@ -51,7 +51,7 @@ function updateResults(date) {
         firstRun,
         isWalkOff,
         isExtraInnings,
-        hadComback: hadComback(runBalance),
+        hadComeback: hadComeback(runBalance),
       }
     })
     .forEach((game) => {
@@ -74,7 +74,7 @@ function getRunBalance(innings) {
   return balance;
 }
 
-function hadComback(runBalance) {
+function hadComeback(runBalance) {
   const [min, max] = [Math.min(...runBalance), Math.max(...runBalance)];
   return min * max < 0;
 }
