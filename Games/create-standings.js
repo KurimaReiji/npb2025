@@ -80,7 +80,7 @@ const items = {
     { type: "doubleDigitRuns", scored: 0, allowed: 0 },
     { type: "extraInning", wins: 0, losses: 0, ties: 0 },
     { type: "walkoff", wins: 0, losses: 0, ties: 0 },
-    { type: "comback", wins: 0, losses: 0, ties: 0 },
+    { type: "comeback", wins: 0, losses: 0, ties: 0 },
     { type: "firstRunScored", wins: 0, losses: 0, ties: 0 },
     { type: "firstRunAllowed", wins: 0, losses: 0, ties: 0 },
   ],
@@ -146,7 +146,7 @@ for await (const cur of readable) {
   }
   if (cur.hadComback) {
     ["wins", "losses", "ties"].forEach((wl) => {
-      const item = "comback";
+      const item = "comeback";
       data[cur.target].overall.splitRecords.find(sp => sp.type === item)[wl] += cur[wl];
       if (cur.isHome) data[cur.target].home.splitRecords.find(sp => sp.type === item)[wl] += cur[wl];
       if (cur.isRoad) data[cur.target].road.splitRecords.find(sp => sp.type === item)[wl] += cur[wl];
