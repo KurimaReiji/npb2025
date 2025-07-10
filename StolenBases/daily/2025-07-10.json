@@ -1,0 +1,94 @@
+[
+  {
+    "date": "2025-07-10",
+    "runner": {
+      "id": "01205150",
+      "jaBoxscoreName": "庄子",
+      "jaRegisteredName": "庄子　雄大",
+      "fullLFMName": "Shoji, Yudai",
+      "primaryNumber": "25",
+      "teamCode": "H",
+      "boxscoreName": "Shoji",
+      "pitchHand": "R",
+      "batSide": "L"
+    },
+    "batter": {
+      "id": "43245159",
+      "jaBoxscoreName": "ダウンズ",
+      "jaRegisteredName": "Ｊ．ダウンズ",
+      "fullLFMName": "Downs, Jeter",
+      "primaryNumber": "4",
+      "teamCode": "H",
+      "boxscoreName": "Downs",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "71175136",
+      "jaBoxscoreName": "東",
+      "jaRegisteredName": "東　晃平",
+      "fullLFMName": "Azuma, Kohei",
+      "primaryNumber": "12",
+      "teamCode": "B",
+      "boxscoreName": "Azuma",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "catcher": {
+      "id": "11815155",
+      "jaBoxscoreName": "福永",
+      "jaRegisteredName": "福永　奨",
+      "fullLFMName": "Fukunaga, Sho",
+      "primaryNumber": "32",
+      "teamCode": "B",
+      "boxscoreName": "Fukunaga",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "scoring": "StolenBase",
+    "base": "2B",
+    "inning": 3,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "1--",
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "venue": {
+      "jaBoxscoreName": "京セラD大阪",
+      "boxscoreName": "Kyocera Dome",
+      "jaName": "京セラドーム大阪",
+      "name": "Kyocera Dome Osaka"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "H",
+        "teamName": "Hawks",
+        "score": 0
+      },
+      "home": {
+        "teamCode": "B",
+        "teamName": "Buffaloes",
+        "score": 4
+      }
+    },
+    "jaText": "（走者・庄子）二塁盗塁成功",
+    "text": "Shoji steals 2nd base.",
+    "url": "https://npb.jp/scores/2025/0710/b-h-12/playbyplay.html#com3-1",
+    "catchers": [
+      {
+        "id": "11815155",
+        "jaBoxscoreName": "福永",
+        "jaRegisteredName": "福永　奨",
+        "fullLFMName": "Fukunaga, Sho",
+        "primaryNumber": "32",
+        "teamCode": "B",
+        "boxscoreName": "Fukunaga",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+    ],
+    "countsAsStealAttempt": true
+  }
+]
