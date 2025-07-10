@@ -4988,7 +4988,7 @@
     "year": "2025",
     "teamCode": "L",
     "title": "2025年度 支配下選手登録（埼玉西武ライオンズ） | 2025年度公示 | NPB.jp 日本野球機構",
-    "total": "66名",
+    "total": "67名",
     "rows": [
       {
         "mmdd": "12-17",
@@ -5541,6 +5541,14 @@
         "primaryNumber": "49",
         "playerId": "01005153",
         "jaRegisteredName": "佐々木　健"
+      },
+      {
+        "mmdd": "07-10",
+        "teamCode": "L",
+        "jaPrimaryPosition": "外野手",
+        "primaryNumber": "55",
+        "playerId": "61465153",
+        "jaRegisteredName": "仲三河　優太"
       }
     ],
     "notes": [
@@ -5574,6 +5582,14 @@
         "jaPrimaryPosition": "投手",
         "playerId": "01005153",
         "jaRegisteredName": "佐々木　健",
+        "desc": ""
+      },
+      {
+        "item": "【支配下選手登録（育成選手から移行）】",
+        "date": "2025-07-10",
+        "jaPrimaryPosition": "外野手",
+        "playerId": "61465153",
+        "jaRegisteredName": "仲三河　優太",
         "desc": ""
       },
       {
@@ -6194,7 +6210,7 @@
     "year": "2025",
     "teamCode": "S",
     "title": "2025年度 支配下選手登録（東京ヤクルトスワローズ） | 2025年度公示 | NPB.jp 日本野球機構",
-    "total": "67名",
+    "total": "68名",
     "rows": [
       {
         "mmdd": "12-17",
@@ -6755,6 +6771,14 @@
         "primaryNumber": "37",
         "playerId": "21825138",
         "jaRegisteredName": "山野辺　翔"
+      },
+      {
+        "mmdd": "07-09",
+        "teamCode": "S",
+        "jaPrimaryPosition": "投手",
+        "primaryNumber": "71",
+        "playerId": "61265138",
+        "jaRegisteredName": "沼田　翔平"
       }
     ],
     "notes": [
@@ -6764,6 +6788,14 @@
         "jaPrimaryPosition": "投手",
         "playerId": "77575159",
         "jaRegisteredName": "下川　隼佑",
+        "desc": ""
+      },
+      {
+        "item": "【支配下選手登録（育成選手から移行）】",
+        "date": "2025-07-09",
+        "jaPrimaryPosition": "投手",
+        "playerId": "61265138",
+        "jaRegisteredName": "沼田　翔平",
         "desc": ""
       },
       {

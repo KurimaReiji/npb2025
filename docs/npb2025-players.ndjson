@@ -2279,6 +2279,8 @@
 {"date":"2025-07-05","playerId":"81985155","jaBoxscoreName":"柴田","boxscoreName":"Shibata"}
 {"date":"2025-07-08","playerId":"01405150","jaBoxscoreName":"田中","boxscoreName":"Tanaka"}
 {"date":"2025-07-08","playerId":"41345153","jaBoxscoreName":"入江","boxscoreName":"Irie"}
+{"date":"2025-07-09","jaEvent":"支配下選手登録","teamCode":"S","playerId":"61265138","jaRegisteredName":"沼田　翔平","primaryNumber":"71","jaPrimaryPosition":"投手","jaEventDetails":"育成選手から移行","birthDate":"2000-06-24","height":"175","weight":"80","pitchHand":"R","batSide":"R","fullLFMName":"Numata, Shohei"}
 {"date":"2025-07-09","playerId":"61165157","jaBoxscoreName":"伊藤","boxscoreName":"Itoh"}
 {"date":"2025-07-09","playerId":"71375136","jaBoxscoreName":"遠藤","boxscoreName":"Endoh"}
 {"date":"2025-07-09","playerId":"71075139","jaBoxscoreName":"中村祐","boxscoreName":"Y.Nakamura"}
+{"date":"2025-07-10","jaEvent":"支配下選手登録","teamCode":"L","playerId":"61465153","jaRegisteredName":"仲三河　優太","primaryNumber":"55","jaPrimaryPosition":"外野手","jaEventDetails":"育成選手から移行"}
