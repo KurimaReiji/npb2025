@@ -2283,5 +2283,6 @@
 {"date":"2025-07-09","playerId":"61165157","jaBoxscoreName":"伊藤","boxscoreName":"Itoh"}
 {"date":"2025-07-09","playerId":"71375136","jaBoxscoreName":"遠藤","boxscoreName":"Endoh"}
 {"date":"2025-07-09","playerId":"71075139","jaBoxscoreName":"中村祐","boxscoreName":"Y.Nakamura"}
-{"date":"2025-07-10","jaEvent":"支配下選手登録","teamCode":"L","playerId":"61465153","jaRegisteredName":"仲三河　優太","primaryNumber":"55","jaPrimaryPosition":"外野手","jaEventDetails":"育成選手から移行"}
+{"date":"2025-07-10","jaEvent":"支配下選手登録","teamCode":"L","playerId":"61465153","jaRegisteredName":"仲三河　優太","primaryNumber":"55","jaPrimaryPosition":"外野手","jaEventDetails":"育成選手から移行","birthDate":"2002-10-22","height":"180","weight":"100","pitchHand":"R","batSide":"L","fullLFMName":"Nakamigawa, Yuta"}
 {"date":"2025-07-10","playerId":"61465153","jaBoxscoreName":"仲三河","boxscoreName":"Nakamigawa"}
+{"date":"2025-07-11","jaEvent":"支配下選手登録","teamCode":"DB","playerId":"03205159","jaRegisteredName":"Ｍ．フォード","primaryNumber":"99","jaPrimaryPosition":"内野手"}

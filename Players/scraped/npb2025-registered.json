@@ -1797,7 +1797,7 @@
     "year": "2025",
     "teamCode": "DB",
     "title": "2025年度 支配下選手登録（横浜DeNAベイスターズ） | 2025年度公示 | NPB.jp 日本野球機構",
-    "total": "67名",
+    "total": "68名",
     "rows": [
       {
         "mmdd": "12-17",
@@ -2350,6 +2350,14 @@
         "primaryNumber": "98",
         "playerId": "33235155",
         "jaRegisteredName": "Ｈ．マルセリーノ"
+      },
+      {
+        "mmdd": "07-11",
+        "teamCode": "DB",
+        "jaPrimaryPosition": "内野手",
+        "primaryNumber": "99",
+        "playerId": "03205159",
+        "jaRegisteredName": "Ｍ．フォード"
       }
     ],
     "notes": [
