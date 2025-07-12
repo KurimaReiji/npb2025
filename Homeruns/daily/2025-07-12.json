@@ -1,0 +1,119 @@
+[
+  {
+    "id": "41645139-2025-04",
+    "date": "2025-07-12",
+    "batter": {
+      "jaBoxscoreName": "若月",
+      "playerId": "41645139",
+      "boxscoreName": "Wakatsuki",
+      "batSide": "R",
+      "teamCode": "B",
+      "primaryNumber": "2",
+      "jaRegisteredName": "若月　健矢",
+      "fullLFMName": "Wakatsuki, Kenya"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "加藤貴",
+      "boxscoreName": "T.Katoh",
+      "pitchHand": "L",
+      "teamCode": "F",
+      "primaryNumber": "14",
+      "jaRegisteredName": "加藤　貴之",
+      "fullLFMName": "Katoh, Takayuki"
+    },
+    "number": 4,
+    "inning": 4,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "---",
+    "count": {
+      "balls": 1,
+      "strikes": 2
+    },
+    "runs": {
+      "road": 2,
+      "home": 5
+    },
+    "bop": 9,
+    "rbi": 1,
+    "whereHit": "78",
+    "venue": {
+      "boxscoreName": "ES CON FIELD",
+      "jaBoxscoreName": "エスコンＦ"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "B",
+        "teamName": "Buffaloes",
+        "score": 3
+      },
+      "home": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 7
+      }
+    },
+    "jaText": "左中間ソロホームラン（打点1）",
+    "text": "Wakatsuki homers (4) to left center.",
+    "url": "https://npb.jp/scores/2025/0712/f-b-14/playbyplay.html#com4-1"
+  },
+  {
+    "id": "81985135-2025-01",
+    "date": "2025-07-12",
+    "batter": {
+      "jaBoxscoreName": "鈴木大",
+      "playerId": "81985135",
+      "boxscoreName": "D.Suzuki",
+      "batSide": "L",
+      "teamCode": "E",
+      "primaryNumber": "7",
+      "jaRegisteredName": "鈴木　大地",
+      "fullLFMName": "Suzuki, Daichi"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "津森",
+      "boxscoreName": "Tsumori",
+      "pitchHand": "R",
+      "teamCode": "H",
+      "primaryNumber": "11",
+      "jaRegisteredName": "津森　宥紀",
+      "fullLFMName": "Tsumori, Yuki"
+    },
+    "number": 1,
+    "inning": 8,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "1--",
+    "count": {
+      "balls": 1,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 0,
+      "home": 5
+    },
+    "bop": 4,
+    "rbi": 2,
+    "whereHit": "9",
+    "venue": {
+      "boxscoreName": "Rakuten Mobile",
+      "jaBoxscoreName": "楽天モバイル"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "H",
+        "teamName": "Hawks",
+        "score": 0
+      },
+      "home": {
+        "teamCode": "E",
+        "teamName": "Eagles",
+        "score": 7
+      }
+    },
+    "jaText": "ライト2ランホームラン（打点2）",
+    "text": "D.Suzuki homers (1) to right field.",
+    "url": "https://npb.jp/scores/2025/0712/e-h-13/playbyplay.html#com8-2",
+    "isPinchHit": "Y"
+  }
+]
