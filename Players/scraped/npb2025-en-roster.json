@@ -3,7 +3,7 @@
     "teamCode": "B",
     "url": "https://npb.jp/bis/eng/teams/rst_b.html",
     "title": "ORIX Buffaloes : 2025 Roster | NPB.jp 日本野球機構",
-    "lastUpdated": "Thursday, July 10, 2025",
+    "lastUpdated": "Friday, July 11, 2025",
     "roster": [
       {
         "primaryPosition": "Manager",
@@ -1099,7 +1099,7 @@
     "teamCode": "C",
     "url": "https://npb.jp/bis/eng/teams/rst_c.html",
     "title": "Hiroshima Toyo Carp : 2025 Roster | NPB.jp 日本野球機構",
-    "lastUpdated": "Thursday, July 10, 2025",
+    "lastUpdated": "Friday, July 11, 2025",
     "roster": [
       {
         "primaryPosition": "Manager",
@@ -2063,7 +2063,7 @@
     "teamCode": "D",
     "url": "https://npb.jp/bis/eng/teams/rst_d.html",
     "title": "Chunichi Dragons : 2025 Roster | NPB.jp 日本野球機構",
-    "lastUpdated": "Thursday, July 10, 2025",
+    "lastUpdated": "Friday, July 11, 2025",
     "roster": [
       {
         "primaryPosition": "Manager",
@@ -3063,7 +3063,7 @@
     "teamCode": "DB",
     "url": "https://npb.jp/bis/eng/teams/rst_db.html",
     "title": "YOKOHAMA DeNA BAYSTARS : 2025 Roster | NPB.jp 日本野球機構",
-    "lastUpdated": "Thursday, July 10, 2025",
+    "lastUpdated": "Friday, July 11, 2025",
     "roster": [
       {
         "primaryPosition": "Manager",
@@ -3625,6 +3625,18 @@
       },
       {
         "primaryPosition": "Infielder",
+        "primaryNumber": "99",
+        "playerId": "03205159",
+        "fullLFMName": "Ford, Mike",
+        "birthDate": "Jul. 4, 1992",
+        "height": "183",
+        "weight": "102",
+        "pitchHand": "R",
+        "batSide": "L",
+        "notes": "Registered (Jul. 11)."
+      },
+      {
+        "primaryPosition": "Infielder",
         "primaryNumber": "00",
         "playerId": "91695157",
         "fullLFMName": "Hayashi, Takuma",
@@ -4075,7 +4087,7 @@
     "teamCode": "E",
     "url": "https://npb.jp/bis/eng/teams/rst_e.html",
     "title": "Tohoku Rakuten Golden Eagles : 2025 Roster | NPB.jp 日本野球機構",
-    "lastUpdated": "Thursday, July 10, 2025",
+    "lastUpdated": "Friday, July 11, 2025",
     "roster": [
       {
         "primaryPosition": "Manager",
@@ -5039,7 +5051,7 @@
     "teamCode": "F",
     "url": "https://npb.jp/bis/eng/teams/rst_f.html",
     "title": "Hokkaido Nippon-Ham Fighters : 2025 Roster | NPB.jp 日本野球機構",
-    "lastUpdated": "Thursday, July 10, 2025",
+    "lastUpdated": "Friday, July 11, 2025",
     "roster": [
       {
         "primaryPosition": "Manager",
@@ -6051,7 +6063,7 @@
     "teamCode": "G",
     "url": "https://npb.jp/bis/eng/teams/rst_g.html",
     "title": "Yomiuri Giants : 2025 Roster | NPB.jp 日本野球機構",
-    "lastUpdated": "Thursday, July 10, 2025",
+    "lastUpdated": "Friday, July 11, 2025",
     "roster": [
       {
         "primaryPosition": "Manager",
@@ -7327,7 +7339,7 @@
     "teamCode": "H",
     "url": "https://npb.jp/bis/eng/teams/rst_h.html",
     "title": "Fukuoka SoftBank Hawks : 2025 Roster | NPB.jp 日本野球機構",
-    "lastUpdated": "Thursday, July 10, 2025",
+    "lastUpdated": "Friday, July 11, 2025",
     "roster": [
       {
         "primaryPosition": "Manager",
@@ -8795,7 +8807,7 @@
     "teamCode": "L",
     "url": "https://npb.jp/bis/eng/teams/rst_l.html",
     "title": "Saitama Seibu Lions : 2025 Roster | NPB.jp 日本野球機構",
-    "lastUpdated": "Thursday, July 10, 2025",
+    "lastUpdated": "Friday, July 11, 2025",
     "roster": [
       {
         "primaryPosition": "Manager",
@@ -9939,7 +9951,7 @@
     "teamCode": "M",
     "url": "https://npb.jp/bis/eng/teams/rst_m.html",
     "title": "Chiba Lotte Marines : 2025 Roster | NPB.jp 日本野球機構",
-    "lastUpdated": "Thursday, July 10, 2025",
+    "lastUpdated": "Friday, July 11, 2025",
     "roster": [
       {
         "primaryPosition": "Manager",
@@ -10999,7 +11011,7 @@
     "teamCode": "S",
     "url": "https://npb.jp/bis/eng/teams/rst_s.html",
     "title": "Tokyo Yakult Swallows : 2025 Roster | NPB.jp 日本野球機構",
-    "lastUpdated": "Thursday, July 10, 2025",
+    "lastUpdated": "Friday, July 11, 2025",
     "roster": [
       {
         "primaryPosition": "Manager",
@@ -11951,7 +11963,7 @@
     "teamCode": "T",
     "url": "https://npb.jp/bis/eng/teams/rst_t.html",
     "title": "Hanshin Tigers : 2025 Roster | NPB.jp 日本野球機構",
-    "lastUpdated": "Thursday, July 10, 2025",
+    "lastUpdated": "Friday, July 11, 2025",
     "roster": [
       {
         "primaryPosition": "Manager",

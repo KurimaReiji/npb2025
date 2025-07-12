@@ -3654,7 +3654,7 @@
     "year": "2025",
     "teamCode": "G",
     "title": "2025年度 支配下選手登録（読売ジャイアンツ） | 2025年度公示 | NPB.jp 日本野球機構",
-    "total": "66名",
+    "total": "68名",
     "rows": [
       {
         "mmdd": "12-17",
@@ -4215,6 +4215,22 @@
         "primaryNumber": "96",
         "playerId": "13115157",
         "jaRegisteredName": "三塚　琉生"
+      },
+      {
+        "mmdd": "07-12",
+        "teamCode": "G",
+        "jaPrimaryPosition": "外野手",
+        "primaryNumber": "39",
+        "playerId": "83285159",
+        "jaRegisteredName": "Ｍ．フルプ"
+      },
+      {
+        "mmdd": "07-12",
+        "teamCode": "G",
+        "jaPrimaryPosition": "外野手",
+        "primaryNumber": "54",
+        "playerId": "41345135",
+        "jaRegisteredName": "乙坂　智"
       }
     ],
     "notes": [
@@ -4256,6 +4272,14 @@
         "jaPrimaryPosition": "外野手",
         "playerId": "13115157",
         "jaRegisteredName": "三塚　琉生",
+        "desc": ""
+      },
+      {
+        "item": "【支配下選手登録（育成選手から移行）】",
+        "date": "2025-07-12",
+        "jaPrimaryPosition": "外野手",
+        "playerId": "83285159",
+        "jaRegisteredName": "Ｍ．フルプ",
         "desc": ""
       },
       {
