@@ -21,9 +21,9 @@ class AddWinner extends TransformStream {
         const isDoubleDigitRuns = game.home.runs > 9 || game.road.runs > 9;
         const isExtraInnings = game.isExtraInnings;
         const isWalkOff = game.isWalkOff;
-        const hadComback = game.hadComback;
+        const hadComeback = game.hadComeback;
 
-        const res = Object.assign({}, game, { winner, loser, isOneRunGame, isShutout, isDoubleDigitRuns, isExtraInnings, isWalkOff, hadComback });
+        const res = Object.assign({}, game, { winner, loser, isOneRunGame, isShutout, isDoubleDigitRuns, isExtraInnings, isWalkOff, hadComeback });
         controller.enqueue(res);
       }
     })
@@ -144,7 +144,7 @@ for await (const cur of readable) {
       if (cur.isRoad) data[cur.target].road.splitRecords.find(sp => sp.type === item)[wl] += cur[wl];
     });
   }
-  if (cur.hadComback) {
+  if (cur.hadComeback) {
     ["wins", "losses", "ties"].forEach((wl) => {
       const item = "comeback";
       data[cur.target].overall.splitRecords.find(sp => sp.type === item)[wl] += cur[wl];
