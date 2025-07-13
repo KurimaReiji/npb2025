@@ -2292,3 +2292,5 @@
 {"date":"2025-07-12","jaEvent":"支配下選手登録","teamCode":"G","playerId":"83285159","jaRegisteredName":"Ｍ．フルプ","primaryNumber":"39","jaPrimaryPosition":"外野手","jaEventDetails":"育成選手から移行","birthDate":"1999-01-09","height":"193","weight":"99","pitchHand":"R","batSide":"R","fullLFMName":"Chlup, Marek"}
 {"date":"2025-07-12","playerId":"83285159","jaBoxscoreName":"フルプ","boxscoreName":"Chlup"}
 {"date":"2025-07-13","jaEvent":"支配下選手登録","teamCode":"T","playerId":"57955159","jaRegisteredName":"早川　太貴","primaryNumber":"31","jaPrimaryPosition":"投手","jaEventDetails":"育成選手から移行"}
+{"date":"2025-07-13","playerId":"81685155","jaBoxscoreName":"福島","boxscoreName":"Fukushima"}
+{"date":"2025-07-13","playerId":"13115159","jaBoxscoreName":"前田悠","boxscoreName":"Y.Maeda"}
