@@ -6877,7 +6877,7 @@
     "year": "2025",
     "teamCode": "T",
     "title": "2025年度 支配下選手登録（阪神タイガース） | 2025年度公示 | NPB.jp 日本野球機構",
-    "total": "67名",
+    "total": "68名",
     "rows": [
       {
         "mmdd": "12-17",
@@ -7422,6 +7422,14 @@
         "primaryNumber": "24",
         "playerId": "81785150",
         "jaRegisteredName": "工藤　泰成"
+      },
+      {
+        "mmdd": "07-13",
+        "teamCode": "T",
+        "jaPrimaryPosition": "投手",
+        "primaryNumber": "31",
+        "playerId": "57955159",
+        "jaRegisteredName": "早川　太貴"
       }
     ],
     "notes": [
@@ -7431,6 +7439,14 @@
         "jaPrimaryPosition": "投手",
         "playerId": "81785150",
         "jaRegisteredName": "工藤　泰成",
+        "desc": ""
+      },
+      {
+        "item": "【支配下選手登録（育成選手から移行）】",
+        "date": "2025-07-13",
+        "jaPrimaryPosition": "投手",
+        "playerId": "57955159",
+        "jaRegisteredName": "早川　太貴",
         "desc": ""
       },
       {

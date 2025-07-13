@@ -2288,6 +2288,7 @@
 {"date":"2025-07-11","jaEvent":"支配下選手登録","teamCode":"DB","playerId":"03205159","jaRegisteredName":"Ｍ．フォード","primaryNumber":"99","jaPrimaryPosition":"内野手","birthDate":"1992-07-04","height":"183","weight":"102","pitchHand":"R","batSide":"L","fullLFMName":"Ford, Mike"}
 {"date":"2025-07-11","playerId":"01405155","jaBoxscoreName":"中村健","boxscoreName":"K.Nakamura"}
 {"date":"2025-07-11","playerId":"81385130","jaBoxscoreName":"太田","boxscoreName":"Ohta"}
-{"date":"2025-07-12","jaEvent":"支配下選手登録","teamCode":"G","playerId":"41345135","jaRegisteredName":"乙坂　智","primaryNumber":"54","jaPrimaryPosition":"外野手"}
-{"date":"2025-07-12","jaEvent":"支配下選手登録","teamCode":"G","playerId":"83285159","jaRegisteredName":"Ｍ．フルプ","primaryNumber":"39","jaPrimaryPosition":"外野手","jaEventDetails":"育成選手から移行"}
+{"date":"2025-07-12","jaEvent":"支配下選手登録","teamCode":"G","playerId":"41345135","jaRegisteredName":"乙坂　智","primaryNumber":"54","jaPrimaryPosition":"外野手","birthDate":"1994-01-06","height":"183","weight":"83","pitchHand":"R","batSide":"L","fullLFMName":"Otosaka, Tomo"}
+{"date":"2025-07-12","jaEvent":"支配下選手登録","teamCode":"G","playerId":"83285159","jaRegisteredName":"Ｍ．フルプ","primaryNumber":"39","jaPrimaryPosition":"外野手","jaEventDetails":"育成選手から移行","birthDate":"1999-01-09","height":"193","weight":"99","pitchHand":"R","batSide":"R","fullLFMName":"Chlup, Marek"}
 {"date":"2025-07-12","playerId":"83285159","jaBoxscoreName":"フルプ","boxscoreName":"Chlup"}
+{"date":"2025-07-13","jaEvent":"支配下選手登録","teamCode":"T","playerId":"57955159","jaRegisteredName":"早川　太貴","primaryNumber":"31","jaPrimaryPosition":"投手","jaEventDetails":"育成選手から移行"}
