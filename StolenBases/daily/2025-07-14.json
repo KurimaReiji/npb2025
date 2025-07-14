@@ -1,0 +1,186 @@
+[
+  {
+    "date": "2025-07-14",
+    "runner": {
+      "id": "51255155",
+      "jaBoxscoreName": "滝澤",
+      "jaRegisteredName": "滝澤　夏央",
+      "fullLFMName": "Takizawa, Natsuo",
+      "primaryNumber": "62",
+      "teamCode": "L",
+      "boxscoreName": "Takizawa",
+      "pitchHand": "R",
+      "batSide": "L"
+    },
+    "batter": {
+      "id": "41245130",
+      "jaBoxscoreName": "外崎",
+      "jaRegisteredName": "外崎　修汰",
+      "fullLFMName": "Tonosaki, Shuta",
+      "primaryNumber": "5",
+      "teamCode": "L",
+      "boxscoreName": "Tonosaki",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "01205155",
+      "jaBoxscoreName": "達",
+      "jaRegisteredName": "達　孝太",
+      "fullLFMName": "Tatsu, Kota",
+      "primaryNumber": "16",
+      "teamCode": "F",
+      "boxscoreName": "Tatsu",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "catcher": {
+      "id": "61065137",
+      "jaBoxscoreName": "伏見",
+      "jaRegisteredName": "伏見　寅威",
+      "fullLFMName": "Fushimi, Torai",
+      "primaryNumber": "23",
+      "teamCode": "F",
+      "boxscoreName": "Fushimi",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "scoring": "StolenBase",
+    "base": "2B",
+    "inning": 7,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "1--",
+    "runs": {
+      "road": 2,
+      "home": 1
+    },
+    "venue": {
+      "jaBoxscoreName": "東京ドーム",
+      "boxscoreName": "Tokyo Dome",
+      "jaName": "東京ドーム",
+      "name": "Tokyo Dome"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 2
+      },
+      "home": {
+        "teamCode": "L",
+        "teamName": "Lions",
+        "score": 1
+      }
+    },
+    "jaText": "（走者・滝澤）二塁盗塁成功",
+    "text": "Takizawa steals 2nd base.",
+    "url": "https://npb.jp/scores/2025/0714/l-f-12/playbyplay.html#com7-2",
+    "catchers": [
+      {
+        "id": "61065137",
+        "jaBoxscoreName": "伏見",
+        "jaRegisteredName": "伏見　寅威",
+        "fullLFMName": "Fushimi, Torai",
+        "primaryNumber": "23",
+        "teamCode": "F",
+        "boxscoreName": "Fushimi",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+    ],
+    "countsAsStealAttempt": true
+  },
+  {
+    "date": "2025-07-14",
+    "runner": {
+      "id": "73375157",
+      "jaBoxscoreName": "矢澤",
+      "jaRegisteredName": "矢澤　宏太",
+      "fullLFMName": "Yazawa, Kota",
+      "primaryNumber": "12",
+      "teamCode": "F",
+      "boxscoreName": "Yazawa",
+      "pitchHand": "L",
+      "batSide": "L"
+    },
+    "batter": {
+      "id": "73075159",
+      "jaBoxscoreName": "レイエス",
+      "jaRegisteredName": "Ｆ．レイエス",
+      "fullLFMName": "Reyes, Franmil",
+      "primaryNumber": "99",
+      "teamCode": "F",
+      "boxscoreName": "Reyes",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "51655155",
+      "jaBoxscoreName": "羽田",
+      "jaRegisteredName": "羽田　慎之介",
+      "fullLFMName": "Hada, Shinnosuke",
+      "primaryNumber": "43",
+      "teamCode": "L",
+      "boxscoreName": "Hada",
+      "pitchHand": "L",
+      "batSide": "L"
+    },
+    "catcher": {
+      "id": "81785155",
+      "jaBoxscoreName": "古賀悠",
+      "jaRegisteredName": "古賀　悠斗",
+      "fullLFMName": "Koga, Yuto",
+      "primaryNumber": "22",
+      "teamCode": "L",
+      "boxscoreName": "Y.Koga",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "scoring": "StolenBase",
+    "base": "2B",
+    "inning": 8,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "1--",
+    "runs": {
+      "road": 2,
+      "home": 1
+    },
+    "venue": {
+      "jaBoxscoreName": "東京ドーム",
+      "boxscoreName": "Tokyo Dome",
+      "jaName": "東京ドーム",
+      "name": "Tokyo Dome"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 2
+      },
+      "home": {
+        "teamCode": "L",
+        "teamName": "Lions",
+        "score": 1
+      }
+    },
+    "jaText": "（走者・矢澤）二塁盗塁成功",
+    "text": "Yazawa steals 2nd base.",
+    "url": "https://npb.jp/scores/2025/0714/l-f-12/playbyplay.html#com8-1",
+    "catchers": [
+      {
+        "id": "81785155",
+        "jaBoxscoreName": "古賀悠",
+        "jaRegisteredName": "古賀　悠斗",
+        "fullLFMName": "Koga, Yuto",
+        "primaryNumber": "22",
+        "teamCode": "L",
+        "boxscoreName": "Y.Koga",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+    ],
+    "countsAsStealAttempt": true
+  }
+]
