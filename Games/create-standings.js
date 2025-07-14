@@ -87,7 +87,7 @@ const items = {
 };
 
 const dataAry = getTeams()
-  .map(({ teamName }) => Object.assign({}, { teamName }, {
+  .map(({ teamName, league }) => Object.assign({}, { teamName, league }, {
     overall: structuredClone(items),
     home: structuredClone(items),
     road: structuredClone(items),
@@ -96,8 +96,10 @@ const dataAry = getTeams()
   ;
 const data = Object.fromEntries(dataAry);
 
+const [endDate, startDate] = process.argv.slice(2);
 for await (const cur of readable) {
-  //console.log(cur);
+  if (cur.date < (startDate || '2025-03-28')) continue;
+  if (cur.date > (endDate || '2025-10-24')) continue;
   data[cur.target].lastUpdated = cur.date;
   ["gamesPlayed", "wins", "losses", "ties", "runsScored", "runsAllowed", "wlt"].forEach((wlt) => {
     data[cur.target].overall[wlt] += cur[wlt];
@@ -207,6 +209,7 @@ for await (const cur of readable) {
 const npb = Object.values(data)
   .map((o) => Object.assign({
     teamName: o.teamName,
+    league: o.league,
     wins: o.overall.wins,
     losses: o.overall.losses,
     ties: o.overall.ties,
@@ -220,19 +223,19 @@ const npb = Object.values(data)
         ...get_xwl(o[key].wins, o[key].losses, o[key].runsScored, o[key].runsAllowed)
       });
       const { streak, ...rest } = last10(o[key].wlt)
-      Object.assign(o[key], { last10: rest, streak });
+      Object.assign(o[key], { lastTen: rest, streak });
     });
     return o;
   })
   ;
 
-const cl = npb.filter((o) => findTeam(o.teamName).league === "Central")
+const cl = npb.filter((o) => o.league === "Central")
   .sort(teams_by_wpct)
   .map((o, i, ary) => {
     o.overall.gamesBack = i === 0 ? "" : games_behind(o.overall.wins, o.overall.losses, ary[0].overall.wins, ary[0].overall.losses);
     return o;
   });
-const pl = npb.filter((o) => findTeam(o.teamName).league === "Pacific")
+const pl = npb.filter((o) => o.league === "Pacific")
   .sort(teams_by_wpct)
   .map((o, i, ary) => {
     o.overall.gamesBack = i === 0 ? "" : games_behind(o.overall.wins, o.overall.losses, ary[0].overall.wins, ary[0].overall.losses);
