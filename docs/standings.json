@@ -61,8 +61,7 @@
               {
                 "type": "walkoff",
                 "wins": 3,
-                "losses": 5,
-                "ties": 0
+                "losses": 5
               },
               {
                 "type": "comeback",
@@ -144,8 +143,7 @@
               {
                 "type": "walkoff",
                 "wins": 3,
-                "losses": 0,
-                "ties": 0
+                "losses": 0
               },
               {
                 "type": "comeback",
@@ -226,8 +224,7 @@
               {
                 "type": "walkoff",
                 "wins": 0,
-                "losses": 5,
-                "ties": 0
+                "losses": 5
               },
               {
                 "type": "comeback",
@@ -317,8 +314,7 @@
               {
                 "type": "walkoff",
                 "wins": 4,
-                "losses": 5,
-                "ties": 0
+                "losses": 5
               },
               {
                 "type": "comeback",
@@ -400,8 +396,7 @@
               {
                 "type": "walkoff",
                 "wins": 4,
-                "losses": 0,
-                "ties": 0
+                "losses": 0
               },
               {
                 "type": "comeback",
@@ -482,8 +477,7 @@
               {
                 "type": "walkoff",
                 "wins": 0,
-                "losses": 5,
-                "ties": 0
+                "losses": 5
               },
               {
                 "type": "comeback",
@@ -573,8 +567,7 @@
               {
                 "type": "walkoff",
                 "wins": 2,
-                "losses": 2,
-                "ties": 0
+                "losses": 2
               },
               {
                 "type": "comeback",
@@ -656,8 +649,7 @@
               {
                 "type": "walkoff",
                 "wins": 2,
-                "losses": 0,
-                "ties": 0
+                "losses": 0
               },
               {
                 "type": "comeback",
@@ -738,8 +730,7 @@
               {
                 "type": "walkoff",
                 "wins": 0,
-                "losses": 2,
-                "ties": 0
+                "losses": 2
               },
               {
                 "type": "comeback",
@@ -829,8 +820,7 @@
               {
                 "type": "walkoff",
                 "wins": 2,
-                "losses": 6,
-                "ties": 0
+                "losses": 6
               },
               {
                 "type": "comeback",
@@ -912,8 +902,7 @@
               {
                 "type": "walkoff",
                 "wins": 2,
-                "losses": 0,
-                "ties": 0
+                "losses": 0
               },
               {
                 "type": "comeback",
@@ -994,8 +983,7 @@
               {
                 "type": "walkoff",
                 "wins": 0,
-                "losses": 6,
-                "ties": 0
+                "losses": 6
               },
               {
                 "type": "comeback",
@@ -1085,8 +1073,7 @@
               {
                 "type": "walkoff",
                 "wins": 3,
-                "losses": 1,
-                "ties": 0
+                "losses": 1
               },
               {
                 "type": "comeback",
@@ -1168,8 +1155,7 @@
               {
                 "type": "walkoff",
                 "wins": 3,
-                "losses": 0,
-                "ties": 0
+                "losses": 0
               },
               {
                 "type": "comeback",
@@ -1250,8 +1236,7 @@
               {
                 "type": "walkoff",
                 "wins": 0,
-                "losses": 1,
-                "ties": 0
+                "losses": 1
               },
               {
                 "type": "comeback",
@@ -1341,8 +1326,7 @@
               {
                 "type": "walkoff",
                 "wins": 4,
-                "losses": 4,
-                "ties": 0
+                "losses": 4
               },
               {
                 "type": "comeback",
@@ -1424,8 +1408,7 @@
               {
                 "type": "walkoff",
                 "wins": 4,
-                "losses": 0,
-                "ties": 0
+                "losses": 0
               },
               {
                 "type": "comeback",
@@ -1506,8 +1489,7 @@
               {
                 "type": "walkoff",
                 "wins": 0,
-                "losses": 4,
-                "ties": 0
+                "losses": 4
               },
               {
                 "type": "comeback",
@@ -1605,8 +1587,7 @@
               {
                 "type": "walkoff",
                 "wins": 5,
-                "losses": 5,
-                "ties": 0
+                "losses": 5
               },
               {
                 "type": "comeback",
@@ -1688,8 +1669,7 @@
               {
                 "type": "walkoff",
                 "wins": 5,
-                "losses": 0,
-                "ties": 0
+                "losses": 0
               },
               {
                 "type": "comeback",
@@ -1770,8 +1750,7 @@
               {
                 "type": "walkoff",
                 "wins": 0,
-                "losses": 5,
-                "ties": 0
+                "losses": 5
               },
               {
                 "type": "comeback",
@@ -1861,8 +1840,7 @@
               {
                 "type": "walkoff",
                 "wins": 4,
-                "losses": 3,
-                "ties": 0
+                "losses": 3
               },
               {
                 "type": "comeback",
@@ -1944,8 +1922,7 @@
               {
                 "type": "walkoff",
                 "wins": 4,
-                "losses": 0,
-                "ties": 0
+                "losses": 0
               },
               {
                 "type": "comeback",
@@ -2026,8 +2003,7 @@
               {
                 "type": "walkoff",
                 "wins": 0,
-                "losses": 3,
-                "ties": 0
+                "losses": 3
               },
               {
                 "type": "comeback",
@@ -2117,8 +2093,7 @@
               {
                 "type": "walkoff",
                 "wins": 6,
-                "losses": 3,
-                "ties": 0
+                "losses": 3
               },
               {
                 "type": "comeback",
@@ -2200,8 +2175,7 @@
               {
                 "type": "walkoff",
                 "wins": 6,
-                "losses": 0,
-                "ties": 0
+                "losses": 0
               },
               {
                 "type": "comeback",
@@ -2282,8 +2256,7 @@
               {
                 "type": "walkoff",
                 "wins": 0,
-                "losses": 3,
-                "ties": 0
+                "losses": 3
               },
               {
                 "type": "comeback",
@@ -2373,8 +2346,7 @@
               {
                 "type": "walkoff",
                 "wins": 5,
-                "losses": 4,
-                "ties": 0
+                "losses": 4
               },
               {
                 "type": "comeback",
@@ -2456,8 +2428,7 @@
               {
                 "type": "walkoff",
                 "wins": 5,
-                "losses": 0,
-                "ties": 0
+                "losses": 0
               },
               {
                 "type": "comeback",
@@ -2538,8 +2509,7 @@
               {
                 "type": "walkoff",
                 "wins": 0,
-                "losses": 4,
-                "ties": 0
+                "losses": 4
               },
               {
                 "type": "comeback",
@@ -2629,8 +2599,7 @@
               {
                 "type": "walkoff",
                 "wins": 5,
-                "losses": 3,
-                "ties": 0
+                "losses": 3
               },
               {
                 "type": "comeback",
@@ -2712,8 +2681,7 @@
               {
                 "type": "walkoff",
                 "wins": 5,
-                "losses": 0,
-                "ties": 0
+                "losses": 0
               },
               {
                 "type": "comeback",
@@ -2794,8 +2762,7 @@
               {
                 "type": "walkoff",
                 "wins": 0,
-                "losses": 3,
-                "ties": 0
+                "losses": 3
               },
               {
                 "type": "comeback",
@@ -2885,8 +2852,7 @@
               {
                 "type": "walkoff",
                 "wins": 5,
-                "losses": 7,
-                "ties": 0
+                "losses": 7
               },
               {
                 "type": "comeback",
@@ -2968,8 +2934,7 @@
               {
                 "type": "walkoff",
                 "wins": 5,
-                "losses": 0,
-                "ties": 0
+                "losses": 0
               },
               {
                 "type": "comeback",
@@ -3050,8 +3015,7 @@
               {
                 "type": "walkoff",
                 "wins": 0,
-                "losses": 7,
-                "ties": 0
+                "losses": 7
               },
               {
                 "type": "comeback",

@@ -87,7 +87,7 @@ async function generateStandings(readable, startDate = '2025-03-28', endDate = '
       { type: "shutout", pitching: 0, batting: 0, ties: 0 },
       { type: "doubleDigitRuns", scored: 0, allowed: 0 },
       { type: "extraInning", wins: 0, losses: 0, ties: 0 },
-      { type: "walkoff", wins: 0, losses: 0, ties: 0 },
+      { type: "walkoff", wins: 0, losses: 0 },
       { type: "comeback", wins: 0, losses: 0, ties: 0 },
       { type: "firstRunScored", wins: 0, losses: 0, ties: 0 },
       { type: "firstRunAllowed", wins: 0, losses: 0, ties: 0 },
@@ -107,76 +107,35 @@ async function generateStandings(readable, startDate = '2025-03-28', endDate = '
   for await (const cur of readable) {
     if (cur.date < startDate) continue;
     if (cur.date > endDate) continue;
+
     data[cur.target].lastUpdated = cur.date;
+
     ["gamesPlayed", "wins", "losses", "ties", "runsScored", "runsAllowed", "wlt"].forEach((wlt) => {
       data[cur.target].overall[wlt] += cur[wlt];
       if (cur.isHome) data[cur.target].home[wlt] += cur[wlt];
       if (cur.isRoad) data[cur.target].road[wlt] += cur[wlt];
     });
-    if (cur.isOneRunGame) {
-      ["wins", "losses"].forEach((wl) => {
-        const item = "oneRun";
-        data[cur.target].overall.splitRecords.find(sp => sp.type === item)[wl] += cur[wl];
-        if (cur.isHome) data[cur.target].home.splitRecords.find(sp => sp.type === item)[wl] += cur[wl];
-        if (cur.isRoad) data[cur.target].road.splitRecords.find(sp => sp.type === item)[wl] += cur[wl];
-      });
-    }
-    if (cur.isVsRHP) {
-      ["wins", "losses", "ties"].forEach((wl) => {
-        const item = "right";
-        data[cur.target].overall.splitRecords.find(sp => sp.type === item)[wl] += cur[wl];
-        if (cur.isHome) data[cur.target].home.splitRecords.find(sp => sp.type === item)[wl] += cur[wl];
-        if (cur.isRoad) data[cur.target].road.splitRecords.find(sp => sp.type === item)[wl] += cur[wl];
-      });
-    }
-    if (cur.isVsLHP) {
-      ["wins", "losses", "ties"].forEach((wl) => {
-        const item = "left";
-        data[cur.target].overall.splitRecords.find(sp => sp.type === item)[wl] += cur[wl];
-        if (cur.isHome) data[cur.target].home.splitRecords.find(sp => sp.type === item)[wl] += cur[wl];
-        if (cur.isRoad) data[cur.target].road.splitRecords.find(sp => sp.type === item)[wl] += cur[wl];
-      });
-    }
-    if (cur.isExtraInnings) {
-      ["wins", "losses", "ties"].forEach((wl) => {
-        const item = "extraInning";
-        data[cur.target].overall.splitRecords.find(sp => sp.type === item)[wl] += cur[wl];
-        if (cur.isHome) data[cur.target].home.splitRecords.find(sp => sp.type === item)[wl] += cur[wl];
-        if (cur.isRoad) data[cur.target].road.splitRecords.find(sp => sp.type === item)[wl] += cur[wl];
-      });
-    }
-    if (cur.isWalkOff) {
-      ["wins", "losses", "ties"].forEach((wl) => {
-        const item = "walkoff";
-        data[cur.target].overall.splitRecords.find(sp => sp.type === item)[wl] += cur[wl];
-        if (cur.isHome) data[cur.target].home.splitRecords.find(sp => sp.type === item)[wl] += cur[wl];
-        if (cur.isRoad) data[cur.target].road.splitRecords.find(sp => sp.type === item)[wl] += cur[wl];
-      });
-    }
-    if (cur.hadComeback) {
-      ["wins", "losses", "ties"].forEach((wl) => {
-        const item = "comeback";
-        data[cur.target].overall.splitRecords.find(sp => sp.type === item)[wl] += cur[wl];
-        if (cur.isHome) data[cur.target].home.splitRecords.find(sp => sp.type === item)[wl] += cur[wl];
-        if (cur.isRoad) data[cur.target].road.splitRecords.find(sp => sp.type === item)[wl] += cur[wl];
-      });
-    }
-    if (cur.isFirstRunScored) {
-      ["wins", "losses", "ties"].forEach((wl) => {
-        const item = "firstRunScored";
-        data[cur.target].overall.splitRecords.find(sp => sp.type === item)[wl] += cur[wl];
-        if (cur.isHome) data[cur.target].home.splitRecords.find(sp => sp.type === item)[wl] += cur[wl];
-        if (cur.isRoad) data[cur.target].road.splitRecords.find(sp => sp.type === item)[wl] += cur[wl];
-      });
-    }
-    if (cur.isFirstRunAllowed) {
-      ["wins", "losses", "ties"].forEach((wl) => {
-        const item = "firstRunAllowed";
-        data[cur.target].overall.splitRecords.find(sp => sp.type === item)[wl] += cur[wl];
-        if (cur.isHome) data[cur.target].home.splitRecords.find(sp => sp.type === item)[wl] += cur[wl];
-        if (cur.isRoad) data[cur.target].road.splitRecords.find(sp => sp.type === item)[wl] += cur[wl];
-      });
-    }
+
+    [
+      { criteria: cur.isOneRunGame, item: "oneRun", skipTies: true },
+      { criteria: cur.isVsRHP, item: "right" },
+      { criteria: cur.isVsLHP, item: "left" },
+      { criteria: cur.isExtraInnings, item: "extraInning" },
+      { criteria: cur.isWalkOff, item: "walkoff", skipTies: true },
+      { criteria: cur.hadComeback, item: "comeback" },
+      { criteria: cur.isFirstRunScored, item: "firstRunScored" },
+      { criteria: cur.isFirstRunAllowed, item: "firstRunAllowed" },
+    ].forEach(({ criteria, item, skipTies }) => {
+      if (criteria) {
+        ["wins", "losses", "ties"].forEach((wlt) => {
+          if (wlt === "ties" && skipTies) return;
+          data[cur.target].overall.splitRecords.find(sp => sp.type === item)[wlt] += cur[wlt];
+          if (cur.isHome) data[cur.target].home.splitRecords.find(sp => sp.type === item)[wlt] += cur[wlt];
+          if (cur.isRoad) data[cur.target].road.splitRecords.find(sp => sp.type === item)[wlt] += cur[wlt];
+        });
+      }
+    });
+
     if (cur.isShutout) {
       const pitching = cur.runsAllowed === 0 ? 1 : 0;
       const batting = cur.runsScored === 0 ? 1 : 0;
