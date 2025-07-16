@@ -17,7 +17,7 @@
   {
     "jaText": "（走者・羽月）二塁盗塁成功",
     "text": "Hatsuki steals 2nd base.",
-    "countsAsStealAttempt": true
+    "countsAsStealAttempt": false
   },
   {
     "jaText": "（走者・大盛）二塁盗塁成功",
