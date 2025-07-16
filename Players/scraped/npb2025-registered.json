@@ -5020,7 +5020,7 @@
     "year": "2025",
     "teamCode": "L",
     "title": "2025年度 支配下選手登録（埼玉西武ライオンズ） | 2025年度公示 | NPB.jp 日本野球機構",
-    "total": "67名",
+    "total": "68名",
     "rows": [
       {
         "mmdd": "12-17",
@@ -5581,6 +5581,14 @@
         "primaryNumber": "55",
         "playerId": "61465153",
         "jaRegisteredName": "仲三河　優太"
+      },
+      {
+        "mmdd": "07-16",
+        "teamCode": "L",
+        "jaPrimaryPosition": "内野手",
+        "primaryNumber": "10",
+        "playerId": "23025150",
+        "jaRegisteredName": "Ｊ．Ｄ．デービス"
       }
     ],
     "notes": [
