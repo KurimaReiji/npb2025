@@ -1,0 +1,27 @@
+[
+  {
+    "jaText": "（走者・岩田）二塁盗塁失敗",
+    "text": "Iwata caught stealing 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・増田大）二塁盗塁成功",
+    "text": "D.Masuda steals 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・羽月）二塁盗塁成功",
+    "text": "Hatsuki steals 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・牧原大）二塁盗塁失敗",
+    "text": "T.Makihara caught stealing 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・周東）二塁盗塁成功",
+    "text": "Shuto steals 2nd base.",
+    "countsAsStealAttempt": true
+  }
+]

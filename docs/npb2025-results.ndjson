@@ -501,3 +501,7 @@
 {"date":"2025-07-16","venue":"Belluna Dome","road":{"team":"Fighters","runs":10,"starter":"R"},"home":{"team":"Lions","runs":1,"starter":"R"},"firstRun":"Fighters","isWalkOff":false,"isExtraInnings":false,"hadComeback":false}
 {"date":"2025-07-16","venue":"Kyocera Dome","road":{"team":"Eagles","runs":0,"starter":"L"},"home":{"team":"Buffaloes","runs":1,"starter":"L"},"firstRun":"Buffaloes","isWalkOff":true,"isExtraInnings":false,"hadComeback":false}
 {"date":"2025-07-16","venue":"MIZUHO PayPay","road":{"team":"Marines","runs":0,"starter":"L"},"home":{"team":"Hawks","runs":6,"starter":"L"},"firstRun":"Hawks","isWalkOff":false,"isExtraInnings":false,"hadComeback":false}
+{"date":"2025-07-17","venue":"Jingu","road":{"team":"Giants","runs":2,"starter":"R"},"home":{"team":"Swallows","runs":3,"starter":"R"},"firstRun":"Giants","isWalkOff":false,"isExtraInnings":false,"hadComeback":true}
+{"date":"2025-07-17","venue":"Mazda Stadium","road":{"team":"Baystars","runs":1,"starter":"L"},"home":{"team":"Carp","runs":1,"starter":"L"},"firstRun":"Carp","isWalkOff":false,"isExtraInnings":false,"hadComeback":false}
+{"date":"2025-07-17","venue":"Belluna Dome","road":{"team":"Fighters","runs":3,"starter":"L"},"home":{"team":"Lions","runs":4,"starter":"R"},"firstRun":"Fighters","isWalkOff":false,"isExtraInnings":false,"hadComeback":true}
+{"date":"2025-07-17","venue":"Kitakyushu","road":{"team":"Marines","runs":2,"starter":"R"},"home":{"team":"Hawks","runs":2,"starter":"L"},"firstRun":"Marines","isWalkOff":false,"isExtraInnings":false,"hadComeback":false}
