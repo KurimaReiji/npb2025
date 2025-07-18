@@ -1,0 +1,370 @@
+[
+  {
+    "date": "2025-07-18",
+    "runner": {
+      "id": "11215151",
+      "jaBoxscoreName": "髙部",
+      "jaRegisteredName": "髙部　瑛斗",
+      "fullLFMName": "Takabe, Akito",
+      "primaryNumber": "38",
+      "teamCode": "M",
+      "boxscoreName": "Takabe",
+      "pitchHand": "R",
+      "batSide": "L"
+    },
+    "batter": {
+      "id": "71375159",
+      "jaBoxscoreName": "上田",
+      "jaRegisteredName": "上田　希由翔",
+      "fullLFMName": "Ueda, Kyuto",
+      "primaryNumber": "10",
+      "teamCode": "M",
+      "boxscoreName": "K.Ueda",
+      "pitchHand": "R",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "71875151",
+      "jaBoxscoreName": "宮城",
+      "jaRegisteredName": "宮城　大弥",
+      "fullLFMName": "Miyagi, Hiroya",
+      "primaryNumber": "18",
+      "teamCode": "B",
+      "boxscoreName": "Miyagi",
+      "pitchHand": "L",
+      "batSide": "L"
+    },
+    "catcher": {
+      "id": "41645139",
+      "jaBoxscoreName": "若月",
+      "jaRegisteredName": "若月　健矢",
+      "fullLFMName": "Wakatsuki, Kenya",
+      "primaryNumber": "2",
+      "teamCode": "B",
+      "boxscoreName": "Wakatsuki",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "scoring": "PickedOff",
+    "base": "1B",
+    "inning": 2,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "1--",
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "venue": {
+      "jaBoxscoreName": "ZOZOマリン",
+      "boxscoreName": "ZOZO Marine",
+      "jaName": "ZOZOマリンスタジアム",
+      "name": "ZOZO Marine Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "B",
+        "teamName": "Buffaloes",
+        "score": 8
+      },
+      "home": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 3
+      }
+    },
+    "jaText": "（走者・髙部）一塁牽制アウト",
+    "text": "Takabe picked off at 1st base.",
+    "url": "https://npb.jp/scores/2025/0718/m-b-13/playbyplay.html#com2-2",
+    "catchers": [
+      {
+        "id": "41645139",
+        "jaBoxscoreName": "若月",
+        "jaRegisteredName": "若月　健矢",
+        "fullLFMName": "Wakatsuki, Kenya",
+        "primaryNumber": "2",
+        "teamCode": "B",
+        "boxscoreName": "Wakatsuki",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+    ],
+    "countsAsStealAttempt": false
+  },
+  {
+    "date": "2025-07-18",
+    "runner": {
+      "id": "31635138",
+      "jaBoxscoreName": "藤原",
+      "jaRegisteredName": "藤原　恭大",
+      "fullLFMName": "Fujiwara, Kyota",
+      "primaryNumber": "1",
+      "teamCode": "M",
+      "boxscoreName": "Fujiwara",
+      "pitchHand": "L",
+      "batSide": "L"
+    },
+    "batter": {
+      "id": "51455159",
+      "jaBoxscoreName": "寺地",
+      "jaRegisteredName": "寺地　隆成",
+      "fullLFMName": "Terachi, Ryusei",
+      "primaryNumber": "65",
+      "teamCode": "M",
+      "boxscoreName": "Terachi",
+      "pitchHand": "R",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "13215157",
+      "jaBoxscoreName": "ペルドモ",
+      "jaRegisteredName": "Ｌ．ペルドモ",
+      "fullLFMName": "Perdomo, Luis",
+      "primaryNumber": "59",
+      "teamCode": "B",
+      "boxscoreName": "Perdomo",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "catcher": {
+      "id": "41645139",
+      "jaBoxscoreName": "若月",
+      "jaRegisteredName": "若月　健矢",
+      "fullLFMName": "Wakatsuki, Kenya",
+      "primaryNumber": "2",
+      "teamCode": "B",
+      "boxscoreName": "Wakatsuki",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "scoring": "StolenBase",
+    "base": "2B",
+    "inning": 8,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "1--",
+    "runs": {
+      "road": 3,
+      "home": 3
+    },
+    "venue": {
+      "jaBoxscoreName": "ZOZOマリン",
+      "boxscoreName": "ZOZO Marine",
+      "jaName": "ZOZOマリンスタジアム",
+      "name": "ZOZO Marine Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "B",
+        "teamName": "Buffaloes",
+        "score": 8
+      },
+      "home": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 3
+      }
+    },
+    "jaText": "（走者・藤原）二塁盗塁成功",
+    "text": "Fujiwara steals 2nd base.",
+    "url": "https://npb.jp/scores/2025/0718/m-b-13/playbyplay.html#com8-2",
+    "catchers": [
+      {
+        "id": "41645139",
+        "jaBoxscoreName": "若月",
+        "jaRegisteredName": "若月　健矢",
+        "fullLFMName": "Wakatsuki, Kenya",
+        "primaryNumber": "2",
+        "teamCode": "B",
+        "boxscoreName": "Wakatsuki",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+    ],
+    "countsAsStealAttempt": true
+  },
+  {
+    "date": "2025-07-18",
+    "runner": {
+      "id": "21625132",
+      "jaBoxscoreName": "廣岡",
+      "jaRegisteredName": "廣岡　大志",
+      "fullLFMName": "Hirooka, Taishi",
+      "primaryNumber": "30",
+      "teamCode": "B",
+      "boxscoreName": "Hirooka",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "batter": {
+      "id": "11815130",
+      "jaBoxscoreName": "宗",
+      "jaRegisteredName": "宗　佑磨",
+      "fullLFMName": "Mune, Yuma",
+      "primaryNumber": "6",
+      "teamCode": "B",
+      "boxscoreName": "Mune",
+      "pitchHand": "R",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "71675135",
+      "jaBoxscoreName": "益田",
+      "jaRegisteredName": "益田　直也",
+      "fullLFMName": "Masuda, Naoya",
+      "primaryNumber": "52",
+      "teamCode": "M",
+      "boxscoreName": "Masuda",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "catcher": {
+      "id": "51455159",
+      "jaBoxscoreName": "寺地",
+      "jaRegisteredName": "寺地　隆成",
+      "fullLFMName": "Terachi, Ryusei",
+      "primaryNumber": "65",
+      "teamCode": "M",
+      "boxscoreName": "Terachi",
+      "pitchHand": "R",
+      "batSide": "L"
+    },
+    "scoring": "CaughtStealing",
+    "base": "2B",
+    "inning": 9,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "1--",
+    "runs": {
+      "road": 3,
+      "home": 3
+    },
+    "venue": {
+      "jaBoxscoreName": "ZOZOマリン",
+      "boxscoreName": "ZOZO Marine",
+      "jaName": "ZOZOマリンスタジアム",
+      "name": "ZOZO Marine Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "B",
+        "teamName": "Buffaloes",
+        "score": 8
+      },
+      "home": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 3
+      }
+    },
+    "jaText": "（走者・廣岡）二塁盗塁失敗",
+    "text": "Hirooka caught stealing 2nd base.",
+    "url": "https://npb.jp/scores/2025/0718/m-b-13/playbyplay.html#com9-1",
+    "catchers": [
+      {
+        "id": "51455159",
+        "jaBoxscoreName": "寺地",
+        "jaRegisteredName": "寺地　隆成",
+        "fullLFMName": "Terachi, Ryusei",
+        "primaryNumber": "65",
+        "teamCode": "M",
+        "boxscoreName": "Terachi",
+        "pitchHand": "R",
+        "batSide": "L"
+      }
+    ],
+    "countsAsStealAttempt": true
+  },
+  {
+    "date": "2025-07-18",
+    "runner": {
+      "id": "11715153",
+      "jaBoxscoreName": "小川",
+      "jaRegisteredName": "小川　龍成",
+      "fullLFMName": "Ogawa, Ryusei",
+      "primaryNumber": "57",
+      "teamCode": "M",
+      "boxscoreName": "Ogawa",
+      "pitchHand": "R",
+      "batSide": "L"
+    },
+    "batter": {
+      "id": "41645136",
+      "jaBoxscoreName": "藤岡",
+      "jaRegisteredName": "藤岡　裕大",
+      "fullLFMName": "Fujioka, Yudai",
+      "primaryNumber": "7",
+      "teamCode": "M",
+      "boxscoreName": "Fujioka",
+      "pitchHand": "R",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "21725157",
+      "jaBoxscoreName": "才木",
+      "jaRegisteredName": "才木　海翔",
+      "fullLFMName": "Saiki, Kaito",
+      "primaryNumber": "95",
+      "teamCode": "B",
+      "boxscoreName": "Saiki",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "catcher": {
+      "id": "41645139",
+      "jaBoxscoreName": "若月",
+      "jaRegisteredName": "若月　健矢",
+      "fullLFMName": "Wakatsuki, Kenya",
+      "primaryNumber": "2",
+      "teamCode": "B",
+      "boxscoreName": "Wakatsuki",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "scoring": "CaughtStealing",
+    "base": "2B",
+    "inning": 9,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "1--",
+    "runs": {
+      "road": 3,
+      "home": 3
+    },
+    "venue": {
+      "jaBoxscoreName": "ZOZOマリン",
+      "boxscoreName": "ZOZO Marine",
+      "jaName": "ZOZOマリンスタジアム",
+      "name": "ZOZO Marine Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "B",
+        "teamName": "Buffaloes",
+        "score": 8
+      },
+      "home": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 3
+      }
+    },
+    "jaText": "（走者・小川）二塁盗塁失敗",
+    "text": "Ogawa caught stealing 2nd base.",
+    "url": "https://npb.jp/scores/2025/0718/m-b-13/playbyplay.html#com9-2",
+    "catchers": [
+      {
+        "id": "41645139",
+        "jaBoxscoreName": "若月",
+        "jaRegisteredName": "若月　健矢",
+        "fullLFMName": "Wakatsuki, Kenya",
+        "primaryNumber": "2",
+        "teamCode": "B",
+        "boxscoreName": "Wakatsuki",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+    ],
+    "countsAsStealAttempt": true
+  }
+]

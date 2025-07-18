@@ -1,0 +1,22 @@
+[
+  {
+    "jaText": "（走者・髙部）一塁牽制アウト",
+    "text": "Takabe picked off at 1st base.",
+    "countsAsStealAttempt": false
+  },
+  {
+    "jaText": "（走者・藤原）二塁盗塁成功",
+    "text": "Fujiwara steals 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・廣岡）二塁盗塁失敗",
+    "text": "Hirooka caught stealing 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・小川）二塁盗塁失敗",
+    "text": "Ogawa caught stealing 2nd base.",
+    "countsAsStealAttempt": true
+  }
+]
