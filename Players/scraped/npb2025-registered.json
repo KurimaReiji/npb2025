@@ -1797,7 +1797,7 @@
     "year": "2025",
     "teamCode": "DB",
     "title": "2025年度 支配下選手登録（横浜DeNAベイスターズ） | 2025年度公示 | NPB.jp 日本野球機構",
-    "total": "68名",
+    "total": "69名",
     "rows": [
       {
         "mmdd": "12-17",
@@ -2358,6 +2358,14 @@
         "primaryNumber": "99",
         "playerId": "03205159",
         "jaRegisteredName": "Ｍ．フォード"
+      },
+      {
+        "mmdd": "07-18",
+        "teamCode": "DB",
+        "jaPrimaryPosition": "投手",
+        "primaryNumber": "27",
+        "playerId": "41045137",
+        "jaRegisteredName": "藤浪　晋太郎"
       }
     ],
     "notes": [
@@ -3043,7 +3051,7 @@
     "year": "2025",
     "teamCode": "F",
     "title": "2025年度 支配下選手登録（北海道日本ハムファイターズ） | 2025年度公示 | NPB.jp 日本野球機構",
-    "total": "68名",
+    "total": "69名",
     "rows": [
       {
         "mmdd": "12-17",
@@ -3604,6 +3612,14 @@
         "primaryNumber": "96",
         "playerId": "83785159",
         "jaRegisteredName": "孫　易磊"
+      },
+      {
+        "mmdd": "07-18",
+        "teamCode": "F",
+        "jaPrimaryPosition": "投手",
+        "primaryNumber": "97",
+        "playerId": "53155157",
+        "jaRegisteredName": "宮内　春輝"
       }
     ],
     "notes": [
@@ -3621,6 +3637,14 @@
         "jaPrimaryPosition": "投手",
         "playerId": "83785159",
         "jaRegisteredName": "孫　易磊",
+        "desc": ""
+      },
+      {
+        "item": "【支配下選手登録（育成選手から移行）】",
+        "date": "2025-07-18",
+        "jaPrimaryPosition": "投手",
+        "playerId": "53155157",
+        "jaRegisteredName": "宮内　春輝",
         "desc": ""
       },
       {

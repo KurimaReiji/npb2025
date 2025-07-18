@@ -2296,7 +2296,9 @@
 {"date":"2025-07-13","playerId":"13115159","jaBoxscoreName":"前田悠","boxscoreName":"Y.Maeda"}
 {"date":"2025-07-15","playerId":"91095136","jaBoxscoreName":"髙橋","boxscoreName":"Takahashi"}
 {"date":"2025-07-15","playerId":"11315150","jaBoxscoreName":"一條","boxscoreName":"Ichijo"}
-{"date":"2025-07-16","jaEvent":"支配下選手登録","teamCode":"L","playerId":"23025150","jaRegisteredName":"Ｊ．Ｄ．デービス","primaryNumber":"10","jaPrimaryPosition":"内野手"}
+{"date":"2025-07-16","jaEvent":"支配下選手登録","teamCode":"L","playerId":"23025150","jaRegisteredName":"Ｊ．Ｄ．デービス","primaryNumber":"10","jaPrimaryPosition":"内野手","birthDate":"1993-04-27","height":"190","weight":"97","pitchHand":"R","batSide":"R","fullLFMName":"Davis, Jonathan"}
 {"date":"2025-07-16","playerId":"57955159","jaBoxscoreName":"早川","boxscoreName":"Hayakawa"}
 {"date":"2025-07-16","playerId":"93395159","jaBoxscoreName":"村田","boxscoreName":"Murata"}
 {"date":"2025-07-16","playerId":"93795159","jaBoxscoreName":"ザバラ","boxscoreName":"Zabala"}
+{"date":"2025-07-18","jaEvent":"支配下選手登録","teamCode":"DB","playerId":"41045137","jaRegisteredName":"藤浪　晋太郎","primaryNumber":"27","jaPrimaryPosition":"投手"}
+{"date":"2025-07-18","jaEvent":"支配下選手登録","teamCode":"F","playerId":"53155157","jaRegisteredName":"宮内　春輝","primaryNumber":"97","jaPrimaryPosition":"投手","jaEventDetails":"育成選手から移行"}
