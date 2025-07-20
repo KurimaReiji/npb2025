@@ -1,0 +1,197 @@
+[
+  {
+    "jaText": "（走者・上林）二塁盗塁成功",
+    "text": "Uebayashi steals 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・上林）二塁盗塁成功",
+    "text": "Uebayashi steals 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・中島）二塁盗塁失敗",
+    "text": "Nakashima caught stealing 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・緒方）二塁盗塁成功",
+    "text": "R.Ogata steals 2nd base.",
+    "countsAsStealAttempt": true,
+    "catcher": {},
+    "catchers": [
+      {
+        "id": "91995112",
+        "jaBoxscoreName": "炭谷",
+        "jaRegisteredName": "炭谷　銀仁朗",
+        "fullLFMName": "Sumitani, Ginjiro",
+        "primaryNumber": "27",
+        "teamCode": "L",
+        "boxscoreName": "Sumitani",
+        "pitchHand": "R",
+        "batSide": "R"
+      },
+      {
+        "id": "81785155",
+        "jaBoxscoreName": "古賀悠",
+        "jaRegisteredName": "古賀　悠斗",
+        "fullLFMName": "Koga, Yuto",
+        "primaryNumber": "22",
+        "teamCode": "L",
+        "boxscoreName": "Y.Koga",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+    ]
+  },
+  {
+    "jaText": "（走者・小川）二塁盗塁成功",
+    "text": "Ogawa steals 2nd base.",
+    "countsAsStealAttempt": true,
+    "catcher": {},
+    "catchers": [
+      {
+        "id": "41645139",
+        "jaBoxscoreName": "若月",
+        "jaRegisteredName": "若月　健矢",
+        "fullLFMName": "Wakatsuki, Kenya",
+        "primaryNumber": "2",
+        "teamCode": "B",
+        "boxscoreName": "Wakatsuki",
+        "pitchHand": "R",
+        "batSide": "R"
+      },
+      {
+        "id": "11815155",
+        "jaBoxscoreName": "福永",
+        "jaRegisteredName": "福永　奨",
+        "fullLFMName": "Fukunaga, Sho",
+        "primaryNumber": "32",
+        "teamCode": "B",
+        "boxscoreName": "Fukunaga",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+    ]
+  },
+  {
+    "jaText": "（走者・大里）二塁盗塁成功",
+    "text": "Ohsato steals 2nd base.",
+    "countsAsStealAttempt": true,
+    "catcher": {},
+    "catchers": [
+      {
+        "id": "51455159",
+        "jaBoxscoreName": "寺地",
+        "jaRegisteredName": "寺地　隆成",
+        "fullLFMName": "Terachi, Ryusei",
+        "primaryNumber": "65",
+        "teamCode": "M",
+        "boxscoreName": "Terachi",
+        "pitchHand": "R",
+        "batSide": "L"
+      },
+      {
+        "id": "91395151",
+        "jaBoxscoreName": "植田",
+        "jaRegisteredName": "植田　将太",
+        "fullLFMName": "Ueda, Shota",
+        "primaryNumber": "45",
+        "teamCode": "M",
+        "boxscoreName": "S.Ueda",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+    ]
+  },
+  {
+    "jaText": "（走者・藤原）二塁盗塁成功",
+    "text": "Fujiwara steals 2nd base.",
+    "countsAsStealAttempt": true,
+    "catcher": {},
+    "catchers": [
+      {
+        "id": "41645139",
+        "jaBoxscoreName": "若月",
+        "jaRegisteredName": "若月　健矢",
+        "fullLFMName": "Wakatsuki, Kenya",
+        "primaryNumber": "2",
+        "teamCode": "B",
+        "boxscoreName": "Wakatsuki",
+        "pitchHand": "R",
+        "batSide": "R"
+      },
+      {
+        "id": "11815155",
+        "jaBoxscoreName": "福永",
+        "jaRegisteredName": "福永　奨",
+        "fullLFMName": "Fukunaga, Sho",
+        "primaryNumber": "32",
+        "teamCode": "B",
+        "boxscoreName": "Fukunaga",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+    ]
+  },
+  {
+    "jaText": "（走者・大里）二塁盗塁成功",
+    "text": "Ohsato steals 2nd base.",
+    "countsAsStealAttempt": true,
+    "catcher": {},
+    "catchers": [
+      {
+        "id": "51455159",
+        "jaBoxscoreName": "寺地",
+        "jaRegisteredName": "寺地　隆成",
+        "fullLFMName": "Terachi, Ryusei",
+        "primaryNumber": "65",
+        "teamCode": "M",
+        "boxscoreName": "Terachi",
+        "pitchHand": "R",
+        "batSide": "L"
+      },
+      {
+        "id": "91395151",
+        "jaBoxscoreName": "植田",
+        "jaRegisteredName": "植田　将太",
+        "fullLFMName": "Ueda, Shota",
+        "primaryNumber": "45",
+        "teamCode": "M",
+        "boxscoreName": "S.Ueda",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+    ]
+  },
+  {
+    "jaText": "（走者・小川）二塁盗塁成功",
+    "text": "Ogawa steals 2nd base.",
+    "countsAsStealAttempt": true,
+    "catcher": {},
+    "catchers": [
+      {
+        "id": "41645139",
+        "jaBoxscoreName": "若月",
+        "jaRegisteredName": "若月　健矢",
+        "fullLFMName": "Wakatsuki, Kenya",
+        "primaryNumber": "2",
+        "teamCode": "B",
+        "boxscoreName": "Wakatsuki",
+        "pitchHand": "R",
+        "batSide": "R"
+      },
+      {
+        "id": "11815155",
+        "jaBoxscoreName": "福永",
+        "jaRegisteredName": "福永　奨",
+        "fullLFMName": "Fukunaga, Sho",
+        "primaryNumber": "32",
+        "teamCode": "B",
+        "boxscoreName": "Fukunaga",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+    ]
+  }
+]
