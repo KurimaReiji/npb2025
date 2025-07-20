@@ -14,6 +14,7 @@ const get_linescore_urls = (dates) => {
     .filter((a) => /scores\/[12]/.test(a.href))
     .filter((a) => !a.textContent.includes("中止"))
     .filter((a) => !a.textContent.includes("ノーゲーム"))
+    .filter((a) => !a.href.includes("wl"))
     ;
 
   return dates.map(date => {
