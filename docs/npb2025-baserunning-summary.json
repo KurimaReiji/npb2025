@@ -1,5 +1,5 @@
 {
-  "updated": "2025-07-20",
+  "updated": "2025-07-21",
   "catchers": [
     {
       "att": 61,
@@ -54,6 +54,32 @@
       "rate": ".220"
     },
     {
+      "att": 46,
+      "sb": 36,
+      "cs": 10,
+      "ds": 0,
+      "ts": 0,
+      "pickoff": {
+        "pickoff": 4,
+        "sb": 0,
+        "cs": 2,
+        "ds": 0,
+        "ts": 0
+      },
+      "catcher": {
+        "id": "81785155",
+        "jaBoxscoreName": "古賀悠",
+        "jaRegisteredName": "古賀　悠斗",
+        "fullLFMName": "Koga, Yuto",
+        "primaryNumber": "22",
+        "teamCode": "L",
+        "boxscoreName": "Y.Koga",
+        "pitchHand": "R",
+        "batSide": "R"
+      },
+      "rate": ".217"
+    },
+    {
       "att": 45,
       "sb": 35,
       "cs": 10,
@@ -74,32 +100,6 @@
         "primaryNumber": "2",
         "teamCode": "B",
         "boxscoreName": "Wakatsuki",
-        "pitchHand": "R",
-        "batSide": "R"
-      },
-      "rate": ".222"
-    },
-    {
-      "att": 45,
-      "sb": 35,
-      "cs": 10,
-      "ds": 0,
-      "ts": 0,
-      "pickoff": {
-        "pickoff": 4,
-        "sb": 0,
-        "cs": 2,
-        "ds": 0,
-        "ts": 0
-      },
-      "catcher": {
-        "id": "81785155",
-        "jaBoxscoreName": "古賀悠",
-        "jaRegisteredName": "古賀　悠斗",
-        "fullLFMName": "Koga, Yuto",
-        "primaryNumber": "22",
-        "teamCode": "L",
-        "boxscoreName": "Y.Koga",
         "pitchHand": "R",
         "batSide": "R"
       },
@@ -132,15 +132,15 @@
       "rate": ".349"
     },
     {
-      "att": 38,
-      "sb": 21,
+      "att": 40,
+      "sb": 23,
       "cs": 17,
       "ds": 0,
       "ts": 0,
       "pickoff": {
         "pickoff": 0,
         "sb": 0,
-        "cs": 2,
+        "cs": 3,
         "ds": 0,
         "ts": 0
       },
@@ -155,7 +155,7 @@
         "pitchHand": "R",
         "batSide": "R"
       },
-      "rate": ".447"
+      "rate": ".425"
     },
     {
       "att": 37,
@@ -184,13 +184,13 @@
       "rate": ".324"
     },
     {
-      "att": 36,
-      "sb": 24,
+      "att": 37,
+      "sb": 25,
       "cs": 12,
       "ds": 0,
       "ts": 0,
       "pickoff": {
-        "pickoff": 3,
+        "pickoff": 4,
         "sb": 2,
         "cs": 2,
         "ds": 0,
@@ -207,7 +207,7 @@
         "pitchHand": "R",
         "batSide": "R"
       },
-      "rate": ".333"
+      "rate": ".324"
     },
     {
       "att": 33,
@@ -424,6 +424,32 @@
       "ds": 0,
       "ts": 0,
       "pickoff": {
+        "pickoff": 3,
+        "sb": 0,
+        "cs": 5,
+        "ds": 0,
+        "ts": 0
+      },
+      "catcher": {
+        "id": "11815132",
+        "jaBoxscoreName": "堀内",
+        "jaRegisteredName": "堀内　謙伍",
+        "fullLFMName": "Horiuchi, Kengo",
+        "primaryNumber": "65",
+        "teamCode": "E",
+        "boxscoreName": "Horiuchi",
+        "pitchHand": "R",
+        "batSide": "L"
+      },
+      "rate": ".200"
+    },
+    {
+      "att": 20,
+      "sb": 16,
+      "cs": 4,
+      "ds": 0,
+      "ts": 0,
+      "pickoff": {
         "pickoff": 1,
         "sb": 0,
         "cs": 2,
@@ -442,32 +468,6 @@
         "batSide": "R"
       },
       "rate": ".200"
-    },
-    {
-      "att": 19,
-      "sb": 16,
-      "cs": 3,
-      "ds": 0,
-      "ts": 0,
-      "pickoff": {
-        "pickoff": 2,
-        "sb": 0,
-        "cs": 5,
-        "ds": 0,
-        "ts": 0
-      },
-      "catcher": {
-        "id": "11815132",
-        "jaBoxscoreName": "堀内",
-        "jaRegisteredName": "堀内　謙伍",
-        "fullLFMName": "Horiuchi, Kengo",
-        "primaryNumber": "65",
-        "teamCode": "E",
-        "boxscoreName": "Horiuchi",
-        "pitchHand": "R",
-        "batSide": "L"
-      },
-      "rate": ".158"
     },
     {
       "att": 18,
@@ -1798,6 +1798,32 @@
       "rate": ".111"
     },
     {
+      "att": 7,
+      "sb": 4,
+      "cs": 3,
+      "ds": 0,
+      "ts": 0,
+      "pickoff": {
+        "pickoff": 0,
+        "sb": 0,
+        "cs": 1,
+        "ds": 0,
+        "ts": 0
+      },
+      "pitcher": {
+        "id": "93995150",
+        "jaBoxscoreName": "ランバート",
+        "jaRegisteredName": "Ｐ．ランバート",
+        "fullLFMName": "Lambert, Peter",
+        "primaryNumber": "39",
+        "teamCode": "S",
+        "boxscoreName": "Lambert",
+        "pitchHand": "R",
+        "batSide": "R"
+      },
+      "rate": ".500"
+    },
+    {
       "att": 8,
       "sb": 7,
       "cs": 1,
@@ -2071,32 +2097,6 @@
         "ts": 0
       },
       "pitcher": {
-        "id": "93995150",
-        "jaBoxscoreName": "ランバート",
-        "jaRegisteredName": "Ｐ．ランバート",
-        "fullLFMName": "Lambert, Peter",
-        "primaryNumber": "39",
-        "teamCode": "S",
-        "boxscoreName": "Lambert",
-        "pitchHand": "R",
-        "batSide": "R"
-      },
-      "rate": ".500"
-    },
-    {
-      "att": 6,
-      "sb": 3,
-      "cs": 3,
-      "ds": 0,
-      "ts": 0,
-      "pickoff": {
-        "pickoff": 0,
-        "sb": 0,
-        "cs": 0,
-        "ds": 0,
-        "ts": 0
-      },
-      "pitcher": {
         "id": "03705157",
         "jaBoxscoreName": "グリフィン",
         "jaRegisteredName": "Ｆ．グリフィン",
@@ -2157,6 +2157,32 @@
         "teamCode": "F",
         "boxscoreName": "T.Katoh",
         "pitchHand": "L",
+        "batSide": "L"
+      },
+      "rate": ".333"
+    },
+    {
+      "att": 6,
+      "sb": 4,
+      "cs": 2,
+      "ds": 0,
+      "ts": 0,
+      "pickoff": {
+        "pickoff": 0,
+        "sb": 0,
+        "cs": 0,
+        "ds": 0,
+        "ts": 0
+      },
+      "pitcher": {
+        "id": "51955138",
+        "jaBoxscoreName": "清水",
+        "jaRegisteredName": "清水　昇",
+        "fullLFMName": "Shimizu, Noboru",
+        "primaryNumber": "17",
+        "teamCode": "S",
+        "boxscoreName": "Shimizu",
+        "pitchHand": "R",
         "batSide": "L"
       },
       "rate": ".333"
@@ -2312,6 +2338,32 @@
         "primaryNumber": "63",
         "teamCode": "H",
         "boxscoreName": "Hernandez",
+        "pitchHand": "L",
+        "batSide": "L"
+      },
+      "rate": ".000"
+    },
+    {
+      "att": 6,
+      "sb": 6,
+      "cs": 0,
+      "ds": 0,
+      "ts": 0,
+      "pickoff": {
+        "pickoff": 2,
+        "sb": 0,
+        "cs": 0,
+        "ds": 0,
+        "ts": 0
+      },
+      "pitcher": {
+        "id": "51155136",
+        "jaBoxscoreName": "東",
+        "jaRegisteredName": "東　克樹",
+        "fullLFMName": "Azuma, Katsuki",
+        "primaryNumber": "11",
+        "teamCode": "DB",
+        "boxscoreName": "K.Azuma",
         "pitchHand": "L",
         "batSide": "L"
       },
@@ -2572,32 +2624,6 @@
         "primaryNumber": "69",
         "teamCode": "E",
         "boxscoreName": "Uchi",
-        "pitchHand": "R",
-        "batSide": "L"
-      },
-      "rate": ".400"
-    },
-    {
-      "att": 5,
-      "sb": 3,
-      "cs": 2,
-      "ds": 0,
-      "ts": 0,
-      "pickoff": {
-        "pickoff": 0,
-        "sb": 0,
-        "cs": 0,
-        "ds": 0,
-        "ts": 0
-      },
-      "pitcher": {
-        "id": "51955138",
-        "jaBoxscoreName": "清水",
-        "jaRegisteredName": "清水　昇",
-        "fullLFMName": "Shimizu, Noboru",
-        "primaryNumber": "17",
-        "teamCode": "S",
-        "boxscoreName": "Shimizu",
         "pitchHand": "R",
         "batSide": "L"
       },
@@ -2914,32 +2940,6 @@
         "batSide": "L"
       },
       "rate": ".200"
-    },
-    {
-      "att": 5,
-      "sb": 5,
-      "cs": 0,
-      "ds": 0,
-      "ts": 0,
-      "pickoff": {
-        "pickoff": 2,
-        "sb": 0,
-        "cs": 0,
-        "ds": 0,
-        "ts": 0
-      },
-      "pitcher": {
-        "id": "51155136",
-        "jaBoxscoreName": "東",
-        "jaRegisteredName": "東　克樹",
-        "fullLFMName": "Azuma, Katsuki",
-        "primaryNumber": "11",
-        "teamCode": "DB",
-        "boxscoreName": "K.Azuma",
-        "pitchHand": "L",
-        "batSide": "L"
-      },
-      "rate": ".000"
     },
     {
       "att": 5,
@@ -4144,6 +4144,32 @@
       "ds": 0,
       "ts": 0,
       "pickoff": {
+        "pickoff": 1,
+        "sb": 0,
+        "cs": 0,
+        "ds": 0,
+        "ts": 0
+      },
+      "pitcher": {
+        "id": "31235151",
+        "jaBoxscoreName": "瀧中",
+        "jaRegisteredName": "瀧中　瞭太",
+        "fullLFMName": "Takinaka, Ryota",
+        "primaryNumber": "57",
+        "teamCode": "E",
+        "boxscoreName": "Takinaka",
+        "pitchHand": "R",
+        "batSide": "R"
+      },
+      "rate": ".500"
+    },
+    {
+      "att": 2,
+      "sb": 1,
+      "cs": 1,
+      "ds": 0,
+      "ts": 0,
+      "pickoff": {
         "pickoff": 0,
         "sb": 0,
         "cs": 0,
@@ -4887,6 +4913,32 @@
         "teamCode": "L",
         "boxscoreName": "Kaino",
         "pitchHand": "R",
+        "batSide": "L"
+      },
+      "rate": ".000"
+    },
+    {
+      "att": 2,
+      "sb": 2,
+      "cs": 0,
+      "ds": 0,
+      "ts": 0,
+      "pickoff": {
+        "pickoff": 0,
+        "sb": 0,
+        "cs": 0,
+        "ds": 0,
+        "ts": 0
+      },
+      "pitcher": {
+        "id": "51655155",
+        "jaBoxscoreName": "羽田",
+        "jaRegisteredName": "羽田　慎之介",
+        "fullLFMName": "Hada, Shinnosuke",
+        "primaryNumber": "43",
+        "teamCode": "L",
+        "boxscoreName": "Hada",
+        "pitchHand": "L",
         "batSide": "L"
       },
       "rate": ".000"
@@ -5867,32 +5919,6 @@
         "ts": 0
       },
       "pitcher": {
-        "id": "31235151",
-        "jaBoxscoreName": "瀧中",
-        "jaRegisteredName": "瀧中　瞭太",
-        "fullLFMName": "Takinaka, Ryota",
-        "primaryNumber": "57",
-        "teamCode": "E",
-        "boxscoreName": "Takinaka",
-        "pitchHand": "R",
-        "batSide": "R"
-      },
-      "rate": ".000"
-    },
-    {
-      "att": 1,
-      "sb": 1,
-      "cs": 0,
-      "ds": 0,
-      "ts": 0,
-      "pickoff": {
-        "pickoff": 0,
-        "sb": 0,
-        "cs": 0,
-        "ds": 0,
-        "ts": 0
-      },
-      "pitcher": {
         "id": "31235159",
         "jaBoxscoreName": "滝田",
         "jaRegisteredName": "滝田　一希",
@@ -6240,32 +6266,6 @@
         "boxscoreName": "Umeno",
         "pitchHand": "R",
         "batSide": "R"
-      },
-      "rate": ".000"
-    },
-    {
-      "att": 1,
-      "sb": 1,
-      "cs": 0,
-      "ds": 0,
-      "ts": 0,
-      "pickoff": {
-        "pickoff": 0,
-        "sb": 0,
-        "cs": 0,
-        "ds": 0,
-        "ts": 0
-      },
-      "pitcher": {
-        "id": "51655155",
-        "jaBoxscoreName": "羽田",
-        "jaRegisteredName": "羽田　慎之介",
-        "fullLFMName": "Hada, Shinnosuke",
-        "primaryNumber": "43",
-        "teamCode": "L",
-        "boxscoreName": "Hada",
-        "pitchHand": "L",
-        "batSide": "L"
       },
       "rate": ".000"
     },
@@ -6881,6 +6881,32 @@
         "ts": 0
       },
       "pitcher": {
+        "id": "41145151",
+        "jaBoxscoreName": "伊勢",
+        "jaRegisteredName": "伊勢　大夢",
+        "fullLFMName": "Ise, Hiromu",
+        "primaryNumber": "13",
+        "teamCode": "DB",
+        "boxscoreName": "Ise",
+        "pitchHand": "R",
+        "batSide": "R"
+      },
+      "rate": "---"
+    },
+    {
+      "att": 0,
+      "sb": 0,
+      "cs": 0,
+      "ds": 0,
+      "ts": 0,
+      "pickoff": {
+        "pickoff": 1,
+        "sb": 0,
+        "cs": 0,
+        "ds": 0,
+        "ts": 0
+      },
+      "pitcher": {
         "id": "41845138",
         "jaBoxscoreName": "湯浅",
         "jaRegisteredName": "湯浅　京己",
@@ -7078,6 +7104,32 @@
       "rate": ".783"
     },
     {
+      "att": 19,
+      "sb": 13,
+      "cs": 6,
+      "ds": 0,
+      "ts": 0,
+      "pickoff": {
+        "pickoff": 2,
+        "sb": 0,
+        "cs": 1,
+        "ds": 0,
+        "ts": 0
+      },
+      "runner": {
+        "id": "11315153",
+        "jaBoxscoreName": "五十幡",
+        "jaRegisteredName": "五十幡　亮汰",
+        "fullLFMName": "Isobata, Ryota",
+        "primaryNumber": "50",
+        "teamCode": "F",
+        "boxscoreName": "Isobata",
+        "pitchHand": "R",
+        "batSide": "L"
+      },
+      "rate": ".650"
+    },
+    {
       "att": 17,
       "sb": 14,
       "cs": 3,
@@ -7102,32 +7154,6 @@
         "batSide": "L"
       },
       "rate": ".737"
-    },
-    {
-      "att": 18,
-      "sb": 13,
-      "cs": 5,
-      "ds": 0,
-      "ts": 0,
-      "pickoff": {
-        "pickoff": 2,
-        "sb": 0,
-        "cs": 1,
-        "ds": 0,
-        "ts": 0
-      },
-      "runner": {
-        "id": "11315153",
-        "jaBoxscoreName": "五十幡",
-        "jaRegisteredName": "五十幡　亮汰",
-        "fullLFMName": "Isobata, Ryota",
-        "primaryNumber": "50",
-        "teamCode": "F",
-        "boxscoreName": "Isobata",
-        "pitchHand": "R",
-        "batSide": "L"
-      },
-      "rate": ".684"
     },
     {
       "att": 16,
@@ -7190,7 +7216,7 @@
       "pickoff": {
         "pickoff": 1,
         "sb": 1,
-        "cs": 0,
+        "cs": 1,
         "ds": 0,
         "ts": 0
       },
@@ -7205,7 +7231,7 @@
         "pitchHand": "R",
         "batSide": "L"
       },
-      "rate": ".813"
+      "rate": ".765"
     },
     {
       "att": 14,
@@ -7364,8 +7390,8 @@
       "rate": ".769"
     },
     {
-      "att": 11,
-      "sb": 7,
+      "att": 12,
+      "sb": 8,
       "cs": 4,
       "ds": 0,
       "ts": 0,
@@ -7387,7 +7413,7 @@
         "pitchHand": "R",
         "batSide": "L"
       },
-      "rate": ".667"
+      "rate": ".692"
     },
     {
       "att": 10,
@@ -7495,6 +7521,32 @@
     },
     {
       "att": 9,
+      "sb": 7,
+      "cs": 2,
+      "ds": 0,
+      "ts": 0,
+      "pickoff": {
+        "pickoff": 0,
+        "sb": 0,
+        "cs": 0,
+        "ds": 0,
+        "ts": 0
+      },
+      "runner": {
+        "id": "21025157",
+        "jaBoxscoreName": "田中",
+        "jaRegisteredName": "田中　幹也",
+        "fullLFMName": "Tanaka, Mikiya",
+        "primaryNumber": "2",
+        "teamCode": "D",
+        "boxscoreName": "Tanaka",
+        "pitchHand": "R",
+        "batSide": "R"
+      },
+      "rate": ".778"
+    },
+    {
+      "att": 9,
       "sb": 6,
       "cs": 3,
       "ds": 0,
@@ -7570,6 +7622,32 @@
         "batSide": "L"
       },
       "rate": "1.000"
+    },
+    {
+      "att": 8,
+      "sb": 7,
+      "cs": 1,
+      "ds": 0,
+      "ts": 0,
+      "pickoff": {
+        "pickoff": 0,
+        "sb": 0,
+        "cs": 0,
+        "ds": 0,
+        "ts": 0
+      },
+      "runner": {
+        "id": "61465133",
+        "jaBoxscoreName": "牧原大",
+        "jaRegisteredName": "牧原　大成",
+        "fullLFMName": "Makihara, Taisei",
+        "primaryNumber": "8",
+        "teamCode": "H",
+        "boxscoreName": "T.Makihara",
+        "pitchHand": "R",
+        "batSide": "L"
+      },
+      "rate": ".875"
     },
     {
       "att": 7,
@@ -7672,32 +7750,6 @@
         "boxscoreName": "Genda",
         "pitchHand": "R",
         "batSide": "L"
-      },
-      "rate": ".750"
-    },
-    {
-      "att": 8,
-      "sb": 6,
-      "cs": 2,
-      "ds": 0,
-      "ts": 0,
-      "pickoff": {
-        "pickoff": 0,
-        "sb": 0,
-        "cs": 0,
-        "ds": 0,
-        "ts": 0
-      },
-      "runner": {
-        "id": "21025157",
-        "jaBoxscoreName": "田中",
-        "jaRegisteredName": "田中　幹也",
-        "fullLFMName": "Tanaka, Mikiya",
-        "primaryNumber": "2",
-        "teamCode": "D",
-        "boxscoreName": "Tanaka",
-        "pitchHand": "R",
-        "batSide": "R"
       },
       "rate": ".750"
     },
@@ -7812,7 +7864,7 @@
       "ds": 0,
       "ts": 0,
       "pickoff": {
-        "pickoff": 1,
+        "pickoff": 2,
         "sb": 0,
         "cs": 0,
         "ds": 0,
@@ -7827,32 +7879,6 @@
         "teamCode": "F",
         "boxscoreName": "Yazawa",
         "pitchHand": "L",
-        "batSide": "L"
-      },
-      "rate": ".857"
-    },
-    {
-      "att": 7,
-      "sb": 6,
-      "cs": 1,
-      "ds": 0,
-      "ts": 0,
-      "pickoff": {
-        "pickoff": 0,
-        "sb": 0,
-        "cs": 0,
-        "ds": 0,
-        "ts": 0
-      },
-      "runner": {
-        "id": "61465133",
-        "jaBoxscoreName": "牧原大",
-        "jaRegisteredName": "牧原　大成",
-        "fullLFMName": "Makihara, Taisei",
-        "primaryNumber": "8",
-        "teamCode": "H",
-        "boxscoreName": "T.Makihara",
-        "pitchHand": "R",
         "batSide": "L"
       },
       "rate": ".857"
@@ -8015,6 +8041,32 @@
     },
     {
       "att": 6,
+      "sb": 6,
+      "cs": 0,
+      "ds": 0,
+      "ts": 0,
+      "pickoff": {
+        "pickoff": 0,
+        "sb": 0,
+        "cs": 0,
+        "ds": 0,
+        "ts": 0
+      },
+      "runner": {
+        "id": "21325138",
+        "jaBoxscoreName": "大盛",
+        "jaRegisteredName": "大盛　穂",
+        "fullLFMName": "Ohmori, Minoru",
+        "primaryNumber": "59",
+        "teamCode": "C",
+        "boxscoreName": "Ohmori",
+        "pitchHand": "R",
+        "batSide": "L"
+      },
+      "rate": "1.000"
+    },
+    {
+      "att": 6,
       "sb": 5,
       "cs": 1,
       "ds": 0,
@@ -8046,7 +8098,7 @@
       "ds": 0,
       "ts": 0,
       "pickoff": {
-        "pickoff": 0,
+        "pickoff": 1,
         "sb": 1,
         "cs": 1,
         "ds": 0,
@@ -8218,32 +8270,6 @@
         "boxscoreName": "Komori",
         "pitchHand": "R",
         "batSide": "R"
-      },
-      "rate": "1.000"
-    },
-    {
-      "att": 5,
-      "sb": 5,
-      "cs": 0,
-      "ds": 0,
-      "ts": 0,
-      "pickoff": {
-        "pickoff": 0,
-        "sb": 0,
-        "cs": 0,
-        "ds": 0,
-        "ts": 0
-      },
-      "runner": {
-        "id": "21325138",
-        "jaBoxscoreName": "大盛",
-        "jaRegisteredName": "大盛　穂",
-        "fullLFMName": "Ohmori, Minoru",
-        "primaryNumber": "59",
-        "teamCode": "C",
-        "boxscoreName": "Ohmori",
-        "pitchHand": "R",
-        "batSide": "L"
       },
       "rate": "1.000"
     },
@@ -11938,19 +11964,19 @@
       "teamName": "Baystars",
       "league": "Central",
       "defence": {
-        "att": 77,
-        "sb": 52,
+        "att": 78,
+        "sb": 53,
         "cs": 25,
         "ds": 0,
         "ts": 0,
         "pickoff": {
-          "pickoff": 5,
+          "pickoff": 6,
           "sb": 2,
           "cs": 3,
           "ds": 0,
           "ts": 0
         },
-        "rate": ".341"
+        "rate": ".337"
       },
       "offence": {
         "att": 54,
@@ -11988,19 +12014,19 @@
         "rate": ".240"
       },
       "offence": {
-        "att": 70,
-        "sb": 43,
+        "att": 72,
+        "sb": 45,
         "cs": 27,
         "ds": 0,
         "ts": 0,
         "pickoff": {
           "pickoff": 6,
           "sb": 2,
-          "cs": 1,
+          "cs": 2,
           "ds": 0,
           "ts": 0
         },
-        "rate": ".616"
+        "rate": ".618"
       }
     },
     {
@@ -12008,19 +12034,19 @@
       "teamName": "Swallows",
       "league": "Central",
       "defence": {
-        "att": 66,
-        "sb": 43,
+        "att": 68,
+        "sb": 45,
         "cs": 23,
         "ds": 0,
         "ts": 0,
         "pickoff": {
           "pickoff": 0,
           "sb": 1,
-          "cs": 2,
+          "cs": 3,
           "ds": 0,
           "ts": 0
         },
-        "rate": ".362"
+        "rate": ".361"
       },
       "offence": {
         "att": 51,
@@ -12058,19 +12084,19 @@
         "rate": ".375"
       },
       "offence": {
-        "att": 72,
-        "sb": 55,
+        "att": 73,
+        "sb": 56,
         "cs": 17,
         "ds": 0,
         "ts": 0,
         "pickoff": {
-          "pickoff": 3,
+          "pickoff": 4,
           "sb": 2,
           "cs": 3,
           "ds": 0,
           "ts": 0
         },
-        "rate": ".740"
+        "rate": ".744"
       }
     },
     {
@@ -12093,8 +12119,8 @@
         "rate": ".219"
       },
       "offence": {
-        "att": 81,
-        "sb": 67,
+        "att": 82,
+        "sb": 68,
         "cs": 14,
         "ds": 0,
         "ts": 0,
@@ -12105,7 +12131,7 @@
           "ds": 0,
           "ts": 0
         },
-        "rate": ".807"
+        "rate": ".810"
       }
     },
     {
@@ -12128,19 +12154,19 @@
         "rate": ".288"
       },
       "offence": {
-        "att": 55,
+        "att": 56,
         "sb": 42,
-        "cs": 14,
+        "cs": 15,
         "ds": 1,
         "ts": 0,
         "pickoff": {
-          "pickoff": 6,
+          "pickoff": 7,
           "sb": 0,
           "cs": 4,
           "ds": 0,
           "ts": 0
         },
-        "rate": ".695"
+        "rate": ".683"
       }
     },
     {
@@ -12183,19 +12209,19 @@
       "teamName": "Eagles",
       "league": "Pacific",
       "defence": {
-        "att": 65,
+        "att": 66,
         "sb": 46,
-        "cs": 19,
+        "cs": 20,
         "ds": 0,
         "ts": 0,
         "pickoff": {
-          "pickoff": 4,
+          "pickoff": 5,
           "sb": 0,
           "cs": 5,
           "ds": 0,
           "ts": 0
         },
-        "rate": ".343"
+        "rate": ".352"
       },
       "offence": {
         "att": 90,
@@ -12253,8 +12279,8 @@
       "teamName": "Lions",
       "league": "Pacific",
       "defence": {
-        "att": 83,
-        "sb": 67,
+        "att": 84,
+        "sb": 68,
         "cs": 16,
         "ds": 0,
         "ts": 0,
@@ -12265,7 +12291,7 @@
           "ds": 0,
           "ts": 0
         },
-        "rate": ".212"
+        "rate": ".209"
       },
       "offence": {
         "att": 72,
@@ -12288,69 +12314,69 @@
     {
       "league": "Central",
       "defence": {
-        "att": 375,
-        "sb": 263,
+        "att": 378,
+        "sb": 266,
         "cs": 115,
         "ds": 3,
         "ts": 0,
         "pickoff": {
-          "pickoff": 19,
+          "pickoff": 20,
           "sb": 8,
-          "cs": 20,
+          "cs": 21,
           "ds": 0,
           "ts": 0
         },
-        "rate": ".307",
-        "teamRate": ".335"
+        "rate": ".304",
+        "teamRate": ".334"
       },
       "offence": {
-        "att": 401,
-        "sb": 284,
+        "att": 404,
+        "sb": 287,
         "cs": 118,
         "ds": 1,
         "ts": 0,
         "pickoff": {
-          "pickoff": 18,
+          "pickoff": 19,
           "sb": 9,
-          "cs": 20,
+          "cs": 21,
           "ds": 0,
           "ts": 0
         },
-        "rate": ".679"
+        "rate": ".680"
       }
     },
     {
       "league": "Pacific",
       "defence": {
-        "att": 425,
-        "sb": 340,
-        "cs": 85,
+        "att": 427,
+        "sb": 341,
+        "cs": 86,
         "ds": 0,
         "ts": 0,
         "pickoff": {
-          "pickoff": 24,
+          "pickoff": 25,
           "sb": 1,
           "cs": 20,
           "ds": 0,
           "ts": 0
         },
-        "rate": ".200",
-        "teamRate": ".235"
+        "rate": ".201",
+        "teamRate": ".237"
       },
       "offence": {
-        "att": 399,
-        "sb": 319,
-        "cs": 82,
+        "att": 401,
+        "sb": 320,
+        "cs": 83,
         "ds": 2,
         "ts": 0,
         "pickoff": {
-          "pickoff": 25,
+          "pickoff": 26,
           "sb": 0,
           "cs": 20,
           "ds": 0,
           "ts": 0
         },
-        "rate": ".757"
+        "rate": ".755"
       }
     }
   ]

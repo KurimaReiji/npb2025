@@ -2,7 +2,7 @@
   {
     "jaText": "（走者・羽月）二塁盗塁失敗",
     "text": "Hatsuki caught stealing 2nd base.",
-    "countsAsStealAttempt": true
+    "countsAsStealAttempt": false
   },
   {
     "jaText": "（走者・小園）二塁盗塁成功",
@@ -28,9 +28,7 @@
     "jaText": "（走者・矢澤）一塁牽制アウト",
     "text": "Yazawa picked off at 1st base.",
     "countsAsStealAttempt": false,
-    "catcher": {},
-    "catchers": [
-      {
+    "catcher": {
         "id": "11815132",
         "jaBoxscoreName": "堀内",
         "jaRegisteredName": "堀内　謙伍",
@@ -40,27 +38,13 @@
         "boxscoreName": "Horiuchi",
         "pitchHand": "R",
         "batSide": "L"
-      },
-      {
-        "id": "71375138",
-        "jaBoxscoreName": "太田",
-        "jaRegisteredName": "太田　光",
-        "fullLFMName": "Ohta, Hikaru",
-        "primaryNumber": "2",
-        "teamCode": "E",
-        "boxscoreName": "Ohta",
-        "pitchHand": "R",
-        "batSide": "R"
       }
-    ]
   },
   {
     "jaText": "（走者・五十幡）二塁盗塁失敗",
     "text": "Isobata caught stealing 2nd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
+    "catcher": {
         "id": "11815132",
         "jaBoxscoreName": "堀内",
         "jaRegisteredName": "堀内　謙伍",
@@ -70,27 +54,13 @@
         "boxscoreName": "Horiuchi",
         "pitchHand": "R",
         "batSide": "L"
-      },
-      {
-        "id": "71375138",
-        "jaBoxscoreName": "太田",
-        "jaRegisteredName": "太田　光",
-        "fullLFMName": "Ohta, Hikaru",
-        "primaryNumber": "2",
-        "teamCode": "E",
-        "boxscoreName": "Ohta",
-        "pitchHand": "R",
-        "batSide": "R"
       }
-    ]
   },
   {
     "jaText": "（走者・牧原大）二塁盗塁成功",
     "text": "T.Makihara steals 2nd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
+    "catcher": {
         "id": "81785155",
         "jaBoxscoreName": "古賀悠",
         "jaRegisteredName": "古賀　悠斗",
@@ -100,18 +70,6 @@
         "boxscoreName": "Y.Koga",
         "pitchHand": "R",
         "batSide": "R"
-      },
-      {
-        "id": "61265151",
-        "jaBoxscoreName": "柘植",
-        "jaRegisteredName": "柘植　世那",
-        "fullLFMName": "Tsuge, Sena",
-        "primaryNumber": "37",
-        "teamCode": "L",
-        "boxscoreName": "Tsuge",
-        "pitchHand": "R",
-        "batSide": "R"
       }
-    ]
   }
 ]
