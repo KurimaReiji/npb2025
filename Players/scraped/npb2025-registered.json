@@ -6917,7 +6917,7 @@
     "year": "2025",
     "teamCode": "T",
     "title": "2025年度 支配下選手登録（阪神タイガース） | 2025年度公示 | NPB.jp 日本野球機構",
-    "total": "68名",
+    "total": "70名",
     "rows": [
       {
         "mmdd": "12-17",
@@ -7470,6 +7470,22 @@
         "primaryNumber": "31",
         "playerId": "57955159",
         "jaRegisteredName": "早川　太貴"
+      },
+      {
+        "mmdd": "07-22",
+        "teamCode": "T",
+        "jaPrimaryPosition": "投手",
+        "primaryNumber": "82",
+        "playerId": "43045150",
+        "jaRegisteredName": "Ｇ．ハートウィグ"
+      },
+      {
+        "mmdd": "07-22",
+        "teamCode": "T",
+        "jaPrimaryPosition": "投手",
+        "primaryNumber": "85",
+        "playerId": "03505132",
+        "jaRegisteredName": "Ｒ．ドリス"
       }
     ],
     "notes": [
