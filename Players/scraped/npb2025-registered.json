@@ -1170,7 +1170,7 @@
     "year": "2025",
     "teamCode": "D",
     "title": "2025年度 支配下選手登録（中日ドラゴンズ） | 2025年度公示 | NPB.jp 日本野球機構",
-    "total": "68名",
+    "total": "69名",
     "rows": [
       {
         "mmdd": "12-17",
@@ -1731,6 +1731,14 @@
         "primaryNumber": "65",
         "playerId": "81785138",
         "jaRegisteredName": "佐藤　龍世"
+      },
+      {
+        "mmdd": "07-24",
+        "teamCode": "D",
+        "jaPrimaryPosition": "内野手",
+        "primaryNumber": "23",
+        "playerId": "63065150",
+        "jaRegisteredName": "Ｍ．チェイビス"
       }
     ],
     "notes": [
