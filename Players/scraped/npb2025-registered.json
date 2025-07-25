@@ -4377,7 +4377,7 @@
     "year": "2025",
     "teamCode": "H",
     "title": "2025年度 支配下選手登録（福岡ソフトバンクホークス） | 2025年度公示 | NPB.jp 日本野球機構",
-    "total": "68名",
+    "total": "69名",
     "rows": [
       {
         "mmdd": "12-17",
@@ -4954,6 +4954,14 @@
         "primaryNumber": "95",
         "playerId": "31735150",
         "jaRegisteredName": "川口　冬弥"
+      },
+      {
+        "mmdd": "07-25",
+        "teamCode": "H",
+        "jaPrimaryPosition": "投手",
+        "primaryNumber": "85",
+        "playerId": "73175157",
+        "jaRegisteredName": "宮﨑　颯"
       }
     ],
     "notes": [
@@ -4971,6 +4979,14 @@
         "jaPrimaryPosition": "投手",
         "playerId": "31735150",
         "jaRegisteredName": "川口　冬弥",
+        "desc": ""
+      },
+      {
+        "item": "【支配下選手登録（育成選手から移行）】",
+        "date": "2025-07-25",
+        "jaPrimaryPosition": "投手",
+        "playerId": "73175157",
+        "jaRegisteredName": "宮﨑　颯",
         "desc": ""
       },
       {
@@ -5060,7 +5076,7 @@
     "year": "2025",
     "teamCode": "L",
     "title": "2025年度 支配下選手登録（埼玉西武ライオンズ） | 2025年度公示 | NPB.jp 日本野球機構",
-    "total": "68名",
+    "total": "69名",
     "rows": [
       {
         "mmdd": "12-17",
@@ -5629,6 +5645,14 @@
         "primaryNumber": "10",
         "playerId": "23025150",
         "jaRegisteredName": "Ｊ．Ｄ．デービス"
+      },
+      {
+        "mmdd": "07-25",
+        "teamCode": "L",
+        "jaPrimaryPosition": "内野手",
+        "primaryNumber": "38",
+        "playerId": "51055150",
+        "jaRegisteredName": "佐藤　太陽"
       }
     ],
     "notes": [
@@ -5673,6 +5697,14 @@
         "desc": ""
       },
       {
+        "item": "【支配下選手登録（育成選手から移行）】",
+        "date": "2025-07-25",
+        "jaPrimaryPosition": "内野手",
+        "playerId": "51055150",
+        "jaRegisteredName": "佐藤　太陽",
+        "desc": ""
+      },
+      {
         "item": "【支配下選手登録（現役ドラフトに伴うトレード）】",
         "date": "2024-12-17",
         "jaPrimaryPosition": "内野手",
@@ -5711,7 +5743,7 @@
     "year": "2025",
     "teamCode": "M",
     "title": "2025年度 支配下選手登録（千葉ロッテマリーンズ） | 2025年度公示 | NPB.jp 日本野球機構",
-    "total": "68名",
+    "total": "69名",
     "rows": [
       {
         "mmdd": "12-17",
@@ -6264,9 +6296,25 @@
         "primaryNumber": "22",
         "playerId": "63065155",
         "jaRegisteredName": "Ｇ．ポランコ"
+      },
+      {
+        "mmdd": "07-25",
+        "teamCode": "M",
+        "jaPrimaryPosition": "外野手",
+        "primaryNumber": "69",
+        "playerId": "23925150",
+        "jaRegisteredName": "Ｓ．アセベド"
       }
     ],
     "notes": [
+      {
+        "item": "【支配下選手登録（育成選手から移行）】",
+        "date": "2025-07-25",
+        "jaPrimaryPosition": "外野手",
+        "playerId": "23925150",
+        "jaRegisteredName": "Ｓ．アセベド",
+        "desc": ""
+      },
       {
         "item": "【支配下選手登録（現役ドラフトに伴うトレード）】",
         "date": "2024-12-17",
