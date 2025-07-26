@@ -2382,6 +2382,14 @@
         "primaryNumber": "66",
         "playerId": "13715132",
         "jaRegisteredName": "Ｄ．ビシエド"
+      },
+      {
+        "mmdd": "07-26",
+        "teamCode": "DB",
+        "jaPrimaryPosition": "投手",
+        "primaryNumber": "35",
+        "playerId": "31635157",
+        "jaRegisteredName": "橋本　達弥"
       }
     ],
     "notes": [
@@ -2407,6 +2415,14 @@
         "jaPrimaryPosition": "投手",
         "playerId": "33235155",
         "jaRegisteredName": "Ｈ．マルセリーノ",
+        "desc": ""
+      },
+      {
+        "item": "【支配下選手登録（育成選手から移行）】",
+        "date": "2025-07-26",
+        "jaPrimaryPosition": "投手",
+        "playerId": "31635157",
+        "jaRegisteredName": "橋本　達弥",
         "desc": ""
       },
       {
@@ -2440,6 +2456,14 @@
         "playerId": "81585138",
         "jaRegisteredName": "上茶谷　大河",
         "desc": "→ 福岡ソフトバンクホークス"
+      },
+      {
+        "item": "【自由契約選手】",
+        "date": "2025-07-26",
+        "jaPrimaryPosition": "投手",
+        "playerId": "43545151",
+        "jaRegisteredName": "Ｙ．ディアス",
+        "desc": ""
       }
     ]
   },

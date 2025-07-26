@@ -3,7 +3,7 @@
     "teamCode": "B",
     "url": "https://npb.jp/bis/eng/teams/rst_b.html",
     "title": "ORIX Buffaloes : 2025 Roster | NPB.jp 日本野球機構",
-    "lastUpdated": "Thursday, July 24, 2025",
+    "lastUpdated": "Friday, July 25, 2025",
     "roster": [
       {
         "primaryPosition": "Manager",
@@ -1099,7 +1099,7 @@
     "teamCode": "C",
     "url": "https://npb.jp/bis/eng/teams/rst_c.html",
     "title": "Hiroshima Toyo Carp : 2025 Roster | NPB.jp 日本野球機構",
-    "lastUpdated": "Thursday, July 24, 2025",
+    "lastUpdated": "Friday, July 25, 2025",
     "roster": [
       {
         "primaryPosition": "Manager",
@@ -2063,7 +2063,7 @@
     "teamCode": "D",
     "url": "https://npb.jp/bis/eng/teams/rst_d.html",
     "title": "Chunichi Dragons : 2025 Roster | NPB.jp 日本野球機構",
-    "lastUpdated": "Thursday, July 24, 2025",
+    "lastUpdated": "Friday, July 25, 2025",
     "roster": [
       {
         "primaryPosition": "Manager",
@@ -3075,7 +3075,7 @@
     "teamCode": "DB",
     "url": "https://npb.jp/bis/eng/teams/rst_db.html",
     "title": "YOKOHAMA DeNA BAYSTARS : 2025 Roster | NPB.jp 日本野球機構",
-    "lastUpdated": "Thursday, July 24, 2025",
+    "lastUpdated": "Friday, July 25, 2025",
     "roster": [
       {
         "primaryPosition": "Manager",
@@ -4123,7 +4123,7 @@
     "teamCode": "E",
     "url": "https://npb.jp/bis/eng/teams/rst_e.html",
     "title": "Tohoku Rakuten Golden Eagles : 2025 Roster | NPB.jp 日本野球機構",
-    "lastUpdated": "Thursday, July 24, 2025",
+    "lastUpdated": "Friday, July 25, 2025",
     "roster": [
       {
         "primaryPosition": "Manager",
@@ -5087,7 +5087,7 @@
     "teamCode": "F",
     "url": "https://npb.jp/bis/eng/teams/rst_f.html",
     "title": "Hokkaido Nippon-Ham Fighters : 2025 Roster | NPB.jp 日本野球機構",
-    "lastUpdated": "Thursday, July 24, 2025",
+    "lastUpdated": "Friday, July 25, 2025",
     "roster": [
       {
         "primaryPosition": "Manager",
@@ -6099,7 +6099,7 @@
     "teamCode": "G",
     "url": "https://npb.jp/bis/eng/teams/rst_g.html",
     "title": "Yomiuri Giants : 2025 Roster | NPB.jp 日本野球機構",
-    "lastUpdated": "Thursday, July 24, 2025",
+    "lastUpdated": "Friday, July 25, 2025",
     "roster": [
       {
         "primaryPosition": "Manager",
@@ -7387,7 +7387,7 @@
     "teamCode": "H",
     "url": "https://npb.jp/bis/eng/teams/rst_h.html",
     "title": "Fukuoka SoftBank Hawks : 2025 Roster | NPB.jp 日本野球機構",
-    "lastUpdated": "Thursday, July 24, 2025",
+    "lastUpdated": "Friday, July 25, 2025",
     "roster": [
       {
         "primaryPosition": "Manager",
@@ -7634,6 +7634,18 @@
         "pitchHand": "R",
         "batSide": "L",
         "notes": ""
+      },
+      {
+        "primaryPosition": "Pitcher",
+        "primaryNumber": "85",
+        "playerId": "73175157",
+        "fullLFMName": "Miyazaki, Hayato",
+        "birthDate": "Jun. 14, 2000",
+        "height": "180",
+        "weight": "93",
+        "pitchHand": "L",
+        "batSide": "L",
+        "notes": "Registered(developmental player ->) (Jul. 25)."
       },
       {
         "primaryPosition": "Pitcher",
@@ -8371,18 +8383,6 @@
       },
       {
         "primaryPosition": "Pitcher",
-        "primaryNumber": "165",
-        "playerId": "73175157",
-        "fullLFMName": "Miyazaki, Hayato",
-        "birthDate": "Jun. 14, 2000",
-        "height": "180",
-        "weight": "93",
-        "pitchHand": "L",
-        "batSide": "L",
-        "notes": ""
-      },
-      {
-        "primaryPosition": "Pitcher",
         "primaryNumber": "160",
         "playerId": "61465159",
         "fullLFMName": "Nagamizu, Keishin",
@@ -8855,7 +8855,7 @@
     "teamCode": "L",
     "url": "https://npb.jp/bis/eng/teams/rst_l.html",
     "title": "Saitama Seibu Lions : 2025 Roster | NPB.jp 日本野球機構",
-    "lastUpdated": "Thursday, July 24, 2025",
+    "lastUpdated": "Friday, July 25, 2025",
     "roster": [
       {
         "primaryPosition": "Manager",
@@ -9453,6 +9453,18 @@
       },
       {
         "primaryPosition": "Infielder",
+        "primaryNumber": "38",
+        "playerId": "51055150",
+        "fullLFMName": "Sato, Taiyo",
+        "birthDate": "May 19, 2002",
+        "height": "176",
+        "weight": "78",
+        "pitchHand": "R",
+        "batSide": "L",
+        "notes": "Registered(developmental player ->) (Jul. 25)."
+      },
+      {
+        "primaryPosition": "Infielder",
         "primaryNumber": "10",
         "playerId": "81785138",
         "fullLFMName": "Satoh, Ryusei",
@@ -9935,18 +9947,6 @@
       },
       {
         "primaryPosition": "Infielder",
-        "primaryNumber": "128",
-        "playerId": "51055150",
-        "fullLFMName": "Sato, Taiyo",
-        "birthDate": "May 19, 2002",
-        "height": "176",
-        "weight": "78",
-        "pitchHand": "R",
-        "batSide": "L",
-        "notes": ""
-      },
-      {
-        "primaryPosition": "Infielder",
         "primaryNumber": "126",
         "playerId": "01205159",
         "fullLFMName": "Taniguchi, Asahi",
@@ -10011,7 +10011,7 @@
     "teamCode": "M",
     "url": "https://npb.jp/bis/eng/teams/rst_m.html",
     "title": "Chiba Lotte Marines : 2025 Roster | NPB.jp 日本野球機構",
-    "lastUpdated": "Thursday, July 24, 2025",
+    "lastUpdated": "Friday, July 25, 2025",
     "roster": [
       {
         "primaryPosition": "Manager",
@@ -10693,6 +10693,18 @@
       },
       {
         "primaryPosition": "Outfielder",
+        "primaryNumber": "69",
+        "playerId": "23925150",
+        "fullLFMName": "Acevedo, Stiven",
+        "birthDate": "Aug. 2, 2002",
+        "height": "195",
+        "weight": "104",
+        "pitchHand": "R",
+        "batSide": "R",
+        "notes": "Registered (Feb. 4). Registered(developmental player ->) (Jul. 25)."
+      },
+      {
+        "primaryPosition": "Outfielder",
         "primaryNumber": "1",
         "playerId": "31635138",
         "fullLFMName": "Fujiwara, Kyota",
@@ -11019,18 +11031,6 @@
       },
       {
         "primaryPosition": "Outfielder",
-        "primaryNumber": "140",
-        "playerId": "23925150",
-        "fullLFMName": "Acevedo, Stiven",
-        "birthDate": "Aug. 2, 2002",
-        "height": "195",
-        "weight": "104",
-        "pitchHand": "R",
-        "batSide": "R",
-        "notes": "Registered (Feb. 4)."
-      },
-      {
-        "primaryPosition": "Outfielder",
         "primaryNumber": "136",
         "playerId": "51855159",
         "fullLFMName": "Fujita, Kazuki",
@@ -11071,7 +11071,7 @@
     "teamCode": "S",
     "url": "https://npb.jp/bis/eng/teams/rst_s.html",
     "title": "Tokyo Yakult Swallows : 2025 Roster | NPB.jp 日本野球機構",
-    "lastUpdated": "Thursday, July 24, 2025",
+    "lastUpdated": "Friday, July 25, 2025",
     "roster": [
       {
         "primaryPosition": "Manager",
@@ -12023,7 +12023,7 @@
     "teamCode": "T",
     "url": "https://npb.jp/bis/eng/teams/rst_t.html",
     "title": "Hanshin Tigers : 2025 Roster | NPB.jp 日本野球機構",
-    "lastUpdated": "Thursday, July 24, 2025",
+    "lastUpdated": "Friday, July 25, 2025",
     "roster": [
       {
         "primaryPosition": "Manager",
