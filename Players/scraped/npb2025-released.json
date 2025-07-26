@@ -1,6 +1,16 @@
 {
   "url": "https://npb.jp/announcement/2025/pn_released.html",
   "title": "自由契約選手 | 2025年度公示 | NPB.jp 日本野球機構",
-  "rows": [],
+  "rows": [
+    {
+      "date": "2025-07-26",
+      "teamCode": "DB",
+      "playerId": "43545151",
+      "jaRegisteredName": "Ｙ．ディアス",
+      "jaPosition": "投手",
+      "primaryNumber": "93",
+      "note": "（ウエイバー不請求）"
+    }
+  ],
   "notes": []
 }

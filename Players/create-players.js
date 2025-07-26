@@ -290,7 +290,7 @@ function load_reserved(season) {
 }
 
 function load_released(season) {
-  const infile = `${scrapedDir}/npb${Number(season) - 1}-released.json`;
+  const infile = `${scrapedDir}/npb${Number(season)}-released.json`;
   const inputs = JSON.parse(readFileSync(infile, 'utf8'));
 
   const notes = inputs.notes;
