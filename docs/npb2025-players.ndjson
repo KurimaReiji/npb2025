@@ -682,6 +682,132 @@
 {"date":"2024-12-02","jaEvent":"契約保留選手","teamCode":"T","playerId":"71775151","jaRegisteredName":"小野寺　暖","jaPrimaryPosition":"外野手"}
 {"date":"2024-12-02","jaEvent":"契約保留選手","teamCode":"T","playerId":"31435155","jaRegisteredName":"豊田　寛","jaPrimaryPosition":"外野手"}
 {"date":"2024-12-02","jaEvent":"契約保留選手","teamCode":"T","playerId":"01405157","jaRegisteredName":"野口　恭佑","jaPrimaryPosition":"外野手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"G","playerId":"51755136","jaRegisteredName":"鈴木　康平","primaryNumber":"32","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"G","playerId":"11215138","jaRegisteredName":"直江　大輔","primaryNumber":"54","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"G","playerId":"81185155","jaRegisteredName":"石田　隼都","primaryNumber":"56","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"G","playerId":"61965138","jaRegisteredName":"髙橋　優貴","primaryNumber":"57","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"G","playerId":"93095157","jaRegisteredName":"Ｙ．メンデス","primaryNumber":"65","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"G","playerId":"11015155","jaRegisteredName":"代木　大和","primaryNumber":"68","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"G","playerId":"53555155","jaRegisteredName":"山田　龍聖","primaryNumber":"90","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"G","playerId":"01805157","jaRegisteredName":"松井　颯","primaryNumber":"93","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"G","playerId":"31735155","jaRegisteredName":"菊地　大稀","primaryNumber":"96","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"G","playerId":"23225159","jaRegisteredName":"Ｃ．モンテス","primaryNumber":"39","jaPrimaryPosition":"内野手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"G","playerId":"31935151","jaRegisteredName":"菊田　拡和","primaryNumber":"60","jaPrimaryPosition":"内野手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"G","playerId":"01205157","jaRegisteredName":"中田　歩夢","primaryNumber":"95","jaPrimaryPosition":"内野手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"G","playerId":"13315151","jaRegisteredName":"Ｅ．ウレーニャ","primaryNumber":"98","jaPrimaryPosition":"内野手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"G","playerId":"61565114","jaRegisteredName":"梶谷　隆幸","primaryNumber":"13","jaPrimaryPosition":"外野手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"G","playerId":"81985118","jaRegisteredName":"立岡　宗一郎","primaryNumber":"23","jaPrimaryPosition":"外野手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"T","playerId":"03305155","jaRegisteredName":"森木　大智","primaryNumber":"20","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"T","playerId":"51155131","jaRegisteredName":"秋山　拓巳","primaryNumber":"21","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"T","playerId":"01005155","jaRegisteredName":"鈴木　勇斗","primaryNumber":"28","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"T","playerId":"21525139","jaRegisteredName":"加治屋　蓮","primaryNumber":"54","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"T","playerId":"81385153","jaRegisteredName":"岩田　将貴","primaryNumber":"93","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"T","playerId":"01505138","jaRegisteredName":"片山　雄哉","primaryNumber":"95","jaPrimaryPosition":"捕手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"T","playerId":"71575151","jaRegisteredName":"遠藤　成","primaryNumber":"45","jaPrimaryPosition":"内野手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"T","playerId":"01005130","jaRegisteredName":"髙濱　祐仁","primaryNumber":"43","jaPrimaryPosition":"外野手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"DB","playerId":"03105155","jaRegisteredName":"三浦　銀二","primaryNumber":"30","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"DB","playerId":"31635157","jaRegisteredName":"橋本　達弥","primaryNumber":"35","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"DB","playerId":"61665155","jaRegisteredName":"深沢　鳳介","primaryNumber":"43","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"DB","playerId":"61165153","jaRegisteredName":"石川　達也","primaryNumber":"46","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"DB","playerId":"13715157","jaRegisteredName":"Ｊ．Ｂ．ウェンデルケン","primaryNumber":"49","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"DB","playerId":"21225153","jaRegisteredName":"髙田　琢登","primaryNumber":"56","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"DB","playerId":"01905157","jaRegisteredName":"上甲　凌大","primaryNumber":"66","jaPrimaryPosition":"捕手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"DB","playerId":"61465112","jaRegisteredName":"大和","primaryNumber":"9","jaPrimaryPosition":"内野手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"DB","playerId":"91095139","jaRegisteredName":"西浦　直亨","primaryNumber":"39","jaPrimaryPosition":"内野手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"DB","playerId":"71475136","jaRegisteredName":"西巻　賢二","primaryNumber":"67","jaPrimaryPosition":"内野手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"DB","playerId":"03205159","jaRegisteredName":"Ｍ．フォード","primaryNumber":"99","jaPrimaryPosition":"内野手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"DB","playerId":"41345118","jaRegisteredName":"大田　泰示","primaryNumber":"0","jaPrimaryPosition":"外野手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"DB","playerId":"61565136","jaRegisteredName":"楠本　泰史","primaryNumber":"37","jaPrimaryPosition":"外野手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"C","playerId":"21425135","jaRegisteredName":"野村　祐輔","primaryNumber":"19","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"C","playerId":"21225130","jaRegisteredName":"戸根　千明","primaryNumber":"49","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"C","playerId":"61965153","jaRegisteredName":"小林　樹斗","primaryNumber":"53","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"C","playerId":"71575153","jaRegisteredName":"内間　拓馬","primaryNumber":"67","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"C","playerId":"91595132","jaRegisteredName":"岡田　明丈","primaryNumber":"93","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"C","playerId":"53955151","jaRegisteredName":"Ｒ．コルニエル","primaryNumber":"98","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"C","playerId":"51955139","jaRegisteredName":"曽根　海成","primaryNumber":"00","jaPrimaryPosition":"内野手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"S","playerId":"11615159","jaRegisteredName":"西舘　昂汰","primaryNumber":"14","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"S","playerId":"91595135","jaRegisteredName":"嘉弥真　新也","primaryNumber":"49","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"S","playerId":"61365134","jaRegisteredName":"尾仲　祐哉","primaryNumber":"52","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"S","playerId":"41245133","jaRegisteredName":"西田　明央","primaryNumber":"30","jaPrimaryPosition":"捕手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"S","playerId":"51655133","jaRegisteredName":"三ツ俣　大樹","primaryNumber":"66","jaPrimaryPosition":"内野手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"S","playerId":"31135119","jaRegisteredName":"青木　宣親","primaryNumber":"23","jaPrimaryPosition":"外野手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"S","playerId":"33135132","jaRegisteredName":"山崎　晃大朗","primaryNumber":"31","jaPrimaryPosition":"外野手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"D","playerId":"21025135","jaRegisteredName":"田島　慎二","primaryNumber":"12","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"D","playerId":"11315155","jaRegisteredName":"石森　大誠","primaryNumber":"26","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"D","playerId":"11915139","jaRegisteredName":"砂田　毅樹","primaryNumber":"47","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"D","playerId":"51855153","jaRegisteredName":"福島　章太","primaryNumber":"64","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"D","playerId":"11515153","jaRegisteredName":"上田　洸太朗","primaryNumber":"67","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"D","playerId":"23925134","jaRegisteredName":"Ｒ．マルティネス","primaryNumber":"92","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"D","playerId":"83285157","jaRegisteredName":"Ｍ．フェリス","primaryNumber":"93","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"D","playerId":"01505159","jaRegisteredName":"加藤　竜馬","primaryNumber":"96","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"D","playerId":"01005113","jaRegisteredName":"中島　宏之","primaryNumber":"9","jaPrimaryPosition":"内野手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"D","playerId":"13715132","jaRegisteredName":"Ｄ．ビシエド","primaryNumber":"66","jaPrimaryPosition":"内野手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"D","playerId":"83185153","jaRegisteredName":"三好　大倫","primaryNumber":"30","jaPrimaryPosition":"外野手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"D","playerId":"91595137","jaRegisteredName":"加藤　翔平","primaryNumber":"52","jaPrimaryPosition":"外野手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"D","playerId":"33935159","jaRegisteredName":"Ａ．ディカーソン","primaryNumber":"94","jaPrimaryPosition":"外野手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"H","playerId":"31535155","jaRegisteredName":"風間　球打","primaryNumber":"1","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"H","playerId":"11615153","jaRegisteredName":"中村　亮太","primaryNumber":"20","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"H","playerId":"91995159","jaRegisteredName":"澤柳　亮太郎","primaryNumber":"38","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"H","playerId":"23125155","jaRegisteredName":"三浦　瑞樹","primaryNumber":"42","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"H","playerId":"01505130","jaRegisteredName":"笠谷　俊介","primaryNumber":"67","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"H","playerId":"11415153","jaRegisteredName":"田上　奏大","primaryNumber":"70","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"H","playerId":"81785153","jaRegisteredName":"川原田　純平","primaryNumber":"46","jaPrimaryPosition":"内野手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"H","playerId":"91495155","jaRegisteredName":"仲田　慶介","primaryNumber":"69","jaPrimaryPosition":"内野手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"H","playerId":"03705155","jaRegisteredName":"Ａ．ウォーカー","primaryNumber":"28","jaPrimaryPosition":"外野手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"H","playerId":"21125157","jaRegisteredName":"生海","primaryNumber":"37","jaPrimaryPosition":"外野手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"F","playerId":"23925159","jaRegisteredName":"Ｐ．マーフィー","primaryNumber":"31","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"F","playerId":"51755134","jaRegisteredName":"黒木　優太","primaryNumber":"32","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"F","playerId":"43745136","jaRegisteredName":"Ｂ．ロドリゲス","primaryNumber":"41","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"F","playerId":"93795159","jaRegisteredName":"Ａ．ザバラ","primaryNumber":"42","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"F","playerId":"01105157","jaRegisteredName":"安西　叶翔","primaryNumber":"54","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"F","playerId":"51555137","jaRegisteredName":"鍵谷　陽平","primaryNumber":"60","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"F","playerId":"53155157","jaRegisteredName":"宮内　春輝","primaryNumber":"62","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"F","playerId":"01505136","jaRegisteredName":"北浦　竜次","primaryNumber":"63","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"F","playerId":"51655151","jaRegisteredName":"福田　光輝","primaryNumber":"35","jaPrimaryPosition":"内野手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"F","playerId":"21325130","jaRegisteredName":"江越　大賀","primaryNumber":"37","jaPrimaryPosition":"外野手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"M","playerId":"21225132","jaRegisteredName":"東條　大樹","primaryNumber":"20","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"M","playerId":"63265159","jaRegisteredName":"Ｄ．カイケル","primaryNumber":"41","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"M","playerId":"33935134","jaRegisteredName":"Ｃ．Ｃ．メルセデス","primaryNumber":"42","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"M","playerId":"71175155","jaRegisteredName":"秋山　正雲","primaryNumber":"43","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"M","playerId":"13115151","jaRegisteredName":"本前　郁也","primaryNumber":"49","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"M","playerId":"61865136","jaRegisteredName":"森　遼大朗","primaryNumber":"62","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"M","playerId":"73775159","jaRegisteredName":"Ｊ．コルデロ","primaryNumber":"69","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"M","playerId":"61265118","jaRegisteredName":"二保　旭","primaryNumber":"91","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"M","playerId":"13315132","jaRegisteredName":"吉田　凌","primaryNumber":"93","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"M","playerId":"11315139","jaRegisteredName":"井上　晴哉","primaryNumber":"44","jaPrimaryPosition":"内野手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"M","playerId":"41945136","jaRegisteredName":"菅野　剛士","primaryNumber":"64","jaPrimaryPosition":"外野手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"E","playerId":"83085155","jaRegisteredName":"Ｃ．ポンセ","primaryNumber":"13","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"E","playerId":"11215114","jaRegisteredName":"田中　将大","primaryNumber":"18","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"E","playerId":"01205153","jaRegisteredName":"高田　孝一","primaryNumber":"29","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"E","playerId":"11915136","jaRegisteredName":"櫻井　周斗","primaryNumber":"40","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"E","playerId":"23525155","jaRegisteredName":"吉川　雄大","primaryNumber":"71","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"E","playerId":"41945138","jaRegisteredName":"清宮　虎多朗","primaryNumber":"79","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"E","playerId":"11015157","jaRegisteredName":"平良　竜哉","primaryNumber":"30","jaPrimaryPosition":"内野手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"E","playerId":"71075157","jaRegisteredName":"辰見　鴻之介","primaryNumber":"78","jaPrimaryPosition":"内野手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"B","playerId":"41845151","jaRegisteredName":"村西　良太","primaryNumber":"22","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"B","playerId":"81085131","jaRegisteredName":"比嘉　幹貴","primaryNumber":"35","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"B","playerId":"41645151","jaRegisteredName":"前　佑囲斗","primaryNumber":"43","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"B","playerId":"03505155","jaRegisteredName":"横山　楓","primaryNumber":"52","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"B","playerId":"81585159","jaRegisteredName":"河内　康介","primaryNumber":"63","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"B","playerId":"31135135","jaRegisteredName":"安達　了一","primaryNumber":"3","jaPrimaryPosition":"内野手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"B","playerId":"83085157","jaRegisteredName":"Ｍ．ゴンザレス","primaryNumber":"8","jaPrimaryPosition":"内野手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"B","playerId":"13915157","jaRegisteredName":"Ｌ．セデーニョ","primaryNumber":"40","jaPrimaryPosition":"内野手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"B","playerId":"51755138","jaRegisteredName":"宜保　翔","primaryNumber":"53","jaPrimaryPosition":"内野手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"B","playerId":"31535130","jaRegisteredName":"小田　裕也","primaryNumber":"50","jaPrimaryPosition":"外野手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"B","playerId":"61365112","jaRegisteredName":"Ｔ－岡田","primaryNumber":"55","jaPrimaryPosition":"外野手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"L","playerId":"71275137","jaRegisteredName":"増田　達至","primaryNumber":"14","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"L","playerId":"61465151","jaRegisteredName":"浜屋　将太","primaryNumber":"40","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"L","playerId":"73575159","jaRegisteredName":"Ａ．アブレイユ","primaryNumber":"54","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"L","playerId":"33335159","jaRegisteredName":"宮澤　太成","primaryNumber":"56","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"L","playerId":"21525153","jaRegisteredName":"大曲　錬","primaryNumber":"59","jaPrimaryPosition":"投手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"L","playerId":"31535139","jaRegisteredName":"岡田　雅利","primaryNumber":"2","jaPrimaryPosition":"捕手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"L","playerId":"21425157","jaRegisteredName":"野田　海人","primaryNumber":"38","jaPrimaryPosition":"捕手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"L","playerId":"11615139","jaRegisteredName":"陽川　尚将","primaryNumber":"52","jaPrimaryPosition":"内野手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"L","playerId":"91295153","jaRegisteredName":"ブランドン","primaryNumber":"66","jaPrimaryPosition":"内野手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"L","playerId":"01505137","jaRegisteredName":"金子　侑司","primaryNumber":"7","jaPrimaryPosition":"外野手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"L","playerId":"31035134","jaRegisteredName":"鈴木　将平","primaryNumber":"46","jaPrimaryPosition":"外野手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"L","playerId":"71075136","jaRegisteredName":"高木　渉","primaryNumber":"73","jaPrimaryPosition":"外野手","note":"保留されない選手"}
+{"date":"2024-12-02","jaEvent":"自由契約選手","teamCode":"L","playerId":"83585159","jaRegisteredName":"Ａ．ガルシア","primaryNumber":"78","jaPrimaryPosition":"外野手","note":"保留されない選手"}
 {"date":"2024-12-17","jaEvent":"支配下選手登録","teamCode":"B","playerId":"13115136","jaRegisteredName":"山足　達也","primaryNumber":"36","jaPrimaryPosition":"内野手","birthDate":"1993-10-26","height":"174","weight":"76","pitchHand":"R","batSide":"R","fullLFMName":"Yamaashi, Tatsuya"}
 {"date":"2024-12-17","jaEvent":"支配下選手登録","teamCode":"C","playerId":"71575134","jaRegisteredName":"矢崎　拓也","primaryNumber":"41","jaPrimaryPosition":"投手","birthDate":"1994-12-31","height":"176","weight":"99","pitchHand":"R","batSide":"R","fullLFMName":"Yasaki, Takuya"}
 {"date":"2024-12-17","jaEvent":"支配下選手登録","teamCode":"D","playerId":"41145134","jaRegisteredName":"石垣　雅海","primaryNumber":"32","jaPrimaryPosition":"内野手","birthDate":"1998-09-21","height":"181","weight":"88","pitchHand":"R","batSide":"R","fullLFMName":"Ishigaki, Masami"}
@@ -1240,6 +1366,7 @@
 {"date":"2025-01-28","jaEvent":"支配下選手登録","teamCode":"L","playerId":"81685153","jaRegisteredName":"長谷川　信哉","primaryNumber":"63","jaPrimaryPosition":"外野手","birthDate":"2002-05-17","height":"183","weight":"87","pitchHand":"R","batSide":"R","fullLFMName":"Hasegawa, Shinya"}
 {"date":"2025-01-28","jaEvent":"支配下選手登録","teamCode":"L","playerId":"51955151","jaRegisteredName":"岸　潤一郎","primaryNumber":"68","jaPrimaryPosition":"外野手","birthDate":"1996-12-08","height":"174","weight":"83","pitchHand":"R","batSide":"R","fullLFMName":"Kishi, Junichiro"}
 {"date":"2025-01-28","jaEvent":"支配下選手登録","teamCode":"L","playerId":"51555159","jaRegisteredName":"奥村　光一","primaryNumber":"75","jaPrimaryPosition":"外野手","birthDate":"1999-12-24","height":"178","weight":"83","pitchHand":"R","batSide":"R","fullLFMName":"Okumura, Koichi"}
+{"date":"2025-01-28","jaEvent":"自由契約選手","teamCode":"T","playerId":"71175132","jaRegisteredName":"青柳　晃洋","primaryNumber":"17","jaPrimaryPosition":"投手","note":"契約保留権放棄 ポスティングによる移籍（ＭＬＢ／フィラデルフィア・フィリーズ）"}
 {"date":"2025-01-29","jaEvent":"支配下選手登録","teamCode":"D","playerId":"21425151","jaRegisteredName":"橋本　侑樹","primaryNumber":"13","jaPrimaryPosition":"投手","birthDate":"1998-01-08","height":"180","weight":"80","pitchHand":"L","batSide":"L","fullLFMName":"Hashimoto, Yuki"}
 {"date":"2025-01-29","jaEvent":"支配下選手登録","teamCode":"D","playerId":"91795159","jaRegisteredName":"草加　勝","primaryNumber":"14","jaPrimaryPosition":"投手","birthDate":"2001-11-21","height":"182","weight":"77","pitchHand":"R","batSide":"R","fullLFMName":"Kusaka, Sho"}
 {"date":"2025-01-29","jaEvent":"支配下選手登録","teamCode":"D","playerId":"31335116","jaRegisteredName":"岩嵜　翔","primaryNumber":"16","jaPrimaryPosition":"投手","birthDate":"1989-10-21","height":"189","weight":"90","pitchHand":"R","batSide":"R","fullLFMName":"Iwasaki, Sho"}
@@ -1498,9 +1625,11 @@
 {"date":"2025-01-31","jaEvent":"支配下選手登録","teamCode":"M","playerId":"93995155","jaRegisteredName":"Ｔ．ゲレーロ","primaryNumber":"97","jaPrimaryPosition":"投手","birthDate":"1991-01-09","height":"203","weight":"112","pitchHand":"R","batSide":"R","fullLFMName":"Guerrero, Tayron"}
 {"date":"2025-02-10","jaEvent":"支配下選手登録","teamCode":"B","playerId":"43945150","jaRegisteredName":"Ｅ．オリバレス","primaryNumber":"36","jaPrimaryPosition":"外野手","birthDate":"1996-03-06","height":"185","weight":"88","pitchHand":"R","batSide":"R","fullLFMName":"Olivares, Edward"}
 {"date":"2025-02-12","jaEvent":"支配下選手登録","teamCode":"D","playerId":"63965150","jaRegisteredName":"Ｎ．ウォルターズ","primaryNumber":"94","jaPrimaryPosition":"投手","birthDate":"1997-05-18","height":"195","weight":"102","pitchHand":"R","batSide":"R","fullLFMName":"Walters, Nash"}
+{"date":"2025-02-12","jaEvent":"自由契約選手","teamCode":"D","playerId":"71575132","jaRegisteredName":"小笠原　慎之介","primaryNumber":"11","jaPrimaryPosition":"投手","note":"契約保留権放棄 ポスティングによる移籍（ＭＬＢ／ワシントン・ナショナルズ）"}
 {"date":"2025-02-18","jaEvent":"支配下選手登録","teamCode":"E","playerId":"41445134","jaRegisteredName":"西口　直人","primaryNumber":"62","jaPrimaryPosition":"投手","jaEventDetails":"育成選手から移行","birthDate":"1996-11-14","height":"183","weight":"83","pitchHand":"R","batSide":"R","fullLFMName":"Nishiguchi, Naoto"}
 {"date":"2025-02-19","jaEvent":"支配下選手登録","teamCode":"D","playerId":"13015150","jaRegisteredName":"Ｙ．マルテ","primaryNumber":"52","jaPrimaryPosition":"投手","birthDate":"1995-02-02","height":"188","weight":"98","pitchHand":"R","batSide":"R","fullLFMName":"Marte, Yunior"}
 {"date":"2025-02-20","jaEvent":"支配下選手登録","teamCode":"M","playerId":"33035150","jaRegisteredName":"Ａ．ボス","primaryNumber":"54","jaPrimaryPosition":"投手","birthDate":"1992-06-26","height":"186","weight":"97","pitchHand":"R","batSide":"R","fullLFMName":"Voth, Austin"}
+{"date":"2025-02-21","jaEvent":"自由契約選手","teamCode":"M","playerId":"31035151","jaRegisteredName":"佐々木　朗希","primaryNumber":"17","jaPrimaryPosition":"投手","note":"契約保留権放棄 ポスティングによる移籍（ＭＬＢ／ロサンゼルス・ドジャース）"}
 {"date":"2025-02-22","jaEvent":"支配下選手登録","teamCode":"M","playerId":"03505136","jaRegisteredName":"Ｎ．ソト","primaryNumber":"99","jaPrimaryPosition":"内野手","birthDate":"1989-02-28","height":"185","weight":"97","pitchHand":"R","batSide":"R","fullLFMName":"Soto, Neftali"}
 {"date":"2025-02-22","jaEvent":"支配下選手登録","teamCode":"M","playerId":"63065155","jaRegisteredName":"Ｇ．ポランコ","primaryNumber":"22","jaPrimaryPosition":"外野手","birthDate":"1991-09-14","height":"196","weight":"108","pitchHand":"L","batSide":"L","fullLFMName":"Polanco, Gregory"}
 {"date":"2025-02-28","jaEvent":"支配下選手登録","teamCode":"DB","playerId":"33235157","jaRegisteredName":"Ｔ．バウアー","primaryNumber":"96","jaPrimaryPosition":"投手","birthDate":"1991-01-17","height":"185","weight":"92","pitchHand":"R","batSide":"R","fullLFMName":"Bauer, Trevor"}

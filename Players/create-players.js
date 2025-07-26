@@ -12,10 +12,11 @@ const startDate = `${Number(season) - 1}-12-01`;
 const registered = load_registered(season);
 const reserved = load_reserved(season);
 const released = load_released(season);
+const released2025 = load_released2025(season);
 const retired = load_retired(season);
 const boxscoreNames = await load_boxscoreNames();
 
-const data = [registered, reserved, released, retired, boxscoreNames]
+const data = [registered, reserved, released, released2025, retired, boxscoreNames]
   .flat()
   .filter((o) => o.date >= startDate)
   .sort((a, b) => {
@@ -290,6 +291,35 @@ function load_reserved(season) {
 }
 
 function load_released(season) {
+  const infile = `${scrapedDir}/npb${Number(season - 1)}-released.json`;
+  const inputs = JSON.parse(readFileSync(infile, 'utf8'));
+
+  const notes = inputs.notes;
+  return inputs.rows
+    .map(({ date, teamCode, jaPosition, primaryNumber, playerId, jaRegisteredName, note }) => {
+      return {
+        date,
+        jaEvent: "自由契約選手",
+        teamCode,
+        playerId,
+        jaRegisteredName,
+        primaryNumber,
+        jaPrimaryPosition: jaPosition,
+        note: note.replace(/（/, "").replace(/）/, "")
+      }
+    })
+    .map((o) => {
+      if (o.note.includes("※")) {
+        const num = o.note.match(/(※\d+)/).at(1);
+        const note = notes.find((n) => n.includes(num)).replace(/(※\d+)/, "");
+        o.note = o.note.replace(num, note);
+      }
+      return o;
+    })
+    ;
+}
+
+function load_released2025(season) {
   const infile = `${scrapedDir}/npb${Number(season)}-released.json`;
   const inputs = JSON.parse(readFileSync(infile, 'utf8'));
 
