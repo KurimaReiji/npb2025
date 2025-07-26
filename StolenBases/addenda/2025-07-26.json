@@ -2,7 +2,7 @@
   {
     "jaText": "（走者・内山）二塁盗塁失敗",
     "text": "Uchiyama caught stealing 2nd base.",
-    "countsAsStealAttempt": true
+    "countsAsStealAttempt": false
   },
   {
     "jaText": "（走者・門脇）二塁盗塁成功",
@@ -18,9 +18,7 @@
     "jaText": "（走者・小郷）二塁盗塁成功",
     "text": "Ogoh steals 2nd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
+    "catcher": {
         "id": "61265151",
         "jaBoxscoreName": "柘植",
         "jaRegisteredName": "柘植　世那",
@@ -30,27 +28,13 @@
         "boxscoreName": "Tsuge",
         "pitchHand": "R",
         "batSide": "R"
-      },
-      {
-        "id": "81785155",
-        "jaBoxscoreName": "古賀悠",
-        "jaRegisteredName": "古賀　悠斗",
-        "fullLFMName": "Koga, Yuto",
-        "primaryNumber": "22",
-        "teamCode": "L",
-        "boxscoreName": "Y.Koga",
-        "pitchHand": "R",
-        "batSide": "R"
       }
-    ]
   },
   {
     "jaText": "（走者・中島）三塁盗塁成功",
     "text": "Nakashima steals 3rd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
+    "catcher": {
         "id": "61265151",
         "jaBoxscoreName": "柘植",
         "jaRegisteredName": "柘植　世那",
@@ -60,27 +44,13 @@
         "boxscoreName": "Tsuge",
         "pitchHand": "R",
         "batSide": "R"
-      },
-      {
-        "id": "81785155",
-        "jaBoxscoreName": "古賀悠",
-        "jaRegisteredName": "古賀　悠斗",
-        "fullLFMName": "Koga, Yuto",
-        "primaryNumber": "22",
-        "teamCode": "L",
-        "boxscoreName": "Y.Koga",
-        "pitchHand": "R",
-        "batSide": "R"
       }
-    ]
   },
   {
     "jaText": "（走者・堀内）二塁盗塁成功",
     "text": "Horiuchi steals 2nd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
+    "catcher": {
         "id": "61265151",
         "jaBoxscoreName": "柘植",
         "jaRegisteredName": "柘植　世那",
@@ -90,19 +60,7 @@
         "boxscoreName": "Tsuge",
         "pitchHand": "R",
         "batSide": "R"
-      },
-      {
-        "id": "81785155",
-        "jaBoxscoreName": "古賀悠",
-        "jaRegisteredName": "古賀　悠斗",
-        "fullLFMName": "Koga, Yuto",
-        "primaryNumber": "22",
-        "teamCode": "L",
-        "boxscoreName": "Y.Koga",
-        "pitchHand": "R",
-        "batSide": "R"
       }
-    ]
   },
   {
     "jaText": "（走者・渡部聖）二塁盗塁成功",
