@@ -23,9 +23,7 @@
     "jaText": "（走者・古賀悠）二塁盗塁失敗",
     "text": "Y.Koga caught stealing 2nd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
+    "catcher": {
         "id": "11815132",
         "jaBoxscoreName": "堀内",
         "jaRegisteredName": "堀内　謙伍",
@@ -35,38 +33,13 @@
         "boxscoreName": "Horiuchi",
         "pitchHand": "R",
         "batSide": "L"
-      },
-      {
-        "id": "71375138",
-        "jaBoxscoreName": "太田",
-        "jaRegisteredName": "太田　光",
-        "fullLFMName": "Ohta, Hikaru",
-        "primaryNumber": "2",
-        "teamCode": "E",
-        "boxscoreName": "Ohta",
-        "pitchHand": "R",
-        "batSide": "R"
       }
-    ]
   },
   {
     "jaText": "（走者・辰己）二塁盗塁成功",
     "text": "R.Tatsumi steals 2nd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
-        "id": "81785155",
-        "jaBoxscoreName": "古賀悠",
-        "jaRegisteredName": "古賀　悠斗",
-        "fullLFMName": "Koga, Yuto",
-        "primaryNumber": "22",
-        "teamCode": "L",
-        "boxscoreName": "Y.Koga",
-        "pitchHand": "R",
-        "batSide": "R"
-      },
-      {
+    "catcher": {
         "id": "61265151",
         "jaBoxscoreName": "柘植",
         "jaRegisteredName": "柘植　世那",
@@ -77,15 +50,12 @@
         "pitchHand": "R",
         "batSide": "R"
       }
-    ]
   },
   {
     "jaText": "（走者・大里）二塁盗塁失敗",
     "text": "Ohsato caught stealing 2nd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
+    "catcher": {
         "id": "71475139",
         "jaBoxscoreName": "嶺井",
         "jaRegisteredName": "嶺井　博希",
@@ -95,27 +65,13 @@
         "boxscoreName": "Minei",
         "pitchHand": "R",
         "batSide": "R"
-      },
-      {
-        "id": "81385151",
-        "jaBoxscoreName": "海野",
-        "jaRegisteredName": "海野　隆司",
-        "fullLFMName": "Umino, Takashi",
-        "primaryNumber": "62",
-        "teamCode": "H",
-        "boxscoreName": "Umino",
-        "pitchHand": "R",
-        "batSide": "R"
       }
-    ]
   },
   {
     "jaText": "（走者・牧原大）二塁盗塁成功",
     "text": "T.Makihara steals 2nd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
+    "catcher": {
         "id": "11815155",
         "jaBoxscoreName": "福永",
         "jaRegisteredName": "福永　奨",
@@ -125,18 +81,6 @@
         "boxscoreName": "Fukunaga",
         "pitchHand": "R",
         "batSide": "R"
-      },
-      {
-        "id": "41645139",
-        "jaBoxscoreName": "若月",
-        "jaRegisteredName": "若月　健矢",
-        "fullLFMName": "Wakatsuki, Kenya",
-        "primaryNumber": "2",
-        "teamCode": "B",
-        "boxscoreName": "Wakatsuki",
-        "pitchHand": "R",
-        "batSide": "R"
       }
-    ]
   }
 ]
