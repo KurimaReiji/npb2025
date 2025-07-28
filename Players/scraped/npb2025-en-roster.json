@@ -3,7 +3,7 @@
     "teamCode": "B",
     "url": "https://npb.jp/bis/eng/teams/rst_b.html",
     "title": "ORIX Buffaloes : 2025 Roster | NPB.jp 日本野球機構",
-    "lastUpdated": "Friday, July 25, 2025",
+    "lastUpdated": "Sunday, July 27, 2025",
     "roster": [
       {
         "primaryPosition": "Manager",
@@ -1099,7 +1099,7 @@
     "teamCode": "C",
     "url": "https://npb.jp/bis/eng/teams/rst_c.html",
     "title": "Hiroshima Toyo Carp : 2025 Roster | NPB.jp 日本野球機構",
-    "lastUpdated": "Friday, July 25, 2025",
+    "lastUpdated": "Sunday, July 27, 2025",
     "roster": [
       {
         "primaryPosition": "Manager",
@@ -2063,7 +2063,7 @@
     "teamCode": "D",
     "url": "https://npb.jp/bis/eng/teams/rst_d.html",
     "title": "Chunichi Dragons : 2025 Roster | NPB.jp 日本野球機構",
-    "lastUpdated": "Friday, July 25, 2025",
+    "lastUpdated": "Sunday, July 27, 2025",
     "roster": [
       {
         "primaryPosition": "Manager",
@@ -3075,7 +3075,7 @@
     "teamCode": "DB",
     "url": "https://npb.jp/bis/eng/teams/rst_db.html",
     "title": "YOKOHAMA DeNA BAYSTARS : 2025 Roster | NPB.jp 日本野球機構",
-    "lastUpdated": "Friday, July 25, 2025",
+    "lastUpdated": "Sunday, July 27, 2025",
     "roster": [
       {
         "primaryPosition": "Manager",
@@ -3117,7 +3117,7 @@
         "weight": "93",
         "pitchHand": "L",
         "batSide": "L",
-        "notes": ""
+        "notes": "Released (Jul. 26)."
       },
       {
         "primaryPosition": "Pitcher",
@@ -3142,6 +3142,18 @@
         "pitchHand": "R",
         "batSide": "R",
         "notes": ""
+      },
+      {
+        "primaryPosition": "Pitcher",
+        "primaryNumber": "35",
+        "playerId": "31635157",
+        "fullLFMName": "Hashimoto, Tatsuya",
+        "birthDate": "Jul. 18, 2000",
+        "height": "181",
+        "weight": "84",
+        "pitchHand": "R",
+        "batSide": "R",
+        "notes": "Registered(developmental player ->) (Jul. 26)."
       },
       {
         "primaryPosition": "Pitcher",
@@ -3939,18 +3951,6 @@
       },
       {
         "primaryPosition": "Pitcher",
-        "primaryNumber": "035",
-        "playerId": "31635157",
-        "fullLFMName": "Hashimoto, Tatsuya",
-        "birthDate": "Jul. 18, 2000",
-        "height": "181",
-        "weight": "84",
-        "pitchHand": "R",
-        "batSide": "R",
-        "notes": ""
-      },
-      {
-        "primaryPosition": "Pitcher",
         "primaryNumber": "103",
         "playerId": "41545150",
         "fullLFMName": "Kanabuchi, Koki",
@@ -4123,7 +4123,7 @@
     "teamCode": "E",
     "url": "https://npb.jp/bis/eng/teams/rst_e.html",
     "title": "Tohoku Rakuten Golden Eagles : 2025 Roster | NPB.jp 日本野球機構",
-    "lastUpdated": "Friday, July 25, 2025",
+    "lastUpdated": "Sunday, July 27, 2025",
     "roster": [
       {
         "primaryPosition": "Manager",
@@ -5087,7 +5087,7 @@
     "teamCode": "F",
     "url": "https://npb.jp/bis/eng/teams/rst_f.html",
     "title": "Hokkaido Nippon-Ham Fighters : 2025 Roster | NPB.jp 日本野球機構",
-    "lastUpdated": "Friday, July 25, 2025",
+    "lastUpdated": "Sunday, July 27, 2025",
     "roster": [
       {
         "primaryPosition": "Manager",
@@ -6099,7 +6099,7 @@
     "teamCode": "G",
     "url": "https://npb.jp/bis/eng/teams/rst_g.html",
     "title": "Yomiuri Giants : 2025 Roster | NPB.jp 日本野球機構",
-    "lastUpdated": "Friday, July 25, 2025",
+    "lastUpdated": "Sunday, July 27, 2025",
     "roster": [
       {
         "primaryPosition": "Manager",
@@ -7387,7 +7387,7 @@
     "teamCode": "H",
     "url": "https://npb.jp/bis/eng/teams/rst_h.html",
     "title": "Fukuoka SoftBank Hawks : 2025 Roster | NPB.jp 日本野球機構",
-    "lastUpdated": "Friday, July 25, 2025",
+    "lastUpdated": "Sunday, July 27, 2025",
     "roster": [
       {
         "primaryPosition": "Manager",
@@ -8855,7 +8855,7 @@
     "teamCode": "L",
     "url": "https://npb.jp/bis/eng/teams/rst_l.html",
     "title": "Saitama Seibu Lions : 2025 Roster | NPB.jp 日本野球機構",
-    "lastUpdated": "Friday, July 25, 2025",
+    "lastUpdated": "Sunday, July 27, 2025",
     "roster": [
       {
         "primaryPosition": "Manager",
@@ -10011,7 +10011,7 @@
     "teamCode": "M",
     "url": "https://npb.jp/bis/eng/teams/rst_m.html",
     "title": "Chiba Lotte Marines : 2025 Roster | NPB.jp 日本野球機構",
-    "lastUpdated": "Friday, July 25, 2025",
+    "lastUpdated": "Sunday, July 27, 2025",
     "roster": [
       {
         "primaryPosition": "Manager",
@@ -11071,7 +11071,7 @@
     "teamCode": "S",
     "url": "https://npb.jp/bis/eng/teams/rst_s.html",
     "title": "Tokyo Yakult Swallows : 2025 Roster | NPB.jp 日本野球機構",
-    "lastUpdated": "Friday, July 25, 2025",
+    "lastUpdated": "Sunday, July 27, 2025",
     "roster": [
       {
         "primaryPosition": "Manager",
@@ -12023,7 +12023,7 @@
     "teamCode": "T",
     "url": "https://npb.jp/bis/eng/teams/rst_t.html",
     "title": "Hanshin Tigers : 2025 Roster | NPB.jp 日本野球機構",
-    "lastUpdated": "Friday, July 25, 2025",
+    "lastUpdated": "Sunday, July 27, 2025",
     "roster": [
       {
         "primaryPosition": "Manager",

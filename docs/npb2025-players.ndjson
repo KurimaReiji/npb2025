@@ -2314,10 +2314,12 @@
 {"date":"2025-07-25","jaEvent":"支配下選手登録","teamCode":"H","playerId":"73175157","jaRegisteredName":"宮﨑　颯","primaryNumber":"85","jaPrimaryPosition":"投手","jaEventDetails":"育成選手から移行","birthDate":"2000-06-14","height":"180","weight":"93","pitchHand":"L","batSide":"L","fullLFMName":"Miyazaki, Hayato"}
 {"date":"2025-07-25","jaEvent":"支配下選手登録","teamCode":"L","playerId":"51055150","jaRegisteredName":"佐藤　太陽","primaryNumber":"38","jaPrimaryPosition":"内野手","jaEventDetails":"育成選手から移行","birthDate":"2002-05-19","height":"176","weight":"78","pitchHand":"R","batSide":"L","fullLFMName":"Sato, Taiyo"}
 {"date":"2025-07-25","jaEvent":"支配下選手登録","teamCode":"M","playerId":"23925150","jaRegisteredName":"Ｓ．アセベド","primaryNumber":"69","jaPrimaryPosition":"外野手","jaEventDetails":"育成選手から移行","birthDate":"2002-08-02","height":"195","weight":"104","pitchHand":"R","batSide":"R","fullLFMName":"Acevedo, Stiven"}
-{"date":"2025-07-26","jaEvent":"支配下選手登録","teamCode":"DB","playerId":"31635157","jaRegisteredName":"橋本　達弥","primaryNumber":"35","jaPrimaryPosition":"投手","jaEventDetails":"育成選手から移行"}
+{"date":"2025-07-26","jaEvent":"支配下選手登録","teamCode":"DB","playerId":"31635157","jaRegisteredName":"橋本　達弥","primaryNumber":"35","jaPrimaryPosition":"投手","jaEventDetails":"育成選手から移行","birthDate":"2000-07-18","height":"181","weight":"84","pitchHand":"R","batSide":"R","fullLFMName":"Hashimoto, Tatsuya"}
 {"date":"2025-07-26","jaEvent":"自由契約選手","teamCode":"DB","playerId":"43545151","jaRegisteredName":"Ｙ．ディアス","primaryNumber":"93","jaPrimaryPosition":"投手","note":"ウエイバー不請求"}
 {"date":"2025-07-26","playerId":"81085150","jaBoxscoreName":"柴田","boxscoreName":"Shibata"}
 {"date":"2025-07-26","playerId":"51055150","jaBoxscoreName":"佐藤太","boxscoreName":"T.Sato"}
 {"date":"2025-07-26","playerId":"43045155","jaBoxscoreName":"ボー・タカハシ","boxscoreName":"B.Takahashi"}
 {"date":"2025-07-26","playerId":"83385159","jaBoxscoreName":"横山聖","boxscoreName":"S.Yokoyama"}
 {"date":"2025-07-26","playerId":"01305153","jaBoxscoreName":"井上","boxscoreName":"Inoue"}
+{"date":"2025-07-28","jaEvent":"支配下選手登録","teamCode":"C","playerId":"81085157","jaRegisteredName":"辻　大雅","primaryNumber":"98","jaPrimaryPosition":"投手","jaEventDetails":"育成選手から移行"}
+{"date":"2025-07-28","jaEvent":"支配下選手登録","teamCode":"C","playerId":"41845155","jaRegisteredName":"前川　誠太","primaryNumber":"93","jaPrimaryPosition":"内野手","jaEventDetails":"育成選手から移行"}

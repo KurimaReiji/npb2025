@@ -583,7 +583,7 @@
     "year": "2025",
     "teamCode": "C",
     "title": "2025年度 支配下選手登録（広島東洋カープ） | 2025年度公示 | NPB.jp 日本野球機構",
-    "total": "68名",
+    "total": "70名",
     "rows": [
       {
         "mmdd": "12-17",
@@ -1136,9 +1136,41 @@
         "primaryNumber": "97",
         "playerId": "61265157",
         "jaRegisteredName": "中村　貴浩"
+      },
+      {
+        "mmdd": "07-28",
+        "teamCode": "C",
+        "jaPrimaryPosition": "投手",
+        "primaryNumber": "98",
+        "playerId": "81085157",
+        "jaRegisteredName": "辻　大雅"
+      },
+      {
+        "mmdd": "07-28",
+        "teamCode": "C",
+        "jaPrimaryPosition": "内野手",
+        "primaryNumber": "93",
+        "playerId": "41845155",
+        "jaRegisteredName": "前川　誠太"
       }
     ],
     "notes": [
+      {
+        "item": "【支配下選手登録（育成選手から移行）】",
+        "date": "2025-07-28",
+        "jaPrimaryPosition": "投手",
+        "playerId": "81085157",
+        "jaRegisteredName": "辻　大雅",
+        "desc": ""
+      },
+      {
+        "item": "【支配下選手登録（育成選手から移行）】",
+        "date": "2025-07-28",
+        "jaPrimaryPosition": "内野手",
+        "playerId": "41845155",
+        "jaRegisteredName": "前川　誠太",
+        "desc": ""
+      },
       {
         "item": "【支配下選手登録（現役ドラフトに伴うトレード）】",
         "date": "2024-12-17",
