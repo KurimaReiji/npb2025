@@ -1,7 +1,7 @@
 GAMEDAY ?= $(shell TZ='America/Los_Angeles' date  --rfc-3339=date)
 #GAMEDAY := 2025-05-17
 
-.PHONY: gamesover ja en players standings Homeruns StolenBases nightly
+.PHONY: gamesover ja en players standings Homeruns StolenBases nightly dispatch
 
 gamesover: standings Homeruns StolenBases
 nightly: players
@@ -37,3 +37,6 @@ Homeruns: Games/daily/$(GAMEDAY).json
 
 StolenBases: Games/daily/$(GAMEDAY).json
 	make -C $@ ndjson
+
+dispatch: 
+	gh workflow run gamesover.yml --repo kurimareiji/npb2025 --ref main
