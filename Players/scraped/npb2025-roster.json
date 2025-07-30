@@ -3,7 +3,7 @@
     "teamCode": "B",
     "url": "https://npb.jp/bis/teams/rst_b.html",
     "title": "オリックス・バファローズ 2025年度 選手一覧 | NPB.jp 日本野球機構",
-    "lastUpdated": "2025年7月28日(月)　現在",
+    "lastUpdated": "2025年7月29日(火)　現在",
     "roster": [
       {
         "primaryPosition": "Manager",
@@ -1099,7 +1099,7 @@
     "teamCode": "C",
     "url": "https://npb.jp/bis/teams/rst_c.html",
     "title": "広島東洋カープ 2025年度 選手一覧 | NPB.jp 日本野球機構",
-    "lastUpdated": "2025年7月28日(月)　現在",
+    "lastUpdated": "2025年7月29日(火)　現在",
     "roster": [
       {
         "primaryPosition": "Manager",
@@ -2063,7 +2063,7 @@
     "teamCode": "D",
     "url": "https://npb.jp/bis/teams/rst_d.html",
     "title": "中日ドラゴンズ 2025年度 選手一覧 | NPB.jp 日本野球機構",
-    "lastUpdated": "2025年7月28日(月)　現在",
+    "lastUpdated": "2025年7月29日(火)　現在",
     "roster": [
       {
         "primaryPosition": "Manager",
@@ -3075,7 +3075,7 @@
     "teamCode": "DB",
     "url": "https://npb.jp/bis/teams/rst_db.html",
     "title": "横浜DeNAベイスターズ 2025年度 選手一覧 | NPB.jp 日本野球機構",
-    "lastUpdated": "2025年7月28日(月)　現在",
+    "lastUpdated": "2025年7月29日(火)　現在",
     "roster": [
       {
         "primaryPosition": "Manager",
@@ -4123,7 +4123,7 @@
     "teamCode": "E",
     "url": "https://npb.jp/bis/teams/rst_e.html",
     "title": "東北楽天ゴールデンイーグルス 2025年度 選手一覧 | NPB.jp 日本野球機構",
-    "lastUpdated": "2025年7月28日(月)　現在",
+    "lastUpdated": "2025年7月29日(火)　現在",
     "roster": [
       {
         "primaryPosition": "Manager",
@@ -5087,7 +5087,7 @@
     "teamCode": "F",
     "url": "https://npb.jp/bis/teams/rst_f.html",
     "title": "北海道日本ハムファイターズ 2025年度 選手一覧 | NPB.jp 日本野球機構",
-    "lastUpdated": "2025年7月28日(月)　現在",
+    "lastUpdated": "2025年7月29日(火)　現在",
     "roster": [
       {
         "primaryPosition": "Manager",
@@ -6099,7 +6099,7 @@
     "teamCode": "G",
     "url": "https://npb.jp/bis/teams/rst_g.html",
     "title": "読売ジャイアンツ 2025年度 選手一覧 | NPB.jp 日本野球機構",
-    "lastUpdated": "2025年7月28日(月)　現在",
+    "lastUpdated": "2025年7月29日(火)　現在",
     "roster": [
       {
         "primaryPosition": "Manager",
@@ -6430,6 +6430,18 @@
         "pitchHand": "右",
         "batSide": "右",
         "notes": ""
+      },
+      {
+        "primaryPosition": "Pitcher",
+        "primaryNumber": "68",
+        "playerId": "31735155",
+        "jaRegisteredName": "菊地 大稀",
+        "birthDate": "1999-06-02",
+        "height": "186",
+        "weight": "89",
+        "pitchHand": "右",
+        "batSide": "左",
+        "notes": "7/29 育成選手から支配下選手へ移行"
       },
       {
         "primaryPosition": "Pitcher",
@@ -6951,18 +6963,6 @@
     "developmentalSquad": [
       {
         "primaryPosition": "Pitcher",
-        "primaryNumber": "001",
-        "playerId": "31735155",
-        "jaRegisteredName": "菊地 大稀",
-        "birthDate": "1999-06-02",
-        "height": "186",
-        "weight": "89",
-        "pitchHand": "右",
-        "batSide": "左",
-        "notes": ""
-      },
-      {
-        "primaryPosition": "Pitcher",
         "primaryNumber": "012",
         "playerId": "43145159",
         "jaRegisteredName": "三浦 克也",
@@ -7387,7 +7387,7 @@
     "teamCode": "H",
     "url": "https://npb.jp/bis/teams/rst_h.html",
     "title": "福岡ソフトバンクホークス 2025年度 選手一覧 | NPB.jp 日本野球機構",
-    "lastUpdated": "2025年7月28日(月)　現在",
+    "lastUpdated": "2025年7月29日(火)　現在",
     "roster": [
       {
         "primaryPosition": "Manager",
@@ -8855,7 +8855,7 @@
     "teamCode": "L",
     "url": "https://npb.jp/bis/teams/rst_l.html",
     "title": "埼玉西武ライオンズ 2025年度 選手一覧 | NPB.jp 日本野球機構",
-    "lastUpdated": "2025年7月28日(月)　現在",
+    "lastUpdated": "2025年7月29日(火)　現在",
     "roster": [
       {
         "primaryPosition": "Manager",
@@ -10011,7 +10011,7 @@
     "teamCode": "M",
     "url": "https://npb.jp/bis/teams/rst_m.html",
     "title": "千葉ロッテマリーンズ 2025年度 選手一覧 | NPB.jp 日本野球機構",
-    "lastUpdated": "2025年7月28日(月)　現在",
+    "lastUpdated": "2025年7月29日(火)　現在",
     "roster": [
       {
         "primaryPosition": "Manager",
@@ -11071,7 +11071,7 @@
     "teamCode": "S",
     "url": "https://npb.jp/bis/teams/rst_s.html",
     "title": "東京ヤクルトスワローズ 2025年度 選手一覧 | NPB.jp 日本野球機構",
-    "lastUpdated": "2025年7月28日(月)　現在",
+    "lastUpdated": "2025年7月29日(火)　現在",
     "roster": [
       {
         "primaryPosition": "Manager",
@@ -12023,7 +12023,7 @@
     "teamCode": "T",
     "url": "https://npb.jp/bis/teams/rst_t.html",
     "title": "阪神タイガース 2025年度 選手一覧 | NPB.jp 日本野球機構",
-    "lastUpdated": "2025年7月28日(月)　現在",
+    "lastUpdated": "2025年7月29日(火)　現在",
     "roster": [
       {
         "primaryPosition": "Manager",
