@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Games above .500 | NPB 2025</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Noto+Sans&family=Noto+Sans+Mono&display=swap');
+  </style>
+  <style>
+    :root {
+      --npb-blue: #2862ae;
+      --central-league-green: #0f8f2e;
+      --pacific-league-blue: #3fb1e5;
+      --interleague-red: #e60012;
+    }
+
+    body {
+      margin: 0;
+      display: grid;
+      grid-template-columns: 1fr;
+      grid-template-rows: auto 1fr;
+      min-height: 100vh;
+    }
+
+    npb-router {}
+
+    npb-above500 {
+      height: 100%;
+    }
+  </style>
+</head>
+
+<body>
+  <npb-router></npb-router>
+  <npb-above500 league="Central"></npb-above500>
+  <script type="module" src="/js/npb2025-router.js"></script>
+  <script type="module" src="/js/npb-above500.js"></script>
+</body>
+
+</html>
