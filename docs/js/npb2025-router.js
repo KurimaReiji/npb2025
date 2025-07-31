@@ -135,7 +135,6 @@ class NpbRouter extends HTMLElement {
     this.shadowRoot.getElementById("download").addEventListener("click", () => {
       const app = document.querySelector('npb-above500');
       const league = app.getAttribute("league") || "Central";
-      debugger;
       app.dispatchEvent(new CustomEvent("DownloadSVG", {
         detail: { league },
       }));
