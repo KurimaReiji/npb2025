@@ -8,20 +8,7 @@
     "jaText": "（走者・大盛）二塁盗塁失敗",
     "text": "Ohmori caught stealing 2nd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
-        "id": "51055153",
-        "jaBoxscoreName": "榮枝",
-        "jaRegisteredName": "榮枝　裕貴",
-        "fullLFMName": "Sakaeda, Yuki",
-        "primaryNumber": "39",
-        "teamCode": "T",
-        "boxscoreName": "Sakaeda",
-        "pitchHand": "R",
-        "batSide": "R"
-      },
-      {
+    "catcher": {
         "id": "21325139",
         "jaBoxscoreName": "梅野",
         "jaRegisteredName": "梅野　隆太郎",
@@ -32,26 +19,12 @@
         "pitchHand": "R",
         "batSide": "R"
       }
-    ]
   },
   {
     "jaText": "（走者・五十幡）二塁盗塁成功",
     "text": "Isobata steals 2nd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
-        "id": "11215132",
-        "jaBoxscoreName": "谷川原",
-        "jaRegisteredName": "谷川原　健太",
-        "fullLFMName": "Tanigawara, Kenta",
-        "primaryNumber": "45",
-        "teamCode": "H",
-        "boxscoreName": "Tanigawara",
-        "pitchHand": "R",
-        "batSide": "L"
-      },
-      {
+    "catcher": {
         "id": "81385151",
         "jaBoxscoreName": "海野",
         "jaRegisteredName": "海野　隆司",
@@ -62,7 +35,6 @@
         "pitchHand": "R",
         "batSide": "R"
       }
-    ]
   },
   {
     "jaText": "（走者・中島）二塁盗塁成功",
@@ -78,9 +50,7 @@
     "jaText": "（走者・廣岡）二塁盗塁成功",
     "text": "Hirooka steals 2nd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
+    "catcher": {
         "id": "81785155",
         "jaBoxscoreName": "古賀悠",
         "jaRegisteredName": "古賀　悠斗",
@@ -90,27 +60,13 @@
         "boxscoreName": "Y.Koga",
         "pitchHand": "R",
         "batSide": "R"
-      },
-      {
-        "id": "61265151",
-        "jaBoxscoreName": "柘植",
-        "jaRegisteredName": "柘植　世那",
-        "fullLFMName": "Tsuge, Sena",
-        "primaryNumber": "37",
-        "teamCode": "L",
-        "boxscoreName": "Tsuge",
-        "pitchHand": "R",
-        "batSide": "R"
       }
-    ]
   },
   {
     "jaText": "（走者・廣岡）二塁盗塁成功",
     "text": "Hirooka steals 2nd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
+    "catcher": {
         "id": "81785155",
         "jaBoxscoreName": "古賀悠",
         "jaRegisteredName": "古賀　悠斗",
@@ -120,27 +76,13 @@
         "boxscoreName": "Y.Koga",
         "pitchHand": "R",
         "batSide": "R"
-      },
-      {
-        "id": "61265151",
-        "jaBoxscoreName": "柘植",
-        "jaRegisteredName": "柘植　世那",
-        "fullLFMName": "Tsuge, Sena",
-        "primaryNumber": "37",
-        "teamCode": "L",
-        "boxscoreName": "Tsuge",
-        "pitchHand": "R",
-        "batSide": "R"
       }
-    ]
   },
   {
     "jaText": "（走者・麦谷）二塁盗塁成功",
     "text": "Mugitani steals 2nd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
+    "catcher": {
         "id": "81785155",
         "jaBoxscoreName": "古賀悠",
         "jaRegisteredName": "古賀　悠斗",
@@ -150,18 +92,6 @@
         "boxscoreName": "Y.Koga",
         "pitchHand": "R",
         "batSide": "R"
-      },
-      {
-        "id": "61265151",
-        "jaBoxscoreName": "柘植",
-        "jaRegisteredName": "柘植　世那",
-        "fullLFMName": "Tsuge, Sena",
-        "primaryNumber": "37",
-        "teamCode": "L",
-        "boxscoreName": "Tsuge",
-        "pitchHand": "R",
-        "batSide": "R"
       }
-    ]
   }
 ]
