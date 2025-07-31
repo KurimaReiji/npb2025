@@ -1,9 +1,6 @@
 const locationHandler = () => {
   const [_, site, app, ...opts] = location.pathname.split("/");
   let title;
-  [...document.querySelectorAll(".container *")].forEach((app) => {
-    //app.style.display = "none";
-  });
   try {
     if (app === "above500") {
       const [league, ...rest] = opts;
@@ -12,7 +9,6 @@ const locationHandler = () => {
       }
       title = `Games above .500, ${league} League 2025 | NPB 2025`;
       const above500 = document.querySelector("npb-above500");
-      above500.style.display = "block";
       above500.setAttribute("league", league);
     } else {
       throw new Error("not found");
@@ -33,6 +29,10 @@ const route = (e) => {
 }
 
 window.addEventListener("popstate", (_) => {
+  locationHandler();
+});
+
+document.addEventListener("DOMContentLoaded", () => {
   locationHandler();
 });
 
@@ -144,4 +144,4 @@ class NpbRouter extends HTMLElement {
 }
 
 customElements.define("npb-router", NpbRouter);
-export { NpbRouter, route, locationHandler }
+export { NpbRouter }
