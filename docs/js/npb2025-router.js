@@ -91,6 +91,9 @@ a {
   width: 5.25em;
   text-align: center;
 }
+#download:hover {
+  cursor: pointer;
+}
 </style>`;
 
 class NpbRouter extends HTMLElement {
@@ -112,6 +115,9 @@ class NpbRouter extends HTMLElement {
     <li><a href="/npb2025/above500/Central" data-app="above500" data-league="Central">Central</a></li>
     <li><a href="/npb2025/above500/Pacific" data-app="above500" data-league="Pacific">Pacific</a></li>
   </ul>
+  <ul>
+    <li id="download">Download as PNG</li>
+  </ul>
 </li>
 </ul>
 </div>
@@ -125,6 +131,15 @@ class NpbRouter extends HTMLElement {
   }
   connectedCallback() {
     this.render();
+
+    this.shadowRoot.getElementById("download").addEventListener("click", () => {
+      const app = document.querySelector('npb-above500');
+      const league = app.getAttribute("league") || "Central";
+      debugger;
+      app.dispatchEvent(new CustomEvent("DownloadSVG", {
+        detail: { league },
+      }));
+    });
   }
 }
 

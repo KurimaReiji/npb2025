@@ -269,7 +269,7 @@ class NpbAbove500 extends HTMLElement {
 
     self.data = loadData();
 
-    document.addEventListener("DownloadSVG", async ({ detail }) => {
+    self.addEventListener("DownloadSVG", async ({ detail }) => {
       const opts = Object.assign({
         league: 'Central',
         width: 1600,
