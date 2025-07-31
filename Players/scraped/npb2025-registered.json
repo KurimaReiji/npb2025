@@ -4,7 +4,7 @@
     "year": "2025",
     "teamCode": "B",
     "title": "2025年度 支配下選手登録（オリックス・バファローズ） | 2025年度公示 | NPB.jp 日本野球機構",
-    "total": "67名",
+    "total": "69名",
     "rows": [
       {
         "mmdd": "12-17",
@@ -549,9 +549,41 @@
         "primaryNumber": "40",
         "playerId": "31335116",
         "jaRegisteredName": "岩嵜　翔"
+      },
+      {
+        "mmdd": "07-31",
+        "teamCode": "B",
+        "jaPrimaryPosition": "投手",
+        "primaryNumber": "68",
+        "playerId": "31335157",
+        "jaRegisteredName": "入山　海斗"
+      },
+      {
+        "mmdd": "07-31",
+        "teamCode": "B",
+        "jaPrimaryPosition": "投手",
+        "primaryNumber": "52",
+        "playerId": "03505155",
+        "jaRegisteredName": "横山　楓"
       }
     ],
     "notes": [
+      {
+        "item": "【支配下選手登録（育成選手から移行）】",
+        "date": "2025-07-31",
+        "jaPrimaryPosition": "投手",
+        "playerId": "31335157",
+        "jaRegisteredName": "入山　海斗",
+        "desc": ""
+      },
+      {
+        "item": "【支配下選手登録（育成選手から移行）】",
+        "date": "2025-07-31",
+        "jaPrimaryPosition": "投手",
+        "playerId": "03505155",
+        "jaRegisteredName": "横山　楓",
+        "desc": ""
+      },
       {
         "item": "【支配下選手登録（トレード）】",
         "date": "2025-06-02",
@@ -3073,6 +3105,14 @@
         "primaryNumber": "9",
         "playerId": "03005150",
         "jaRegisteredName": "Ｌ．ボイト"
+      },
+      {
+        "mmdd": "07-31",
+        "teamCode": "E",
+        "jaPrimaryPosition": "内野手",
+        "primaryNumber": "82",
+        "playerId": "71075157",
+        "jaRegisteredName": "辰見　鴻之介"
       }
     ],
     "notes": [
@@ -3082,6 +3122,14 @@
         "jaPrimaryPosition": "投手",
         "playerId": "41445134",
         "jaRegisteredName": "西口　直人",
+        "desc": ""
+      },
+      {
+        "item": "【支配下選手登録（育成選手から移行）】",
+        "date": "2025-07-31",
+        "jaPrimaryPosition": "内野手",
+        "playerId": "71075157",
+        "jaRegisteredName": "辰見　鴻之介",
         "desc": ""
       },
       {
@@ -5148,7 +5196,7 @@
     "year": "2025",
     "teamCode": "L",
     "title": "2025年度 支配下選手登録（埼玉西武ライオンズ） | 2025年度公示 | NPB.jp 日本野球機構",
-    "total": "69名",
+    "total": "70名",
     "rows": [
       {
         "mmdd": "12-17",
@@ -5725,6 +5773,14 @@
         "primaryNumber": "38",
         "playerId": "51055150",
         "jaRegisteredName": "佐藤　太陽"
+      },
+      {
+        "mmdd": "07-31",
+        "teamCode": "L",
+        "jaPrimaryPosition": "投手",
+        "primaryNumber": "90",
+        "playerId": "61465151",
+        "jaRegisteredName": "浜屋　将太"
       }
     ],
     "notes": [
@@ -5777,6 +5833,14 @@
         "desc": ""
       },
       {
+        "item": "【支配下選手登録（育成選手から移行）】",
+        "date": "2025-07-31",
+        "jaPrimaryPosition": "投手",
+        "playerId": "61465151",
+        "jaRegisteredName": "浜屋　将太",
+        "desc": ""
+      },
+      {
         "item": "【支配下選手登録（現役ドラフトに伴うトレード）】",
         "date": "2024-12-17",
         "jaPrimaryPosition": "内野手",
@@ -5815,7 +5879,7 @@
     "year": "2025",
     "teamCode": "M",
     "title": "2025年度 支配下選手登録（千葉ロッテマリーンズ） | 2025年度公示 | NPB.jp 日本野球機構",
-    "total": "69名",
+    "total": "70名",
     "rows": [
       {
         "mmdd": "12-17",
@@ -6376,6 +6440,14 @@
         "primaryNumber": "69",
         "playerId": "23925150",
         "jaRegisteredName": "Ｓ．アセベド"
+      },
+      {
+        "mmdd": "07-31",
+        "teamCode": "M",
+        "jaPrimaryPosition": "投手",
+        "primaryNumber": "91",
+        "playerId": "83385157",
+        "jaRegisteredName": "吉川　悠斗"
       }
     ],
     "notes": [
@@ -6385,6 +6457,14 @@
         "jaPrimaryPosition": "外野手",
         "playerId": "23925150",
         "jaRegisteredName": "Ｓ．アセベド",
+        "desc": ""
+      },
+      {
+        "item": "【支配下選手登録（育成選手から移行）】",
+        "date": "2025-07-31",
+        "jaPrimaryPosition": "投手",
+        "playerId": "83385157",
+        "jaRegisteredName": "吉川　悠斗",
         "desc": ""
       },
       {
@@ -6410,7 +6490,7 @@
     "year": "2025",
     "teamCode": "S",
     "title": "2025年度 支配下選手登録（東京ヤクルトスワローズ） | 2025年度公示 | NPB.jp 日本野球機構",
-    "total": "68名",
+    "total": "69名",
     "rows": [
       {
         "mmdd": "12-17",
@@ -6979,6 +7059,14 @@
         "primaryNumber": "71",
         "playerId": "61265138",
         "jaRegisteredName": "沼田　翔平"
+      },
+      {
+        "mmdd": "07-31",
+        "teamCode": "S",
+        "jaPrimaryPosition": "投手",
+        "primaryNumber": "99",
+        "playerId": "71175132",
+        "jaRegisteredName": "青柳　晃洋"
       }
     ],
     "notes": [
