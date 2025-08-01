@@ -2326,12 +2326,12 @@
 {"date":"2025-07-29","jaEvent":"支配下選手登録","teamCode":"G","playerId":"31735155","jaRegisteredName":"菊地　大稀","primaryNumber":"68","jaPrimaryPosition":"投手","jaEventDetails":"育成選手から移行","birthDate":"1999-06-02","height":"186","weight":"89","pitchHand":"R","batSide":"L","fullLFMName":"Kikuchi, Taiki"}
 {"date":"2025-07-29","playerId":"13715132","jaBoxscoreName":"ビシエド","boxscoreName":"Viciedo"}
 {"date":"2025-07-29","playerId":"41345135","jaBoxscoreName":"乙坂","boxscoreName":"Otosaka"}
-{"date":"2025-07-31","jaEvent":"支配下選手登録","teamCode":"S","playerId":"71175132","jaRegisteredName":"青柳　晃洋","primaryNumber":"99","jaPrimaryPosition":"投手"}
-{"date":"2025-07-31","jaEvent":"支配下選手登録","teamCode":"B","playerId":"31335157","jaRegisteredName":"入山　海斗","primaryNumber":"68","jaPrimaryPosition":"投手","jaEventDetails":"育成選手から移行"}
-{"date":"2025-07-31","jaEvent":"支配下選手登録","teamCode":"B","playerId":"03505155","jaRegisteredName":"横山　楓","primaryNumber":"52","jaPrimaryPosition":"投手","jaEventDetails":"育成選手から移行"}
-{"date":"2025-07-31","jaEvent":"支配下選手登録","teamCode":"E","playerId":"71075157","jaRegisteredName":"辰見　鴻之介","primaryNumber":"82","jaPrimaryPosition":"内野手","jaEventDetails":"育成選手から移行"}
-{"date":"2025-07-31","jaEvent":"支配下選手登録","teamCode":"L","playerId":"61465151","jaRegisteredName":"浜屋　将太","primaryNumber":"90","jaPrimaryPosition":"投手","jaEventDetails":"育成選手から移行"}
-{"date":"2025-07-31","jaEvent":"支配下選手登録","teamCode":"M","playerId":"83385157","jaRegisteredName":"吉川　悠斗","primaryNumber":"91","jaPrimaryPosition":"投手","jaEventDetails":"育成選手から移行"}
+{"date":"2025-07-31","jaEvent":"支配下選手登録","teamCode":"S","playerId":"71175132","jaRegisteredName":"青柳　晃洋","primaryNumber":"99","jaPrimaryPosition":"投手","birthDate":"1993-12-11","height":"183","weight":"83","pitchHand":"R","batSide":"R","fullLFMName":"Aoyagi, Koyo"}
+{"date":"2025-07-31","jaEvent":"支配下選手登録","teamCode":"B","playerId":"31335157","jaRegisteredName":"入山　海斗","primaryNumber":"68","jaPrimaryPosition":"投手","jaEventDetails":"育成選手から移行","birthDate":"2000-05-26","height":"177","weight":"78","pitchHand":"R","batSide":"R","fullLFMName":"Iriyama, Kaito"}
+{"date":"2025-07-31","jaEvent":"支配下選手登録","teamCode":"B","playerId":"03505155","jaRegisteredName":"横山　楓","primaryNumber":"52","jaPrimaryPosition":"投手","jaEventDetails":"育成選手から移行","birthDate":"1997-12-28","height":"181","weight":"91","pitchHand":"R","batSide":"S","fullLFMName":"Yokoyama, Kaede"}
+{"date":"2025-07-31","jaEvent":"支配下選手登録","teamCode":"E","playerId":"71075157","jaRegisteredName":"辰見　鴻之介","primaryNumber":"82","jaPrimaryPosition":"内野手","jaEventDetails":"育成選手から移行","birthDate":"2000-11-24","height":"176","weight":"67","pitchHand":"R","batSide":"R","fullLFMName":"Tatsumi, Konosuke"}
+{"date":"2025-07-31","jaEvent":"支配下選手登録","teamCode":"L","playerId":"61465151","jaRegisteredName":"浜屋　将太","primaryNumber":"90","jaPrimaryPosition":"投手","jaEventDetails":"育成選手から移行","birthDate":"1999-01-26","height":"176","weight":"79","pitchHand":"L","batSide":"L","fullLFMName":"Hamaya, Shota"}
+{"date":"2025-07-31","jaEvent":"支配下選手登録","teamCode":"M","playerId":"83385157","jaRegisteredName":"吉川　悠斗","primaryNumber":"91","jaPrimaryPosition":"投手","jaEventDetails":"育成選手から移行","birthDate":"2005-03-14","height":"185","weight":"82","pitchHand":"L","batSide":"L","fullLFMName":"Yoshikawa, Yuto"}
 {"date":"2025-07-31","playerId":"61265138","jaBoxscoreName":"沼田","boxscoreName":"Numata"}
 {"date":"2025-07-31","playerId":"43345159","jaBoxscoreName":"森田","boxscoreName":"Morita"}
 {"date":"2025-07-31","playerId":"63065150","jaBoxscoreName":"チェイビス","boxscoreName":"Chavis"}
