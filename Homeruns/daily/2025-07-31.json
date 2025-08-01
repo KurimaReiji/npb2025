@@ -188,7 +188,7 @@
     },
     "pitcher": {
       "jaBoxscoreName": "沼田",
-      "boxscoreName": "TBD",
+      "boxscoreName": "Numata",
       "pitchHand": "R",
       "teamCode": "S",
       "primaryNumber": "71",
@@ -246,7 +246,7 @@
     },
     "pitcher": {
       "jaBoxscoreName": "沼田",
-      "boxscoreName": "TBD",
+      "boxscoreName": "Numata",
       "pitchHand": "R",
       "teamCode": "S",
       "primaryNumber": "71",
@@ -353,7 +353,7 @@
     "batter": {
       "jaBoxscoreName": "チェイビス",
       "playerId": "63065150",
-      "boxscoreName": "TBD",
+      "boxscoreName": "Chavis",
       "batSide": "R",
       "teamCode": "D",
       "primaryNumber": "23",
@@ -402,7 +402,7 @@
       }
     },
     "jaText": "レフト2ランホームラン（打点2）",
-    "text": "TBD homers (1) to left field.",
+    "text": "Chavis homers (1) to left field.",
     "url": "https://npb.jp/scores/2025/0731/d-g-16/playbyplay.html#com4-2"
   },
   {
