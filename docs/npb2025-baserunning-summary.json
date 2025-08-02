@@ -496,15 +496,15 @@
       "rate": ".421"
     },
     {
-      "att": 19,
+      "att": 18,
       "sb": 13,
-      "cs": 6,
+      "cs": 5,
       "ds": 0,
       "ts": 0,
       "pickoff": {
         "pickoff": 1,
         "sb": 0,
-        "cs": 3,
+        "cs": 4,
         "ds": 0,
         "ts": 0
       },
@@ -519,7 +519,7 @@
         "pitchHand": "R",
         "batSide": "R"
       },
-      "rate": ".316"
+      "rate": ".278"
     },
     {
       "att": 17,
@@ -2526,15 +2526,15 @@
       "rate": ".600"
     },
     {
-      "att": 4,
+      "att": 3,
       "sb": 1,
-      "cs": 3,
+      "cs": 2,
       "ds": 0,
       "ts": 0,
       "pickoff": {
         "pickoff": 0,
         "sb": 1,
-        "cs": 0,
+        "cs": 1,
         "ds": 0,
         "ts": 0
       },
@@ -8040,15 +8040,15 @@
       "rate": "1.000"
     },
     {
-      "att": 7,
+      "att": 6,
       "sb": 6,
-      "cs": 1,
+      "cs": 0,
       "ds": 0,
       "ts": 0,
       "pickoff": {
         "pickoff": 0,
         "sb": 0,
-        "cs": 0,
+        "cs": 1,
         "ds": 0,
         "ts": 0
       },
@@ -12111,15 +12111,15 @@
       "teamName": "Tigers",
       "league": "Central",
       "defence": {
-        "att": 56,
+        "att": 55,
         "sb": 38,
-        "cs": 18,
+        "cs": 17,
         "ds": 0,
         "ts": 0,
         "pickoff": {
           "pickoff": 6,
           "sb": 1,
-          "cs": 7,
+          "cs": 8,
           "ds": 0,
           "ts": 0
         },
@@ -12196,15 +12196,15 @@
         "rate": ".231"
       },
       "offence": {
-        "att": 74,
+        "att": 73,
         "sb": 45,
-        "cs": 29,
+        "cs": 28,
         "ds": 0,
         "ts": 0,
         "pickoff": {
           "pickoff": 6,
           "sb": 2,
-          "cs": 2,
+          "cs": 3,
           "ds": 0,
           "ts": 0
         },
@@ -12496,31 +12496,31 @@
     {
       "league": "Central",
       "defence": {
-        "att": 390,
+        "att": 389,
         "sb": 275,
-        "cs": 118,
+        "cs": 117,
         "ds": 3,
         "ts": 0,
         "pickoff": {
           "pickoff": 21,
           "sb": 8,
-          "cs": 22,
+          "cs": 23,
           "ds": 0,
           "ts": 0
         },
-        "rate": ".303",
+        "rate": ".301",
         "teamRate": ".333"
       },
       "offence": {
-        "att": 416,
+        "att": 415,
         "sb": 296,
-        "cs": 121,
+        "cs": 120,
         "ds": 1,
         "ts": 0,
         "pickoff": {
           "pickoff": 20,
           "sb": 9,
-          "cs": 22,
+          "cs": 23,
           "ds": 0,
           "ts": 0
         },

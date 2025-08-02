@@ -7,7 +7,7 @@
   {
     "jaText": "（走者・大盛）二塁盗塁失敗",
     "text": "Ohmori caught stealing 2nd base.",
-    "countsAsStealAttempt": true,
+    "countsAsStealAttempt": false,
     "catcher": {
         "id": "21325139",
         "jaBoxscoreName": "梅野",
