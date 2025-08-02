@@ -13,9 +13,7 @@
     "jaText": "（走者・田中）二塁盗塁成功",
     "text": "Tanaka steals 2nd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
+    "catcher": {
         "id": "11915134",
         "jaBoxscoreName": "坂倉",
         "jaRegisteredName": "坂倉　将吾",
@@ -25,19 +23,7 @@
         "boxscoreName": "Sakakura",
         "pitchHand": "R",
         "batSide": "L"
-      },
-      {
-        "id": "21125151",
-        "jaBoxscoreName": "石原",
-        "jaRegisteredName": "石原　貴規",
-        "fullLFMName": "Ishihara, Tomoki",
-        "primaryNumber": "32",
-        "teamCode": "C",
-        "boxscoreName": "Ishihara",
-        "pitchHand": "R",
-        "batSide": "R"
       }
-    ]
   },
   {
     "jaText": "（走者・滝澤）二塁盗塁成功",
@@ -58,20 +44,7 @@
     "jaText": "（走者・周東）二塁盗塁成功",
     "text": "Shuto steals 2nd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
-        "id": "11815132",
-        "jaBoxscoreName": "堀内",
-        "jaRegisteredName": "堀内　謙伍",
-        "fullLFMName": "Horiuchi, Kengo",
-        "primaryNumber": "65",
-        "teamCode": "E",
-        "boxscoreName": "Horiuchi",
-        "pitchHand": "R",
-        "batSide": "L"
-      },
-      {
+    "catcher": {
         "id": "71375138",
         "jaBoxscoreName": "太田",
         "jaRegisteredName": "太田　光",
@@ -82,6 +55,5 @@
         "pitchHand": "R",
         "batSide": "R"
       }
-    ]
   }
 ]
