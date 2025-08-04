@@ -3425,7 +3425,7 @@
         "mmdd": "01-29",
         "teamCode": "F",
         "jaPrimaryPosition": "投手",
-        "primaryNumber": "57",
+        "primaryNumber": "15",
         "playerId": "51755155",
         "jaRegisteredName": "北山　亘基"
       },
@@ -3790,6 +3790,14 @@
         "playerId": "61065136",
         "jaRegisteredName": "田中　瑛斗",
         "desc": "→ 読売ジャイアンツ"
+      },
+      {
+        "item": "【背番号変更】",
+        "date": "2025-08-04",
+        "jaPrimaryPosition": "投手",
+        "playerId": "51755155",
+        "jaRegisteredName": "北山　亘基",
+        "desc": "57 →  15"
       }
     ]
   },
