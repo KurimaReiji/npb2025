@@ -13,9 +13,7 @@
     "jaText": "（走者・五十幡）二塁盗塁成功",
     "text": "Isobata steals 2nd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
+    "catcher": {
         "id": "91995112",
         "jaBoxscoreName": "炭谷",
         "jaRegisteredName": "炭谷　銀仁朗",
@@ -25,27 +23,13 @@
         "boxscoreName": "Sumitani",
         "pitchHand": "R",
         "batSide": "R"
-      },
-      {
-        "id": "81785155",
-        "jaBoxscoreName": "古賀悠",
-        "jaRegisteredName": "古賀　悠斗",
-        "fullLFMName": "Koga, Yuto",
-        "primaryNumber": "22",
-        "teamCode": "L",
-        "boxscoreName": "Y.Koga",
-        "pitchHand": "R",
-        "batSide": "R"
       }
-    ]
   },
   {
     "jaText": "（走者・水谷）二塁盗塁失敗",
     "text": "Mizutani caught stealing 2nd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
+    "catcher": {
         "id": "91995112",
         "jaBoxscoreName": "炭谷",
         "jaRegisteredName": "炭谷　銀仁朗",
@@ -55,19 +39,7 @@
         "boxscoreName": "Sumitani",
         "pitchHand": "R",
         "batSide": "R"
-      },
-      {
-        "id": "81785155",
-        "jaBoxscoreName": "古賀悠",
-        "jaRegisteredName": "古賀　悠斗",
-        "fullLFMName": "Koga, Yuto",
-        "primaryNumber": "22",
-        "teamCode": "L",
-        "boxscoreName": "Y.Koga",
-        "pitchHand": "R",
-        "batSide": "R"
       }
-    ]
   },
   {
     "jaText": "（走者・ゴンザレス）二塁盗塁失敗",
@@ -88,9 +60,7 @@
     "jaText": "（走者・宮崎）二塁盗塁成功",
     "text": "Miyazaki steals 2nd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
+    "catcher": {
         "id": "11215132",
         "jaBoxscoreName": "谷川原",
         "jaRegisteredName": "谷川原　健太",
@@ -100,19 +70,7 @@
         "boxscoreName": "Tanigawara",
         "pitchHand": "R",
         "batSide": "L"
-      },
-      {
-        "id": "71475139",
-        "jaBoxscoreName": "嶺井",
-        "jaRegisteredName": "嶺井　博希",
-        "fullLFMName": "Minei, Hiroki",
-        "primaryNumber": "12",
-        "teamCode": "H",
-        "boxscoreName": "Minei",
-        "pitchHand": "R",
-        "batSide": "R"
       }
-    ]
   },
   {
     "jaText": "（走者・牧原大）二塁盗塁成功",
