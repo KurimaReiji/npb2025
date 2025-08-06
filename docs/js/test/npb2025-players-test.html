@@ -58,6 +58,19 @@
       });
     });
 
+    describe("F Kitayama changed the number", async function () {
+      let playersAug06, findPlayerAug06;
+      playersAug06 = await getPlayers('2025-08-06');
+      findPlayerAug06 = await createFindPlayerById(playersAug06);
+
+      it("should return 57 and 15", function () {
+        const kitayama = findPlayerMay14('51755155');
+        chai.expect(kitayama.primaryNumber).to.equal('57');
+        const kitayama15 = findPlayerAug06('51755155');
+        chai.expect(kitayama15.primaryNumber).to.equal('15');
+      });
+    });
+
     mocha.run();
 
   </script>

@@ -9,7 +9,7 @@ async function createGetPlayers(dbfile) {
       players[cur.playerId] = { ...players[cur.playerId], ...cur };
     }
 
-    return Object.values(players).filter(player => player.jaEvent === '支配下選手登録');
+    return Object.values(players).filter(player => ['支配下選手登録', '背番号変更'].includes(player.jaEvent));
   }
 }
 
