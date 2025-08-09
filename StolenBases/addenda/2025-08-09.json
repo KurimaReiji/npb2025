@@ -1,0 +1,37 @@
+[
+  {
+    "jaText": "（走者・丸）二塁盗塁失敗",
+    "text": "Maru caught stealing 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・林）二塁盗塁成功",
+    "text": "Hayashi steals 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・キャベッジ）三塁盗塁成功",
+    "text": "Cabbage steals 3rd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・駿太）二塁盗塁失敗",
+    "text": "Gotoh caught stealing 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・辰己）二塁盗塁成功",
+    "text": "R.Tatsumi steals 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・武藤）二塁盗塁失敗",
+    "text": "Mutoh caught stealing 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・周東）二塁盗塁失敗",
+    "text": "Shuto caught stealing 2nd base.",
+    "countsAsStealAttempt": true
+  }
+]
