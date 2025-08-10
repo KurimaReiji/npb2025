@@ -1,0 +1,294 @@
+[
+  {
+    "id": "81285136-2025-05",
+    "date": "2025-08-10",
+    "batter": {
+      "jaBoxscoreName": "中村奨",
+      "playerId": "81285136",
+      "boxscoreName": "S.Nakamura",
+      "batSide": "R",
+      "teamCode": "C",
+      "primaryNumber": "96",
+      "jaRegisteredName": "中村　奨成",
+      "fullLFMName": "Nakamura, Shosei"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "松葉",
+      "boxscoreName": "Matsuba",
+      "pitchHand": "L",
+      "teamCode": "D",
+      "primaryNumber": "38",
+      "jaRegisteredName": "松葉　貴大",
+      "fullLFMName": "Matsuba, Takahiro"
+    },
+    "number": 5,
+    "inning": 1,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 2,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 1,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "Vantelin Dome",
+      "jaBoxscoreName": "バンテリンドーム"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "C",
+        "teamName": "Carp",
+        "score": 6
+      },
+      "home": {
+        "teamCode": "D",
+        "teamName": "Dragons",
+        "score": 5
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "S.Nakamura homers (5) to left field.",
+    "url": "https://npb.jp/scores/2025/0810/d-c-20/playbyplay.html#com1-1",
+    "isLeadOff": "Y"
+  },
+  {
+    "id": "61565135-2025-03",
+    "date": "2025-08-10",
+    "batter": {
+      "jaBoxscoreName": "菊池",
+      "playerId": "61565135",
+      "boxscoreName": "R.Kikuchi",
+      "batSide": "R",
+      "teamCode": "C",
+      "primaryNumber": "33",
+      "jaRegisteredName": "菊池　涼介",
+      "fullLFMName": "Kikuchi, Ryosuke"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "松葉",
+      "boxscoreName": "Matsuba",
+      "pitchHand": "L",
+      "teamCode": "D",
+      "primaryNumber": "38",
+      "jaRegisteredName": "松葉　貴大",
+      "fullLFMName": "Matsuba, Takahiro"
+    },
+    "number": 3,
+    "inning": 6,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "12-",
+    "count": {
+      "balls": 1,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 1,
+      "home": 4
+    },
+    "bop": 6,
+    "rbi": 3,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "Vantelin Dome",
+      "jaBoxscoreName": "バンテリンドーム"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "C",
+        "teamName": "Carp",
+        "score": 6
+      },
+      "home": {
+        "teamCode": "D",
+        "teamName": "Dragons",
+        "score": 5
+      }
+    },
+    "jaText": "レフト3ランホームラン（打点3）",
+    "text": "R.Kikuchi homers (3) to left field.",
+    "url": "https://npb.jp/scores/2025/0810/d-c-20/playbyplay.html#com6-1"
+  },
+  {
+    "id": "83785150-2025-09",
+    "date": "2025-08-10",
+    "batter": {
+      "jaBoxscoreName": "ボスラー",
+      "playerId": "83785150",
+      "boxscoreName": "Vosler",
+      "batSide": "L",
+      "teamCode": "D",
+      "primaryNumber": "24",
+      "jaRegisteredName": "Ｊ．ボスラー",
+      "fullLFMName": "Vosler, Jason"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "玉村",
+      "boxscoreName": "Tamamura",
+      "pitchHand": "L",
+      "teamCode": "C",
+      "primaryNumber": "65",
+      "jaRegisteredName": "玉村　昇悟",
+      "fullLFMName": "Tamamura, Shogo"
+    },
+    "number": 9,
+    "inning": 4,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "1--",
+    "count": {
+      "balls": 0,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 1,
+      "home": 0
+    },
+    "bop": 5,
+    "rbi": 2,
+    "whereHit": "9",
+    "venue": {
+      "boxscoreName": "Vantelin Dome",
+      "jaBoxscoreName": "バンテリンドーム"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "C",
+        "teamName": "Carp",
+        "score": 6
+      },
+      "home": {
+        "teamCode": "D",
+        "teamName": "Dragons",
+        "score": 5
+      }
+    },
+    "jaText": "ライト2ランホームラン（打点2）",
+    "text": "Vosler homers (9) to right field.",
+    "url": "https://npb.jp/scores/2025/0810/d-c-20/playbyplay.html#com4-2"
+  },
+  {
+    "id": "01505157-2025-02",
+    "date": "2025-08-10",
+    "batter": {
+      "jaBoxscoreName": "北村恵",
+      "playerId": "01505157",
+      "boxscoreName": "K.Kitamura",
+      "batSide": "R",
+      "teamCode": "S",
+      "primaryNumber": "50",
+      "jaRegisteredName": "北村　恵吾",
+      "fullLFMName": "Kitamura, Keigo"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "才木",
+      "boxscoreName": "Saiki",
+      "pitchHand": "R",
+      "teamCode": "T",
+      "primaryNumber": "35",
+      "jaRegisteredName": "才木　浩人",
+      "fullLFMName": "Saiki, Hiroto"
+    },
+    "number": 2,
+    "inning": 6,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 0,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 0,
+      "home": 3
+    },
+    "bop": 9,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "Kyocera Dome",
+      "jaBoxscoreName": "京セラD大阪"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 2
+      },
+      "home": {
+        "teamCode": "T",
+        "teamName": "Tigers",
+        "score": 5
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "K.Kitamura homers (2) to left field.",
+    "url": "https://npb.jp/scores/2025/0810/t-s-19/playbyplay.html#com6-1",
+    "isPinchHit": "Y"
+  },
+  {
+    "id": "41045153-2025-31",
+    "date": "2025-08-10",
+    "batter": {
+      "jaBoxscoreName": "佐藤輝",
+      "playerId": "41045153",
+      "boxscoreName": "T.Sato",
+      "batSide": "L",
+      "teamCode": "T",
+      "primaryNumber": "8",
+      "jaRegisteredName": "佐藤　輝明",
+      "fullLFMName": "Sato, Teruaki"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "奥川",
+      "boxscoreName": "Okugawa",
+      "pitchHand": "R",
+      "teamCode": "S",
+      "primaryNumber": "18",
+      "jaRegisteredName": "奥川　恭伸",
+      "fullLFMName": "Okugawa, Yasunobu"
+    },
+    "number": 31,
+    "inning": 3,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "---",
+    "count": {
+      "balls": 0,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 0,
+      "home": 1
+    },
+    "bop": 4,
+    "rbi": 1,
+    "whereHit": "89",
+    "venue": {
+      "boxscoreName": "Kyocera Dome",
+      "jaBoxscoreName": "京セラD大阪"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 2
+      },
+      "home": {
+        "teamCode": "T",
+        "teamName": "Tigers",
+        "score": 5
+      }
+    },
+    "jaText": "右中間ソロホームラン（打点1）",
+    "text": "T.Sato homers (31) to right center.",
+    "url": "https://npb.jp/scores/2025/0810/t-s-19/playbyplay.html#com3-2"
+  }
+]

@@ -1,0 +1,464 @@
+[
+  {
+    "date": "2025-08-10",
+    "runner": {
+      "id": "41445153",
+      "jaBoxscoreName": "中野",
+      "jaRegisteredName": "中野　拓夢",
+      "fullLFMName": "Nakano, Takumu",
+      "primaryNumber": "51",
+      "teamCode": "T",
+      "boxscoreName": "Nakano",
+      "pitchHand": "R",
+      "batSide": "L"
+    },
+    "batter": {
+      "id": "41045153",
+      "jaBoxscoreName": "佐藤輝",
+      "jaRegisteredName": "佐藤　輝明",
+      "fullLFMName": "Sato, Teruaki",
+      "primaryNumber": "8",
+      "teamCode": "T",
+      "boxscoreName": "T.Sato",
+      "pitchHand": "R",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "31735151",
+      "jaBoxscoreName": "奥川",
+      "jaRegisteredName": "奥川　恭伸",
+      "fullLFMName": "Okugawa, Yasunobu",
+      "primaryNumber": "18",
+      "teamCode": "S",
+      "boxscoreName": "Okugawa",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "catcher": {
+      "id": "51255118",
+      "jaBoxscoreName": "中村悠",
+      "jaRegisteredName": "中村　悠平",
+      "fullLFMName": "Nakamura, Yuhei",
+      "primaryNumber": "27",
+      "teamCode": "S",
+      "boxscoreName": "Yuh.Nakamura",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "scoring": "StolenBase",
+    "base": "2B",
+    "inning": 1,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "1--",
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "venue": {
+      "jaBoxscoreName": "京セラD大阪",
+      "boxscoreName": "Kyocera Dome",
+      "jaName": "京セラドーム大阪",
+      "name": "Kyocera Dome Osaka"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 2
+      },
+      "home": {
+        "teamCode": "T",
+        "teamName": "Tigers",
+        "score": 5
+      }
+    },
+    "jaText": "（走者・中野）二塁盗塁成功",
+    "text": "Nakano steals 2nd base.",
+    "url": "https://npb.jp/scores/2025/0810/t-s-19/playbyplay.html#com1-2",
+    "catchers": [
+      {
+        "id": "51255118",
+        "jaBoxscoreName": "中村悠",
+        "jaRegisteredName": "中村　悠平",
+        "fullLFMName": "Nakamura, Yuhei",
+        "primaryNumber": "27",
+        "teamCode": "S",
+        "boxscoreName": "Yuh.Nakamura",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+    ],
+    "countsAsStealAttempt": true
+  },
+  {
+    "date": "2025-08-10",
+    "runner": {
+      "id": "41445153",
+      "jaBoxscoreName": "中野",
+      "jaRegisteredName": "中野　拓夢",
+      "fullLFMName": "Nakano, Takumu",
+      "primaryNumber": "51",
+      "teamCode": "T",
+      "boxscoreName": "Nakano",
+      "pitchHand": "R",
+      "batSide": "L"
+    },
+    "batter": {
+      "id": "41045153",
+      "jaBoxscoreName": "佐藤輝",
+      "jaRegisteredName": "佐藤　輝明",
+      "fullLFMName": "Sato, Teruaki",
+      "primaryNumber": "8",
+      "teamCode": "T",
+      "boxscoreName": "T.Sato",
+      "pitchHand": "R",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "41145159",
+      "jaBoxscoreName": "石原",
+      "jaRegisteredName": "石原　勇輝",
+      "fullLFMName": "Ishihara, Yuki",
+      "primaryNumber": "35",
+      "teamCode": "S",
+      "boxscoreName": "TBD",
+      "pitchHand": "L",
+      "batSide": "L"
+    },
+    "catcher": {
+      "id": "51255118",
+      "jaBoxscoreName": "中村悠",
+      "jaRegisteredName": "中村　悠平",
+      "fullLFMName": "Nakamura, Yuhei",
+      "primaryNumber": "27",
+      "teamCode": "S",
+      "boxscoreName": "Yuh.Nakamura",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "scoring": "CaughtStealing",
+    "base": "2B",
+    "inning": 6,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "1--",
+    "runs": {
+      "road": 1,
+      "home": 3
+    },
+    "venue": {
+      "jaBoxscoreName": "京セラD大阪",
+      "boxscoreName": "Kyocera Dome",
+      "jaName": "京セラドーム大阪",
+      "name": "Kyocera Dome Osaka"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 2
+      },
+      "home": {
+        "teamCode": "T",
+        "teamName": "Tigers",
+        "score": 5
+      }
+    },
+    "jaText": "（走者・中野）二塁盗塁失敗",
+    "text": "Nakano caught stealing 2nd base.",
+    "url": "https://npb.jp/scores/2025/0810/t-s-19/playbyplay.html#com6-2",
+    "catchers": [
+      {
+        "id": "51255118",
+        "jaBoxscoreName": "中村悠",
+        "jaRegisteredName": "中村　悠平",
+        "fullLFMName": "Nakamura, Yuhei",
+        "primaryNumber": "27",
+        "teamCode": "S",
+        "boxscoreName": "Yuh.Nakamura",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+    ],
+    "countsAsStealAttempt": true
+  },
+  {
+    "date": "2025-08-10",
+    "runner": {
+      "id": "41845132",
+      "jaBoxscoreName": "村林",
+      "jaRegisteredName": "村林　一輝",
+      "fullLFMName": "Murabayashi, Itsuki",
+      "primaryNumber": "6",
+      "teamCode": "E",
+      "boxscoreName": "Murabayashi",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "batter": {
+      "id": "93095150",
+      "jaBoxscoreName": "ゴンザレス",
+      "jaRegisteredName": "Ｏ．ゴンザレス",
+      "fullLFMName": "Gonzalez, Oscar",
+      "primaryNumber": "12",
+      "teamCode": "E",
+      "boxscoreName": "Gonzalez",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "71075155",
+      "jaBoxscoreName": "菅井",
+      "jaRegisteredName": "菅井　信也",
+      "fullLFMName": "Sugai, Shinya",
+      "primaryNumber": "71",
+      "teamCode": "L",
+      "boxscoreName": "Sugai",
+      "pitchHand": "L",
+      "batSide": "L"
+    },
+    "catcher": {},
+    "scoring": "StolenBase",
+    "base": "2B",
+    "inning": 3,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "1--",
+    "runs": {
+      "road": 0,
+      "home": 2
+    },
+    "venue": {
+      "jaBoxscoreName": "ベルーナドーム",
+      "boxscoreName": "Belluna Dome",
+      "jaName": "ベルーナドーム",
+      "name": "Belluna Dome"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "E",
+        "teamName": "Eagles",
+        "score": 9
+      },
+      "home": {
+        "teamCode": "L",
+        "teamName": "Lions",
+        "score": 4
+      }
+    },
+    "jaText": "（走者・村林）二塁盗塁成功",
+    "text": "Murabayashi steals 2nd base.",
+    "url": "https://npb.jp/scores/2025/0810/l-e-16/playbyplay.html#com3-1",
+    "catchers": [
+      {
+        "id": "91995112",
+        "jaBoxscoreName": "炭谷",
+        "jaRegisteredName": "炭谷　銀仁朗",
+        "fullLFMName": "Sumitani, Ginjiro",
+        "primaryNumber": "27",
+        "teamCode": "L",
+        "boxscoreName": "Sumitani",
+        "pitchHand": "R",
+        "batSide": "R"
+      },
+      {
+        "id": "61265151",
+        "jaBoxscoreName": "柘植",
+        "jaRegisteredName": "柘植　世那",
+        "fullLFMName": "Tsuge, Sena",
+        "primaryNumber": "37",
+        "teamCode": "L",
+        "boxscoreName": "Tsuge",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+    ],
+    "countsAsStealAttempt": true
+  },
+  {
+    "date": "2025-08-10",
+    "runner": {
+      "id": "71775134",
+      "jaBoxscoreName": "源田",
+      "jaRegisteredName": "源田　壮亮",
+      "fullLFMName": "Genda, Sosuke",
+      "primaryNumber": "6",
+      "teamCode": "L",
+      "boxscoreName": "Genda",
+      "pitchHand": "R",
+      "batSide": "L"
+    },
+    "batter": {
+      "id": "41245130",
+      "jaBoxscoreName": "外崎",
+      "jaRegisteredName": "外崎　修汰",
+      "fullLFMName": "Tonosaki, Shuta",
+      "primaryNumber": "5",
+      "teamCode": "L",
+      "boxscoreName": "Tonosaki",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "33035159",
+      "jaBoxscoreName": "ヤフーレ",
+      "jaRegisteredName": "Ｍ．ヤフーレ",
+      "fullLFMName": "Yajure, Miguel",
+      "primaryNumber": "89",
+      "teamCode": "E",
+      "boxscoreName": "Yajure",
+      "pitchHand": "R",
+      "batSide": "S"
+    },
+    "catcher": {
+      "id": "71375138",
+      "jaBoxscoreName": "太田",
+      "jaRegisteredName": "太田　光",
+      "fullLFMName": "Ohta, Hikaru",
+      "primaryNumber": "2",
+      "teamCode": "E",
+      "boxscoreName": "Ohta",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "scoring": "CaughtStealing",
+    "base": "2B",
+    "inning": 4,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "1--",
+    "runs": {
+      "road": 3,
+      "home": 2
+    },
+    "venue": {
+      "jaBoxscoreName": "ベルーナドーム",
+      "boxscoreName": "Belluna Dome",
+      "jaName": "ベルーナドーム",
+      "name": "Belluna Dome"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "E",
+        "teamName": "Eagles",
+        "score": 9
+      },
+      "home": {
+        "teamCode": "L",
+        "teamName": "Lions",
+        "score": 4
+      }
+    },
+    "jaText": "（走者・源田）二塁盗塁失敗",
+    "text": "Genda caught stealing 2nd base.",
+    "url": "https://npb.jp/scores/2025/0810/l-e-16/playbyplay.html#com4-2",
+    "catchers": [
+      {
+        "id": "71375138",
+        "jaBoxscoreName": "太田",
+        "jaRegisteredName": "太田　光",
+        "fullLFMName": "Ohta, Hikaru",
+        "primaryNumber": "2",
+        "teamCode": "E",
+        "boxscoreName": "Ohta",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+    ],
+    "countsAsStealAttempt": true
+  },
+  {
+    "date": "2025-08-10",
+    "runner": {
+      "id": "21425159",
+      "jaBoxscoreName": "中島",
+      "jaRegisteredName": "中島　大輔",
+      "fullLFMName": "Nakashima, Daisuke",
+      "primaryNumber": "32",
+      "teamCode": "E",
+      "boxscoreName": "Nakashima",
+      "pitchHand": "R",
+      "batSide": "L"
+    },
+    "batter": {
+      "id": "41845132",
+      "jaBoxscoreName": "村林",
+      "jaRegisteredName": "村林　一輝",
+      "fullLFMName": "Murabayashi, Itsuki",
+      "primaryNumber": "6",
+      "teamCode": "E",
+      "boxscoreName": "Murabayashi",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "43045155",
+      "jaBoxscoreName": "ボー・タカハシ",
+      "jaRegisteredName": "ボー・タカハシ",
+      "fullLFMName": "Takahashi, Bo",
+      "primaryNumber": "42",
+      "teamCode": "L",
+      "boxscoreName": "B.Takahashi",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "catcher": {},
+    "scoring": "StolenBase",
+    "base": "2B",
+    "inning": 8,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "1-3",
+    "runs": {
+      "road": 5,
+      "home": 3
+    },
+    "venue": {
+      "jaBoxscoreName": "ベルーナドーム",
+      "boxscoreName": "Belluna Dome",
+      "jaName": "ベルーナドーム",
+      "name": "Belluna Dome"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "E",
+        "teamName": "Eagles",
+        "score": 9
+      },
+      "home": {
+        "teamCode": "L",
+        "teamName": "Lions",
+        "score": 4
+      }
+    },
+    "jaText": "（走者・中島）二塁盗塁成功",
+    "text": "Nakashima steals 2nd base.",
+    "url": "https://npb.jp/scores/2025/0810/l-e-16/playbyplay.html#com8-1",
+    "catchers": [
+      {
+        "id": "91995112",
+        "jaBoxscoreName": "炭谷",
+        "jaRegisteredName": "炭谷　銀仁朗",
+        "fullLFMName": "Sumitani, Ginjiro",
+        "primaryNumber": "27",
+        "teamCode": "L",
+        "boxscoreName": "Sumitani",
+        "pitchHand": "R",
+        "batSide": "R"
+      },
+      {
+        "id": "61265151",
+        "jaBoxscoreName": "柘植",
+        "jaRegisteredName": "柘植　世那",
+        "fullLFMName": "Tsuge, Sena",
+        "primaryNumber": "37",
+        "teamCode": "L",
+        "boxscoreName": "Tsuge",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+    ],
+    "countsAsStealAttempt": true
+  }
+]
