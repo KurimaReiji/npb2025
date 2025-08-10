@@ -7,15 +7,13 @@
   {
     "jaText": "（走者・中野）二塁盗塁失敗",
     "text": "Nakano caught stealing 2nd base.",
-    "countsAsStealAttempt": true
+    "countsAsStealAttempt": false
   },
   {
     "jaText": "（走者・村林）二塁盗塁成功",
     "text": "Murabayashi steals 2nd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
+    "catcher": {
         "id": "91995112",
         "jaBoxscoreName": "炭谷",
         "jaRegisteredName": "炭谷　銀仁朗",
@@ -25,19 +23,7 @@
         "boxscoreName": "Sumitani",
         "pitchHand": "R",
         "batSide": "R"
-      },
-      {
-        "id": "61265151",
-        "jaBoxscoreName": "柘植",
-        "jaRegisteredName": "柘植　世那",
-        "fullLFMName": "Tsuge, Sena",
-        "primaryNumber": "37",
-        "teamCode": "L",
-        "boxscoreName": "Tsuge",
-        "pitchHand": "R",
-        "batSide": "R"
       }
-    ]
   },
   {
     "jaText": "（走者・源田）二塁盗塁失敗",
@@ -48,9 +34,7 @@
     "jaText": "（走者・中島）二塁盗塁成功",
     "text": "Nakashima steals 2nd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
+    "catcher": {
         "id": "91995112",
         "jaBoxscoreName": "炭谷",
         "jaRegisteredName": "炭谷　銀仁朗",
@@ -60,18 +44,6 @@
         "boxscoreName": "Sumitani",
         "pitchHand": "R",
         "batSide": "R"
-      },
-      {
-        "id": "61265151",
-        "jaBoxscoreName": "柘植",
-        "jaRegisteredName": "柘植　世那",
-        "fullLFMName": "Tsuge, Sena",
-        "primaryNumber": "37",
-        "teamCode": "L",
-        "boxscoreName": "Tsuge",
-        "pitchHand": "R",
-        "batSide": "R"
       }
-    ]
   }
 ]
