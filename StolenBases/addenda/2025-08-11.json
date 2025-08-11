@@ -8,9 +8,7 @@
     "jaText": "（走者・滝澤）二塁盗塁失敗",
     "text": "Takizawa caught stealing 2nd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
+    "catcher": {
         "id": "11815132",
         "jaBoxscoreName": "堀内",
         "jaRegisteredName": "堀内　謙伍",
@@ -20,19 +18,7 @@
         "boxscoreName": "Horiuchi",
         "pitchHand": "R",
         "batSide": "L"
-      },
-      {
-        "id": "71375138",
-        "jaBoxscoreName": "太田",
-        "jaRegisteredName": "太田　光",
-        "fullLFMName": "Ohta, Hikaru",
-        "primaryNumber": "2",
-        "teamCode": "E",
-        "boxscoreName": "Ohta",
-        "pitchHand": "R",
-        "batSide": "R"
       }
-    ]
   },
   {
     "jaText": "（走者・西川）二塁牽制アウト",
@@ -58,9 +44,7 @@
     "jaText": "（走者・ダウンズ）二塁盗塁成功",
     "text": "Downs steals 2nd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
+    "catcher": {
         "id": "11515151",
         "jaBoxscoreName": "梅林",
         "jaRegisteredName": "梅林　優貴",
@@ -70,18 +54,6 @@
         "boxscoreName": "Umebayashi",
         "pitchHand": "R",
         "batSide": "R"
-      },
-      {
-        "id": "51055138",
-        "jaBoxscoreName": "田宮",
-        "jaRegisteredName": "田宮　裕涼",
-        "fullLFMName": "Tamiya, Yua",
-        "primaryNumber": "64",
-        "teamCode": "F",
-        "boxscoreName": "Tamiya",
-        "pitchHand": "R",
-        "batSide": "L"
       }
-    ]
   }
 ]
