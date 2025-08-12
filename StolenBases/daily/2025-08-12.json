@@ -1,0 +1,278 @@
+[
+  {
+    "date": "2025-08-12",
+    "runner": {
+      "id": "91695157",
+      "jaBoxscoreName": "林",
+      "jaRegisteredName": "林　琢真",
+      "fullLFMName": "Hayashi, Takuma",
+      "primaryNumber": "00",
+      "teamCode": "DB",
+      "boxscoreName": "Hayashi",
+      "pitchHand": "R",
+      "batSide": "L"
+    },
+    "batter": {
+      "id": "81585134",
+      "jaBoxscoreName": "京田",
+      "jaRegisteredName": "京田　陽太",
+      "fullLFMName": "Kyoda, Yota",
+      "primaryNumber": "9",
+      "teamCode": "DB",
+      "boxscoreName": "Kyoda",
+      "pitchHand": "R",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "93995150",
+      "jaBoxscoreName": "ランバート",
+      "jaRegisteredName": "Ｐ．ランバート",
+      "fullLFMName": "Lambert, Peter",
+      "primaryNumber": "39",
+      "teamCode": "S",
+      "boxscoreName": "Lambert",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "catcher": {
+      "id": "01705134",
+      "jaBoxscoreName": "古賀",
+      "jaRegisteredName": "古賀　優大",
+      "fullLFMName": "Koga, Yudai",
+      "primaryNumber": "2",
+      "teamCode": "S",
+      "boxscoreName": "Koga",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "scoring": "CaughtStealing",
+    "base": "2B",
+    "inning": 3,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "1--",
+    "runs": {
+      "road": 0,
+      "home": 1
+    },
+    "venue": {
+      "jaBoxscoreName": "神宮",
+      "boxscoreName": "Jingu",
+      "jaName": "神宮",
+      "name": "Jingu Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "DB",
+        "teamName": "Baystars",
+        "score": 1
+      },
+      "home": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 3
+      }
+    },
+    "jaText": "（走者・林）二塁盗塁失敗",
+    "text": "Hayashi caught stealing 2nd base.",
+    "url": "https://npb.jp/scores/2025/0812/s-db-17/playbyplay.html#com3-1",
+    "catchers": [
+      {
+        "id": "01705134",
+        "jaBoxscoreName": "古賀",
+        "jaRegisteredName": "古賀　優大",
+        "fullLFMName": "Koga, Yudai",
+        "primaryNumber": "2",
+        "teamCode": "S",
+        "boxscoreName": "Koga",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+    ],
+    "countsAsStealAttempt": true
+  },
+  {
+    "date": "2025-08-12",
+    "runner": {
+      "id": "91695157",
+      "jaBoxscoreName": "林",
+      "jaRegisteredName": "林　琢真",
+      "fullLFMName": "Hayashi, Takuma",
+      "primaryNumber": "00",
+      "teamCode": "DB",
+      "boxscoreName": "Hayashi",
+      "pitchHand": "R",
+      "batSide": "L"
+    },
+    "batter": {
+      "id": "81585134",
+      "jaBoxscoreName": "京田",
+      "jaRegisteredName": "京田　陽太",
+      "fullLFMName": "Kyoda, Yota",
+      "primaryNumber": "9",
+      "teamCode": "DB",
+      "boxscoreName": "Kyoda",
+      "pitchHand": "R",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "93995150",
+      "jaBoxscoreName": "ランバート",
+      "jaRegisteredName": "Ｐ．ランバート",
+      "fullLFMName": "Lambert, Peter",
+      "primaryNumber": "39",
+      "teamCode": "S",
+      "boxscoreName": "Lambert",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "catcher": {
+      "id": "01705134",
+      "jaBoxscoreName": "古賀",
+      "jaRegisteredName": "古賀　優大",
+      "fullLFMName": "Koga, Yudai",
+      "primaryNumber": "2",
+      "teamCode": "S",
+      "boxscoreName": "Koga",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "scoring": "CaughtStealing",
+    "base": "2B",
+    "inning": 7,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "1--",
+    "runs": {
+      "road": 1,
+      "home": 1
+    },
+    "venue": {
+      "jaBoxscoreName": "神宮",
+      "boxscoreName": "Jingu",
+      "jaName": "神宮",
+      "name": "Jingu Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "DB",
+        "teamName": "Baystars",
+        "score": 1
+      },
+      "home": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 3
+      }
+    },
+    "jaText": "（走者・林）二塁盗塁失敗",
+    "text": "Hayashi caught stealing 2nd base.",
+    "url": "https://npb.jp/scores/2025/0812/s-db-17/playbyplay.html#com7-1",
+    "catchers": [
+      {
+        "id": "01705134",
+        "jaBoxscoreName": "古賀",
+        "jaRegisteredName": "古賀　優大",
+        "fullLFMName": "Koga, Yudai",
+        "primaryNumber": "2",
+        "teamCode": "S",
+        "boxscoreName": "Koga",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+    ],
+    "countsAsStealAttempt": true
+  },
+  {
+    "date": "2025-08-12",
+    "runner": {
+      "id": "51355155",
+      "jaBoxscoreName": "岩田",
+      "jaRegisteredName": "岩田　幸宏",
+      "fullLFMName": "Iwata, Yukihiro",
+      "primaryNumber": "64",
+      "teamCode": "S",
+      "boxscoreName": "Iwata",
+      "pitchHand": "L",
+      "batSide": "L"
+    },
+    "batter": {
+      "id": "91595153",
+      "jaBoxscoreName": "内山",
+      "jaRegisteredName": "内山　壮真",
+      "fullLFMName": "Uchiyama, Souma",
+      "primaryNumber": "33",
+      "teamCode": "S",
+      "boxscoreName": "Uchiyama",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "41145151",
+      "jaBoxscoreName": "伊勢",
+      "jaRegisteredName": "伊勢　大夢",
+      "fullLFMName": "Ise, Hiromu",
+      "primaryNumber": "13",
+      "teamCode": "DB",
+      "boxscoreName": "Ise",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "catcher": {
+      "id": "41245132",
+      "jaBoxscoreName": "戸柱",
+      "jaRegisteredName": "戸柱　恭孝",
+      "fullLFMName": "Tobashira, Yasutaka",
+      "primaryNumber": "10",
+      "teamCode": "DB",
+      "boxscoreName": "Tobashira",
+      "pitchHand": "R",
+      "batSide": "L"
+    },
+    "scoring": "CaughtStealing",
+    "base": "2B",
+    "inning": 8,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "1--",
+    "runs": {
+      "road": 1,
+      "home": 1
+    },
+    "venue": {
+      "jaBoxscoreName": "神宮",
+      "boxscoreName": "Jingu",
+      "jaName": "神宮",
+      "name": "Jingu Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "DB",
+        "teamName": "Baystars",
+        "score": 1
+      },
+      "home": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 3
+      }
+    },
+    "jaText": "（走者・岩田）二塁盗塁失敗",
+    "text": "Iwata caught stealing 2nd base.",
+    "url": "https://npb.jp/scores/2025/0812/s-db-17/playbyplay.html#com8-2",
+    "catchers": [
+      {
+        "id": "41245132",
+        "jaBoxscoreName": "戸柱",
+        "jaRegisteredName": "戸柱　恭孝",
+        "fullLFMName": "Tobashira, Yasutaka",
+        "primaryNumber": "10",
+        "teamCode": "DB",
+        "boxscoreName": "Tobashira",
+        "pitchHand": "R",
+        "batSide": "L"
+      }
+    ],
+    "countsAsStealAttempt": true
+  }
+]

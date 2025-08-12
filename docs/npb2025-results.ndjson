@@ -608,3 +608,6 @@
 {"date":"2025-08-11","venue":"Belluna Dome","road":{"team":"Eagles","runs":4,"starter":"R"},"home":{"team":"Lions","runs":5,"starter":"R"},"firstRun":"Eagles","isWalkOff":true,"isExtraInnings":true,"hadComeback":true}
 {"date":"2025-08-11","venue":"ZOZO Marine","road":{"team":"Buffaloes","runs":5,"starter":"R"},"home":{"team":"Marines","runs":3,"starter":"R"},"firstRun":"Buffaloes","isWalkOff":false,"isExtraInnings":true,"hadComeback":false}
 {"date":"2025-08-11","venue":"MIZUHO PayPay","road":{"team":"Fighters","runs":1,"starter":"R"},"home":{"team":"Hawks","runs":3,"starter":"L"},"firstRun":"Fighters","isWalkOff":false,"isExtraInnings":false,"hadComeback":true}
+{"date":"2025-08-12","venue":"Tokyo Dome","road":{"team":"Dragons","runs":0,"starter":"L"},"home":{"team":"Giants","runs":5,"starter":"L"},"firstRun":"Giants","isWalkOff":false,"isExtraInnings":false,"hadComeback":false}
+{"date":"2025-08-12","venue":"Jingu","road":{"team":"Baystars","runs":1,"starter":"R"},"home":{"team":"Swallows","runs":3,"starter":"R"},"firstRun":"Swallows","isWalkOff":true,"isExtraInnings":false,"hadComeback":false}
+{"date":"2025-08-12","venue":"Mazda Stadium","road":{"team":"Tigers","runs":2,"starter":"L"},"home":{"team":"Carp","runs":9,"starter":"L"},"firstRun":"Tigers","isWalkOff":false,"isExtraInnings":false,"hadComeback":true}

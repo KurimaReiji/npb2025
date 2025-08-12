@@ -1,0 +1,177 @@
+[
+  {
+    "id": "91595136-2025-05",
+    "date": "2025-08-12",
+    "batter": {
+      "jaBoxscoreName": "岸田",
+      "playerId": "91595136",
+      "boxscoreName": "Kishida",
+      "batSide": "R",
+      "teamCode": "G",
+      "primaryNumber": "27",
+      "jaRegisteredName": "岸田　行倫",
+      "fullLFMName": "Kishida, Yukinori"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "大野",
+      "boxscoreName": "Ohno",
+      "pitchHand": "L",
+      "teamCode": "D",
+      "primaryNumber": "22",
+      "jaRegisteredName": "大野　雄大",
+      "fullLFMName": "Ohno, Yudai"
+    },
+    "number": 5,
+    "inning": 3,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "-2-",
+    "count": {
+      "balls": 3,
+      "strikes": 2
+    },
+    "runs": {
+      "road": 0,
+      "home": 2
+    },
+    "bop": 5,
+    "rbi": 2,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "Tokyo Dome",
+      "jaBoxscoreName": "東京ドーム"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "D",
+        "teamName": "Dragons",
+        "score": 0
+      },
+      "home": {
+        "teamCode": "G",
+        "teamName": "Giants",
+        "score": 5
+      }
+    },
+    "jaText": "レフト2ランホームラン（打点2）",
+    "text": "Kishida homers (5) to left field.",
+    "url": "https://npb.jp/scores/2025/0812/g-d-18/playbyplay.html#com3-2"
+  },
+  {
+    "id": "41845136-2025-05",
+    "date": "2025-08-12",
+    "batter": {
+      "jaBoxscoreName": "村上",
+      "playerId": "41845136",
+      "boxscoreName": "Murakami",
+      "batSide": "L",
+      "teamCode": "S",
+      "primaryNumber": "55",
+      "jaRegisteredName": "村上　宗隆",
+      "fullLFMName": "Murakami, Munetaka"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "中川",
+      "boxscoreName": "K.Nakagawa",
+      "pitchHand": "R",
+      "teamCode": "DB",
+      "primaryNumber": "64",
+      "jaRegisteredName": "中川　虎大",
+      "fullLFMName": "Nakagawa, Koh"
+    },
+    "number": 5,
+    "inning": 9,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "1--",
+    "count": {
+      "balls": 0,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 1,
+      "home": 1
+    },
+    "bop": 4,
+    "rbi": 2,
+    "whereHit": "8",
+    "venue": {
+      "boxscoreName": "Jingu",
+      "jaBoxscoreName": "神宮"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "DB",
+        "teamName": "Baystars",
+        "score": 1
+      },
+      "home": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 3
+      }
+    },
+    "jaText": "センター2ランホームラン（打点2）",
+    "text": "Murakami homers (5) to center field.",
+    "url": "https://npb.jp/scores/2025/0812/s-db-17/playbyplay.html#com9-2",
+    "isWalkOff": "Y"
+  },
+  {
+    "id": "53955150-2025-06",
+    "date": "2025-08-12",
+    "batter": {
+      "jaBoxscoreName": "モンテロ",
+      "playerId": "53955150",
+      "boxscoreName": "Montero",
+      "batSide": "R",
+      "teamCode": "C",
+      "primaryNumber": "95",
+      "jaRegisteredName": "Ｅ．モンテロ",
+      "fullLFMName": "Montero, Elehuris"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "大竹",
+      "boxscoreName": "Ohtake",
+      "pitchHand": "L",
+      "teamCode": "T",
+      "primaryNumber": "49",
+      "jaRegisteredName": "大竹　耕太郎",
+      "fullLFMName": "Ohtake, Koutaro"
+    },
+    "number": 6,
+    "inning": 3,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "12-",
+    "count": {
+      "balls": 1,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 2,
+      "home": 1
+    },
+    "bop": 5,
+    "rbi": 3,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "Mazda Stadium",
+      "jaBoxscoreName": "マツダスタジアム"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "T",
+        "teamName": "Tigers",
+        "score": 2
+      },
+      "home": {
+        "teamCode": "C",
+        "teamName": "Carp",
+        "score": 9
+      }
+    },
+    "jaText": "レフト3ランホームラン（打点3）",
+    "text": "Montero homers (6) to left field.",
+    "url": "https://npb.jp/scores/2025/0812/c-t-19/playbyplay.html#com3-2"
+  }
+]
