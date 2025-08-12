@@ -12,6 +12,6 @@
   {
     "jaText": "（走者・岩田）二塁盗塁失敗",
     "text": "Iwata caught stealing 2nd base.",
-    "countsAsStealAttempt": true
+    "countsAsStealAttempt": false
   }
 ]
