@@ -5,12 +5,17 @@ const __dirname = import.meta.dirname;
 
 const files = await readdir(`${__dirname}/daily`);
 const addenda = await readdir(`${__dirname}/addenda`);
+
+const season = '2025';
+const counter = {};
+
 const ndjson = files
   .filter((fname) => fname.endsWith(".json"))
   .map((fname) => JSON.parse(readFileSync(`daily/${fname}`, "utf-8")))
   .filter((ary) => ary.length > 0)
   .map(merge)
   .flat()
+  .map(addEventId)
   .map((obj) => JSON.stringify(obj))
   .join("\n");
 
@@ -29,4 +34,12 @@ function merge(ary) {
     })
   }
   return ary
+}
+
+function addEventId(obj) {
+  const runnerId = obj.runner.id;
+  const num = 1 + counter[runnerId] || 1;
+  counter[runnerId] = num;
+  obj.eventId = `${runnerId}-${season}-${String(num).padStart(3, '0')}`;
+  return obj;
 }
