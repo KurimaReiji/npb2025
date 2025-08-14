@@ -3,9 +3,7 @@
     "jaText": "（走者・五十幡）二塁盗塁成功",
     "text": "Isobata steals 2nd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
+    "catcher": {
         "id": "51455159",
         "jaBoxscoreName": "寺地",
         "jaRegisteredName": "寺地　隆成",
@@ -15,27 +13,13 @@
         "boxscoreName": "Terachi",
         "pitchHand": "R",
         "batSide": "L"
-      },
-      {
-        "id": "41945137",
-        "jaBoxscoreName": "田村",
-        "jaRegisteredName": "田村　龍弘",
-        "fullLFMName": "Tamura, Tatsuhiro",
-        "primaryNumber": "27",
-        "teamCode": "M",
-        "boxscoreName": "Tamura",
-        "pitchHand": "R",
-        "batSide": "R"
       }
-    ]
   },
   {
     "jaText": "（走者・五十幡）三塁盗塁成功",
     "text": "Isobata steals 3rd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
+    "catcher": {
         "id": "51455159",
         "jaBoxscoreName": "寺地",
         "jaRegisteredName": "寺地　隆成",
@@ -45,27 +29,13 @@
         "boxscoreName": "Terachi",
         "pitchHand": "R",
         "batSide": "L"
-      },
-      {
-        "id": "41945137",
-        "jaBoxscoreName": "田村",
-        "jaRegisteredName": "田村　龍弘",
-        "fullLFMName": "Tamura, Tatsuhiro",
-        "primaryNumber": "27",
-        "teamCode": "M",
-        "boxscoreName": "Tamura",
-        "pitchHand": "R",
-        "batSide": "R"
       }
-    ]
   },
   {
     "jaText": "（走者・中島卓也）二塁盗塁成功",
     "text": "Nakashima steals 2nd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
+    "catcher": {
         "id": "51455159",
         "jaBoxscoreName": "寺地",
         "jaRegisteredName": "寺地　隆成",
@@ -75,19 +45,7 @@
         "boxscoreName": "Terachi",
         "pitchHand": "R",
         "batSide": "L"
-      },
-      {
-        "id": "41945137",
-        "jaBoxscoreName": "田村",
-        "jaRegisteredName": "田村　龍弘",
-        "fullLFMName": "Tamura, Tatsuhiro",
-        "primaryNumber": "27",
-        "teamCode": "M",
-        "boxscoreName": "Tamura",
-        "pitchHand": "R",
-        "batSide": "R"
       }
-    ]
   },
   {
     "jaText": "（走者・野村）二塁盗塁成功",
