@@ -1,0 +1,162 @@
+[
+  {
+    "jaText": "（走者・大山）二塁盗塁失敗",
+    "text": "Ohyama caught stealing 2nd base.",
+    "countsAsStealAttempt": true,
+    "catcher": {},
+    "catchers": [
+      {
+        "id": "91595133",
+        "jaBoxscoreName": "甲斐",
+        "jaRegisteredName": "甲斐　拓也",
+        "fullLFMName": "Kai, Takuya",
+        "primaryNumber": "10",
+        "teamCode": "G",
+        "boxscoreName": "Kai",
+        "pitchHand": "R",
+        "batSide": "R"
+      },
+      {
+        "id": "91595136",
+        "jaBoxscoreName": "岸田",
+        "jaRegisteredName": "岸田　行倫",
+        "fullLFMName": "Kishida, Yukinori",
+        "primaryNumber": "27",
+        "teamCode": "G",
+        "boxscoreName": "Kishida",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+    ]
+  },
+  {
+    "jaText": "（走者・上林）二塁盗塁成功",
+    "text": "Uebayashi steals 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・五十幡）二塁盗塁成功",
+    "text": "Isobata steals 2nd base.",
+    "countsAsStealAttempt": true,
+    "catcher": {},
+    "catchers": [
+      {
+        "id": "71375138",
+        "jaBoxscoreName": "太田",
+        "jaRegisteredName": "太田　光",
+        "fullLFMName": "Ohta, Hikaru",
+        "primaryNumber": "2",
+        "teamCode": "E",
+        "boxscoreName": "Ohta",
+        "pitchHand": "R",
+        "batSide": "R"
+      },
+      {
+        "id": "11815132",
+        "jaBoxscoreName": "堀内",
+        "jaRegisteredName": "堀内　謙伍",
+        "fullLFMName": "Horiuchi, Kengo",
+        "primaryNumber": "65",
+        "teamCode": "E",
+        "boxscoreName": "Horiuchi",
+        "pitchHand": "R",
+        "batSide": "L"
+      }
+    ]
+  },
+  {
+    "jaText": "（走者・大里）二塁盗塁成功",
+    "text": "Ohsato steals 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・藤原）二塁盗塁成功",
+    "text": "Fujiwara steals 2nd base.",
+    "countsAsStealAttempt": true,
+    "catcher": {},
+    "catchers": [
+      {
+        "id": "81385151",
+        "jaBoxscoreName": "海野",
+        "jaRegisteredName": "海野　隆司",
+        "fullLFMName": "Umino, Takashi",
+        "primaryNumber": "62",
+        "teamCode": "H",
+        "boxscoreName": "Umino",
+        "pitchHand": "R",
+        "batSide": "R"
+      },
+      {
+        "id": "11215132",
+        "jaBoxscoreName": "谷川原",
+        "jaRegisteredName": "谷川原　健太",
+        "fullLFMName": "Tanigawara, Kenta",
+        "primaryNumber": "45",
+        "teamCode": "H",
+        "boxscoreName": "Tanigawara",
+        "pitchHand": "R",
+        "batSide": "L"
+      }
+    ]
+  },
+  {
+    "jaText": "（走者・髙部）二塁盗塁成功",
+    "text": "Takabe steals 2nd base.",
+    "countsAsStealAttempt": true,
+    "catcher": {},
+    "catchers": [
+      {
+        "id": "81385151",
+        "jaBoxscoreName": "海野",
+        "jaRegisteredName": "海野　隆司",
+        "fullLFMName": "Umino, Takashi",
+        "primaryNumber": "62",
+        "teamCode": "H",
+        "boxscoreName": "Umino",
+        "pitchHand": "R",
+        "batSide": "R"
+      },
+      {
+        "id": "11215132",
+        "jaBoxscoreName": "谷川原",
+        "jaRegisteredName": "谷川原　健太",
+        "fullLFMName": "Tanigawara, Kenta",
+        "primaryNumber": "45",
+        "teamCode": "H",
+        "boxscoreName": "Tanigawara",
+        "pitchHand": "R",
+        "batSide": "L"
+      }
+    ]
+  },
+  {
+    "jaText": "（走者・藤原）二塁盗塁失敗",
+    "text": "Fujiwara caught stealing 2nd base.",
+    "countsAsStealAttempt": true,
+    "catcher": {},
+    "catchers": [
+      {
+        "id": "81385151",
+        "jaBoxscoreName": "海野",
+        "jaRegisteredName": "海野　隆司",
+        "fullLFMName": "Umino, Takashi",
+        "primaryNumber": "62",
+        "teamCode": "H",
+        "boxscoreName": "Umino",
+        "pitchHand": "R",
+        "batSide": "R"
+      },
+      {
+        "id": "11215132",
+        "jaBoxscoreName": "谷川原",
+        "jaRegisteredName": "谷川原　健太",
+        "fullLFMName": "Tanigawara, Kenta",
+        "primaryNumber": "45",
+        "teamCode": "H",
+        "boxscoreName": "Tanigawara",
+        "pitchHand": "R",
+        "batSide": "L"
+      }
+    ]
+  }
+]
