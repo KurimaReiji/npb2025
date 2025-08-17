@@ -42,6 +42,7 @@ class NpbBaserunning extends HTMLElement {
       line-height: 1.5;
       --row-padding: .25rem;
       --col-padding: .25rem;
+      --subgrid: 1fr repeat(3, 4rem) 2.6rem 5.6rem max-content;
     }
 
     [data-team] {
