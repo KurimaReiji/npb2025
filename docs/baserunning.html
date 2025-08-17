@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>2025 NPB Baserunning</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+  </style>
+  <style>
+    html {
+      font-family: "Roboto", "BIZ UDPGothic", Meiryo, sans-serif;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+    }
+
+    npb-baserunning {
+      --npb-baserunning-font-size: min(4.0vw, 1.25rem);
+    }
+  </style>
+</head>
+
+<body>
+  <table-selector></table-selector>
+  <npb-baserunning table="catcher" focus="" lang="en"></npb-baserunning>
+  <script type="module" src="js/table-selector.js?v=0"></script>
+  <script type="module" src="js/npb-baserunning.js?v=0"></script>
+  <script>
+    function route(href) {
+      if (href === window.location.href) return;
+      window.history.pushState({}, null, href);
+      locationHandler();
+    }
+
+    function locationHandler() {
+      const app = document.querySelector("npb-baserunning");
+      const url = new URL(window.location.href);
+      const lang = url.searchParams.get('lang') || 'en';
+      const table = url.searchParams.get('table') || 'catcher';
+      app.setAttribute("lang", lang);
+      app.setAttribute("table", table);
+    }
+
+    window.addEventListener("popstate", (_) => { locationHandler(); });
+
+    document.addEventListener('TableSelected', ({ detail }) => {
+      route(detail.url);
+    });
+
+    locationHandler();
+  </script>
+</body>
+
+</html>

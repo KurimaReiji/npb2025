@@ -1,0 +1,83 @@
+:root,
+:host {
+  --alpha-value: 1;
+  --alpha-bg: .1;
+
+  --npb-blue: #2862ae;
+  --central-league-green: #0f8f2e;
+  --pacific-league-blue: #3fb1e5;
+  --interleague-red: #e60012;
+
+  --dragons-blue: #003378;
+  --dragons-hue: 196;
+  --dragons-saturation: 82%;
+  --dragons-lightness: 52%;
+  --dragons-lightblue: hsl(196 82% 52%);
+
+  --carp-hue: 355;
+  --carp-saturation: 87%;
+  --carp-lightness: 44%;
+  --carp-red: hsl(355 87% 44%);
+
+  --baystars-blue: #0096e0;
+
+  --baystars-hue: 213;
+  --baystars-saturation: 100%;
+  --baystars-lightness: 28%;
+  --baystars-darkblue: hsl(213 100% 28%);
+  
+  --giants-hue: 28;
+  --giants-saturation: 95%;
+  --giants-lightness: 51%;
+  --giants-orange: hsl(28 95% 51%);
+
+  --swallows-green: #1a854f;
+  --swallows-blue: #2e4fb5;
+  --swallows-red: #ec1234;
+
+  --swallows-hue: 152;
+  --swallows-saturation: 100%;
+  --swallows-lightness: 27%;
+  --swallows-green: hsl(152 100% 27% / 1);
+
+  --tigers-yellow: #ffdd00;
+  --tigers-black: #000000;
+
+  --tigers-hue: 40;
+  --tigers-saturation: 78%;
+  --tigers-lightness: 55%;
+  --tigers-yellow: hsl(40 78% 55% / 1);
+
+  --bufalloes-navy: #092d5a;
+  --bufalloes-black: #000121;
+
+  --buffaloes-hue: 51;
+  --buffaloes-saturation: 55%;
+  --buffaloes-lightness: 47%;
+  --buffaloes-gold: hsl(51 55% 47% / 1);
+
+  --eagles-hue: 344;
+  --eagles-saturation: 100%;
+  --eagles-lightness: 29%;
+  --eagles-winered: hsl(344 100% 29% / 1);
+
+  --fighters-hue: 201;
+  --fighters-saturation: 100%;
+  --fighters-lightness: 30%;
+  --fighters-blue: hsl(201 100% 30% / 1);
+
+  --hawks-hue: 42;
+  --hawks-saturation: 100%;
+  --hawks-lightness: 50%;
+  --hawks-gold: hsl(42 100% 50% / 1);
+
+  --lions-hue: 214;
+  --lions-saturation: 100%;
+  --lions-lightness: 15%;
+  --lions-navy: hsl(214 100% 15% / 1);
+
+  --marines-hue: 51;
+  --marines-saturation: 0%;
+  --marines-lightness: 51%;
+  --marines-silver: hsl(0 0% 51% / 1);
+}
