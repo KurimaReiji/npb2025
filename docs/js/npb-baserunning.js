@@ -253,7 +253,7 @@ class NpbBaserunning extends HTMLElement {
       }
     }
 
-    .player:lang(ja) {
+    [data-lang="ja"] .player {
       text-align-last: justify;
 
       &[data-item="Duplantier, Jon"],
@@ -473,8 +473,10 @@ function updateTable(self, data, target = 'catcher', lang, focusedTeams) {
 function updateLang(lang, root) {
   if (lang.toLowerCase() === 'ja') {
     [...root.querySelectorAll('header>div[data-item-ja],[data-item].player')].forEach(applyInitials);
+    root.querySelector('.grid').dataset.lang = 'ja';
   } else {
     [...root.querySelectorAll('header>div[data-item],[data-item].player')].forEach((div) => div.textContent = div.dataset.item);
+    root.querySelector('.grid').dataset.lang = 'en';
   }
 }
 
