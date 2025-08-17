@@ -121,14 +121,28 @@ class NpbBaserunning extends HTMLElement {
       --lightness: var(--dragons-lightness);
     }
     
-    :host-context([table="catcher"]),
-    :host-context([table="pitcher"]),
-    :host-context([table="runner"]) {
-      --template-columns: 1fr repeat(5, max-content);
-    }
     :host-context([table="pitcher"]),
     :host-context([table="runner"]) {
       --att-display: none;
+    }
+
+    :host-context([table="catcher"][lang="ja"]) {
+      --subgrid: 1fr repeat(3, 4rem) 2.6rem 5.6rem max-content;
+    }
+    :host-context([table="catcher"][lang="en"]) {
+      --subgrid: 1fr 3.4rem 3.1rem 3.1rem 2.6rem 4.2rem max-content;
+    }
+    :host-context([table="pitcher"][lang="ja"]) {
+      --subgrid: 1fr repeat(2, 3.8rem) 2.6rem 5.6rem max-content;
+    }
+    :host-context([table="pitcher"][lang="en"]) {
+      --subgrid: 1fr repeat(3, 3.1rem) 4.2rem max-content;
+    }
+    :host-context([table="runner"][lang="ja"]) {
+      --subgrid: 1fr repeat(2, 3.8rem) 2.6rem 5.6rem max-content;
+    }
+    :host-context([table="runner"][lang="en"]) {
+      --subgrid: 1fr repeat(3, 3.1rem) 4.2rem max-content;
     }
 
     :host-context([focus]) {
@@ -137,29 +151,23 @@ class NpbBaserunning extends HTMLElement {
 
     .grid {
       display: grid;
-      grid-template-columns: var(--template-columns);
+      display: block;
       width: fit-content;
       margin-inline: auto;
-      row-gap: 1em;
     }
 
     .league {
       display: none;
-      grid-template-columns: subgrid;
-      grid-column: 1 / -1;
       width: min-content;
       box-sizing: content-box;
       padding: min(1vw, 5px);
     }
 
     .league:has(.container:not(.unfocused)) {
-      display: grid;
+      display: block;
     }
 
     .container {
-      display: grid;
-      grid-template-columns: subgrid;
-      grid-column: span 6;
       overflow: auto;
       box-sizing: border-box;
       padding-inline: 0;
@@ -176,7 +184,7 @@ class NpbBaserunning extends HTMLElement {
 
     header {
       display: grid;
-      grid-template-columns: subgrid;
+      grid-template-columns: var(--subgrid, subgrid);
       grid-column: 1 / -1;
       font-size: .8em;
       border-top: solid 6px var(--team-color);
@@ -220,7 +228,7 @@ class NpbBaserunning extends HTMLElement {
 
     .container .rows>div {
       display: grid;
-      grid-template-columns: subgrid;
+      grid-template-columns: var(--subgrid, subgrid);
       grid-column: 1 / -1;
     }
 
@@ -262,6 +270,9 @@ class NpbBaserunning extends HTMLElement {
       }
     }
 
+    .player {
+      white-space: nowrap;
+    }
     .player:lang(ja) {
       text-align-last: justify;
 
