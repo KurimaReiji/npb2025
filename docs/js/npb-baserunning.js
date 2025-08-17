@@ -122,13 +122,8 @@ class NpbBaserunning extends HTMLElement {
       --lightness: var(--dragons-lightness);
     }
     
-    :host-context([table="pitcher"]),
-    :host-context([table="runner"]) {
+    .hide-att {
       --att-display: none;
-    }
-
-    :host-context([focus]) {
-      --team-unfocus: none;
     }
 
     .grid {
@@ -466,6 +461,11 @@ function updateTable(self, data, target = 'catcher', lang, focusedTeams) {
   shadow.querySelectorAll(".updated").forEach((el) => {
     el.textContent = ['2025-03-28', data.updated].join('/');
   });
+  if (target === 'catcher') {
+    shadow.querySelector('.grid').classList.remove('hide-att');
+  } else {
+    shadow.querySelector('.grid').classList.add('hide-att');
+  }
   updateLang(lang, self.shadowRoot);
   updateFocused(focusedTeams, self.shadowRoot);
 }
