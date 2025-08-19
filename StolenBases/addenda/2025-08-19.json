@@ -8,20 +8,7 @@
     "jaText": "（走者・上林）二塁盗塁成功",
     "text": "Uebayashi steals 2nd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
-        "id": "51055153",
-        "jaBoxscoreName": "榮枝",
-        "jaRegisteredName": "榮枝　裕貴",
-        "fullLFMName": "Sakaeda, Yuki",
-        "primaryNumber": "39",
-        "teamCode": "T",
-        "boxscoreName": "Sakaeda",
-        "pitchHand": "R",
-        "batSide": "R"
-      },
-      {
+    "catcher": {
         "id": "11915132",
         "jaBoxscoreName": "坂本",
         "jaRegisteredName": "坂本　誠志郎",
@@ -32,26 +19,12 @@
         "pitchHand": "R",
         "batSide": "R"
       }
-    ]
   },
   {
     "jaText": "（走者・ブライト）二塁盗塁失敗",
     "text": "Bright caught stealing 2nd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
-        "id": "51055153",
-        "jaBoxscoreName": "榮枝",
-        "jaRegisteredName": "榮枝　裕貴",
-        "fullLFMName": "Sakaeda, Yuki",
-        "primaryNumber": "39",
-        "teamCode": "T",
-        "boxscoreName": "Sakaeda",
-        "pitchHand": "R",
-        "batSide": "R"
-      },
-      {
+    "catcher": {
         "id": "11915132",
         "jaBoxscoreName": "坂本",
         "jaRegisteredName": "坂本　誠志郎",
@@ -62,7 +35,6 @@
         "pitchHand": "R",
         "batSide": "R"
       }
-    ]
   },
   {
     "jaText": "（走者・清宮幸）一塁牽制アウト",
@@ -73,9 +45,7 @@
     "jaText": "（走者・髙部）三塁盗塁成功",
     "text": "Takabe steals 3rd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
+    "catcher": {
         "id": "71375138",
         "jaBoxscoreName": "太田",
         "jaRegisteredName": "太田　光",
@@ -85,38 +55,13 @@
         "boxscoreName": "Ohta",
         "pitchHand": "R",
         "batSide": "R"
-      },
-      {
-        "id": "11815132",
-        "jaBoxscoreName": "堀内",
-        "jaRegisteredName": "堀内　謙伍",
-        "fullLFMName": "Horiuchi, Kengo",
-        "primaryNumber": "65",
-        "teamCode": "E",
-        "boxscoreName": "Horiuchi",
-        "pitchHand": "R",
-        "batSide": "L"
       }
-    ]
   },
   {
     "jaText": "（走者・藤原）二塁盗塁成功",
     "text": "Fujiwara steals 2nd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
-        "id": "71375138",
-        "jaBoxscoreName": "太田",
-        "jaRegisteredName": "太田　光",
-        "fullLFMName": "Ohta, Hikaru",
-        "primaryNumber": "2",
-        "teamCode": "E",
-        "boxscoreName": "Ohta",
-        "pitchHand": "R",
-        "batSide": "R"
-      },
-      {
+    "catcher": {
         "id": "11815132",
         "jaBoxscoreName": "堀内",
         "jaRegisteredName": "堀内　謙伍",
@@ -127,7 +72,6 @@
         "pitchHand": "R",
         "batSide": "L"
       }
-    ]
   },
   {
     "jaText": "（走者・周東）二塁盗塁成功",
