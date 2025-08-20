@@ -84114,7 +84114,7 @@
       "fullLFMName": "Matsumoto, Wataru",
       "primaryNumber": "17",
       "teamCode": "L",
-      "boxscoreName": "TBD",
+      "boxscoreName": "Matsumoto",
       "pitchHand": "R",
       "batSide": "R"
     },
@@ -84276,7 +84276,7 @@
       "fullLFMName": "Kawamura, Tokito",
       "primaryNumber": "58",
       "teamCode": "M",
-      "boxscoreName": "TBD",
+      "boxscoreName": "Kawamura",
       "pitchHand": "R",
       "batSide": "R"
     },
@@ -84357,7 +84357,7 @@
       "fullLFMName": "Kawamura, Tokito",
       "primaryNumber": "58",
       "teamCode": "M",
-      "boxscoreName": "TBD",
+      "boxscoreName": "Kawamura",
       "pitchHand": "R",
       "batSide": "R"
     },
@@ -85815,7 +85815,7 @@
       "fullLFMName": "Takeda, Yu",
       "primaryNumber": "12",
       "teamCode": "DB",
-      "boxscoreName": "TBD",
+      "boxscoreName": "Y.Takeda",
       "pitchHand": "R",
       "batSide": "R"
     },
@@ -86301,7 +86301,7 @@
       "fullLFMName": "Fujinami, Shintaro",
       "primaryNumber": "27",
       "teamCode": "DB",
-      "boxscoreName": "TBD",
+      "boxscoreName": "Fujinami",
       "pitchHand": "R",
       "batSide": "R"
     },
@@ -88301,7 +88301,11 @@
     "url": "https://npb.jp/scores/2025/0820/t-d-17/playbyplay.html#com1-1",
     "countsAsStealAttempt": true,
     "eventId": "81585151-2025-019",
-    "movies": []
+    "movies": [
+      {
+        "url": "https://youtu.be/mX9rg5ljThQ?si=663TBDQLJ2DL7EKq&t=34"
+      }
+    ]
   },
   {
     "date": "2025-08-20",
@@ -88415,7 +88419,7 @@
       "fullLFMName": "Satoh, Kazuma",
       "primaryNumber": "93",
       "teamCode": "B",
-      "boxscoreName": "TBD",
+      "boxscoreName": "Satoh",
       "pitchHand": "L",
       "batSide": "L"
     },
