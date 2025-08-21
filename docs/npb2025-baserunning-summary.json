@@ -1,5 +1,5 @@
 {
-  "updated": "2025-08-20",
+  "updated": "2025-08-21",
   "catchers": [
     {
       "att": 77,
@@ -106,6 +106,32 @@
       "rate": ".228"
     },
     {
+      "att": 50,
+      "sb": 34,
+      "cs": 16,
+      "ds": 0,
+      "ts": 0,
+      "pickoff": {
+        "pickoff": 2,
+        "sb": 0,
+        "cs": 0,
+        "ds": 0,
+        "ts": 0
+      },
+      "catcher": {
+        "id": "71375138",
+        "jaBoxscoreName": "太田",
+        "jaRegisteredName": "太田　光",
+        "fullLFMName": "Ohta, Hikaru",
+        "primaryNumber": "2",
+        "teamCode": "E",
+        "boxscoreName": "Ohta",
+        "pitchHand": "R",
+        "batSide": "R"
+      },
+      "rate": ".320"
+    },
+    {
       "att": 49,
       "sb": 26,
       "cs": 23,
@@ -132,30 +158,30 @@
       "rate": ".469"
     },
     {
-      "att": 49,
+      "att": 47,
       "sb": 33,
-      "cs": 16,
+      "cs": 14,
       "ds": 0,
       "ts": 0,
       "pickoff": {
-        "pickoff": 2,
-        "sb": 0,
-        "cs": 0,
+        "pickoff": 4,
+        "sb": 2,
+        "cs": 2,
         "ds": 0,
         "ts": 0
       },
       "catcher": {
-        "id": "71375138",
-        "jaBoxscoreName": "太田",
-        "jaRegisteredName": "太田　光",
-        "fullLFMName": "Ohta, Hikaru",
-        "primaryNumber": "2",
-        "teamCode": "E",
-        "boxscoreName": "Ohta",
+        "id": "23125136",
+        "jaBoxscoreName": "山本",
+        "jaRegisteredName": "山本　祐大",
+        "fullLFMName": "Yamamoto, Yuudai",
+        "primaryNumber": "50",
+        "teamCode": "DB",
+        "boxscoreName": "Yamamoto",
         "pitchHand": "R",
         "batSide": "R"
       },
-      "rate": ".327"
+      "rate": ".298"
     },
     {
       "att": 44,
@@ -178,32 +204,6 @@
         "primaryNumber": "12",
         "teamCode": "T",
         "boxscoreName": "Sakamoto",
-        "pitchHand": "R",
-        "batSide": "R"
-      },
-      "rate": ".318"
-    },
-    {
-      "att": 44,
-      "sb": 30,
-      "cs": 14,
-      "ds": 0,
-      "ts": 0,
-      "pickoff": {
-        "pickoff": 4,
-        "sb": 2,
-        "cs": 2,
-        "ds": 0,
-        "ts": 0
-      },
-      "catcher": {
-        "id": "23125136",
-        "jaBoxscoreName": "山本",
-        "jaRegisteredName": "山本　祐大",
-        "fullLFMName": "Yamamoto, Yuudai",
-        "primaryNumber": "50",
-        "teamCode": "DB",
-        "boxscoreName": "Yamamoto",
         "pitchHand": "R",
         "batSide": "R"
       },
@@ -340,8 +340,8 @@
       "rate": ".323"
     },
     {
-      "att": 30,
-      "sb": 27,
+      "att": 31,
+      "sb": 28,
       "cs": 3,
       "ds": 0,
       "ts": 0,
@@ -363,11 +363,11 @@
         "pitchHand": "R",
         "batSide": "R"
       },
-      "rate": ".100"
+      "rate": ".097"
     },
     {
-      "att": 29,
-      "sb": 27,
+      "att": 30,
+      "sb": 28,
       "cs": 2,
       "ds": 0,
       "ts": 0,
@@ -389,7 +389,7 @@
         "pitchHand": "R",
         "batSide": "L"
       },
-      "rate": ".069"
+      "rate": ".067"
     },
     {
       "att": 28,
@@ -1122,6 +1122,32 @@
   ],
   "pitchers": [
     {
+      "att": 21,
+      "sb": 15,
+      "cs": 6,
+      "ds": 0,
+      "ts": 0,
+      "pickoff": {
+        "pickoff": 1,
+        "sb": 0,
+        "cs": 1,
+        "ds": 0,
+        "ts": 0
+      },
+      "pitcher": {
+        "id": "33235157",
+        "jaBoxscoreName": "バウアー",
+        "jaRegisteredName": "Ｔ．バウアー",
+        "fullLFMName": "Bauer, Trevor",
+        "primaryNumber": "96",
+        "teamCode": "DB",
+        "boxscoreName": "Bauer",
+        "pitchHand": "R",
+        "batSide": "R"
+      },
+      "rate": ".318"
+    },
+    {
       "att": 22,
       "sb": 18,
       "cs": 4,
@@ -1146,32 +1172,6 @@
         "batSide": "R"
       },
       "rate": ".182"
-    },
-    {
-      "att": 19,
-      "sb": 13,
-      "cs": 6,
-      "ds": 0,
-      "ts": 0,
-      "pickoff": {
-        "pickoff": 1,
-        "sb": 0,
-        "cs": 1,
-        "ds": 0,
-        "ts": 0
-      },
-      "pitcher": {
-        "id": "33235157",
-        "jaBoxscoreName": "バウアー",
-        "jaRegisteredName": "Ｔ．バウアー",
-        "fullLFMName": "Bauer, Trevor",
-        "primaryNumber": "96",
-        "teamCode": "DB",
-        "boxscoreName": "Bauer",
-        "pitchHand": "R",
-        "batSide": "R"
-      },
-      "rate": ".350"
     },
     {
       "att": 20,
@@ -2397,6 +2397,32 @@
     },
     {
       "att": 7,
+      "sb": 5,
+      "cs": 2,
+      "ds": 0,
+      "ts": 0,
+      "pickoff": {
+        "pickoff": 0,
+        "sb": 0,
+        "cs": 0,
+        "ds": 0,
+        "ts": 0
+      },
+      "pitcher": {
+        "id": "51955138",
+        "jaBoxscoreName": "清水",
+        "jaRegisteredName": "清水　昇",
+        "fullLFMName": "Shimizu, Noboru",
+        "primaryNumber": "17",
+        "teamCode": "S",
+        "boxscoreName": "Shimizu",
+        "pitchHand": "R",
+        "batSide": "L"
+      },
+      "rate": ".286"
+    },
+    {
+      "att": 7,
       "sb": 6,
       "cs": 1,
       "ds": 0,
@@ -2524,32 +2550,6 @@
         "batSide": "L"
       },
       "rate": ".500"
-    },
-    {
-      "att": 6,
-      "sb": 4,
-      "cs": 2,
-      "ds": 0,
-      "ts": 0,
-      "pickoff": {
-        "pickoff": 0,
-        "sb": 0,
-        "cs": 0,
-        "ds": 0,
-        "ts": 0
-      },
-      "pitcher": {
-        "id": "51955138",
-        "jaBoxscoreName": "清水",
-        "jaRegisteredName": "清水　昇",
-        "fullLFMName": "Shimizu, Noboru",
-        "primaryNumber": "17",
-        "teamCode": "S",
-        "boxscoreName": "Shimizu",
-        "pitchHand": "R",
-        "batSide": "L"
-      },
-      "rate": ".333"
     },
     {
       "att": 5,
@@ -3936,6 +3936,32 @@
       "ds": 0,
       "ts": 0,
       "pickoff": {
+        "pickoff": 1,
+        "sb": 0,
+        "cs": 0,
+        "ds": 0,
+        "ts": 0
+      },
+      "pitcher": {
+        "id": "31235151",
+        "jaBoxscoreName": "瀧中",
+        "jaRegisteredName": "瀧中　瞭太",
+        "fullLFMName": "Takinaka, Ryota",
+        "primaryNumber": "57",
+        "teamCode": "E",
+        "boxscoreName": "Takinaka",
+        "pitchHand": "R",
+        "batSide": "R"
+      },
+      "rate": ".333"
+    },
+    {
+      "att": 3,
+      "sb": 2,
+      "cs": 1,
+      "ds": 0,
+      "ts": 0,
+      "pickoff": {
         "pickoff": 0,
         "sb": 0,
         "cs": 0,
@@ -4638,32 +4664,6 @@
       "ds": 0,
       "ts": 0,
       "pickoff": {
-        "pickoff": 1,
-        "sb": 0,
-        "cs": 0,
-        "ds": 0,
-        "ts": 0
-      },
-      "pitcher": {
-        "id": "31235151",
-        "jaBoxscoreName": "瀧中",
-        "jaRegisteredName": "瀧中　瞭太",
-        "fullLFMName": "Takinaka, Ryota",
-        "primaryNumber": "57",
-        "teamCode": "E",
-        "boxscoreName": "Takinaka",
-        "pitchHand": "R",
-        "batSide": "R"
-      },
-      "rate": ".500"
-    },
-    {
-      "att": 2,
-      "sb": 1,
-      "cs": 1,
-      "ds": 0,
-      "ts": 0,
-      "pickoff": {
         "pickoff": 0,
         "sb": 0,
         "cs": 0,
@@ -4912,6 +4912,32 @@
         "primaryNumber": "58",
         "teamCode": "L",
         "boxscoreName": "Y.Nakamura",
+        "pitchHand": "R",
+        "batSide": "R"
+      },
+      "rate": ".500"
+    },
+    {
+      "att": 2,
+      "sb": 1,
+      "cs": 1,
+      "ds": 0,
+      "ts": 0,
+      "pickoff": {
+        "pickoff": 0,
+        "sb": 0,
+        "cs": 0,
+        "ds": 0,
+        "ts": 0
+      },
+      "pitcher": {
+        "id": "71975134",
+        "jaBoxscoreName": "佐々木",
+        "jaRegisteredName": "佐々木　千隼",
+        "fullLFMName": "Sasaki, Chihaya",
+        "primaryNumber": "41",
+        "teamCode": "DB",
+        "boxscoreName": "Sasaki",
         "pitchHand": "R",
         "batSide": "R"
       },
@@ -6179,32 +6205,6 @@
         "ts": 0
       },
       "pitcher": {
-        "id": "71975134",
-        "jaBoxscoreName": "佐々木",
-        "jaRegisteredName": "佐々木　千隼",
-        "fullLFMName": "Sasaki, Chihaya",
-        "primaryNumber": "41",
-        "teamCode": "DB",
-        "boxscoreName": "Sasaki",
-        "pitchHand": "R",
-        "batSide": "R"
-      },
-      "rate": "1.000"
-    },
-    {
-      "att": 1,
-      "sb": 0,
-      "cs": 1,
-      "ds": 0,
-      "ts": 0,
-      "pickoff": {
-        "pickoff": 0,
-        "sb": 0,
-        "cs": 0,
-        "ds": 0,
-        "ts": 0
-      },
-      "pitcher": {
         "id": "81085157",
         "jaBoxscoreName": "辻",
         "jaRegisteredName": "辻　大雅",
@@ -7297,6 +7297,32 @@
         "ts": 0
       },
       "pitcher": {
+        "id": "83385157",
+        "jaBoxscoreName": "吉川",
+        "jaRegisteredName": "吉川　悠斗",
+        "fullLFMName": "Yoshikawa, Yuto",
+        "primaryNumber": "91",
+        "teamCode": "M",
+        "boxscoreName": "Yoshikawa",
+        "pitchHand": "L",
+        "batSide": "L"
+      },
+      "rate": ".000"
+    },
+    {
+      "att": 1,
+      "sb": 1,
+      "cs": 0,
+      "ds": 0,
+      "ts": 0,
+      "pickoff": {
+        "pickoff": 0,
+        "sb": 0,
+        "cs": 0,
+        "ds": 0,
+        "ts": 0
+      },
+      "pitcher": {
         "id": "83785159",
         "jaBoxscoreName": "孫",
         "jaRegisteredName": "孫　易磊",
@@ -7832,6 +7858,32 @@
       "rate": ".800"
     },
     {
+      "att": 18,
+      "sb": 15,
+      "cs": 3,
+      "ds": 0,
+      "ts": 0,
+      "pickoff": {
+        "pickoff": 1,
+        "sb": 1,
+        "cs": 1,
+        "ds": 0,
+        "ts": 0
+      },
+      "runner": {
+        "id": "71475138",
+        "jaBoxscoreName": "羽月",
+        "jaRegisteredName": "羽月　隆太郎",
+        "fullLFMName": "Hatsuki, Ryutaro",
+        "primaryNumber": "00",
+        "teamCode": "C",
+        "boxscoreName": "Hatsuki",
+        "pitchHand": "R",
+        "batSide": "L"
+      },
+      "rate": ".800"
+    },
+    {
       "att": 19,
       "sb": 19,
       "cs": 0,
@@ -7856,6 +7908,32 @@
         "batSide": "L"
       },
       "rate": "1.000"
+    },
+    {
+      "att": 17,
+      "sb": 16,
+      "cs": 1,
+      "ds": 0,
+      "ts": 0,
+      "pickoff": {
+        "pickoff": 0,
+        "sb": 0,
+        "cs": 2,
+        "ds": 0,
+        "ts": 0
+      },
+      "runner": {
+        "id": "21425159",
+        "jaBoxscoreName": "中島",
+        "jaRegisteredName": "中島　大輔",
+        "fullLFMName": "Nakashima, Daisuke",
+        "primaryNumber": "32",
+        "teamCode": "E",
+        "boxscoreName": "Nakashima",
+        "pitchHand": "R",
+        "batSide": "L"
+      },
+      "rate": ".842"
     },
     {
       "att": 17,
@@ -7962,32 +8040,6 @@
       "rate": ".684"
     },
     {
-      "att": 16,
-      "sb": 15,
-      "cs": 1,
-      "ds": 0,
-      "ts": 0,
-      "pickoff": {
-        "pickoff": 0,
-        "sb": 0,
-        "cs": 2,
-        "ds": 0,
-        "ts": 0
-      },
-      "runner": {
-        "id": "21425159",
-        "jaBoxscoreName": "中島",
-        "jaRegisteredName": "中島　大輔",
-        "fullLFMName": "Nakashima, Daisuke",
-        "primaryNumber": "32",
-        "teamCode": "E",
-        "boxscoreName": "Nakashima",
-        "pitchHand": "R",
-        "batSide": "L"
-      },
-      "rate": ".833"
-    },
-    {
       "att": 15,
       "sb": 11,
       "cs": 4,
@@ -8038,32 +8090,6 @@
         "batSide": "R"
       },
       "rate": ".824"
-    },
-    {
-      "att": 15,
-      "sb": 12,
-      "cs": 3,
-      "ds": 0,
-      "ts": 0,
-      "pickoff": {
-        "pickoff": 1,
-        "sb": 1,
-        "cs": 1,
-        "ds": 0,
-        "ts": 0
-      },
-      "runner": {
-        "id": "71475138",
-        "jaBoxscoreName": "羽月",
-        "jaRegisteredName": "羽月　隆太郎",
-        "fullLFMName": "Hatsuki, Ryutaro",
-        "primaryNumber": "00",
-        "teamCode": "C",
-        "boxscoreName": "Hatsuki",
-        "pitchHand": "R",
-        "batSide": "L"
-      },
-      "rate": ".765"
     },
     {
       "att": 13,
@@ -8742,6 +8768,32 @@
       "rate": ".625"
     },
     {
+      "att": 6,
+      "sb": 6,
+      "cs": 0,
+      "ds": 0,
+      "ts": 0,
+      "pickoff": {
+        "pickoff": 0,
+        "sb": 1,
+        "cs": 0,
+        "ds": 0,
+        "ts": 0
+      },
+      "runner": {
+        "id": "53555153",
+        "jaBoxscoreName": "若林",
+        "jaRegisteredName": "若林　楽人",
+        "fullLFMName": "Wakabayashi, Gakuto",
+        "primaryNumber": "59",
+        "teamCode": "G",
+        "boxscoreName": "Wakabayashi",
+        "pitchHand": "R",
+        "batSide": "R"
+      },
+      "rate": "1.000"
+    },
+    {
       "att": 7,
       "sb": 7,
       "cs": 0,
@@ -8974,32 +9026,6 @@
         "batSide": "R"
       },
       "rate": ".429"
-    },
-    {
-      "att": 5,
-      "sb": 5,
-      "cs": 0,
-      "ds": 0,
-      "ts": 0,
-      "pickoff": {
-        "pickoff": 0,
-        "sb": 1,
-        "cs": 0,
-        "ds": 0,
-        "ts": 0
-      },
-      "runner": {
-        "id": "53555153",
-        "jaBoxscoreName": "若林",
-        "jaRegisteredName": "若林　楽人",
-        "fullLFMName": "Wakabayashi, Gakuto",
-        "primaryNumber": "59",
-        "teamCode": "G",
-        "boxscoreName": "Wakabayashi",
-        "pitchHand": "R",
-        "batSide": "R"
-      },
-      "rate": "1.000"
     },
     {
       "att": 5,
@@ -10565,6 +10591,32 @@
       "att": 2,
       "sb": 2,
       "cs": 0,
+      "ds": 0,
+      "ts": 0,
+      "pickoff": {
+        "pickoff": 0,
+        "sb": 0,
+        "cs": 0,
+        "ds": 0,
+        "ts": 0
+      },
+      "runner": {
+        "id": "71075151",
+        "jaBoxscoreName": "佐藤",
+        "jaRegisteredName": "佐藤　都志也",
+        "fullLFMName": "Satoh, Toshiya",
+        "primaryNumber": "32",
+        "teamCode": "M",
+        "boxscoreName": "Satoh",
+        "pitchHand": "R",
+        "batSide": "L"
+      },
+      "rate": "1.000"
+    },
+    {
+      "att": 2,
+      "sb": 2,
+      "cs": 0,
       "ds": 1,
       "ts": 0,
       "pickoff": {
@@ -11732,32 +11784,6 @@
       "rate": "1.000"
     },
     {
-      "att": 1,
-      "sb": 1,
-      "cs": 0,
-      "ds": 0,
-      "ts": 0,
-      "pickoff": {
-        "pickoff": 0,
-        "sb": 0,
-        "cs": 0,
-        "ds": 0,
-        "ts": 0
-      },
-      "runner": {
-        "id": "71075151",
-        "jaBoxscoreName": "佐藤",
-        "jaRegisteredName": "佐藤　都志也",
-        "fullLFMName": "Satoh, Toshiya",
-        "primaryNumber": "32",
-        "teamCode": "M",
-        "boxscoreName": "Satoh",
-        "pitchHand": "R",
-        "batSide": "L"
-      },
-      "rate": "1.000"
-    },
-    {
       "att": 0,
       "sb": 0,
       "cs": 0,
@@ -12845,8 +12871,8 @@
         "rate": ".328"
       },
       "offence": {
-        "att": 70,
-        "sb": 41,
+        "att": 71,
+        "sb": 42,
         "cs": 29,
         "ds": 0,
         "ts": 0,
@@ -12857,7 +12883,7 @@
           "ds": 0,
           "ts": 0
         },
-        "rate": ".558"
+        "rate": ".564"
       }
     },
     {
@@ -12900,8 +12926,8 @@
       "teamName": "Baystars",
       "league": "Central",
       "defence": {
-        "att": 88,
-        "sb": 60,
+        "att": 91,
+        "sb": 63,
         "cs": 28,
         "ds": 0,
         "ts": 0,
@@ -12912,7 +12938,7 @@
           "ds": 0,
           "ts": 0
         },
-        "rate": ".340"
+        "rate": ".330"
       },
       "offence": {
         "att": 73,
@@ -12950,8 +12976,8 @@
         "rate": ".211"
       },
       "offence": {
-        "att": 77,
-        "sb": 46,
+        "att": 80,
+        "sb": 49,
         "cs": 31,
         "ds": 0,
         "ts": 0,
@@ -12962,7 +12988,7 @@
           "ds": 0,
           "ts": 0
         },
-        "rate": ".585"
+        "rate": ".600"
       }
     },
     {
@@ -12970,8 +12996,8 @@
       "teamName": "Swallows",
       "league": "Central",
       "defence": {
-        "att": 82,
-        "sb": 53,
+        "att": 83,
+        "sb": 54,
         "cs": 29,
         "ds": 0,
         "ts": 0,
@@ -12982,7 +13008,7 @@
           "ds": 0,
           "ts": 0
         },
-        "rate": ".379"
+        "rate": ".375"
       },
       "offence": {
         "att": 60,
@@ -13110,8 +13136,8 @@
       "teamName": "Marines",
       "league": "Pacific",
       "defence": {
-        "att": 115,
-        "sb": 102,
+        "att": 116,
+        "sb": 103,
         "cs": 13,
         "ds": 0,
         "ts": 0,
@@ -13122,11 +13148,11 @@
           "ds": 0,
           "ts": 0
         },
-        "rate": ".136"
+        "rate": ".134"
       },
       "offence": {
-        "att": 67,
-        "sb": 51,
+        "att": 68,
+        "sb": 52,
         "cs": 16,
         "ds": 0,
         "ts": 0,
@@ -13137,7 +13163,7 @@
           "ds": 0,
           "ts": 0
         },
-        "rate": ".739"
+        "rate": ".743"
       }
     },
     {
@@ -13145,8 +13171,8 @@
       "teamName": "Eagles",
       "league": "Pacific",
       "defence": {
-        "att": 80,
-        "sb": 56,
+        "att": 81,
+        "sb": 57,
         "cs": 24,
         "ds": 0,
         "ts": 0,
@@ -13157,11 +13183,11 @@
           "ds": 0,
           "ts": 0
         },
-        "rate": ".349"
+        "rate": ".345"
       },
       "offence": {
-        "att": 109,
-        "sb": 95,
+        "att": 110,
+        "sb": 96,
         "cs": 15,
         "ds": 1,
         "ts": 0,
@@ -13172,7 +13198,7 @@
           "ds": 0,
           "ts": 0
         },
-        "rate": ".839"
+        "rate": ".841"
       }
     },
     {
@@ -13250,8 +13276,8 @@
     {
       "league": "Central",
       "defence": {
-        "att": 447,
-        "sb": 313,
+        "att": 451,
+        "sb": 317,
         "cs": 137,
         "ds": 3,
         "ts": 0,
@@ -13262,12 +13288,12 @@
           "ds": 0,
           "ts": 0
         },
-        "rate": ".306",
-        "teamRate": ".339"
+        "rate": ".304",
+        "teamRate": ".336"
       },
       "offence": {
-        "att": 473,
-        "sb": 334,
+        "att": 477,
+        "sb": 338,
         "cs": 140,
         "ds": 1,
         "ts": 0,
@@ -13278,14 +13304,14 @@
           "ds": 0,
           "ts": 0
         },
-        "rate": ".673"
+        "rate": ".676"
       }
     },
     {
       "league": "Pacific",
       "defence": {
-        "att": 535,
-        "sb": 423,
+        "att": 537,
+        "sb": 425,
         "cs": 112,
         "ds": 0,
         "ts": 0,
@@ -13297,11 +13323,11 @@
           "ts": 0
         },
         "rate": ".209",
-        "teamRate": ".243"
+        "teamRate": ".242"
       },
       "offence": {
-        "att": 509,
-        "sb": 402,
+        "att": 511,
+        "sb": 404,
         "cs": 109,
         "ds": 2,
         "ts": 0,
@@ -13312,7 +13338,7 @@
           "ds": 0,
           "ts": 0
         },
-        "rate": ".750"
+        "rate": ".751"
       }
     }
   ]
