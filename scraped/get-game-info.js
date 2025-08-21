@@ -23,7 +23,7 @@ const get_linescore_urls = (dates) => {
     const str = `${year}/${month}${day}`;
     const urls = anchors.filter((a) => a.href.includes(str));
     const inProgress = urls
-      .filter((a) => /回|\d\d.\d\d/.test(a.textContent));
+      .filter((a) => /回|\d\d:\d\d/.test(a.textContent));
     return {
       date,
       urls: urls.map((a) => a.href),
