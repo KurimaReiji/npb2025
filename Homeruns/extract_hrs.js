@@ -32,8 +32,18 @@ dates
         return { homeruns, playByPlay: obj.playByPlay, playerdb: obj.players };
       })
       .map(({ homeruns, playByPlay, playerdb }) => {
-        return homeruns.map((hr) => {
-          const play = playByPlay.find((p) => p.jaResult?.text.includes("ホームラン") && p.batter.id === hr.batter.id && p.inning.inning === hr.inning && p.inning.halfInning === hr.halfInning); // never multi hr in a inning
+        const hrPlays = ['top', 'bottom']
+          .map((halfInning) => playByPlay.filter((p) => p.jaResult?.text.includes("ホームラン") && p.inning.halfInning === halfInning))
+          .sort((a, b) => {
+            if (a.halfInning > b.halfInning) return 1;
+            if (a.halfInning < b.halfInning) return -1;
+            return 1;
+          })
+          .flat();
+        return homeruns.map((hr, hrIdx) => {
+          hr.batter.jaBoxscoreName;
+          //const play = playByPlay.find((p) => p.jaResult?.text.includes("ホームラン") && p.batter.id === hr.batter.id && p.inning.inning === hr.inning && p.inning.halfInning === hr.halfInning); // never multi hr in a inning
+          const play = hrPlays[hrIdx]
           let isWalkOff;
           if (hr.halfInning === "bottom" && hr.inning > 8 && play.runs.road < (play.runs.home + hr.rbi)) {
             isWalkOff = "Y";
