@@ -23,9 +23,7 @@
     "jaText": "（走者・中川）二塁盗塁成功",
     "text": "Nakagawa steals 2nd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
+    "catcher": {
         "id": "11815132",
         "jaBoxscoreName": "堀内",
         "jaRegisteredName": "堀内　謙伍",
@@ -35,19 +33,7 @@
         "boxscoreName": "Horiuchi",
         "pitchHand": "R",
         "batSide": "L"
-      },
-      {
-        "id": "71375138",
-        "jaBoxscoreName": "太田",
-        "jaRegisteredName": "太田　光",
-        "fullLFMName": "Ohta, Hikaru",
-        "primaryNumber": "2",
-        "teamCode": "E",
-        "boxscoreName": "Ohta",
-        "pitchHand": "R",
-        "batSide": "R"
       }
-    ]
   },
   {
     "jaText": "（走者・髙部）二塁盗塁成功",
