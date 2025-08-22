@@ -1,0 +1,62 @@
+[
+  {
+    "jaText": "（走者・吉川）二塁盗塁成功",
+    "text": "Yoshikawa steals 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・近本）二塁盗塁失敗",
+    "text": "Chikamoto caught stealing 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・内山）二塁盗塁失敗",
+    "text": "Uchiyama caught stealing 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・中村奨）二塁盗塁失敗",
+    "text": "S.Nakamura caught stealing 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・中川）二塁盗塁成功",
+    "text": "Nakagawa steals 2nd base.",
+    "countsAsStealAttempt": true,
+    "catcher": {},
+    "catchers": [
+      {
+        "id": "11815132",
+        "jaBoxscoreName": "堀内",
+        "jaRegisteredName": "堀内　謙伍",
+        "fullLFMName": "Horiuchi, Kengo",
+        "primaryNumber": "65",
+        "teamCode": "E",
+        "boxscoreName": "Horiuchi",
+        "pitchHand": "R",
+        "batSide": "L"
+      },
+      {
+        "id": "71375138",
+        "jaBoxscoreName": "太田",
+        "jaRegisteredName": "太田　光",
+        "fullLFMName": "Ohta, Hikaru",
+        "primaryNumber": "2",
+        "teamCode": "E",
+        "boxscoreName": "Ohta",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+    ]
+  },
+  {
+    "jaText": "（走者・髙部）二塁盗塁成功",
+    "text": "Takabe steals 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・古賀悠）二塁盗塁成功",
+    "text": "Y.Koga steals 2nd base.",
+    "countsAsStealAttempt": true
+  }
+]
