@@ -1,0 +1,82 @@
+[
+  {
+    "jaText": "（走者・若林）二塁盗塁成功",
+    "text": "Wakabayashi steals 2nd base.",
+    "countsAsStealAttempt": true,
+    "catcher": {},
+    "catchers": [
+      {
+        "id": "41245132",
+        "jaBoxscoreName": "戸柱",
+        "jaRegisteredName": "戸柱　恭孝",
+        "fullLFMName": "Tobashira, Yasutaka",
+        "primaryNumber": "10",
+        "teamCode": "DB",
+        "boxscoreName": "Tobashira",
+        "pitchHand": "R",
+        "batSide": "L"
+      },
+      {
+        "id": "21825157",
+        "jaBoxscoreName": "松尾",
+        "jaRegisteredName": "松尾　汐恩",
+        "fullLFMName": "Matsuo, Shion",
+        "primaryNumber": "5",
+        "teamCode": "DB",
+        "boxscoreName": "Matsuo",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+    ]
+  },
+  {
+    "jaText": "（走者・丸山和）二塁盗塁成功",
+    "text": "K.Maruyama steals 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・宮本）二塁盗塁成功",
+    "text": "Miyamoto steals 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・上林）二塁盗塁成功",
+    "text": "Uebayashi steals 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・上林）二塁盗塁成功",
+    "text": "Uebayashi steals 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・野村）二塁盗塁成功",
+    "text": "Nomura steals 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・滝澤）二塁盗塁失敗",
+    "text": "Takizawa caught stealing 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・源田）二塁盗塁成功",
+    "text": "Genda steals 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・山口）二塁盗塁失敗",
+    "text": "Yamaguchi caught stealing 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・滝澤）二塁盗塁成功",
+    "text": "Takizawa steals 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・モンテル）二塁盗塁成功",
+    "text": "Higuma steals 2nd base.",
+    "countsAsStealAttempt": true
+  }
+]
