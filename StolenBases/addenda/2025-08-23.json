@@ -3,20 +3,7 @@
     "jaText": "（走者・若林）二塁盗塁成功",
     "text": "Wakabayashi steals 2nd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
-        "id": "41245132",
-        "jaBoxscoreName": "戸柱",
-        "jaRegisteredName": "戸柱　恭孝",
-        "fullLFMName": "Tobashira, Yasutaka",
-        "primaryNumber": "10",
-        "teamCode": "DB",
-        "boxscoreName": "Tobashira",
-        "pitchHand": "R",
-        "batSide": "L"
-      },
-      {
+    "catcher": {
         "id": "21825157",
         "jaBoxscoreName": "松尾",
         "jaRegisteredName": "松尾　汐恩",
@@ -27,7 +14,6 @@
         "pitchHand": "R",
         "batSide": "R"
       }
-    ]
   },
   {
     "jaText": "（走者・丸山和）二塁盗塁成功",
@@ -57,7 +43,7 @@
   {
     "jaText": "（走者・滝澤）二塁盗塁失敗",
     "text": "Takizawa caught stealing 2nd base.",
-    "countsAsStealAttempt": true
+    "countsAsStealAttempt": false
   },
   {
     "jaText": "（走者・源田）二塁盗塁成功",
