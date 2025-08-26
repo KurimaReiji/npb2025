@@ -1,0 +1,47 @@
+[
+  {
+    "jaText": "（走者・桑原）二塁盗塁成功",
+    "text": "Kuwahara steals 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・三森）二塁盗塁失敗",
+    "text": "Mimori caught stealing 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・内山）二塁盗塁成功",
+    "text": "Uchiyama steals 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・浅野）二塁盗塁成功",
+    "text": "Asano steals 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・万波）二塁盗塁失敗",
+    "text": "Mannami caught stealing 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・長谷川）二塁盗塁成功",
+    "text": "Hasegawa steals 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・藤原）二塁盗塁成功",
+    "text": "Fujiwara steals 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・髙部）二塁盗塁成功",
+    "text": "Takabe steals 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・麦谷）二塁盗塁失敗",
+    "text": "Mugitani caught stealing 2nd base.",
+    "countsAsStealAttempt": true
+  }
+]
