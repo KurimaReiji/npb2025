@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta property="og:url" content="https://kurimareiji.github.io/npb2025/baserunning-grid.html" />
+  <meta property="og:title" content="2025 NPB Baserunning Grid" />
+  <meta property="og:image" content="https://kurimareiji.github.io/nbb2025/og.png" />
+  <meta property="og:description"
+    content="This dataset covers baserunning in NPB, including stolen bases and pickoff attempts. Player-specific filtering is available, and links to relevant videos are included. NPBの走塁に関するデータ、盗塁やけん制のデータをまとめました。選手名で絞り込んだりできます。動画へのリンクもあります。" />
+  <meta content="summary_large_image" name="twitter:card">
+  <meta name="twitter:image" content="https://kurimareiji.github.io/npb2025/og.png">
+  <title>Grid</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Noto+Sans&family=Noto+Sans+Mono&display=swap');
+  </style>
+  <style>
+    body {
+      margin: 0;
+      display: grid;
+      height: 100svh;
+      grid-template-rows: auto 1fr;
+    }
+
+    baserunning-grid {
+      display: block;
+      overflow-y: auto;
+    }
+  </style>
+</head>
+
+<body>
+  <npb-header></npb-header>
+  <baserunning-grid></baserunning-grid>
+  <script type="module" src="js/npb2025-header.js"></script>
+  <script type="module" src="js/baserunning-grid.js"></script>
+</body>
+
+</html>
