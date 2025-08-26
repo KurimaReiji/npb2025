@@ -17,7 +17,7 @@
   {
     "jaText": "（走者・浅野）二塁盗塁成功",
     "text": "Asano steals 2nd base.",
-    "countsAsStealAttempt": true
+    "countsAsStealAttempt": false
   },
   {
     "jaText": "（走者・万波）二塁盗塁失敗",
