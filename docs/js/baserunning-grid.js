@@ -335,7 +335,6 @@ function mergeLocalData(data) {
     cur.movies.forEach((c) => {
       if (isEquivalentMovie({ eventId: cur.eventId, movie: { url: c.url } }, movieObj)) {
         movieObj.isPublic = true;
-        debugger
       }
     });
     cur.movies.push(movieObj.movie);
