@@ -684,3 +684,6 @@
 {"date":"2025-08-27","venue":"Akita","road":{"team":"Hawks","runs":3,"starter":"R"},"home":{"team":"Eagles","runs":1,"starter":"L"},"firstRun":"Hawks","isWalkOff":false,"isExtraInnings":false,"hadComeback":false}
 {"date":"2025-08-27","venue":"Belluna Dome","road":{"team":"Fighters","runs":2,"starter":"L"},"home":{"team":"Lions","runs":3,"starter":"R"},"firstRun":"Fighters","isWalkOff":false,"isExtraInnings":false,"hadComeback":true}
 {"date":"2025-08-27","venue":"Hotto Kobe","road":{"team":"Marines","runs":6,"starter":"R"},"home":{"team":"Buffaloes","runs":1,"starter":"R"},"firstRun":"Marines","isWalkOff":false,"isExtraInnings":false,"hadComeback":false}
+{"date":"2025-08-28","venue":"Yokohama","road":{"team":"Tigers","runs":4,"starter":"L"},"home":{"team":"Baystars","runs":5,"starter":"R"},"firstRun":"Tigers","isWalkOff":false,"isExtraInnings":false,"hadComeback":true}
+{"date":"2025-08-28","venue":"Vantelin Dome","road":{"team":"Swallows","runs":3,"starter":"R"},"home":{"team":"Dragons","runs":4,"starter":"R"},"firstRun":"Swallows","isWalkOff":false,"isExtraInnings":false,"hadComeback":true}
+{"date":"2025-08-28","venue":"Mazda Stadium","road":{"team":"Giants","runs":3,"starter":"R"},"home":{"team":"Carp","runs":8,"starter":"L"},"firstRun":"Carp","isWalkOff":false,"isExtraInnings":false,"hadComeback":true}

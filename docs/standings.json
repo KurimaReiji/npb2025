@@ -4,25 +4,25 @@
       "standingsType": "regular season",
       "season": "2025",
       "league": "Central League",
-      "lastUpdated": "2025-08-27",
+      "lastUpdated": "2025-08-28",
       "teamRecords": [
         {
           "teamName": "Tigers",
           "league": "Central",
           "wins": 71,
-          "losses": 42,
+          "losses": 43,
           "ties": 3,
-          "pct": ".628",
+          "pct": ".623",
           "overall": {
-            "gamesPlayed": 116,
+            "gamesPlayed": 117,
             "wins": 71,
-            "losses": 42,
+            "losses": 43,
             "ties": 3,
-            "runsScored": 396,
-            "runsAllowed": 266,
-            "runDifferential": 130,
-            "wlt": "WWLLTLWWWLLWLWWLLWWWWWWLLLLWWLWWLWWTLLWWWLLWLWWWLWWWWLWWWWLLLLLLLWWLWLLWWWWWWWWWWWLWWLLWWLWWWWLWWLWWLLWWLWLWWWLWTWWW",
-            "streak": "W4",
+            "runsScored": 400,
+            "runsAllowed": 271,
+            "runDifferential": 129,
+            "wlt": "WWLLTLWWWLLWLWWLLWWWWWWLLLLWWLWWLWWTLLWWWLLWLWWWLWWWWLWWWWLLLLLLLWWLWLLWWWWWWWWWWWLWWLLWWLWWWWLWWLWWLLWWLWLWWWLWTWWWL",
+            "streak": "L1",
             "splitRecords": [
               {
                 "type": "left",
@@ -33,13 +33,13 @@
               {
                 "type": "right",
                 "wins": 42,
-                "losses": 20,
+                "losses": 21,
                 "ties": 1
               },
               {
                 "type": "oneRun",
                 "wins": 20,
-                "losses": 20
+                "losses": 21
               },
               {
                 "type": "shutout",
@@ -66,13 +66,13 @@
               {
                 "type": "comeback",
                 "wins": 19,
-                "losses": 20,
+                "losses": 21,
                 "ties": 1
               },
               {
                 "type": "firstRunScored",
                 "wins": 53,
-                "losses": 19,
+                "losses": 20,
                 "ties": 1
               },
               {
@@ -84,7 +84,7 @@
               {
                 "type": "xWinLoss",
                 "wins": 76,
-                "losses": 37,
+                "losses": 38,
                 "luck": -5
               }
             ],
@@ -177,15 +177,15 @@
             }
           },
           "road": {
-            "gamesPlayed": 62,
+            "gamesPlayed": 63,
             "wins": 40,
-            "losses": 20,
+            "losses": 21,
             "ties": 2,
-            "runsScored": 229,
-            "runsAllowed": 143,
-            "runDifferential": 86,
-            "wlt": "WWLWWWWWWWWLLLWWLTLWLWWWWWLWLLLLLLLWWWWWWWWWWLWWLWWLLWLWWWTWWW",
-            "streak": "W6",
+            "runsScored": 233,
+            "runsAllowed": 148,
+            "runDifferential": 85,
+            "wlt": "WWLWWWWWWWWLLLWWLTLWLWWWWWLWLLLLLLLWWWWWWWWWWLWWLWWLLWLWWWTWWWL",
+            "streak": "L1",
             "splitRecords": [
               {
                 "type": "left",
@@ -196,13 +196,13 @@
               {
                 "type": "right",
                 "wins": 25,
-                "losses": 9,
+                "losses": 10,
                 "ties": 0
               },
               {
                 "type": "oneRun",
                 "wins": 10,
-                "losses": 12
+                "losses": 13
               },
               {
                 "type": "shutout",
@@ -229,13 +229,13 @@
               {
                 "type": "comeback",
                 "wins": 11,
-                "losses": 11,
+                "losses": 12,
                 "ties": 0
               },
               {
                 "type": "firstRunScored",
                 "wins": 30,
-                "losses": 11,
+                "losses": 12,
                 "ties": 1
               },
               {
@@ -247,7 +247,7 @@
               {
                 "type": "xWinLoss",
                 "wins": 42,
-                "losses": 18,
+                "losses": 19,
                 "luck": -2
               }
             ],
@@ -257,30 +257,30 @@
               "ties": 1
             }
           },
-          "lastUpdated": "2025-08-27"
+          "lastUpdated": "2025-08-28"
         },
         {
           "teamName": "Giants",
           "league": "Central",
           "wins": 56,
-          "losses": 57,
+          "losses": 58,
           "ties": 3,
-          "pct": ".496",
+          "pct": ".491",
           "overall": {
-            "gamesPlayed": 116,
+            "gamesPlayed": 117,
             "wins": 56,
-            "losses": 57,
+            "losses": 58,
             "ties": 3,
-            "runsScored": 359,
-            "runsAllowed": 343,
-            "runDifferential": 16,
-            "wlt": "WWWLWWLLLTWLLLWWLWWLWWLLWWWWLWLLWLWLLLLWWLLWWWWWLWWLLLLLWWLWTLLLLWLWWLLWWWLLLWTLWLWWLLLLWWWLWLLLWWWLWWLWLWLLWLWWWLLL",
-            "streak": "L3",
+            "runsScored": 362,
+            "runsAllowed": 351,
+            "runDifferential": 11,
+            "wlt": "WWWLWWLLLTWLLLWWLWWLWWLLWWWWLWLLWLWLLLLWWLLWWWWWLWWLLLLLWWLWTLLLLWLWWLLWWWLLLWTLWLWWLLLLWWWLWLLLWWWLWWLWLWLLWLWWWLLLL",
+            "streak": "L4",
             "splitRecords": [
               {
                 "type": "left",
                 "wins": 23,
-                "losses": 23,
+                "losses": 24,
                 "ties": 2
               },
               {
@@ -319,7 +319,7 @@
               {
                 "type": "comeback",
                 "wins": 20,
-                "losses": 22,
+                "losses": 23,
                 "ties": 0
               },
               {
@@ -331,13 +331,13 @@
               {
                 "type": "firstRunAllowed",
                 "wins": 17,
-                "losses": 38,
+                "losses": 39,
                 "ties": 2
               },
               {
                 "type": "xWinLoss",
                 "wins": 59,
-                "losses": 54,
+                "losses": 55,
                 "luck": -3
               }
             ],
@@ -430,20 +430,20 @@
             }
           },
           "road": {
-            "gamesPlayed": 56,
+            "gamesPlayed": 57,
             "wins": 21,
-            "losses": 33,
+            "losses": 34,
             "ties": 2,
-            "runsScored": 177,
-            "runsAllowed": 188,
-            "runDifferential": -11,
-            "wlt": "LWWTWLLLWWLLLWLWLWLLLLLWWWLLLLLWTLLLLLLLWWLLWWLWLWWWLWLL",
-            "streak": "L2",
+            "runsScored": 180,
+            "runsAllowed": 196,
+            "runDifferential": -16,
+            "wlt": "LWWTWLLLWWLLLWLWLWLLLLLWWWLLLLLWTLLLLLLLWWLLWWLWLWWWLWLLL",
+            "streak": "L3",
             "splitRecords": [
               {
                 "type": "left",
                 "wins": 10,
-                "losses": 13,
+                "losses": 14,
                 "ties": 1
               },
               {
@@ -482,7 +482,7 @@
               {
                 "type": "comeback",
                 "wins": 7,
-                "losses": 15,
+                "losses": 16,
                 "ties": 0
               },
               {
@@ -494,14 +494,14 @@
               {
                 "type": "firstRunAllowed",
                 "wins": 6,
-                "losses": 20,
+                "losses": 21,
                 "ties": 2
               },
               {
                 "type": "xWinLoss",
-                "wins": 26,
-                "losses": 28,
-                "luck": -5
+                "wins": 25,
+                "losses": 30,
+                "luck": -4
               }
             ],
             "lastTen": {
@@ -510,29 +510,29 @@
               "ties": 0
             }
           },
-          "lastUpdated": "2025-08-27"
+          "lastUpdated": "2025-08-28"
         },
         {
           "teamName": "Baystars",
           "league": "Central",
-          "wins": 52,
+          "wins": 53,
           "losses": 58,
           "ties": 5,
-          "pct": ".473",
+          "pct": ".477",
           "overall": {
-            "gamesPlayed": 115,
-            "wins": 52,
+            "gamesPlayed": 116,
+            "wins": 53,
             "losses": 58,
             "ties": 5,
-            "runsScored": 372,
-            "runsAllowed": 363,
-            "runDifferential": 9,
-            "wlt": "WLWWTWLLLTLWLLWLLLLLWWWWLWWLWWLWLWTWWLWWLWWLLLWWWWWLWWLWLWLLLLLWLLWLLLLWWWLLLWTLLWWLTLWWLLLLWWWLWLWLLLLWWWWLWLLLWLL",
-            "streak": "L2",
+            "runsScored": 377,
+            "runsAllowed": 367,
+            "runDifferential": 10,
+            "wlt": "WLWWTWLLLTLWLLWLLLLLWWWWLWWLWWLWLWTWWLWWLWWLLLWWWWWLWWLWLWLLLLLWLLWLLLLWWWLLLWTLLWWLTLWWLLLLWWWLWLWLLLLWWWWLWLLLWLLW",
+            "streak": "W1",
             "splitRecords": [
               {
                 "type": "left",
-                "wins": 21,
+                "wins": 22,
                 "losses": 27,
                 "ties": 2
               },
@@ -544,7 +544,7 @@
               },
               {
                 "type": "oneRun",
-                "wins": 20,
+                "wins": 21,
                 "losses": 22
               },
               {
@@ -571,7 +571,7 @@
               },
               {
                 "type": "comeback",
-                "wins": 20,
+                "wins": 21,
                 "losses": 14,
                 "ties": 2
               },
@@ -583,13 +583,13 @@
               },
               {
                 "type": "firstRunAllowed",
-                "wins": 15,
+                "wins": 16,
                 "losses": 46,
                 "ties": 2
               },
               {
                 "type": "xWinLoss",
-                "wins": 56,
+                "wins": 57,
                 "losses": 54,
                 "luck": -4
               }
@@ -599,22 +599,22 @@
               "losses": 6,
               "ties": 0
             },
-            "gamesBack": "17.5"
+            "gamesBack": "16.5"
           },
           "home": {
-            "gamesPlayed": 56,
-            "wins": 27,
+            "gamesPlayed": 57,
+            "wins": 28,
             "losses": 27,
             "ties": 2,
-            "runsScored": 184,
-            "runsAllowed": 182,
-            "runDifferential": 2,
-            "wlt": "WLWTLWLLLWWWWLWLWTWWLWWWWWLWLWLLWLWWWLLLLLWLLWWLWLLLWLLL",
-            "streak": "L3",
+            "runsScored": 189,
+            "runsAllowed": 186,
+            "runDifferential": 3,
+            "wlt": "WLWTLWLLLWWWWLWLWTWWLWWWWWLWLWLLWLWWWLLLLLWLLWWLWLLLWLLLW",
+            "streak": "W1",
             "splitRecords": [
               {
                 "type": "left",
-                "wins": 11,
+                "wins": 12,
                 "losses": 12,
                 "ties": 1
               },
@@ -626,7 +626,7 @@
               },
               {
                 "type": "oneRun",
-                "wins": 14,
+                "wins": 15,
                 "losses": 10
               },
               {
@@ -653,7 +653,7 @@
               },
               {
                 "type": "comeback",
-                "wins": 10,
+                "wins": 11,
                 "losses": 7,
                 "ties": 0
               },
@@ -665,13 +665,13 @@
               },
               {
                 "type": "firstRunAllowed",
-                "wins": 7,
+                "wins": 8,
                 "losses": 20,
                 "ties": 0
               },
               {
                 "type": "xWinLoss",
-                "wins": 27,
+                "wins": 28,
                 "losses": 27,
                 "luck": 0
               }
@@ -763,25 +763,25 @@
               "ties": 0
             }
           },
-          "lastUpdated": "2025-08-27"
+          "lastUpdated": "2025-08-28"
         },
         {
           "teamName": "Carp",
           "league": "Central",
-          "wins": 51,
+          "wins": 52,
           "losses": 59,
           "ties": 5,
-          "pct": ".464",
+          "pct": ".468",
           "overall": {
-            "gamesPlayed": 115,
-            "wins": 51,
+            "gamesPlayed": 116,
+            "wins": 52,
             "losses": 59,
             "ties": 5,
-            "runsScored": 355,
-            "runsAllowed": 375,
-            "runDifferential": -20,
-            "wlt": "LLWLLWWWTLWWWWWLWWLWLLLLLLLWWWWLWLWWWWLLWTLWWLLLLWLLWWWLWLWLLLWLLWWLWWTWLLTWLLLLLLLWTLLLLLLLWWLWLWLWLWWLLWLWLWLLWWW",
-            "streak": "W3",
+            "runsScored": 363,
+            "runsAllowed": 378,
+            "runDifferential": -15,
+            "wlt": "LLWLLWWWTLWWWWWLWWLWLLLLLLLWWWWLWLWWWWLLWTLWWLLLLWLLWWWLWLWLLLWLLWWLWWTWLLTWLLLLLLLWTLLLLLLLWWLWLWLWLWWLLWLWLWLLWWWW",
+            "streak": "W4",
             "splitRecords": [
               {
                 "type": "left",
@@ -791,7 +791,7 @@
               },
               {
                 "type": "right",
-                "wins": 26,
+                "wins": 27,
                 "losses": 32,
                 "ties": 2
               },
@@ -824,13 +824,13 @@
               },
               {
                 "type": "comeback",
-                "wins": 21,
+                "wins": 22,
                 "losses": 21,
                 "ties": 0
               },
               {
                 "type": "firstRunScored",
-                "wins": 32,
+                "wins": 33,
                 "losses": 15,
                 "ties": 1
               },
@@ -842,7 +842,7 @@
               },
               {
                 "type": "xWinLoss",
-                "wins": 52,
+                "wins": 53,
                 "losses": 58,
                 "luck": -1
               }
@@ -852,18 +852,18 @@
               "losses": 4,
               "ties": 0
             },
-            "gamesBack": "18.5"
+            "gamesBack": "17.5"
           },
           "home": {
-            "gamesPlayed": 58,
-            "wins": 31,
+            "gamesPlayed": 59,
+            "wins": 32,
             "losses": 24,
             "ties": 3,
-            "runsScored": 197,
-            "runsAllowed": 182,
-            "runDifferential": 15,
-            "wlt": "LLWWWWWWWWLWLWWWWWWTLWLLLWWWLWLLWWTWLLLLLWTLLWLWWLLWLLLWWW",
-            "streak": "W3",
+            "runsScored": 205,
+            "runsAllowed": 185,
+            "runDifferential": 20,
+            "wlt": "LLWWWWWWWWLWLWWWWWWTLWLLLWWWLWLLWWTWLLLLLWTLLWLWWLLWLLLWWWW",
+            "streak": "W4",
             "splitRecords": [
               {
                 "type": "left",
@@ -873,7 +873,7 @@
               },
               {
                 "type": "right",
-                "wins": 14,
+                "wins": 15,
                 "losses": 14,
                 "ties": 2
               },
@@ -906,13 +906,13 @@
               },
               {
                 "type": "comeback",
-                "wins": 13,
+                "wins": 14,
                 "losses": 7,
                 "ties": 0
               },
               {
                 "type": "firstRunScored",
-                "wins": 19,
+                "wins": 20,
                 "losses": 6,
                 "ties": 1
               },
@@ -924,9 +924,9 @@
               },
               {
                 "type": "xWinLoss",
-                "wins": 29,
-                "losses": 26,
-                "luck": 2
+                "wins": 31,
+                "losses": 25,
+                "luck": 1
               }
             ],
             "lastTen": {
@@ -1016,25 +1016,25 @@
               "ties": 0
             }
           },
-          "lastUpdated": "2025-08-27"
+          "lastUpdated": "2025-08-28"
         },
         {
           "teamName": "Dragons",
           "league": "Central",
-          "wins": 51,
+          "wins": 52,
           "losses": 62,
           "ties": 2,
-          "pct": ".451",
+          "pct": ".456",
           "overall": {
-            "gamesPlayed": 115,
-            "wins": 51,
+            "gamesPlayed": 116,
+            "wins": 52,
             "losses": 62,
             "ties": 2,
-            "runsScored": 312,
-            "runsAllowed": 350,
-            "runDifferential": -38,
-            "wlt": "LWLWLLTLWTWLLWLWWWLLLWLWWWWLLLLWLLWWLLWLWLLWLLWWLWWLLLWWWWWLWLLLWLLLWWLLLLLWLLLWWWWWWWLLLLWLWLWLLLWLWLWLWLLLLWWWLLW",
-            "streak": "W1",
+            "runsScored": 316,
+            "runsAllowed": 353,
+            "runDifferential": -37,
+            "wlt": "LWLWLLTLWTWLLWLWWWLLLWLWWWWLLLLWLLWWLLWLWLLWLLWWLWWLLLWWWWWLWLLLWLLLWWLLLLLWLLLWWWWWWWLLLLWLWLWLLLWLWLWLWLLLLWWWLLWW",
+            "streak": "W2",
             "splitRecords": [
               {
                 "type": "left",
@@ -1044,13 +1044,13 @@
               },
               {
                 "type": "right",
-                "wins": 36,
+                "wins": 37,
                 "losses": 37,
                 "ties": 2
               },
               {
                 "type": "oneRun",
-                "wins": 23,
+                "wins": 24,
                 "losses": 27
               },
               {
@@ -1077,7 +1077,7 @@
               },
               {
                 "type": "comeback",
-                "wins": 20,
+                "wins": 21,
                 "losses": 24,
                 "ties": 0
               },
@@ -1089,34 +1089,34 @@
               },
               {
                 "type": "firstRunAllowed",
-                "wins": 15,
+                "wins": 16,
                 "losses": 43,
                 "ties": 0
               },
               {
                 "type": "xWinLoss",
                 "wins": 51,
-                "losses": 62,
-                "luck": 0
+                "losses": 63,
+                "luck": 1
               }
             ],
             "lastTen": {
-              "wins": 4,
-              "losses": 6,
+              "wins": 5,
+              "losses": 5,
               "ties": 0
             },
-            "gamesBack": "20.0"
+            "gamesBack": "19.0"
           },
           "home": {
-            "gamesPlayed": 60,
-            "wins": 30,
+            "gamesPlayed": 61,
+            "wins": 31,
             "losses": 29,
             "ties": 1,
-            "runsScored": 173,
-            "runsAllowed": 170,
-            "runDifferential": 3,
-            "wlt": "WLLTWLWWLWLWWWLLWWWLWLLWWWWWLWLLLWWLLWLLWWWWLLWLWLLWLWLLLLLW",
-            "streak": "W1",
+            "runsScored": 177,
+            "runsAllowed": 173,
+            "runDifferential": 4,
+            "wlt": "WLLTWLWWLWLWWWLLWWWLWLLWWWWWLWLLLWWLLWLLWWWWLLWLWLLWLWLLLLLWW",
+            "streak": "W2",
             "splitRecords": [
               {
                 "type": "left",
@@ -1126,13 +1126,13 @@
               },
               {
                 "type": "right",
-                "wins": 19,
+                "wins": 20,
                 "losses": 17,
                 "ties": 1
               },
               {
                 "type": "oneRun",
-                "wins": 14,
+                "wins": 15,
                 "losses": 13
               },
               {
@@ -1159,7 +1159,7 @@
               },
               {
                 "type": "comeback",
-                "wins": 11,
+                "wins": 12,
                 "losses": 14,
                 "ties": 0
               },
@@ -1171,20 +1171,20 @@
               },
               {
                 "type": "firstRunAllowed",
-                "wins": 8,
+                "wins": 9,
                 "losses": 18,
                 "ties": 0
               },
               {
                 "type": "xWinLoss",
-                "wins": 30,
+                "wins": 31,
                 "losses": 29,
                 "luck": 0
               }
             ],
             "lastTen": {
-              "wins": 3,
-              "losses": 7,
+              "wins": 4,
+              "losses": 6,
               "ties": 0
             }
           },
@@ -1269,25 +1269,25 @@
               "ties": 0
             }
           },
-          "lastUpdated": "2025-08-27"
+          "lastUpdated": "2025-08-28"
         },
         {
           "teamName": "Swallows",
           "league": "Central",
           "wins": 41,
-          "losses": 64,
+          "losses": 65,
           "ties": 6,
-          "pct": ".390",
+          "pct": ".387",
           "overall": {
-            "gamesPlayed": 111,
+            "gamesPlayed": 112,
             "wins": 41,
-            "losses": 64,
+            "losses": 65,
             "ties": 6,
-            "runsScored": 309,
-            "runsAllowed": 443,
-            "runDifferential": -134,
-            "wlt": "LLLWWTWLWWLLLLLWLWLWLWLLLWLLWLWLLLWLLTLLLWLLLLLLLWWLWLLLLWLTLLLWLWLLTLWLWWLTWLLWWWWWWWWLLLWLLWWLLWWLWLWLWLLTLWL",
-            "streak": "L1",
+            "runsScored": 312,
+            "runsAllowed": 447,
+            "runDifferential": -135,
+            "wlt": "LLLWWTWLWWLLLLLWLWLWLWLLLWLLWLWLLLWLLTLLLWLLLLLLLWWLWLLLLWLTLLLWLWLLTLWLWWLTWLLWWWWWWWWLLLWLLWWLLWWLWLWLWLLTLWLL",
+            "streak": "L2",
             "splitRecords": [
               {
                 "type": "left",
@@ -1298,13 +1298,13 @@
               {
                 "type": "right",
                 "wins": 22,
-                "losses": 40,
+                "losses": 41,
                 "ties": 4
               },
               {
                 "type": "oneRun",
                 "wins": 17,
-                "losses": 14
+                "losses": 15
               },
               {
                 "type": "shutout",
@@ -1331,13 +1331,13 @@
               {
                 "type": "comeback",
                 "wins": 19,
-                "losses": 19,
+                "losses": 20,
                 "ties": 2
               },
               {
                 "type": "firstRunScored",
                 "wins": 26,
-                "losses": 15,
+                "losses": 16,
                 "ties": 3
               },
               {
@@ -1349,7 +1349,7 @@
               {
                 "type": "xWinLoss",
                 "wins": 36,
-                "losses": 69,
+                "losses": 70,
                 "luck": 5
               }
             ],
@@ -1442,15 +1442,15 @@
             }
           },
           "road": {
-            "gamesPlayed": 55,
+            "gamesPlayed": 56,
             "wins": 18,
-            "losses": 35,
+            "losses": 36,
             "ties": 2,
-            "runsScored": 140,
-            "runsAllowed": 205,
-            "runDifferential": -65,
-            "wlt": "LLLWWLLWLWLLWLLLTLLLLLLLLWLLLLWLTLWLWWWLLWWLLLWWLLWLWWL",
-            "streak": "L1",
+            "runsScored": 143,
+            "runsAllowed": 209,
+            "runDifferential": -66,
+            "wlt": "LLLWWLLWLWLLWLLLTLLLLLLLLWLLLLWLTLWLWWWLLWWLLLWWLLWLWWLL",
+            "streak": "L2",
             "splitRecords": [
               {
                 "type": "left",
@@ -1461,13 +1461,13 @@
               {
                 "type": "right",
                 "wins": 9,
-                "losses": 23,
+                "losses": 24,
                 "ties": 1
               },
               {
                 "type": "oneRun",
                 "wins": 5,
-                "losses": 11
+                "losses": 12
               },
               {
                 "type": "shutout",
@@ -1494,13 +1494,13 @@
               {
                 "type": "comeback",
                 "wins": 8,
-                "losses": 12,
+                "losses": 13,
                 "ties": 0
               },
               {
                 "type": "firstRunScored",
                 "wins": 11,
-                "losses": 10,
+                "losses": 11,
                 "ties": 2
               },
               {
@@ -1512,7 +1512,7 @@
               {
                 "type": "xWinLoss",
                 "wins": 18,
-                "losses": 35,
+                "losses": 36,
                 "luck": 0
               }
             ],
@@ -1522,7 +1522,7 @@
               "ties": 0
             }
           },
-          "lastUpdated": "2025-08-27"
+          "lastUpdated": "2025-08-28"
         }
       ]
     },
