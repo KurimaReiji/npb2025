@@ -355,7 +355,6 @@ function createRow(cur, root) {
       const ul = document.createElement('ul');
       const lis = cur.movies.map((m) => {
         const li = document.createElement('li');
-        debugger
         const anchor = createAnchor(m.url, m.title ?? m.url);
         li.replaceChildren(anchor);
         return li;
