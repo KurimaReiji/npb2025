@@ -2,7 +2,7 @@
   {
     "jaText": "（走者・羽月）二塁盗塁成功",
     "text": "Hatsuki steals 2nd base.",
-    "countsAsStealAttempt": true
+    "countsAsStealAttempt": false
   },
   {
     "jaText": "（走者・山本）二塁盗塁成功",
@@ -18,20 +18,7 @@
     "jaText": "（走者・三森）二塁盗塁成功",
     "text": "Mimori steals 2nd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
-        "id": "21125150",
-        "jaBoxscoreName": "石伊",
-        "jaRegisteredName": "石伊　雄太",
-        "fullLFMName": "Ishii, Yuta",
-        "primaryNumber": "9",
-        "teamCode": "D",
-        "boxscoreName": "Ishii",
-        "pitchHand": "R",
-        "batSide": "R"
-      },
-      {
+    "catcher": {
         "id": "41545130",
         "jaBoxscoreName": "加藤匠",
         "jaRegisteredName": "加藤　匠馬",
@@ -42,7 +29,6 @@
         "pitchHand": "R",
         "batSide": "R"
       }
-    ]
   },
   {
     "jaText": "（走者・熊谷）二塁盗塁失敗",
