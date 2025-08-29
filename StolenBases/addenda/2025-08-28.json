@@ -2,7 +2,7 @@
   {
     "jaText": "（走者・梅野）本塁盗塁失敗",
     "text": "Umeno caught stealing home plate.",
-    "countsAsStealAttempt": true
+    "countsAsStealAttempt": false
   },
   {
     "jaText": "（走者・中野）二塁盗塁成功",
