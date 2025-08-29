@@ -93889,7 +93889,11 @@
     "url": "https://npb.jp/scores/2025/0829/t-g-22/playbyplay.html#com2-2",
     "countsAsStealAttempt": true,
     "eventId": "81585136-2025-007",
-    "movies": []
+    "movies": [
+      {
+        "url": "https://youtu.be/RZlZsQ5aVXk?si=zGTURQRu2tNUcBZ7&t=41"
+      }
+    ]
   },
   {
     "date": "2025-08-29",
@@ -94213,6 +94217,10 @@
     "url": "https://npb.jp/scores/2025/0829/m-h-21/playbyplay.html#com8-2",
     "countsAsStealAttempt": true,
     "eventId": "11215151-2025-020",
-    "movies": []
+    "movies": [
+      {
+        "url": "https://youtu.be/YjZg-NagqBY?si=Kqk9d9iQyHiu3_XY&t=209"
+      }
+    ]
   }
 ]
