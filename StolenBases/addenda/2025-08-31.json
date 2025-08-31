@@ -18,9 +18,7 @@
     "jaText": "（走者・五十幡）二塁盗塁成功",
     "text": "Isobata steals 2nd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
+    "catcher": {
         "id": "71375138",
         "jaBoxscoreName": "太田",
         "jaRegisteredName": "太田　光",
@@ -30,19 +28,7 @@
         "boxscoreName": "Ohta",
         "pitchHand": "R",
         "batSide": "R"
-      },
-      {
-        "id": "11815132",
-        "jaBoxscoreName": "堀内",
-        "jaRegisteredName": "堀内　謙伍",
-        "fullLFMName": "Horiuchi, Kengo",
-        "primaryNumber": "65",
-        "teamCode": "E",
-        "boxscoreName": "Horiuchi",
-        "pitchHand": "R",
-        "batSide": "L"
       }
-    ]
   },
   {
     "jaText": "（走者・小森）一塁牽制アウト",
@@ -58,9 +44,7 @@
     "jaText": "（走者・松本剛）二塁盗塁失敗",
     "text": "G.Matsumoto caught stealing 2nd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
+    "catcher": {
         "id": "71375138",
         "jaBoxscoreName": "太田",
         "jaRegisteredName": "太田　光",
@@ -70,38 +54,13 @@
         "boxscoreName": "Ohta",
         "pitchHand": "R",
         "batSide": "R"
-      },
-      {
-        "id": "11815132",
-        "jaBoxscoreName": "堀内",
-        "jaRegisteredName": "堀内　謙伍",
-        "fullLFMName": "Horiuchi, Kengo",
-        "primaryNumber": "65",
-        "teamCode": "E",
-        "boxscoreName": "Horiuchi",
-        "pitchHand": "R",
-        "batSide": "L"
       }
-    ]
   },
   {
     "jaText": "（走者・水野）二塁盗塁成功",
     "text": "Mizuno steals 2nd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
-        "id": "71375138",
-        "jaBoxscoreName": "太田",
-        "jaRegisteredName": "太田　光",
-        "fullLFMName": "Ohta, Hikaru",
-        "primaryNumber": "2",
-        "teamCode": "E",
-        "boxscoreName": "Ohta",
-        "pitchHand": "R",
-        "batSide": "R"
-      },
-      {
+    "catcher": {
         "id": "11815132",
         "jaBoxscoreName": "堀内",
         "jaRegisteredName": "堀内　謙伍",
@@ -112,7 +71,6 @@
         "pitchHand": "R",
         "batSide": "L"
       }
-    ]
   },
   {
     "jaText": "（走者・廣岡）二塁盗塁成功",
