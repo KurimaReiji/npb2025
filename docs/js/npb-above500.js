@@ -382,7 +382,7 @@ function loadData() {
     const yMax = Math.max(...series.map(({ max }) => max));
     const xMax = Math.max(...series.map(({ history }) => history.length));
     return {
-      league, series, yDomain: [yMax + 2, yMin - 2], xDomain: [0, Math.min(xMax + 1, 143)],
+      league, series, yDomain: [yMax + 2, yMin - 2], xDomain: [0, 143],
     }
   });
   return data;
