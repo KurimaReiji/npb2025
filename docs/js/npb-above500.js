@@ -574,7 +574,7 @@ function updateTics({ svg, xDomain, yDomain, to_vx, to_vy }) {
 
 function updateAxis({ svg, axis, to_vx, to_vy }) {
   const d_axis_x = `M ${to_vx(axis.x[0][0])} ${to_vy(axis.x[0][1])} L ${to_vx(axis.x[1][0])} ${to_vy(axis.x[1][1])}`;
-  const d_axis_y = `M ${to_vx(axis.y[0][0])} ${to_vy(axis.y[0][1])} L ${to_vx(axis.y[1][0])} ${to_vy(axis.y[1][1])}`;
+  const d_axis_y = `M ${to_vx(axis.y[0][0])} ${to_vy(axis.y[0][1])} L ${to_vx(axis.y[1][0])} ${to_vy(axis.y[1][1])} M ${to_vx(axis.x[1][0])} ${to_vy(axis.y[0][1])} L ${to_vx(axis.x[1][0])} ${to_vy(axis.y[1][1])}`;
   svg.getElementById("x-axis").setAttribute("d", d_axis_x);
   svg.getElementById("y-axis").setAttribute("d", d_axis_y);
 }
