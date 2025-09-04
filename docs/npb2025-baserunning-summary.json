@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-03",
+  "updated": "2025-09-04",
   "catchers": [
     {
       "att": 78,
@@ -62,7 +62,7 @@
       "pickoff": {
         "pickoff": 2,
         "sb": 3,
-        "cs": 0,
+        "cs": 1,
         "ds": 0,
         "ts": 0
       },
@@ -320,7 +320,7 @@
       "ds": 0,
       "ts": 0,
       "pickoff": {
-        "pickoff": 1,
+        "pickoff": 2,
         "sb": 0,
         "cs": 2,
         "ds": 0,
@@ -4658,6 +4658,32 @@
       "rate": "1.000"
     },
     {
+      "att": 1,
+      "sb": 0,
+      "cs": 1,
+      "ds": 0,
+      "ts": 0,
+      "pickoff": {
+        "pickoff": 0,
+        "sb": 0,
+        "cs": 1,
+        "ds": 0,
+        "ts": 0
+      },
+      "pitcher": {
+        "id": "41045159",
+        "jaBoxscoreName": "髙",
+        "jaRegisteredName": "髙　太一",
+        "fullLFMName": "Taka, Taichi",
+        "primaryNumber": "22",
+        "teamCode": "C",
+        "boxscoreName": "Taka",
+        "pitchHand": "L",
+        "batSide": "L"
+      },
+      "rate": "1.000"
+    },
+    {
       "att": 2,
       "sb": 0,
       "cs": 2,
@@ -5236,7 +5262,7 @@
       "ds": 0,
       "ts": 0,
       "pickoff": {
-        "pickoff": 0,
+        "pickoff": 1,
         "sb": 0,
         "cs": 0,
         "ds": 0,
@@ -6266,32 +6292,6 @@
         "boxscoreName": "Kawaguchi",
         "pitchHand": "R",
         "batSide": "R"
-      },
-      "rate": "1.000"
-    },
-    {
-      "att": 1,
-      "sb": 0,
-      "cs": 1,
-      "ds": 0,
-      "ts": 0,
-      "pickoff": {
-        "pickoff": 0,
-        "sb": 0,
-        "cs": 0,
-        "ds": 0,
-        "ts": 0
-      },
-      "pitcher": {
-        "id": "41045159",
-        "jaBoxscoreName": "髙",
-        "jaRegisteredName": "髙　太一",
-        "fullLFMName": "Taka, Taichi",
-        "primaryNumber": "22",
-        "teamCode": "C",
-        "boxscoreName": "Taka",
-        "pitchHand": "L",
-        "batSide": "L"
       },
       "rate": "1.000"
     },
@@ -10828,7 +10828,7 @@
       "ds": 0,
       "ts": 0,
       "pickoff": {
-        "pickoff": 0,
+        "pickoff": 1,
         "sb": 0,
         "cs": 0,
         "ds": 0,
@@ -13116,6 +13116,32 @@
       "ds": 0,
       "ts": 0,
       "pickoff": {
+        "pickoff": 0,
+        "sb": 0,
+        "cs": 1,
+        "ds": 0,
+        "ts": 0
+      },
+      "runner": {
+        "id": "91095138",
+        "jaBoxscoreName": "知野",
+        "jaRegisteredName": "知野　直人",
+        "fullLFMName": "Chino, Naoto",
+        "primaryNumber": "60",
+        "teamCode": "DB",
+        "boxscoreName": "Chino",
+        "pitchHand": "R",
+        "batSide": "R"
+      },
+      "rate": ".000"
+    },
+    {
+      "att": 0,
+      "sb": 0,
+      "cs": 0,
+      "ds": 0,
+      "ts": 0,
+      "pickoff": {
         "pickoff": 1,
         "sb": 0,
         "cs": 0,
@@ -13322,7 +13348,7 @@
         "ds": 0,
         "ts": 0,
         "pickoff": {
-          "pickoff": 8,
+          "pickoff": 9,
           "sb": 2,
           "cs": 6,
           "ds": 0,
@@ -13339,11 +13365,11 @@
         "pickoff": {
           "pickoff": 3,
           "sb": 0,
-          "cs": 6,
+          "cs": 7,
           "ds": 0,
           "ts": 0
         },
-        "rate": ".690"
+        "rate": ".682"
       }
     },
     {
@@ -13359,11 +13385,11 @@
         "pickoff": {
           "pickoff": 3,
           "sb": 5,
-          "cs": 4,
+          "cs": 5,
           "ds": 0,
           "ts": 0
         },
-        "rate": ".221"
+        "rate": ".229"
       },
       "offence": {
         "att": 85,
@@ -13372,7 +13398,7 @@
         "ds": 0,
         "ts": 0,
         "pickoff": {
-          "pickoff": 8,
+          "pickoff": 9,
           "sb": 3,
           "cs": 4,
           "ds": 0,
@@ -13672,14 +13698,14 @@
         "ds": 3,
         "ts": 0,
         "pickoff": {
-          "pickoff": 25,
+          "pickoff": 26,
           "sb": 10,
-          "cs": 29,
+          "cs": 30,
           "ds": 0,
           "ts": 0
         },
         "rate": ".312",
-        "teamRate": ".344"
+        "teamRate": ".345"
       },
       "offence": {
         "att": 519,
@@ -13688,13 +13714,13 @@
         "ds": 1,
         "ts": 0,
         "pickoff": {
-          "pickoff": 24,
+          "pickoff": 25,
           "sb": 11,
-          "cs": 29,
+          "cs": 30,
           "ds": 0,
           "ts": 0
         },
-        "rate": ".667"
+        "rate": ".666"
       }
     },
     {

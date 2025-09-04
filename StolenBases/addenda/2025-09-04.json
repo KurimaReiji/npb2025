@@ -7,6 +7,6 @@
   {
     "jaText": "（走者・知野）二塁盗塁失敗",
     "text": "Chino caught stealing 2nd base.",
-    "countsAsStealAttempt": true
+    "countsAsStealAttempt": false
   }
 ]
