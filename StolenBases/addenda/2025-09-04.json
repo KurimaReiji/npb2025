@@ -1,0 +1,12 @@
+[
+  {
+    "jaText": "（走者・佐々木）二塁牽制アウト",
+    "text": "Sasaki picked off at 2nd base.",
+    "countsAsStealAttempt": false
+  },
+  {
+    "jaText": "（走者・知野）二塁盗塁失敗",
+    "text": "Chino caught stealing 2nd base.",
+    "countsAsStealAttempt": true
+  }
+]

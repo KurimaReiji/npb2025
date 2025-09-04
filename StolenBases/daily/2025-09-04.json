@@ -1,0 +1,186 @@
+[
+  {
+    "date": "2025-09-04",
+    "runner": {
+      "id": "11015150",
+      "jaBoxscoreName": "佐々木",
+      "jaRegisteredName": "佐々木　泰",
+      "fullLFMName": "Sasaki, Tai",
+      "primaryNumber": "10",
+      "teamCode": "C",
+      "boxscoreName": "Sasaki",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "batter": {
+      "id": "81285136",
+      "jaBoxscoreName": "中村奨",
+      "jaRegisteredName": "中村　奨成",
+      "fullLFMName": "Nakamura, Shosei",
+      "primaryNumber": "96",
+      "teamCode": "C",
+      "boxscoreName": "S.Nakamura",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "01905139",
+      "jaBoxscoreName": "平良",
+      "jaRegisteredName": "平良　拳太郎",
+      "fullLFMName": "Taira, Kentaro",
+      "primaryNumber": "59",
+      "teamCode": "DB",
+      "boxscoreName": "Taira",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "catcher": {
+      "id": "21825157",
+      "jaBoxscoreName": "松尾",
+      "jaRegisteredName": "松尾　汐恩",
+      "fullLFMName": "Matsuo, Shion",
+      "primaryNumber": "5",
+      "teamCode": "DB",
+      "boxscoreName": "Matsuo",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "scoring": "PickedOff",
+    "base": "2B",
+    "inning": 3,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "-2-",
+    "runs": {
+      "road": 1,
+      "home": 0
+    },
+    "venue": {
+      "jaBoxscoreName": "マツダスタジアム",
+      "boxscoreName": "Mazda Stadium",
+      "jaName": "MAZDA Zoom-Zoom スタジアム広島",
+      "name": "MAZDA Zoom-Zoom Stadium Hiroshima"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "DB",
+        "teamName": "Baystars",
+        "score": 1
+      },
+      "home": {
+        "teamCode": "C",
+        "teamName": "Carp",
+        "score": 0
+      }
+    },
+    "jaText": "（走者・佐々木）二塁牽制アウト",
+    "text": "Sasaki picked off at 2nd base.",
+    "url": "https://npb.jp/scores/2025/0904/c-db-23/playbyplay.html#com3-2",
+    "catchers": [
+      {
+        "id": "21825157",
+        "jaBoxscoreName": "松尾",
+        "jaRegisteredName": "松尾　汐恩",
+        "fullLFMName": "Matsuo, Shion",
+        "primaryNumber": "5",
+        "teamCode": "DB",
+        "boxscoreName": "Matsuo",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+    ],
+    "countsAsStealAttempt": false
+  },
+  {
+    "date": "2025-09-04",
+    "runner": {
+      "id": "91095138",
+      "jaBoxscoreName": "知野",
+      "jaRegisteredName": "知野　直人",
+      "fullLFMName": "Chino, Naoto",
+      "primaryNumber": "60",
+      "teamCode": "DB",
+      "boxscoreName": "Chino",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "batter": {
+      "id": "91695157",
+      "jaBoxscoreName": "林",
+      "jaRegisteredName": "林　琢真",
+      "fullLFMName": "Hayashi, Takuma",
+      "primaryNumber": "00",
+      "teamCode": "DB",
+      "boxscoreName": "Hayashi",
+      "pitchHand": "R",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "41045159",
+      "jaBoxscoreName": "髙",
+      "jaRegisteredName": "髙　太一",
+      "fullLFMName": "Taka, Taichi",
+      "primaryNumber": "22",
+      "teamCode": "C",
+      "boxscoreName": "Taka",
+      "pitchHand": "L",
+      "batSide": "L"
+    },
+    "catcher": {
+      "id": "11915134",
+      "jaBoxscoreName": "坂倉",
+      "jaRegisteredName": "坂倉　将吾",
+      "fullLFMName": "Sakakura, Shogo",
+      "primaryNumber": "31",
+      "teamCode": "C",
+      "boxscoreName": "Sakakura",
+      "pitchHand": "R",
+      "batSide": "L"
+    },
+    "scoring": "CaughtStealing",
+    "base": "2B",
+    "inning": 5,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "1--",
+    "runs": {
+      "road": 1,
+      "home": 0
+    },
+    "venue": {
+      "jaBoxscoreName": "マツダスタジアム",
+      "boxscoreName": "Mazda Stadium",
+      "jaName": "MAZDA Zoom-Zoom スタジアム広島",
+      "name": "MAZDA Zoom-Zoom Stadium Hiroshima"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "DB",
+        "teamName": "Baystars",
+        "score": 1
+      },
+      "home": {
+        "teamCode": "C",
+        "teamName": "Carp",
+        "score": 0
+      }
+    },
+    "jaText": "（走者・知野）二塁盗塁失敗",
+    "text": "Chino caught stealing 2nd base.",
+    "url": "https://npb.jp/scores/2025/0904/c-db-23/playbyplay.html#com5-1",
+    "catchers": [
+      {
+        "id": "11915134",
+        "jaBoxscoreName": "坂倉",
+        "jaRegisteredName": "坂倉　将吾",
+        "fullLFMName": "Sakakura, Shogo",
+        "primaryNumber": "31",
+        "teamCode": "C",
+        "boxscoreName": "Sakakura",
+        "pitchHand": "R",
+        "batSide": "L"
+      }
+    ],
+    "countsAsStealAttempt": true
+  }
+]
