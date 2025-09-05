@@ -1,0 +1,57 @@
+[
+  {
+    "jaText": "（走者・門脇）二塁盗塁成功",
+    "text": "Kadowaki steals 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・近本）二塁盗塁成功",
+    "text": "Chikamoto steals 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・小川）三塁盗塁成功（ダブルスチール）",
+    "text": "Ogawa steals 3rd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・髙部）二塁盗塁成功（ダブルスチール）",
+    "text": "Takabe steals 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・滝澤）二塁盗塁成功",
+    "text": "Takizawa steals 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・山口）二塁盗塁成功",
+    "text": "Yamaguchi steals 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・清宮幸）二塁盗塁成功",
+    "text": "Kiyomiya steals 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・山縣）三塁牽制アウト",
+    "text": "Yamagata picked off at 3rd base.",
+    "countsAsStealAttempt": false
+  },
+  {
+    "jaText": "（走者・若月）二塁盗塁成功",
+    "text": "Wakatsuki steals 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・矢澤）二塁盗塁成功",
+    "text": "Yazawa steals 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・渡部）二塁盗塁成功",
+    "text": "Watanabe steals 2nd base.",
+    "countsAsStealAttempt": true
+  }
+]
