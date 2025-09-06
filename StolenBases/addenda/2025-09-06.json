@@ -1,0 +1,52 @@
+[
+  {
+    "jaText": "（走者・知野）二塁牽制アウト",
+    "text": "Chino picked off at 2nd base.",
+    "countsAsStealAttempt": false
+  },
+  {
+    "jaText": "（走者・蝦名）二塁盗塁成功",
+    "text": "Ebina steals 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・内山）二塁盗塁成功",
+    "text": "Uchiyama steals 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・三森）二塁盗塁成功",
+    "text": "Mimori steals 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・増田大）二塁盗塁失敗",
+    "text": "D.Masuda caught stealing 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・田中）二塁盗塁成功",
+    "text": "Tanaka steals 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・森下）二塁盗塁成功",
+    "text": "Morishita steals 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・外崎）二塁盗塁失敗",
+    "text": "Tonosaki caught stealing 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・西川）二塁盗塁成功",
+    "text": "Nishikawa steals 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・小森）一塁牽制アウト",
+    "text": "Komori picked off at 1st base.",
+    "countsAsStealAttempt": false
+  }
+]

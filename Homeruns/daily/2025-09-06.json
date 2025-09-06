@@ -1,0 +1,351 @@
+[
+  {
+    "id": "91495138-2025-02",
+    "date": "2025-09-06",
+    "batter": {
+      "jaBoxscoreName": "濱田",
+      "playerId": "91495138",
+      "boxscoreName": "Hamada",
+      "batSide": "R",
+      "teamCode": "S",
+      "primaryNumber": "51",
+      "jaRegisteredName": "濱田　太貴",
+      "fullLFMName": "Hamada, Taiki"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "竹田",
+      "boxscoreName": "Y.Takeda",
+      "pitchHand": "R",
+      "teamCode": "DB",
+      "primaryNumber": "12",
+      "jaRegisteredName": "竹田　祐",
+      "fullLFMName": "Takeda, Yu"
+    },
+    "number": 2,
+    "inning": 6,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 0,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 1,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "Yokohama",
+      "jaBoxscoreName": "横浜"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 3
+      },
+      "home": {
+        "teamCode": "DB",
+        "teamName": "Baystars",
+        "score": 2
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Hamada homers (2) to left field.",
+    "url": "https://npb.jp/scores/2025/0906/db-s-20/playbyplay.html#com6-1"
+  },
+  {
+    "id": "23125136-2025-03",
+    "date": "2025-09-06",
+    "batter": {
+      "jaBoxscoreName": "山本",
+      "playerId": "23125136",
+      "boxscoreName": "Yamamoto",
+      "batSide": "R",
+      "teamCode": "DB",
+      "primaryNumber": "50",
+      "jaRegisteredName": "山本　祐大",
+      "fullLFMName": "Yamamoto, Yuudai"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "山野",
+      "boxscoreName": "Yamano",
+      "pitchHand": "L",
+      "teamCode": "S",
+      "primaryNumber": "26",
+      "jaRegisteredName": "山野　太一",
+      "fullLFMName": "Yamano, Taichi"
+    },
+    "number": 3,
+    "inning": 6,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "1--",
+    "count": {
+      "balls": 0,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 3,
+      "home": 0
+    },
+    "bop": 6,
+    "rbi": 2,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "Yokohama",
+      "jaBoxscoreName": "横浜"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 3
+      },
+      "home": {
+        "teamCode": "DB",
+        "teamName": "Baystars",
+        "score": 2
+      }
+    },
+    "jaText": "レフト2ランホームラン（打点2）",
+    "text": "Yamamoto homers (3) to left field.",
+    "url": "https://npb.jp/scores/2025/0906/db-s-20/playbyplay.html#com6-2"
+  },
+  {
+    "id": "73575150-2025-15",
+    "date": "2025-09-06",
+    "batter": {
+      "jaBoxscoreName": "キャベッジ",
+      "playerId": "73575150",
+      "boxscoreName": "Cabbage",
+      "batSide": "L",
+      "teamCode": "G",
+      "primaryNumber": "13",
+      "jaRegisteredName": "Ｔ．キャベッジ",
+      "fullLFMName": "Cabbage, Trey"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "髙橋宏",
+      "boxscoreName": "H.Takahashi",
+      "pitchHand": "R",
+      "teamCode": "D",
+      "primaryNumber": "19",
+      "jaRegisteredName": "髙橋　宏斗",
+      "fullLFMName": "Takahashi, Hiroto"
+    },
+    "number": 15,
+    "inning": 3,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 1,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 0,
+      "home": 4
+    },
+    "bop": 2,
+    "rbi": 1,
+    "whereHit": "9",
+    "venue": {
+      "boxscoreName": "Vantelin Dome",
+      "jaBoxscoreName": "バンテリンドーム"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "G",
+        "teamName": "Giants",
+        "score": 5
+      },
+      "home": {
+        "teamCode": "D",
+        "teamName": "Dragons",
+        "score": 4
+      }
+    },
+    "jaText": "ライトソロホームラン（打点1）",
+    "text": "Cabbage homers (15) to right field.",
+    "url": "https://npb.jp/scores/2025/0906/d-g-21/playbyplay.html#com3-1"
+  },
+  {
+    "id": "31835134-2025-16",
+    "date": "2025-09-06",
+    "batter": {
+      "jaBoxscoreName": "細川",
+      "playerId": "31835134",
+      "boxscoreName": "Hosokawa",
+      "batSide": "R",
+      "teamCode": "D",
+      "primaryNumber": "55",
+      "jaRegisteredName": "細川　成也",
+      "fullLFMName": "Hosokawa, Seiya"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "井上",
+      "boxscoreName": "Inoue",
+      "pitchHand": "L",
+      "teamCode": "G",
+      "primaryNumber": "97",
+      "jaRegisteredName": "井上　温大",
+      "fullLFMName": "Inoue, Haruto"
+    },
+    "number": 16,
+    "inning": 1,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "1--",
+    "count": {
+      "balls": 0,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 4,
+    "rbi": 2,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "Vantelin Dome",
+      "jaBoxscoreName": "バンテリンドーム"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "G",
+        "teamName": "Giants",
+        "score": 5
+      },
+      "home": {
+        "teamCode": "D",
+        "teamName": "Dragons",
+        "score": 4
+      }
+    },
+    "jaText": "レフト2ランホームラン（打点2）",
+    "text": "Hosokawa homers (16) to left field.",
+    "url": "https://npb.jp/scores/2025/0906/d-g-21/playbyplay.html#com1-2"
+  },
+  {
+    "id": "83785150-2025-13",
+    "date": "2025-09-06",
+    "batter": {
+      "jaBoxscoreName": "ボスラー",
+      "playerId": "83785150",
+      "boxscoreName": "Vosler",
+      "batSide": "L",
+      "teamCode": "D",
+      "primaryNumber": "24",
+      "jaRegisteredName": "Ｊ．ボスラー",
+      "fullLFMName": "Vosler, Jason"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "井上",
+      "boxscoreName": "Inoue",
+      "pitchHand": "L",
+      "teamCode": "G",
+      "primaryNumber": "97",
+      "jaRegisteredName": "井上　温大",
+      "fullLFMName": "Inoue, Haruto"
+    },
+    "number": 13,
+    "inning": 1,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "---",
+    "count": {
+      "balls": 1,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 0,
+      "home": 2
+    },
+    "bop": 5,
+    "rbi": 1,
+    "whereHit": "9",
+    "venue": {
+      "boxscoreName": "Vantelin Dome",
+      "jaBoxscoreName": "バンテリンドーム"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "G",
+        "teamName": "Giants",
+        "score": 5
+      },
+      "home": {
+        "teamCode": "D",
+        "teamName": "Dragons",
+        "score": 4
+      }
+    },
+    "jaText": "ライトソロホームラン（打点1）",
+    "text": "Vosler homers (13) to right field.",
+    "url": "https://npb.jp/scores/2025/0906/d-g-21/playbyplay.html#com1-2"
+  },
+  {
+    "id": "51455136-2025-08",
+    "date": "2025-09-06",
+    "batter": {
+      "jaBoxscoreName": "西川",
+      "playerId": "51455136",
+      "boxscoreName": "Nishikawa",
+      "batSide": "L",
+      "teamCode": "L",
+      "primaryNumber": "51",
+      "jaRegisteredName": "西川　愛也",
+      "fullLFMName": "Nishikawa, Manaya"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "サモンズ",
+      "boxscoreName": "Sammons",
+      "pitchHand": "L",
+      "teamCode": "M",
+      "primaryNumber": "42",
+      "jaRegisteredName": "Ｂ．サモンズ",
+      "fullLFMName": "Sammons, Bryan"
+    },
+    "number": 8,
+    "inning": 1,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 0,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 1,
+    "rbi": 1,
+    "whereHit": "9",
+    "venue": {
+      "boxscoreName": "Belluna Dome",
+      "jaBoxscoreName": "ベルーナドーム"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 0
+      },
+      "home": {
+        "teamCode": "L",
+        "teamName": "Lions",
+        "score": 4
+      }
+    },
+    "jaText": "ライトソロホームラン（打点1）",
+    "text": "Nishikawa homers (8) to right field.",
+    "url": "https://npb.jp/scores/2025/0906/l-m-21/playbyplay.html#com1-2",
+    "isLeadOff": "Y"
+  }
+]
