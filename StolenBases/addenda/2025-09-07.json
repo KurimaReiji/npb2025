@@ -38,9 +38,7 @@
     "jaText": "（走者・辰己）二塁盗塁成功",
     "text": "R.Tatsumi steals 2nd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
+    "catcher": {
         "id": "81385151",
         "jaBoxscoreName": "海野",
         "jaRegisteredName": "海野　隆司",
@@ -50,18 +48,6 @@
         "boxscoreName": "Umino",
         "pitchHand": "R",
         "batSide": "R"
-      },
-      {
-        "id": "11215132",
-        "jaBoxscoreName": "谷川原",
-        "jaRegisteredName": "谷川原　健太",
-        "fullLFMName": "Tanigawara, Kenta",
-        "primaryNumber": "45",
-        "teamCode": "H",
-        "boxscoreName": "Tanigawara",
-        "pitchHand": "R",
-        "batSide": "L"
       }
-    ]
   }
 ]
