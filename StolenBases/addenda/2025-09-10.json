@@ -7,6 +7,6 @@
   {
     "jaText": "（走者・石伊）二塁盗塁失敗",
     "text": "Ishii caught stealing 2nd base.",
-    "countsAsStealAttempt": true
+    "countsAsStealAttempt": false
   }
 ]
