@@ -1,0 +1,12 @@
+[
+  {
+    "jaText": "（走者・小園）二塁盗塁成功",
+    "text": "Kozono steals 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・石伊）二塁盗塁失敗",
+    "text": "Ishii caught stealing 2nd base.",
+    "countsAsStealAttempt": true
+  }
+]

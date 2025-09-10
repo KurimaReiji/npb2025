@@ -747,3 +747,6 @@
 {"date":"2025-09-09","venue":"ES CON FIELD","road":{"team":"Hawks","runs":4,"starter":"L"},"home":{"team":"Fighters","runs":7,"starter":"R"},"firstRun":"Hawks","isWalkOff":false,"isExtraInnings":false,"hadComeback":true}
 {"date":"2025-09-09","venue":"Rakuten Mobile","road":{"team":"Lions","runs":5,"starter":"R"},"home":{"team":"Eagles","runs":6,"starter":"R"},"firstRun":"Lions","isWalkOff":true,"isExtraInnings":true,"hadComeback":true}
 {"date":"2025-09-09","venue":"ZOZO Marine","road":{"team":"Buffaloes","runs":7,"starter":"L"},"home":{"team":"Marines","runs":3,"starter":"R"},"firstRun":"Buffaloes","isWalkOff":false,"isExtraInnings":false,"hadComeback":false}
+{"date":"2025-09-10","venue":"Tokyo Dome","road":{"team":"Carp","runs":3,"starter":"R"},"home":{"team":"Giants","runs":4,"starter":"L"},"firstRun":"Carp","isWalkOff":false,"isExtraInnings":false,"hadComeback":true}
+{"date":"2025-09-10","venue":"Jingu","road":{"team":"Dragons","runs":6,"starter":"L"},"home":{"team":"Swallows","runs":3,"starter":"R"},"firstRun":"Dragons","isWalkOff":false,"isExtraInnings":false,"hadComeback":false}
+{"date":"2025-09-10","venue":"Koshien","road":{"team":"Baystars","runs":6,"starter":"L"},"home":{"team":"Tigers","runs":1,"starter":"L"},"firstRun":"Tigers","isWalkOff":false,"isExtraInnings":false,"hadComeback":true}
