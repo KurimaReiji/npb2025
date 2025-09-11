@@ -3,9 +3,7 @@
     "jaText": "（走者・近本）二塁盗塁成功",
     "text": "Chikamoto steals 2nd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
+    "catcher": {
         "id": "41245132",
         "jaBoxscoreName": "戸柱",
         "jaRegisteredName": "戸柱　恭孝",
@@ -15,27 +13,13 @@
         "boxscoreName": "Tobashira",
         "pitchHand": "R",
         "batSide": "L"
-      },
-      {
-        "id": "23125136",
-        "jaBoxscoreName": "山本",
-        "jaRegisteredName": "山本　祐大",
-        "fullLFMName": "Yamamoto, Yuudai",
-        "primaryNumber": "50",
-        "teamCode": "DB",
-        "boxscoreName": "Yamamoto",
-        "pitchHand": "R",
-        "batSide": "R"
       }
-    ]
   },
   {
     "jaText": "（走者・中野）二塁盗塁失敗",
     "text": "Nakano caught stealing 2nd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
+    "catcher": {
         "id": "41245132",
         "jaBoxscoreName": "戸柱",
         "jaRegisteredName": "戸柱　恭孝",
@@ -45,18 +29,6 @@
         "boxscoreName": "Tobashira",
         "pitchHand": "R",
         "batSide": "L"
-      },
-      {
-        "id": "23125136",
-        "jaBoxscoreName": "山本",
-        "jaRegisteredName": "山本　祐大",
-        "fullLFMName": "Yamamoto, Yuudai",
-        "primaryNumber": "50",
-        "teamCode": "DB",
-        "boxscoreName": "Yamamoto",
-        "pitchHand": "R",
-        "batSide": "R"
       }
-    ]
   }
 ]
