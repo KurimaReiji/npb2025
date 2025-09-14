@@ -116,7 +116,7 @@ class TableSelector extends HTMLElement {
     </style>`;
     const html = `
   <div class="container">
-    <section><h1><a href="https://github.com/KurimaReiji/npb2025">NPB 2025</a></section>
+    <section><h1><a href="https://kurimareiji.github.io/npb2025/index.html">NPB 2025</a></section>
     <section>
       <h2>Tables</h2>
       <ul class="tables">

@@ -59,15 +59,15 @@ class NpbHeader extends HTMLElement {
 
   constructor() {
     super();
+    this.render(this.getAttribute('title') ?? '');
   }
 
-  render() {
+  render(title) {
     const html = `
 <div>
 <ul>
-  <li><a href="https://github.com/KurimaReiji/npb2025">NPB 2025</a></li>
-  <li>Baserunning Data Grid
-  </li>
+  <li><a title="Home" href="https://kurimareiji.github.io/npb2025/index.html">NPB 2025</a></li>
+  <li>${title}</li>
 </ul>
 </div>
     `;
@@ -77,7 +77,6 @@ class NpbHeader extends HTMLElement {
   }
 
   connectedCallback() {
-    this.render();
   }
 }
 
