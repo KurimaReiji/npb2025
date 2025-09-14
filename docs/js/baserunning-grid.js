@@ -303,10 +303,10 @@ class BaserunningGrid extends HTMLElement {
 
       if (self.criteria.has(json)) {
         self.criteria.delete(json);
-        manageFilterClass('remove', self.shadowRoot);
+        manageFilterClass('remove', criterion, self.shadowRoot);
       } else {
         self.criteria.add(json);
-        manageFilterClass('add', self.shadowRoot);
+        manageFilterClass('add', criterion, self.shadowRoot);
       }
       self.shadowRoot.querySelectorAll('tbody tr').forEach((tr) => {
         const matchesAllFilters = [...self.criteria]
@@ -335,7 +335,7 @@ if (!customElements.get("baserunning-grid")) {
   customElements.define("baserunning-grid", BaserunningGrid);
 }
 
-function manageFilterClass(method, root) {
+function manageFilterClass(method, criterion, root) {
   root.querySelectorAll(`td[data-item="${criterion.item}"]`).forEach((td) => {
     if (td.textContent === criterion.value) {
       if (method === 'add') {
