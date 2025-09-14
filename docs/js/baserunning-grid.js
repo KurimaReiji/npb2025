@@ -184,6 +184,10 @@ class BaserunningGrid extends HTMLElement {
       display: none;
     }
 
+    .filter-criteria {
+      font-weight: bold;
+    }
+
     #addMovie::backdrop {
       background: rgba(0, 0, 0, .7);
     }
@@ -296,10 +300,13 @@ class BaserunningGrid extends HTMLElement {
         criterion.playerId = td.dataset.playerId;
       }
       const json = JSON.stringify(criterion);
+
       if (self.criteria.has(json)) {
         self.criteria.delete(json);
+        manageFilterClass('remove', self.shadowRoot);
       } else {
         self.criteria.add(json);
+        manageFilterClass('add', self.shadowRoot);
       }
       self.shadowRoot.querySelectorAll('tbody tr').forEach((tr) => {
         const matchesAllFilters = [...self.criteria]
@@ -326,6 +333,18 @@ class BaserunningGrid extends HTMLElement {
 
 if (!customElements.get("baserunning-grid")) {
   customElements.define("baserunning-grid", BaserunningGrid);
+}
+
+function manageFilterClass(method, root) {
+  root.querySelectorAll(`td[data-item="${criterion.item}"]`).forEach((td) => {
+    if (td.textContent === criterion.value) {
+      if (method === 'add') {
+        td.classList.add('filter-criteria');
+      } else if (method === 'remove') {
+        td.classList.remove('filter-criteria');
+      }
+    }
+  });
 }
 
 function mergeLocalData(data) {
