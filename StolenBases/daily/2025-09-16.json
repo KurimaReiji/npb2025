@@ -1,0 +1,186 @@
+[
+  {
+    "date": "2025-09-16",
+    "runner": {
+      "id": "11715153",
+      "jaBoxscoreName": "小川",
+      "jaRegisteredName": "小川　龍成",
+      "fullLFMName": "Ogawa, Ryusei",
+      "primaryNumber": "57",
+      "teamCode": "M",
+      "boxscoreName": "Ogawa",
+      "pitchHand": "R",
+      "batSide": "L"
+    },
+    "batter": {
+      "id": "11215151",
+      "jaBoxscoreName": "髙部",
+      "jaRegisteredName": "髙部　瑛斗",
+      "fullLFMName": "Takabe, Akito",
+      "primaryNumber": "38",
+      "teamCode": "M",
+      "boxscoreName": "Takabe",
+      "pitchHand": "R",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "41045136",
+      "jaBoxscoreName": "田嶋大",
+      "jaRegisteredName": "田嶋　大樹",
+      "fullLFMName": "Tajima, Daiki",
+      "primaryNumber": "29",
+      "teamCode": "B",
+      "boxscoreName": "D.Tajima",
+      "pitchHand": "L",
+      "batSide": "L"
+    },
+    "catcher": {
+      "id": "41645139",
+      "jaBoxscoreName": "若月",
+      "jaRegisteredName": "若月　健矢",
+      "fullLFMName": "Wakatsuki, Kenya",
+      "primaryNumber": "2",
+      "teamCode": "B",
+      "boxscoreName": "Wakatsuki",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "scoring": "StolenBase",
+    "base": "2B",
+    "inning": 3,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "1--",
+    "runs": {
+      "road": 0,
+      "home": 3
+    },
+    "venue": {
+      "jaBoxscoreName": "京セラD大阪",
+      "boxscoreName": "Kyocera Dome",
+      "jaName": "京セラドーム大阪",
+      "name": "Kyocera Dome Osaka"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 3
+      },
+      "home": {
+        "teamCode": "B",
+        "teamName": "Buffaloes",
+        "score": 7
+      }
+    },
+    "jaText": "（走者・小川）二塁盗塁成功",
+    "text": "Ogawa steals 2nd base.",
+    "url": "https://npb.jp/scores/2025/0916/b-m-23/playbyplay.html#com3-1",
+    "catchers": [
+      {
+        "id": "41645139",
+        "jaBoxscoreName": "若月",
+        "jaRegisteredName": "若月　健矢",
+        "fullLFMName": "Wakatsuki, Kenya",
+        "primaryNumber": "2",
+        "teamCode": "B",
+        "boxscoreName": "Wakatsuki",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+    ],
+    "countsAsStealAttempt": true
+  },
+  {
+    "date": "2025-09-16",
+    "runner": {
+      "id": "21625150",
+      "jaBoxscoreName": "西川",
+      "jaRegisteredName": "西川　史礁",
+      "fullLFMName": "Nishikawa, Misho",
+      "primaryNumber": "6",
+      "teamCode": "M",
+      "boxscoreName": "Nishikawa",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "batter": {
+      "id": "51455159",
+      "jaBoxscoreName": "寺地",
+      "jaRegisteredName": "寺地　隆成",
+      "fullLFMName": "Terachi, Ryusei",
+      "primaryNumber": "65",
+      "teamCode": "M",
+      "boxscoreName": "Terachi",
+      "pitchHand": "R",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "43945159",
+      "jaBoxscoreName": "マチャド",
+      "jaRegisteredName": "Ａ．マチャド",
+      "fullLFMName": "Machado, Andres",
+      "primaryNumber": "42",
+      "teamCode": "B",
+      "boxscoreName": "Machado",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "catcher": {
+      "id": "41645139",
+      "jaBoxscoreName": "若月",
+      "jaRegisteredName": "若月　健矢",
+      "fullLFMName": "Wakatsuki, Kenya",
+      "primaryNumber": "2",
+      "teamCode": "B",
+      "boxscoreName": "Wakatsuki",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "scoring": "StolenBase",
+    "base": "2B",
+    "inning": 9,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "1--",
+    "runs": {
+      "road": 3,
+      "home": 7
+    },
+    "venue": {
+      "jaBoxscoreName": "京セラD大阪",
+      "boxscoreName": "Kyocera Dome",
+      "jaName": "京セラドーム大阪",
+      "name": "Kyocera Dome Osaka"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 3
+      },
+      "home": {
+        "teamCode": "B",
+        "teamName": "Buffaloes",
+        "score": 7
+      }
+    },
+    "jaText": "（走者・西川）二塁盗塁成功",
+    "text": "Nishikawa steals 2nd base.",
+    "url": "https://npb.jp/scores/2025/0916/b-m-23/playbyplay.html#com9-1",
+    "catchers": [
+      {
+        "id": "41645139",
+        "jaBoxscoreName": "若月",
+        "jaRegisteredName": "若月　健矢",
+        "fullLFMName": "Wakatsuki, Kenya",
+        "primaryNumber": "2",
+        "teamCode": "B",
+        "boxscoreName": "Wakatsuki",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+    ],
+    "countsAsStealAttempt": true
+  }
+]

@@ -777,3 +777,4 @@
 {"date":"2025-09-15","venue":"ES CON FIELD","road":{"team":"Lions","runs":5,"starter":"R"},"home":{"team":"Fighters","runs":12,"starter":"R"},"firstRun":"Lions","isWalkOff":false,"isExtraInnings":false,"hadComeback":true}
 {"date":"2025-09-15","venue":"Rakuten Mobile","road":{"team":"Marines","runs":4,"starter":"R"},"home":{"team":"Eagles","runs":5,"starter":"R"},"firstRun":"Marines","isWalkOff":true,"isExtraInnings":true,"hadComeback":true}
 {"date":"2025-09-15","venue":"Kyocera Dome","road":{"team":"Hawks","runs":5,"starter":"R"},"home":{"team":"Buffaloes","runs":0,"starter":"R"},"firstRun":"Hawks","isWalkOff":false,"isExtraInnings":false,"hadComeback":false}
+{"date":"2025-09-16","venue":"Kyocera Dome","road":{"team":"Marines","runs":3,"starter":"R"},"home":{"team":"Buffaloes","runs":7,"starter":"L"},"firstRun":"Buffaloes","isWalkOff":false,"isExtraInnings":false,"hadComeback":false}
