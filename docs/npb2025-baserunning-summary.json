@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-15",
+  "updated": "2025-09-16",
   "catchers": [
     {
       "att": 78,
@@ -55,6 +55,32 @@
     },
     {
       "att": 70,
+      "sb": 55,
+      "cs": 15,
+      "ds": 0,
+      "ts": 0,
+      "pickoff": {
+        "pickoff": 7,
+        "sb": 0,
+        "cs": 2,
+        "ds": 0,
+        "ts": 0
+      },
+      "catcher": {
+        "id": "41645139",
+        "jaBoxscoreName": "若月",
+        "jaRegisteredName": "若月　健矢",
+        "fullLFMName": "Wakatsuki, Kenya",
+        "primaryNumber": "2",
+        "teamCode": "B",
+        "boxscoreName": "Wakatsuki",
+        "pitchHand": "R",
+        "batSide": "R"
+      },
+      "rate": ".214"
+    },
+    {
+      "att": 70,
       "sb": 57,
       "cs": 13,
       "ds": 0,
@@ -78,32 +104,6 @@
         "batSide": "L"
       },
       "rate": ".186"
-    },
-    {
-      "att": 68,
-      "sb": 53,
-      "cs": 15,
-      "ds": 0,
-      "ts": 0,
-      "pickoff": {
-        "pickoff": 7,
-        "sb": 0,
-        "cs": 2,
-        "ds": 0,
-        "ts": 0
-      },
-      "catcher": {
-        "id": "41645139",
-        "jaBoxscoreName": "若月",
-        "jaRegisteredName": "若月　健矢",
-        "fullLFMName": "Wakatsuki, Kenya",
-        "primaryNumber": "2",
-        "teamCode": "B",
-        "boxscoreName": "Wakatsuki",
-        "pitchHand": "R",
-        "batSide": "R"
-      },
-      "rate": ".221"
     },
     {
       "att": 57,
@@ -2981,6 +2981,32 @@
         "ts": 0
       },
       "pitcher": {
+        "id": "43945159",
+        "jaBoxscoreName": "マチャド",
+        "jaRegisteredName": "Ａ．マチャド",
+        "fullLFMName": "Machado, Andres",
+        "primaryNumber": "42",
+        "teamCode": "B",
+        "boxscoreName": "Machado",
+        "pitchHand": "R",
+        "batSide": "R"
+      },
+      "rate": ".000"
+    },
+    {
+      "att": 6,
+      "sb": 6,
+      "cs": 0,
+      "ds": 0,
+      "ts": 0,
+      "pickoff": {
+        "pickoff": 0,
+        "sb": 0,
+        "cs": 0,
+        "ds": 0,
+        "ts": 0
+      },
+      "pitcher": {
         "id": "61065151",
         "jaBoxscoreName": "鈴木",
         "jaRegisteredName": "鈴木　健矢",
@@ -3579,32 +3605,6 @@
         "ts": 0
       },
       "pitcher": {
-        "id": "43945159",
-        "jaBoxscoreName": "マチャド",
-        "jaRegisteredName": "Ａ．マチャド",
-        "fullLFMName": "Machado, Andres",
-        "primaryNumber": "42",
-        "teamCode": "B",
-        "boxscoreName": "Machado",
-        "pitchHand": "R",
-        "batSide": "R"
-      },
-      "rate": ".000"
-    },
-    {
-      "att": 5,
-      "sb": 5,
-      "cs": 0,
-      "ds": 0,
-      "ts": 0,
-      "pickoff": {
-        "pickoff": 0,
-        "sb": 0,
-        "cs": 0,
-        "ds": 0,
-        "ts": 0
-      },
-      "pitcher": {
         "id": "93995155",
         "jaBoxscoreName": "ゲレーロ",
         "jaRegisteredName": "Ｔ．ゲレーロ",
@@ -4136,6 +4136,32 @@
         "batSide": "L"
       },
       "rate": "1.000"
+    },
+    {
+      "att": 3,
+      "sb": 1,
+      "cs": 2,
+      "ds": 0,
+      "ts": 0,
+      "pickoff": {
+        "pickoff": 1,
+        "sb": 0,
+        "cs": 0,
+        "ds": 0,
+        "ts": 0
+      },
+      "pitcher": {
+        "id": "41045136",
+        "jaBoxscoreName": "田嶋大",
+        "jaRegisteredName": "田嶋　大樹",
+        "fullLFMName": "Tajima, Daiki",
+        "primaryNumber": "29",
+        "teamCode": "B",
+        "boxscoreName": "D.Tajima",
+        "pitchHand": "L",
+        "batSide": "L"
+      },
+      "rate": ".667"
     },
     {
       "att": 2,
@@ -4810,32 +4836,6 @@
         "boxscoreName": "Nishidate",
         "pitchHand": "R",
         "batSide": "R"
-      },
-      "rate": "1.000"
-    },
-    {
-      "att": 2,
-      "sb": 0,
-      "cs": 2,
-      "ds": 0,
-      "ts": 0,
-      "pickoff": {
-        "pickoff": 1,
-        "sb": 0,
-        "cs": 0,
-        "ds": 0,
-        "ts": 0
-      },
-      "pitcher": {
-        "id": "41045136",
-        "jaBoxscoreName": "田嶋大",
-        "jaRegisteredName": "田嶋　大樹",
-        "fullLFMName": "Tajima, Daiki",
-        "primaryNumber": "29",
-        "teamCode": "B",
-        "boxscoreName": "D.Tajima",
-        "pitchHand": "L",
-        "batSide": "L"
       },
       "rate": "1.000"
     },
@@ -8927,6 +8927,32 @@
       "att": 11,
       "sb": 9,
       "cs": 2,
+      "ds": 1,
+      "ts": 0,
+      "pickoff": {
+        "pickoff": 0,
+        "sb": 0,
+        "cs": 0,
+        "ds": 0,
+        "ts": 0
+      },
+      "runner": {
+        "id": "11715153",
+        "jaBoxscoreName": "小川",
+        "jaRegisteredName": "小川　龍成",
+        "fullLFMName": "Ogawa, Ryusei",
+        "primaryNumber": "57",
+        "teamCode": "M",
+        "boxscoreName": "Ogawa",
+        "pitchHand": "R",
+        "batSide": "L"
+      },
+      "rate": ".818"
+    },
+    {
+      "att": 11,
+      "sb": 9,
+      "cs": 2,
       "ds": 0,
       "ts": 0,
       "pickoff": {
@@ -9026,32 +9052,6 @@
         "batSide": "L"
       },
       "rate": "1.000"
-    },
-    {
-      "att": 10,
-      "sb": 8,
-      "cs": 2,
-      "ds": 1,
-      "ts": 0,
-      "pickoff": {
-        "pickoff": 0,
-        "sb": 0,
-        "cs": 0,
-        "ds": 0,
-        "ts": 0
-      },
-      "runner": {
-        "id": "11715153",
-        "jaBoxscoreName": "小川",
-        "jaRegisteredName": "小川　龍成",
-        "fullLFMName": "Ogawa, Ryusei",
-        "primaryNumber": "57",
-        "teamCode": "M",
-        "boxscoreName": "Ogawa",
-        "pitchHand": "R",
-        "batSide": "L"
-      },
-      "rate": ".800"
     },
     {
       "att": 10,
@@ -12778,6 +12778,32 @@
       "ds": 0,
       "ts": 0,
       "pickoff": {
+        "pickoff": 1,
+        "sb": 0,
+        "cs": 0,
+        "ds": 0,
+        "ts": 0
+      },
+      "runner": {
+        "id": "21625150",
+        "jaBoxscoreName": "西川",
+        "jaRegisteredName": "西川　史礁",
+        "fullLFMName": "Nishikawa, Misho",
+        "primaryNumber": "6",
+        "teamCode": "M",
+        "boxscoreName": "Nishikawa",
+        "pitchHand": "R",
+        "batSide": "R"
+      },
+      "rate": "1.000"
+    },
+    {
+      "att": 1,
+      "sb": 1,
+      "cs": 0,
+      "ds": 0,
+      "ts": 0,
+      "pickoff": {
         "pickoff": 0,
         "sb": 0,
         "cs": 0,
@@ -13576,32 +13602,6 @@
         "batSide": "L"
       },
       "rate": "---"
-    },
-    {
-      "att": 0,
-      "sb": 0,
-      "cs": 0,
-      "ds": 0,
-      "ts": 0,
-      "pickoff": {
-        "pickoff": 1,
-        "sb": 0,
-        "cs": 0,
-        "ds": 0,
-        "ts": 0
-      },
-      "runner": {
-        "id": "21625150",
-        "jaBoxscoreName": "西川",
-        "jaRegisteredName": "西川　史礁",
-        "fullLFMName": "Nishikawa, Misho",
-        "primaryNumber": "6",
-        "teamCode": "M",
-        "boxscoreName": "Nishikawa",
-        "pitchHand": "R",
-        "batSide": "R"
-      },
-      "rate": "---"
     }
   ],
   "teams": [
@@ -13905,8 +13905,8 @@
         "rate": ".148"
       },
       "offence": {
-        "att": 83,
-        "sb": 63,
+        "att": 85,
+        "sb": 65,
         "cs": 21,
         "ds": 1,
         "ts": 0,
@@ -13917,7 +13917,7 @@
           "ds": 0,
           "ts": 0
         },
-        "rate": ".729"
+        "rate": ".736"
       }
     },
     {
@@ -13960,8 +13960,8 @@
       "teamName": "Buffaloes",
       "league": "Pacific",
       "defence": {
-        "att": 92,
-        "sb": 70,
+        "att": 94,
+        "sb": 72,
         "cs": 22,
         "ds": 0,
         "ts": 0,
@@ -13972,7 +13972,7 @@
           "ds": 0,
           "ts": 0
         },
-        "rate": ".263"
+        "rate": ".258"
       },
       "offence": {
         "att": 76,
@@ -14064,8 +14064,8 @@
     {
       "league": "Pacific",
       "defence": {
-        "att": 616,
-        "sb": 487,
+        "att": 618,
+        "sb": 489,
         "cs": 131,
         "ds": 2,
         "ts": 0,
@@ -14076,12 +14076,12 @@
           "ds": 0,
           "ts": 0
         },
-        "rate": ".213",
-        "teamRate": ".244"
+        "rate": ".212",
+        "teamRate": ".243"
       },
       "offence": {
-        "att": 590,
-        "sb": 466,
+        "att": 592,
+        "sb": 468,
         "cs": 128,
         "ds": 4,
         "ts": 0,
@@ -14092,7 +14092,7 @@
           "ds": 0,
           "ts": 0
         },
-        "rate": ".750"
+        "rate": ".751"
       }
     }
   ]
