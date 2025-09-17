@@ -3,9 +3,7 @@
     "jaText": "（走者・村上）三塁盗塁成功",
     "text": "Murakami steals 3rd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
+    "catcher": {
         "id": "91595136",
         "jaBoxscoreName": "岸田",
         "jaRegisteredName": "岸田　行倫",
@@ -15,19 +13,7 @@
         "boxscoreName": "Kishida",
         "pitchHand": "R",
         "batSide": "R"
-      },
-      {
-        "id": "91795139",
-        "jaBoxscoreName": "小林",
-        "jaRegisteredName": "小林　誠司",
-        "fullLFMName": "Kobayashi, Seiji",
-        "primaryNumber": "22",
-        "teamCode": "G",
-        "boxscoreName": "Kobayashi",
-        "pitchHand": "R",
-        "batSide": "R"
       }
-    ]
   },
   {
     "jaText": "（走者・細川）二塁盗塁成功",
@@ -53,20 +39,7 @@
     "jaText": "（走者・五十幡）一塁牽制アウト",
     "text": "Isobata picked off at 1st base.",
     "countsAsStealAttempt": false,
-    "catcher": {},
-    "catchers": [
-      {
-        "id": "71375138",
-        "jaBoxscoreName": "太田",
-        "jaRegisteredName": "太田　光",
-        "fullLFMName": "Ohta, Hikaru",
-        "primaryNumber": "2",
-        "teamCode": "E",
-        "boxscoreName": "Ohta",
-        "pitchHand": "R",
-        "batSide": "R"
-      },
-      {
+    "catcher": {
         "id": "61165134",
         "jaBoxscoreName": "石原",
         "jaRegisteredName": "石原　彪",
@@ -77,7 +50,6 @@
         "pitchHand": "R",
         "batSide": "R"
       }
-    ]
   },
   {
     "jaText": "（走者・佐藤）二塁盗塁成功",
