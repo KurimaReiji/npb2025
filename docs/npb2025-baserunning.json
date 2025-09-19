@@ -104584,7 +104584,11 @@
     "url": "https://npb.jp/scores/2025/0919/t-db-23/playbyplay.html#com2-2",
     "countsAsStealAttempt": true,
     "eventId": "21325134-2025-009",
-    "movies": []
+    "movies": [
+      {
+        "url": "https://youtu.be/K_u-UAA5hM0?si=WNBaHkWBbrRzdxD5&t=24"
+      }
+    ]
   },
   {
     "date": "2025-09-19",
@@ -104665,7 +104669,11 @@
     "url": "https://npb.jp/scores/2025/0919/t-db-23/playbyplay.html#com6-2",
     "countsAsStealAttempt": true,
     "eventId": "81585136-2025-008",
-    "movies": []
+    "movies": [
+      {
+        "url": "https://youtu.be/K_u-UAA5hM0?si=e7RQ7axnR7kBhFDQ&t=119"
+      }
+    ]
   },
   {
     "date": "2025-09-19",
