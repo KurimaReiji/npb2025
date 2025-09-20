@@ -22,7 +22,7 @@
   {
     "jaText": "（走者・林）二塁盗塁失敗",
     "text": "Hayashi caught stealing 2nd base.",
-    "countsAsStealAttempt": true
+    "countsAsStealAttempt": false
   },
   {
     "jaText": "（走者・水谷）二塁盗塁成功",
@@ -43,9 +43,7 @@
     "jaText": "（走者・周東）二塁盗塁成功",
     "text": "Shuto steals 2nd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
+    "catcher": {
         "id": "41645139",
         "jaBoxscoreName": "若月",
         "jaRegisteredName": "若月　健矢",
@@ -55,18 +53,6 @@
         "boxscoreName": "Wakatsuki",
         "pitchHand": "R",
         "batSide": "R"
-      },
-      {
-        "id": "11815155",
-        "jaBoxscoreName": "福永",
-        "jaRegisteredName": "福永　奨",
-        "fullLFMName": "Fukunaga, Sho",
-        "primaryNumber": "32",
-        "teamCode": "B",
-        "boxscoreName": "Fukunaga",
-        "pitchHand": "R",
-        "batSide": "R"
       }
-    ]
   }
 ]
