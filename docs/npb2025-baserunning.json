@@ -105830,7 +105830,11 @@
     "url": "https://npb.jp/scores/2025/0921/d-g-23/playbyplay.html#com2-1",
     "countsAsStealAttempt": true,
     "eventId": "21425116-2025-009",
-    "movies": []
+    "movies": [
+      {
+        "url": "https://youtu.be/Lh8PIU1fda4?si=vZdVK0wWDkR8nSIk&t=63"
+      }
+    ]
   },
   {
     "date": "2025-09-21",
@@ -105911,7 +105915,11 @@
     "url": "https://npb.jp/scores/2025/0921/f-m-21/playbyplay.html#com3-1",
     "countsAsStealAttempt": false,
     "eventId": "11715153-2025-012",
-    "movies": []
+    "movies": [
+      {
+        "url": "https://x.com/baseballlive_JP/status/1969642349816135929"
+      }
+    ]
   },
   {
     "date": "2025-09-21",
