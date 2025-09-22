@@ -1,0 +1,17 @@
+[
+  {
+    "jaText": "（走者・近本）二塁盗塁成功",
+    "text": "Chikamoto steals 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・小川）二塁盗塁失敗",
+    "text": "Ogawa caught stealing 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・髙部）二塁盗塁成功",
+    "text": "Takabe steals 2nd base.",
+    "countsAsStealAttempt": true
+  }
+]
