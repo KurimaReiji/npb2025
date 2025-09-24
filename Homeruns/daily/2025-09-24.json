@@ -1,0 +1,60 @@
+[
+  {
+    "id": "21125155-2025-05",
+    "date": "2025-09-24",
+    "batter": {
+      "jaBoxscoreName": "池田",
+      "playerId": "21125155",
+      "boxscoreName": "Ikeda",
+      "batSide": "R",
+      "teamCode": "M",
+      "primaryNumber": "00",
+      "jaRegisteredName": "池田　来翔",
+      "fullLFMName": "Ikeda, Raito"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "菅井",
+      "boxscoreName": "Sugai",
+      "pitchHand": "L",
+      "teamCode": "L",
+      "primaryNumber": "71",
+      "jaRegisteredName": "菅井　信也",
+      "fullLFMName": "Sugai, Shinya"
+    },
+    "number": 5,
+    "inning": 2,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 3,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 5,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "ZOZO Marine",
+      "jaBoxscoreName": "ZOZOマリン"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "L",
+        "teamName": "Lions",
+        "score": 0
+      },
+      "home": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 5
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Ikeda homers (5) to left field.",
+    "url": "https://npb.jp/scores/2025/0924/m-l-24/playbyplay.html#com2-2"
+  }
+]
