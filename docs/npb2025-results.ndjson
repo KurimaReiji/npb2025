@@ -817,3 +817,6 @@
 {"date":"2025-09-23","venue":"MIZUHO PayPay","road":{"team":"Buffaloes","runs":1,"starter":"L"},"home":{"team":"Hawks","runs":0,"starter":"L"},"firstRun":"Buffaloes","isWalkOff":false,"isExtraInnings":false,"hadComeback":false}
 {"date":"2025-09-24","venue":"Rakuten Mobile","road":{"team":"Hawks","runs":8,"starter":"L"},"home":{"team":"Eagles","runs":3,"starter":"R"},"firstRun":"Hawks","isWalkOff":false,"isExtraInnings":false,"hadComeback":false}
 {"date":"2025-09-24","venue":"ZOZO Marine","road":{"team":"Lions","runs":0,"starter":"L"},"home":{"team":"Marines","runs":5,"starter":"R"},"firstRun":"Marines","isWalkOff":false,"isExtraInnings":false,"hadComeback":false}
+{"date":"2025-09-25","venue":"Rakuten Mobile","road":{"team":"Hawks","runs":6,"starter":"L"},"home":{"team":"Eagles","runs":0,"starter":"R"},"firstRun":"Hawks","isWalkOff":false,"isExtraInnings":false,"hadComeback":false}
+{"date":"2025-09-25","venue":"Belluna Dome","road":{"team":"Fighters","runs":4,"starter":"R"},"home":{"team":"Lions","runs":5,"starter":"R"},"firstRun":"Fighters","isWalkOff":false,"isExtraInnings":false,"hadComeback":true}
+{"date":"2025-09-25","venue":"Kyocera Dome","road":{"team":"Marines","runs":6,"starter":"R"},"home":{"team":"Buffaloes","runs":4,"starter":"L"},"firstRun":"Marines","isWalkOff":false,"isExtraInnings":false,"hadComeback":false}

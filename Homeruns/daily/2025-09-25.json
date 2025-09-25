@@ -1,0 +1,234 @@
+[
+  {
+    "id": "41545136-2025-11",
+    "date": "2025-09-25",
+    "batter": {
+      "jaBoxscoreName": "清宮幸",
+      "playerId": "41545136",
+      "boxscoreName": "Kiyomiya",
+      "batSide": "L",
+      "teamCode": "F",
+      "primaryNumber": "21",
+      "jaRegisteredName": "清宮　幸太郎",
+      "fullLFMName": "Kiyomiya, Kotaro"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "今井",
+      "boxscoreName": "Imai",
+      "pitchHand": "R",
+      "teamCode": "L",
+      "primaryNumber": "48",
+      "jaRegisteredName": "今井　達也",
+      "fullLFMName": "Imai, Tatsuya"
+    },
+    "number": 11,
+    "inning": 2,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "1--",
+    "count": {
+      "balls": 2,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 5,
+    "rbi": 2,
+    "whereHit": "78",
+    "venue": {
+      "boxscoreName": "Belluna Dome",
+      "jaBoxscoreName": "ベルーナドーム"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 4
+      },
+      "home": {
+        "teamCode": "L",
+        "teamName": "Lions",
+        "score": 5
+      }
+    },
+    "jaText": "左中間2ランホームラン（打点2）",
+    "text": "Kiyomiya homers (11) to left center.",
+    "url": "https://npb.jp/scores/2025/0925/l-f-24/playbyplay.html#com2-1"
+  },
+  {
+    "id": "63165155-2025-06",
+    "date": "2025-09-25",
+    "batter": {
+      "jaBoxscoreName": "水野",
+      "playerId": "63165155",
+      "boxscoreName": "Mizuno",
+      "batSide": "L",
+      "teamCode": "F",
+      "primaryNumber": "43",
+      "jaRegisteredName": "水野　達稀",
+      "fullLFMName": "Mizuno, Tatsuki"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "今井",
+      "boxscoreName": "Imai",
+      "pitchHand": "R",
+      "teamCode": "L",
+      "primaryNumber": "48",
+      "jaRegisteredName": "今井　達也",
+      "fullLFMName": "Imai, Tatsuya"
+    },
+    "number": 6,
+    "inning": 5,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 3,
+      "strikes": 2
+    },
+    "runs": {
+      "road": 3,
+      "home": 0
+    },
+    "bop": 9,
+    "rbi": 1,
+    "whereHit": "89",
+    "venue": {
+      "boxscoreName": "Belluna Dome",
+      "jaBoxscoreName": "ベルーナドーム"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 4
+      },
+      "home": {
+        "teamCode": "L",
+        "teamName": "Lions",
+        "score": 5
+      }
+    },
+    "jaText": "右中間ソロホームラン（打点1）",
+    "text": "Mizuno homers (6) to right center.",
+    "url": "https://npb.jp/scores/2025/0925/l-f-24/playbyplay.html#com5-1"
+  },
+  {
+    "id": "53755150-2025-18",
+    "date": "2025-09-25",
+    "batter": {
+      "jaBoxscoreName": "ネビン",
+      "playerId": "53755150",
+      "boxscoreName": "Nevin",
+      "batSide": "R",
+      "teamCode": "L",
+      "primaryNumber": "26",
+      "jaRegisteredName": "Ｔ．ネビン",
+      "fullLFMName": "Nevin, Tyler"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "上原",
+      "boxscoreName": "Uehara",
+      "pitchHand": "L",
+      "teamCode": "F",
+      "primaryNumber": "20",
+      "jaRegisteredName": "上原　健太",
+      "fullLFMName": "Uehara, Kenta"
+    },
+    "number": 18,
+    "inning": 7,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "1-3",
+    "count": {
+      "balls": 2,
+      "strikes": 2
+    },
+    "runs": {
+      "road": 4,
+      "home": 2
+    },
+    "bop": 4,
+    "rbi": 3,
+    "whereHit": "8",
+    "venue": {
+      "boxscoreName": "Belluna Dome",
+      "jaBoxscoreName": "ベルーナドーム"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 4
+      },
+      "home": {
+        "teamCode": "L",
+        "teamName": "Lions",
+        "score": 5
+      }
+    },
+    "jaText": "センター3ランホームラン（打点3）",
+    "text": "Nevin homers (18) to center field.",
+    "url": "https://npb.jp/scores/2025/0925/l-f-24/playbyplay.html#com7-2"
+  },
+  {
+    "id": "91495139-2025-01",
+    "date": "2025-09-25",
+    "batter": {
+      "jaBoxscoreName": "森",
+      "playerId": "91495139",
+      "boxscoreName": "Mori",
+      "batSide": "L",
+      "teamCode": "B",
+      "primaryNumber": "4",
+      "jaRegisteredName": "森　友哉",
+      "fullLFMName": "Mori, Tomoya"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "菊地",
+      "boxscoreName": "Kikuchi",
+      "pitchHand": "R",
+      "teamCode": "M",
+      "primaryNumber": "28",
+      "jaRegisteredName": "菊地　吏玖",
+      "fullLFMName": "Kikuchi, Riku"
+    },
+    "number": 1,
+    "inning": 9,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "1-3",
+    "count": {
+      "balls": 3,
+      "strikes": 2
+    },
+    "runs": {
+      "road": 6,
+      "home": 1
+    },
+    "bop": 8,
+    "rbi": 3,
+    "whereHit": "9",
+    "venue": {
+      "boxscoreName": "Kyocera Dome",
+      "jaBoxscoreName": "京セラD大阪"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 6
+      },
+      "home": {
+        "teamCode": "B",
+        "teamName": "Buffaloes",
+        "score": 4
+      }
+    },
+    "jaText": "ライト3ランホームラン（打点3）",
+    "text": "Mori homers (1) to right field.",
+    "url": "https://npb.jp/scores/2025/0925/b-m-25/playbyplay.html#com9-2"
+  }
+]

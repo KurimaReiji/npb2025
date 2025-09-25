@@ -1,0 +1,186 @@
+[
+  {
+    "date": "2025-09-25",
+    "runner": {
+      "id": "31835138",
+      "jaBoxscoreName": "水谷",
+      "jaRegisteredName": "水谷　瞬",
+      "fullLFMName": "Mizutani, Shun",
+      "primaryNumber": "53",
+      "teamCode": "F",
+      "boxscoreName": "Mizutani",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "batter": {
+      "id": "73075159",
+      "jaBoxscoreName": "レイエス",
+      "jaRegisteredName": "Ｆ．レイエス",
+      "fullLFMName": "Reyes, Franmil",
+      "primaryNumber": "99",
+      "teamCode": "F",
+      "boxscoreName": "Reyes",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "31335134",
+      "jaBoxscoreName": "今井",
+      "jaRegisteredName": "今井　達也",
+      "fullLFMName": "Imai, Tatsuya",
+      "primaryNumber": "48",
+      "teamCode": "L",
+      "boxscoreName": "Imai",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "catcher": {
+      "id": "81785155",
+      "jaBoxscoreName": "古賀悠",
+      "jaRegisteredName": "古賀　悠斗",
+      "fullLFMName": "Koga, Yuto",
+      "primaryNumber": "22",
+      "teamCode": "L",
+      "boxscoreName": "Y.Koga",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "scoring": "StolenBase",
+    "base": "2B",
+    "inning": 3,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "1--",
+    "runs": {
+      "road": 2,
+      "home": 0
+    },
+    "venue": {
+      "jaBoxscoreName": "ベルーナドーム",
+      "boxscoreName": "Belluna Dome",
+      "jaName": "ベルーナドーム",
+      "name": "Belluna Dome"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 4
+      },
+      "home": {
+        "teamCode": "L",
+        "teamName": "Lions",
+        "score": 5
+      }
+    },
+    "jaText": "（走者・水谷）二塁盗塁成功",
+    "text": "Mizutani steals 2nd base.",
+    "url": "https://npb.jp/scores/2025/0925/l-f-24/playbyplay.html#com3-1",
+    "catchers": [
+      {
+        "id": "81785155",
+        "jaBoxscoreName": "古賀悠",
+        "jaRegisteredName": "古賀　悠斗",
+        "fullLFMName": "Koga, Yuto",
+        "primaryNumber": "22",
+        "teamCode": "L",
+        "boxscoreName": "Y.Koga",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+    ],
+    "countsAsStealAttempt": true
+  },
+  {
+    "date": "2025-09-25",
+    "runner": {
+      "id": "51255155",
+      "jaBoxscoreName": "滝澤",
+      "jaRegisteredName": "滝澤　夏央",
+      "fullLFMName": "Takizawa, Natsuo",
+      "primaryNumber": "62",
+      "teamCode": "L",
+      "boxscoreName": "Takizawa",
+      "pitchHand": "R",
+      "batSide": "L"
+    },
+    "batter": {
+      "id": "83385153",
+      "jaBoxscoreName": "山村",
+      "jaRegisteredName": "山村　崇嘉",
+      "fullLFMName": "Yamamura, Takayoshi",
+      "primaryNumber": "32",
+      "teamCode": "L",
+      "boxscoreName": "Yamamura",
+      "pitchHand": "R",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "51755155",
+      "jaBoxscoreName": "北山",
+      "jaRegisteredName": "北山　亘基",
+      "fullLFMName": "Kitayama, Koki",
+      "primaryNumber": "15",
+      "teamCode": "F",
+      "boxscoreName": "Kitayama",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "catcher": {
+      "id": "51055138",
+      "jaBoxscoreName": "田宮",
+      "jaRegisteredName": "田宮　裕涼",
+      "fullLFMName": "Tamiya, Yua",
+      "primaryNumber": "64",
+      "teamCode": "F",
+      "boxscoreName": "Tamiya",
+      "pitchHand": "R",
+      "batSide": "L"
+    },
+    "scoring": "StolenBase",
+    "base": "2B",
+    "inning": 6,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "1--",
+    "runs": {
+      "road": 4,
+      "home": 0
+    },
+    "venue": {
+      "jaBoxscoreName": "ベルーナドーム",
+      "boxscoreName": "Belluna Dome",
+      "jaName": "ベルーナドーム",
+      "name": "Belluna Dome"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 4
+      },
+      "home": {
+        "teamCode": "L",
+        "teamName": "Lions",
+        "score": 5
+      }
+    },
+    "jaText": "（走者・滝澤）二塁盗塁成功",
+    "text": "Takizawa steals 2nd base.",
+    "url": "https://npb.jp/scores/2025/0925/l-f-24/playbyplay.html#com6-2",
+    "catchers": [
+      {
+        "id": "51055138",
+        "jaBoxscoreName": "田宮",
+        "jaRegisteredName": "田宮　裕涼",
+        "fullLFMName": "Tamiya, Yua",
+        "primaryNumber": "64",
+        "teamCode": "F",
+        "boxscoreName": "Tamiya",
+        "pitchHand": "R",
+        "batSide": "L"
+      }
+    ],
+    "countsAsStealAttempt": true
+  }
+]
