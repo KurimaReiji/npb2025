@@ -2,7 +2,7 @@
   {
     "jaText": "（走者・山田）本塁盗塁失敗",
     "text": "Yamada caught stealing home plate.",
-    "countsAsStealAttempt": true
+    "countsAsStealAttempt": false
   },
   {
     "jaText": "（走者・佐々木）二塁盗塁失敗",

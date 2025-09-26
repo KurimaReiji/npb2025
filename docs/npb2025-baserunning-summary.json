@@ -523,32 +523,6 @@
     },
     {
       "att": 19,
-      "sb": 13,
-      "cs": 6,
-      "ds": 0,
-      "ts": 0,
-      "pickoff": {
-        "pickoff": 1,
-        "sb": 0,
-        "cs": 3,
-        "ds": 0,
-        "ts": 0
-      },
-      "catcher": {
-        "id": "21125151",
-        "jaBoxscoreName": "石原",
-        "jaRegisteredName": "石原　貴規",
-        "fullLFMName": "Ishihara, Tomoki",
-        "primaryNumber": "32",
-        "teamCode": "C",
-        "boxscoreName": "Ishihara",
-        "pitchHand": "R",
-        "batSide": "R"
-      },
-      "rate": ".316"
-    },
-    {
-      "att": 19,
       "sb": 14,
       "cs": 5,
       "ds": 0,
@@ -598,6 +572,32 @@
         "batSide": "L"
       },
       "rate": ".333"
+    },
+    {
+      "att": 18,
+      "sb": 13,
+      "cs": 5,
+      "ds": 0,
+      "ts": 0,
+      "pickoff": {
+        "pickoff": 1,
+        "sb": 0,
+        "cs": 4,
+        "ds": 0,
+        "ts": 0
+      },
+      "catcher": {
+        "id": "21125151",
+        "jaBoxscoreName": "石原",
+        "jaRegisteredName": "石原　貴規",
+        "fullLFMName": "Ishihara, Tomoki",
+        "primaryNumber": "32",
+        "teamCode": "C",
+        "boxscoreName": "Ishihara",
+        "pitchHand": "R",
+        "batSide": "R"
+      },
+      "rate": ".278"
     },
     {
       "att": 17,
@@ -2552,15 +2552,15 @@
       "rate": ".125"
     },
     {
-      "att": 5,
+      "att": 4,
       "sb": 1,
-      "cs": 4,
+      "cs": 3,
       "ds": 0,
       "ts": 0,
       "pickoff": {
         "pickoff": 0,
         "sb": 1,
-        "cs": 1,
+        "cs": 2,
         "ds": 0,
         "ts": 0
       },
@@ -10510,15 +10510,15 @@
       "rate": ".750"
     },
     {
-      "att": 3,
+      "att": 2,
       "sb": 2,
-      "cs": 1,
+      "cs": 0,
       "ds": 0,
       "ts": 0,
       "pickoff": {
         "pickoff": 0,
         "sb": 1,
-        "cs": 0,
+        "cs": 1,
         "ds": 0,
         "ts": 0
       },
@@ -13819,15 +13819,15 @@
       "teamName": "Carp",
       "league": "Central",
       "defence": {
-        "att": 98,
+        "att": 97,
         "sb": 79,
-        "cs": 19,
+        "cs": 18,
         "ds": 0,
         "ts": 0,
         "pickoff": {
           "pickoff": 3,
           "sb": 5,
-          "cs": 5,
+          "cs": 6,
           "ds": 0,
           "ts": 0
         },
@@ -13869,15 +13869,15 @@
         "rate": ".404"
       },
       "offence": {
-        "att": 75,
+        "att": 74,
         "sb": 55,
-        "cs": 21,
+        "cs": 20,
         "ds": 1,
         "ts": 0,
         "pickoff": {
           "pickoff": 4,
           "sb": 3,
-          "cs": 5,
+          "cs": 6,
           "ds": 0,
           "ts": 0
         },
@@ -14134,31 +14134,31 @@
     {
       "league": "Central",
       "defence": {
-        "att": 540,
+        "att": 539,
         "sb": 374,
-        "cs": 169,
+        "cs": 168,
         "ds": 3,
         "ts": 0,
         "pickoff": {
           "pickoff": 28,
           "sb": 10,
-          "cs": 33,
+          "cs": 34,
           "ds": 0,
           "ts": 0
         },
-        "rate": ".313",
+        "rate": ".312",
         "teamRate": ".346"
       },
       "offence": {
-        "att": 566,
+        "att": 565,
         "sb": 395,
-        "cs": 172,
+        "cs": 171,
         "ds": 1,
         "ts": 0,
         "pickoff": {
           "pickoff": 27,
           "sb": 11,
-          "cs": 33,
+          "cs": 34,
           "ds": 0,
           "ts": 0
         },

@@ -107066,7 +107066,7 @@
     "jaText": "（走者・山田）本塁盗塁失敗",
     "text": "Yamada caught stealing home plate.",
     "url": "https://npb.jp/scores/2025/0926/s-c-22/playbyplay.html#com3-2",
-    "countsAsStealAttempt": true,
+    "countsAsStealAttempt": false,
     "eventId": "91895133-2025-004",
     "movies": []
   },
