@@ -1,0 +1,17 @@
+[
+  {
+    "jaText": "（走者・山田）本塁盗塁失敗",
+    "text": "Yamada caught stealing home plate.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・佐々木）二塁盗塁失敗",
+    "text": "Sasaki caught stealing 2nd base.",
+    "countsAsStealAttempt": true
+  },
+  {
+    "jaText": "（走者・宗山）二塁盗塁成功",
+    "text": "Muneyama steals 2nd base.",
+    "countsAsStealAttempt": true
+  }
+]
