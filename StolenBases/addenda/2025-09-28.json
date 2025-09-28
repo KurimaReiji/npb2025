@@ -3,9 +3,7 @@
     "jaText": "（走者・オスナ）二塁盗塁成功",
     "text": "Osuna steals 2nd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
+    "catcher": {
         "id": "91595136",
         "jaBoxscoreName": "岸田",
         "jaRegisteredName": "岸田　行倫",
@@ -15,19 +13,7 @@
         "boxscoreName": "Kishida",
         "pitchHand": "R",
         "batSide": "R"
-      },
-      {
-        "id": "21325136",
-        "jaBoxscoreName": "大城卓",
-        "jaRegisteredName": "大城　卓三",
-        "fullLFMName": "Ohshiro, Takumi",
-        "primaryNumber": "24",
-        "teamCode": "G",
-        "boxscoreName": "T.Ohshiro",
-        "pitchHand": "R",
-        "batSide": "L"
       }
-    ]
   },
   {
     "jaText": "（走者・蝦名）二塁盗塁失敗",
@@ -52,7 +38,7 @@
   {
     "jaText": "（走者・佐藤直）二塁盗塁失敗",
     "text": "N.Satoh caught stealing 2nd base.",
-    "countsAsStealAttempt": true
+    "countsAsStealAttempt": false
   },
   {
     "jaText": "（走者・緒方）二塁盗塁成功",
@@ -62,21 +48,8 @@
   {
     "jaText": "（走者・古川）二塁盗塁失敗",
     "text": "Furukawa caught stealing 2nd base.",
-    "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
-        "id": "81385151",
-        "jaBoxscoreName": "海野",
-        "jaRegisteredName": "海野　隆司",
-        "fullLFMName": "Umino, Takashi",
-        "primaryNumber": "62",
-        "teamCode": "H",
-        "boxscoreName": "Umino",
-        "pitchHand": "R",
-        "batSide": "R"
-      },
-      {
+    "countsAsStealAttempt": false,
+    "catcher": {
         "id": "71475139",
         "jaBoxscoreName": "嶺井",
         "jaRegisteredName": "嶺井　博希",
@@ -87,26 +60,12 @@
         "pitchHand": "R",
         "batSide": "R"
       }
-    ]
   },
   {
     "jaText": "（走者・西川）二塁盗塁成功",
     "text": "Nishikawa steals 2nd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
-        "id": "81385151",
-        "jaBoxscoreName": "海野",
-        "jaRegisteredName": "海野　隆司",
-        "fullLFMName": "Umino, Takashi",
-        "primaryNumber": "62",
-        "teamCode": "H",
-        "boxscoreName": "Umino",
-        "pitchHand": "R",
-        "batSide": "R"
-      },
-      {
+    "catcher": {
         "id": "71475139",
         "jaBoxscoreName": "嶺井",
         "jaRegisteredName": "嶺井　博希",
@@ -117,7 +76,6 @@
         "pitchHand": "R",
         "batSide": "R"
       }
-    ]
   },
   {
     "jaText": "（走者・山縣）二塁盗塁成功",
@@ -143,9 +101,7 @@
     "jaText": "（走者・大城）二塁盗塁成功",
     "text": "Ohshiro steals 2nd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
+    "catcher": {
         "id": "61165134",
         "jaBoxscoreName": "石原",
         "jaRegisteredName": "石原　彪",
@@ -155,18 +111,6 @@
         "boxscoreName": "Ishihara",
         "pitchHand": "R",
         "batSide": "R"
-      },
-      {
-        "id": "11815132",
-        "jaBoxscoreName": "堀内",
-        "jaRegisteredName": "堀内　謙伍",
-        "fullLFMName": "Horiuchi, Kengo",
-        "primaryNumber": "65",
-        "teamCode": "E",
-        "boxscoreName": "Horiuchi",
-        "pitchHand": "R",
-        "batSide": "L"
       }
-    ]
   }
 ]
