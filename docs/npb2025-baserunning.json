@@ -108947,5 +108947,167 @@
     "countsAsStealAttempt": true,
     "eventId": "11515132-2025-002",
     "movies": []
+  },
+  {
+    "date": "2025-09-29",
+    "runner": {
+      "id": "51255155",
+      "jaBoxscoreName": "滝澤",
+      "jaRegisteredName": "滝澤　夏央",
+      "fullLFMName": "Takizawa, Natsuo",
+      "primaryNumber": "62",
+      "teamCode": "L",
+      "boxscoreName": "Takizawa",
+      "pitchHand": "R",
+      "batSide": "L"
+    },
+    "batter": {
+      "id": "53755150",
+      "jaBoxscoreName": "ネビン",
+      "jaRegisteredName": "Ｔ．ネビン",
+      "fullLFMName": "Nevin, Tyler",
+      "primaryNumber": "26",
+      "teamCode": "L",
+      "boxscoreName": "Nevin",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "61165139",
+      "jaBoxscoreName": "石川柊",
+      "jaRegisteredName": "石川　柊太",
+      "fullLFMName": "Ishikawa, Shuta",
+      "primaryNumber": "21",
+      "teamCode": "M",
+      "boxscoreName": "Shu.Ishikawa",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "catcher": {
+      "id": "71075151",
+      "jaBoxscoreName": "佐藤",
+      "jaRegisteredName": "佐藤　都志也",
+      "fullLFMName": "Satoh, Toshiya",
+      "primaryNumber": "32",
+      "teamCode": "M",
+      "boxscoreName": "Satoh",
+      "pitchHand": "R",
+      "batSide": "L"
+    },
+    "scoring": "PickedOff",
+    "base": "1B",
+    "inning": 1,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "1--",
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "venue": {
+      "jaBoxscoreName": "ベルーナドーム",
+      "boxscoreName": "Belluna Dome",
+      "jaName": "ベルーナドーム",
+      "name": "Belluna Dome"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 0
+      },
+      "home": {
+        "teamCode": "L",
+        "teamName": "Lions",
+        "score": 2
+      }
+    },
+    "jaText": "（走者・滝澤）一塁牽制アウト",
+    "text": "Takizawa picked off at 1st base.",
+    "url": "https://npb.jp/scores/2025/0929/l-m-25/playbyplay.html#com1-2",
+    "countsAsStealAttempt": false,
+    "eventId": "51255155-2025-030",
+    "movies": []
+  },
+  {
+    "date": "2025-09-29",
+    "runner": {
+      "id": "81685153",
+      "jaBoxscoreName": "長谷川",
+      "jaRegisteredName": "長谷川　信哉",
+      "fullLFMName": "Hasegawa, Shinya",
+      "primaryNumber": "63",
+      "teamCode": "L",
+      "boxscoreName": "Hasegawa",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "batter": {
+      "id": "51255155",
+      "jaBoxscoreName": "滝澤",
+      "jaRegisteredName": "滝澤　夏央",
+      "fullLFMName": "Takizawa, Natsuo",
+      "primaryNumber": "62",
+      "teamCode": "L",
+      "boxscoreName": "Takizawa",
+      "pitchHand": "R",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "61165139",
+      "jaBoxscoreName": "石川柊",
+      "jaRegisteredName": "石川　柊太",
+      "fullLFMName": "Ishikawa, Shuta",
+      "primaryNumber": "21",
+      "teamCode": "M",
+      "boxscoreName": "Shu.Ishikawa",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "catcher": {
+      "id": "71075151",
+      "jaBoxscoreName": "佐藤",
+      "jaRegisteredName": "佐藤　都志也",
+      "fullLFMName": "Satoh, Toshiya",
+      "primaryNumber": "32",
+      "teamCode": "M",
+      "boxscoreName": "Satoh",
+      "pitchHand": "R",
+      "batSide": "L"
+    },
+    "scoring": "StolenBase",
+    "base": "2B",
+    "inning": 3,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "1--",
+    "runs": {
+      "road": 0,
+      "home": 1
+    },
+    "venue": {
+      "jaBoxscoreName": "ベルーナドーム",
+      "boxscoreName": "Belluna Dome",
+      "jaName": "ベルーナドーム",
+      "name": "Belluna Dome"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 0
+      },
+      "home": {
+        "teamCode": "L",
+        "teamName": "Lions",
+        "score": 2
+      }
+    },
+    "jaText": "（走者・長谷川）二塁盗塁成功",
+    "text": "Hasegawa steals 2nd base.",
+    "url": "https://npb.jp/scores/2025/0929/l-m-25/playbyplay.html#com3-2",
+    "countsAsStealAttempt": true,
+    "eventId": "81685153-2025-014",
+    "movies": []
   }
 ]

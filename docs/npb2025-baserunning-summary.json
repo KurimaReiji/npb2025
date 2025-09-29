@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-28",
+  "updated": "2025-09-29",
   "catchers": [
     {
       "att": 80,
@@ -184,6 +184,32 @@
       "rate": ".500"
     },
     {
+      "att": 56,
+      "sb": 50,
+      "cs": 6,
+      "ds": 0,
+      "ts": 0,
+      "pickoff": {
+        "pickoff": 3,
+        "sb": 1,
+        "cs": 2,
+        "ds": 0,
+        "ts": 0
+      },
+      "catcher": {
+        "id": "71075151",
+        "jaBoxscoreName": "佐藤",
+        "jaRegisteredName": "佐藤　都志也",
+        "fullLFMName": "Satoh, Toshiya",
+        "primaryNumber": "32",
+        "teamCode": "M",
+        "boxscoreName": "Satoh",
+        "pitchHand": "R",
+        "batSide": "L"
+      },
+      "rate": ".107"
+    },
+    {
       "att": 55,
       "sb": 38,
       "cs": 17,
@@ -208,32 +234,6 @@
         "batSide": "R"
       },
       "rate": ".309"
-    },
-    {
-      "att": 55,
-      "sb": 49,
-      "cs": 6,
-      "ds": 0,
-      "ts": 0,
-      "pickoff": {
-        "pickoff": 2,
-        "sb": 1,
-        "cs": 2,
-        "ds": 0,
-        "ts": 0
-      },
-      "catcher": {
-        "id": "71075151",
-        "jaBoxscoreName": "佐藤",
-        "jaRegisteredName": "佐藤　都志也",
-        "fullLFMName": "Satoh, Toshiya",
-        "primaryNumber": "32",
-        "teamCode": "M",
-        "boxscoreName": "Satoh",
-        "pitchHand": "R",
-        "batSide": "L"
-      },
-      "rate": ".109"
     },
     {
       "att": 54,
@@ -1460,6 +1460,32 @@
       "rate": ".067"
     },
     {
+      "att": 15,
+      "sb": 14,
+      "cs": 1,
+      "ds": 1,
+      "ts": 0,
+      "pickoff": {
+        "pickoff": 1,
+        "sb": 0,
+        "cs": 0,
+        "ds": 0,
+        "ts": 0
+      },
+      "pitcher": {
+        "id": "61165139",
+        "jaBoxscoreName": "石川柊",
+        "jaRegisteredName": "石川　柊太",
+        "fullLFMName": "Ishikawa, Shuta",
+        "primaryNumber": "21",
+        "teamCode": "M",
+        "boxscoreName": "Shu.Ishikawa",
+        "pitchHand": "R",
+        "batSide": "R"
+      },
+      "rate": ".067"
+    },
+    {
       "att": 14,
       "sb": 11,
       "cs": 3,
@@ -1612,32 +1638,6 @@
         "boxscoreName": "Itoh",
         "pitchHand": "R",
         "batSide": "L"
-      },
-      "rate": ".071"
-    },
-    {
-      "att": 14,
-      "sb": 13,
-      "cs": 1,
-      "ds": 1,
-      "ts": 0,
-      "pickoff": {
-        "pickoff": 0,
-        "sb": 0,
-        "cs": 0,
-        "ds": 0,
-        "ts": 0
-      },
-      "pitcher": {
-        "id": "61165139",
-        "jaBoxscoreName": "石川柊",
-        "jaRegisteredName": "石川　柊太",
-        "fullLFMName": "Ishikawa, Shuta",
-        "primaryNumber": "21",
-        "teamCode": "M",
-        "boxscoreName": "Shu.Ishikawa",
-        "pitchHand": "R",
-        "batSide": "R"
       },
       "rate": ".071"
     },
@@ -8410,7 +8410,7 @@
       "ds": 0,
       "ts": 0,
       "pickoff": {
-        "pickoff": 1,
+        "pickoff": 2,
         "sb": 0,
         "cs": 2,
         "ds": 0,
@@ -8821,6 +8821,32 @@
     },
     {
       "att": 11,
+      "sb": 9,
+      "cs": 2,
+      "ds": 0,
+      "ts": 0,
+      "pickoff": {
+        "pickoff": 1,
+        "sb": 0,
+        "cs": 2,
+        "ds": 0,
+        "ts": 0
+      },
+      "runner": {
+        "id": "81685153",
+        "jaBoxscoreName": "長谷川",
+        "jaRegisteredName": "長谷川　信哉",
+        "fullLFMName": "Hasegawa, Shinya",
+        "primaryNumber": "63",
+        "teamCode": "L",
+        "boxscoreName": "Hasegawa",
+        "pitchHand": "R",
+        "batSide": "R"
+      },
+      "rate": ".692"
+    },
+    {
+      "att": 11,
       "sb": 8,
       "cs": 3,
       "ds": 0,
@@ -9000,32 +9026,6 @@
         "batSide": "L"
       },
       "rate": ".750"
-    },
-    {
-      "att": 10,
-      "sb": 8,
-      "cs": 2,
-      "ds": 0,
-      "ts": 0,
-      "pickoff": {
-        "pickoff": 1,
-        "sb": 0,
-        "cs": 2,
-        "ds": 0,
-        "ts": 0
-      },
-      "runner": {
-        "id": "81685153",
-        "jaBoxscoreName": "長谷川",
-        "jaRegisteredName": "長谷川　信哉",
-        "fullLFMName": "Hasegawa, Shinya",
-        "primaryNumber": "63",
-        "teamCode": "L",
-        "boxscoreName": "Hasegawa",
-        "pitchHand": "R",
-        "batSide": "R"
-      },
-      "rate": ".667"
     },
     {
       "att": 11,
@@ -14020,19 +14020,19 @@
       "teamName": "Marines",
       "league": "Pacific",
       "defence": {
-        "att": 146,
-        "sb": 128,
+        "att": 147,
+        "sb": 129,
         "cs": 19,
         "ds": 1,
         "ts": 0,
         "pickoff": {
-          "pickoff": 2,
+          "pickoff": 3,
           "sb": 1,
           "cs": 4,
           "ds": 0,
           "ts": 0
         },
-        "rate": ".152"
+        "rate": ".151"
       },
       "offence": {
         "att": 88,
@@ -14140,19 +14140,19 @@
         "rate": ".220"
       },
       "offence": {
-        "att": 116,
-        "sb": 88,
+        "att": 117,
+        "sb": 89,
         "cs": 28,
         "ds": 0,
         "ts": 0,
         "pickoff": {
-          "pickoff": 5,
+          "pickoff": 6,
           "sb": 1,
           "cs": 12,
           "ds": 0,
           "ts": 0
         },
-        "rate": ".690"
+        "rate": ".692"
       }
     }
   ],
@@ -14194,35 +14194,35 @@
     {
       "league": "Pacific",
       "defence": {
-        "att": 649,
-        "sb": 513,
+        "att": 650,
+        "sb": 514,
         "cs": 138,
         "ds": 2,
         "ts": 0,
         "pickoff": {
-          "pickoff": 35,
+          "pickoff": 36,
           "sb": 3,
           "cs": 28,
           "ds": 0,
           "ts": 0
         },
-        "rate": ".213",
+        "rate": ".212",
         "teamRate": ".244"
       },
       "offence": {
-        "att": 623,
-        "sb": 492,
+        "att": 624,
+        "sb": 493,
         "cs": 135,
         "ds": 4,
         "ts": 0,
         "pickoff": {
-          "pickoff": 36,
+          "pickoff": 37,
           "sb": 2,
           "cs": 28,
           "ds": 0,
           "ts": 0
         },
-        "rate": ".750"
+        "rate": ".751"
       }
     }
   ]
