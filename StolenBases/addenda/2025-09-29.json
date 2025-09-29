@@ -1,0 +1,12 @@
+[
+  {
+    "jaText": "（走者・滝澤）一塁牽制アウト",
+    "text": "Takizawa picked off at 1st base.",
+    "countsAsStealAttempt": false
+  },
+  {
+    "jaText": "（走者・長谷川）二塁盗塁成功",
+    "text": "Hasegawa steals 2nd base.",
+    "countsAsStealAttempt": true
+  }
+]
