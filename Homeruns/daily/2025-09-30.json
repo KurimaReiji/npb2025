@@ -1,0 +1,352 @@
+[
+  {
+    "id": "31835134-2025-20",
+    "date": "2025-09-30",
+    "batter": {
+      "jaBoxscoreName": "細川",
+      "playerId": "31835134",
+      "boxscoreName": "Hosokawa",
+      "batSide": "R",
+      "teamCode": "D",
+      "primaryNumber": "55",
+      "jaRegisteredName": "細川　成也",
+      "fullLFMName": "Hosokawa, Seiya"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "田中将",
+      "boxscoreName": "M.Tanaka",
+      "pitchHand": "R",
+      "teamCode": "G",
+      "primaryNumber": "11",
+      "jaRegisteredName": "田中　将大",
+      "fullLFMName": "Tanaka, Masahiro"
+    },
+    "number": 20,
+    "inning": 3,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "1--",
+    "count": {
+      "balls": 0,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 0,
+      "home": 3
+    },
+    "bop": 2,
+    "rbi": 2,
+    "whereHit": "89",
+    "venue": {
+      "boxscoreName": "Tokyo Dome",
+      "jaBoxscoreName": "東京ドーム"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "D",
+        "teamName": "Dragons",
+        "score": 2
+      },
+      "home": {
+        "teamCode": "G",
+        "teamName": "Giants",
+        "score": 4
+      }
+    },
+    "jaText": "右中間2ランホームラン（打点2）",
+    "text": "Hosokawa homers (20) to right center.",
+    "url": "https://npb.jp/scores/2025/0930/g-d-24/playbyplay.html#com3-1"
+  },
+  {
+    "id": "41845136-2025-21",
+    "date": "2025-09-30",
+    "batter": {
+      "jaBoxscoreName": "村上",
+      "playerId": "41845136",
+      "boxscoreName": "Murakami",
+      "batSide": "L",
+      "teamCode": "S",
+      "primaryNumber": "55",
+      "jaRegisteredName": "村上　宗隆",
+      "fullLFMName": "Murakami, Munetaka"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "篠木",
+      "boxscoreName": "Shinogi",
+      "pitchHand": "R",
+      "teamCode": "DB",
+      "primaryNumber": "30",
+      "jaRegisteredName": "篠木　健太郎",
+      "fullLFMName": "Shinogi, Kentaro"
+    },
+    "number": 21,
+    "inning": 3,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "1--",
+    "count": {
+      "balls": 1,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 1,
+      "home": 1
+    },
+    "bop": 4,
+    "rbi": 2,
+    "whereHit": "9",
+    "venue": {
+      "boxscoreName": "Yokohama",
+      "jaBoxscoreName": "横浜"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 5
+      },
+      "home": {
+        "teamCode": "DB",
+        "teamName": "Baystars",
+        "score": 4
+      }
+    },
+    "jaText": "ライト2ランホームラン（打点2）",
+    "text": "Murakami homers (21) to right field.",
+    "url": "https://npb.jp/scores/2025/0930/db-s-24/playbyplay.html#com3-1"
+  },
+  {
+    "id": "51555151-2025-08",
+    "date": "2025-09-30",
+    "batter": {
+      "jaBoxscoreName": "蝦名",
+      "playerId": "51555151",
+      "boxscoreName": "Ebina",
+      "batSide": "R",
+      "teamCode": "DB",
+      "primaryNumber": "61",
+      "jaRegisteredName": "蝦名　達夫",
+      "fullLFMName": "Ebina, Tatsuo"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "山野",
+      "boxscoreName": "Yamano",
+      "pitchHand": "L",
+      "teamCode": "S",
+      "primaryNumber": "26",
+      "jaRegisteredName": "山野　太一",
+      "fullLFMName": "Yamano, Taichi"
+    },
+    "number": 8,
+    "inning": 1,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 2,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 1,
+    "rbi": 1,
+    "whereHit": "78",
+    "venue": {
+      "boxscoreName": "Yokohama",
+      "jaBoxscoreName": "横浜"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 5
+      },
+      "home": {
+        "teamCode": "DB",
+        "teamName": "Baystars",
+        "score": 4
+      }
+    },
+    "jaText": "左中間ソロホームラン（打点1）",
+    "text": "Ebina homers (8) to left center.",
+    "url": "https://npb.jp/scores/2025/0930/db-s-24/playbyplay.html#com1-2",
+    "isLeadOff": "Y"
+  },
+  {
+    "id": "41945131-2025-19",
+    "date": "2025-09-30",
+    "batter": {
+      "jaBoxscoreName": "筒香",
+      "playerId": "41945131",
+      "boxscoreName": "Tsutsugoh",
+      "batSide": "L",
+      "teamCode": "DB",
+      "primaryNumber": "25",
+      "jaRegisteredName": "筒香　嘉智",
+      "fullLFMName": "Tsutsugoh, Yoshitomo"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "松本健",
+      "boxscoreName": "K.Matsumoto",
+      "pitchHand": "R",
+      "teamCode": "S",
+      "primaryNumber": "28",
+      "jaRegisteredName": "松本　健吾",
+      "fullLFMName": "Matsumoto, Kengo"
+    },
+    "number": 19,
+    "inning": 8,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "1--",
+    "count": {
+      "balls": 0,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 5,
+      "home": 1
+    },
+    "bop": 4,
+    "rbi": 2,
+    "whereHit": "89",
+    "venue": {
+      "boxscoreName": "Yokohama",
+      "jaBoxscoreName": "横浜"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 5
+      },
+      "home": {
+        "teamCode": "DB",
+        "teamName": "Baystars",
+        "score": 4
+      }
+    },
+    "jaText": "右中間2ランホームラン（打点2）",
+    "text": "Tsutsugoh homers (19) to right center.",
+    "url": "https://npb.jp/scores/2025/0930/db-s-24/playbyplay.html#com8-2",
+    "isPinchHit": "Y"
+  },
+  {
+    "id": "21925151-2025-10",
+    "date": "2025-09-30",
+    "batter": {
+      "jaBoxscoreName": "郡司",
+      "playerId": "21925151",
+      "boxscoreName": "Gunji",
+      "batSide": "R",
+      "teamCode": "F",
+      "primaryNumber": "30",
+      "jaRegisteredName": "郡司　裕也",
+      "fullLFMName": "Gunji, Yuya"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "大江",
+      "boxscoreName": "Ohe",
+      "pitchHand": "L",
+      "teamCode": "H",
+      "primaryNumber": "29",
+      "jaRegisteredName": "大江　竜聖",
+      "fullLFMName": "Ohe, Ryusei"
+    },
+    "number": 10,
+    "inning": 4,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "1--",
+    "count": {
+      "balls": 1,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 3,
+    "rbi": 2,
+    "whereHit": "89",
+    "venue": {
+      "boxscoreName": "MIZUHO PayPay",
+      "jaBoxscoreName": "みずほPayPay"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 2
+      },
+      "home": {
+        "teamCode": "H",
+        "teamName": "Hawks",
+        "score": 1
+      }
+    },
+    "jaText": "右中間2ランホームラン（打点2）",
+    "text": "Gunji homers (10) to right center.",
+    "url": "https://npb.jp/scores/2025/0930/h-f-25/playbyplay.html#com4-1"
+  },
+  {
+    "id": "21425139-2025-22",
+    "date": "2025-09-30",
+    "batter": {
+      "jaBoxscoreName": "山川",
+      "playerId": "21425139",
+      "boxscoreName": "Yamakawa",
+      "batSide": "R",
+      "teamCode": "H",
+      "primaryNumber": "5",
+      "jaRegisteredName": "山川　穂高",
+      "fullLFMName": "Yamakawa, Hotaka"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "山﨑福也",
+      "boxscoreName": "Yamasaki",
+      "pitchHand": "L",
+      "teamCode": "F",
+      "primaryNumber": "18",
+      "jaRegisteredName": "山﨑　福也",
+      "fullLFMName": "Yamasaki, Sachiya"
+    },
+    "number": 22,
+    "inning": 4,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "---",
+    "count": {
+      "balls": 3,
+      "strikes": 2
+    },
+    "runs": {
+      "road": 2,
+      "home": 0
+    },
+    "bop": 5,
+    "rbi": 1,
+    "whereHit": "8",
+    "venue": {
+      "boxscoreName": "MIZUHO PayPay",
+      "jaBoxscoreName": "みずほPayPay"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 2
+      },
+      "home": {
+        "teamCode": "H",
+        "teamName": "Hawks",
+        "score": 1
+      }
+    },
+    "jaText": "センターソロホームラン（打点1）",
+    "text": "Yamakawa homers (22) to center field.",
+    "url": "https://npb.jp/scores/2025/0930/h-f-25/playbyplay.html#com4-2"
+  }
+]
