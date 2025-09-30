@@ -109027,7 +109027,11 @@
     "url": "https://npb.jp/scores/2025/0929/l-m-25/playbyplay.html#com1-2",
     "countsAsStealAttempt": false,
     "eventId": "51255155-2025-030",
-    "movies": []
+    "movies": [
+      {
+        "url": "https://youtu.be/u2K2fRIq3xI?si=5z4jxHVp7kFH-o61&t=1"
+      }
+    ]
   },
   {
     "date": "2025-09-29",
@@ -109108,6 +109112,573 @@
     "url": "https://npb.jp/scores/2025/0929/l-m-25/playbyplay.html#com3-2",
     "countsAsStealAttempt": true,
     "eventId": "81685153-2025-014",
+    "movies": []
+  },
+  {
+    "date": "2025-09-30",
+    "runner": {
+      "id": "23525153",
+      "jaBoxscoreName": "オスナ",
+      "jaRegisteredName": "Ｊ．オスナ",
+      "fullLFMName": "Osuna, Jose",
+      "primaryNumber": "13",
+      "teamCode": "S",
+      "boxscoreName": "Osuna",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "batter": {
+      "id": "11815136",
+      "jaBoxscoreName": "増田",
+      "jaRegisteredName": "増田　珠",
+      "fullLFMName": "Masuda, Shu",
+      "primaryNumber": "63",
+      "teamCode": "S",
+      "boxscoreName": "Masuda",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "13715159",
+      "jaBoxscoreName": "ケイ",
+      "jaRegisteredName": "Ａ．ケイ",
+      "fullLFMName": "Kay, Anthony",
+      "primaryNumber": "69",
+      "teamCode": "DB",
+      "boxscoreName": "Kay",
+      "pitchHand": "L",
+      "batSide": "L"
+    },
+    "catcher": {
+      "id": "23125136",
+      "jaBoxscoreName": "山本",
+      "jaRegisteredName": "山本　祐大",
+      "fullLFMName": "Yamamoto, Yuudai",
+      "primaryNumber": "50",
+      "teamCode": "DB",
+      "boxscoreName": "Yamamoto",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "scoring": "StolenBase",
+    "base": "3B",
+    "inning": 2,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "12-",
+    "runs": {
+      "road": 0,
+      "home": 1
+    },
+    "venue": {
+      "jaBoxscoreName": "横浜",
+      "boxscoreName": "Yokohama",
+      "jaName": "横浜スタジアム",
+      "name": "Yokohama Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 5
+      },
+      "home": {
+        "teamCode": "DB",
+        "teamName": "Baystars",
+        "score": 4
+      }
+    },
+    "jaText": "（走者・オスナ）三塁盗塁成功",
+    "text": "Osuna steals 3rd base.",
+    "url": "https://npb.jp/scores/2025/0930/db-s-24/playbyplay.html#com2-1",
+    "countsAsStealAttempt": true,
+    "eventId": "23525153-2025-006",
+    "movies": []
+  },
+  {
+    "date": "2025-09-30",
+    "runner": {
+      "id": "51755135",
+      "jaBoxscoreName": "桑原",
+      "jaRegisteredName": "桑原　将志",
+      "fullLFMName": "Kuwahara, Masayuki",
+      "primaryNumber": "1",
+      "teamCode": "DB",
+      "boxscoreName": "Kuwahara",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "batter": {
+      "id": "23125136",
+      "jaBoxscoreName": "山本",
+      "jaRegisteredName": "山本　祐大",
+      "fullLFMName": "Yamamoto, Yuudai",
+      "primaryNumber": "50",
+      "teamCode": "DB",
+      "boxscoreName": "Yamamoto",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "63365153",
+      "jaBoxscoreName": "山野",
+      "jaRegisteredName": "山野　太一",
+      "fullLFMName": "Yamano, Taichi",
+      "primaryNumber": "26",
+      "teamCode": "S",
+      "boxscoreName": "Yamano",
+      "pitchHand": "L",
+      "batSide": "L"
+    },
+    "catcher": {
+      "id": "01705134",
+      "jaBoxscoreName": "古賀",
+      "jaRegisteredName": "古賀　優大",
+      "fullLFMName": "Koga, Yudai",
+      "primaryNumber": "2",
+      "teamCode": "S",
+      "boxscoreName": "Koga",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "scoring": "PickedOff",
+    "base": "1B",
+    "inning": 5,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "1--",
+    "runs": {
+      "road": 3,
+      "home": 1
+    },
+    "venue": {
+      "jaBoxscoreName": "横浜",
+      "boxscoreName": "Yokohama",
+      "jaName": "横浜スタジアム",
+      "name": "Yokohama Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 5
+      },
+      "home": {
+        "teamCode": "DB",
+        "teamName": "Baystars",
+        "score": 4
+      }
+    },
+    "jaText": "（走者・桑原）一塁牽制アウト",
+    "text": "Kuwahara picked off at 1st base.",
+    "url": "https://npb.jp/scores/2025/0930/db-s-24/playbyplay.html#com5-2",
+    "countsAsStealAttempt": false,
+    "eventId": "51755135-2025-011",
+    "movies": []
+  },
+  {
+    "date": "2025-09-30",
+    "runner": {
+      "id": "71575136",
+      "jaBoxscoreName": "神里",
+      "jaRegisteredName": "神里　和毅",
+      "fullLFMName": "Kamizato, Kazuki",
+      "primaryNumber": "8",
+      "teamCode": "DB",
+      "boxscoreName": "Kamizato",
+      "pitchHand": "R",
+      "batSide": "L"
+    },
+    "batter": {
+      "id": "21525150",
+      "jaBoxscoreName": "加藤",
+      "jaRegisteredName": "加藤　響",
+      "fullLFMName": "Kato, Hibiki",
+      "primaryNumber": "37",
+      "teamCode": "DB",
+      "boxscoreName": "Kato",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "63365153",
+      "jaBoxscoreName": "山野",
+      "jaRegisteredName": "山野　太一",
+      "fullLFMName": "Yamano, Taichi",
+      "primaryNumber": "26",
+      "teamCode": "S",
+      "boxscoreName": "Yamano",
+      "pitchHand": "L",
+      "batSide": "L"
+    },
+    "catcher": {
+      "id": "01705134",
+      "jaBoxscoreName": "古賀",
+      "jaRegisteredName": "古賀　優大",
+      "fullLFMName": "Koga, Yudai",
+      "primaryNumber": "2",
+      "teamCode": "S",
+      "boxscoreName": "Koga",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "scoring": "StolenBase",
+    "base": "2B",
+    "inning": 6,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "1--",
+    "runs": {
+      "road": 3,
+      "home": 1
+    },
+    "venue": {
+      "jaBoxscoreName": "横浜",
+      "boxscoreName": "Yokohama",
+      "jaName": "横浜スタジアム",
+      "name": "Yokohama Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 5
+      },
+      "home": {
+        "teamCode": "DB",
+        "teamName": "Baystars",
+        "score": 4
+      }
+    },
+    "jaText": "（走者・神里）二塁盗塁成功",
+    "text": "Kamizato steals 2nd base.",
+    "url": "https://npb.jp/scores/2025/0930/db-s-24/playbyplay.html#com6-2",
+    "countsAsStealAttempt": true,
+    "eventId": "71575136-2025-004",
+    "movies": []
+  },
+  {
+    "date": "2025-09-30",
+    "runner": {
+      "id": "11215151",
+      "jaBoxscoreName": "髙部",
+      "jaRegisteredName": "髙部　瑛斗",
+      "fullLFMName": "Takabe, Akito",
+      "primaryNumber": "38",
+      "teamCode": "M",
+      "boxscoreName": "Takabe",
+      "pitchHand": "R",
+      "batSide": "L"
+    },
+    "batter": {
+      "id": "03505136",
+      "jaBoxscoreName": "ソト",
+      "jaRegisteredName": "Ｎ．ソト",
+      "fullLFMName": "Soto, Neftali",
+      "primaryNumber": "99",
+      "teamCode": "M",
+      "boxscoreName": "Soto",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "91795114",
+      "jaBoxscoreName": "岸",
+      "jaRegisteredName": "岸　孝之",
+      "fullLFMName": "Kishi, Takayuki",
+      "primaryNumber": "11",
+      "teamCode": "E",
+      "boxscoreName": "Kishi",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "catcher": {
+      "id": "61165134",
+      "jaBoxscoreName": "石原",
+      "jaRegisteredName": "石原　彪",
+      "fullLFMName": "Ishihara, Tsuyoshi",
+      "primaryNumber": "70",
+      "teamCode": "E",
+      "boxscoreName": "Ishihara",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "scoring": "StolenBase",
+    "base": "2B",
+    "inning": 4,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "1--",
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "venue": {
+      "jaBoxscoreName": "ZOZOマリン",
+      "boxscoreName": "ZOZO Marine",
+      "jaName": "ZOZOマリンスタジアム",
+      "name": "ZOZO Marine Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "E",
+        "teamName": "Eagles",
+        "score": 2
+      },
+      "home": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 1
+      }
+    },
+    "jaText": "（走者・髙部）二塁盗塁成功",
+    "text": "Takabe steals 2nd base.",
+    "url": "https://npb.jp/scores/2025/0930/m-e-25/playbyplay.html#com4-2",
+    "countsAsStealAttempt": true,
+    "eventId": "11215151-2025-024",
+    "movies": []
+  },
+  {
+    "date": "2025-09-30",
+    "runner": {
+      "id": "71275157",
+      "jaBoxscoreName": "友杉",
+      "jaRegisteredName": "友杉　篤輝",
+      "fullLFMName": "Tomosugi, Atsuki",
+      "primaryNumber": "4",
+      "teamCode": "M",
+      "boxscoreName": "Tomosugi",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "batter": {
+      "id": "91395151",
+      "jaBoxscoreName": "植田",
+      "jaRegisteredName": "植田　将太",
+      "fullLFMName": "Ueda, Shota",
+      "primaryNumber": "45",
+      "teamCode": "M",
+      "boxscoreName": "S.Ueda",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "61065155",
+      "jaBoxscoreName": "泰",
+      "jaRegisteredName": "泰　勝利",
+      "fullLFMName": "Tai, Katsutoshi",
+      "primaryNumber": "59",
+      "teamCode": "E",
+      "boxscoreName": "Tai",
+      "pitchHand": "L",
+      "batSide": "R"
+    },
+    "catcher": {
+      "id": "61165134",
+      "jaBoxscoreName": "石原",
+      "jaRegisteredName": "石原　彪",
+      "fullLFMName": "Ishihara, Tsuyoshi",
+      "primaryNumber": "70",
+      "teamCode": "E",
+      "boxscoreName": "Ishihara",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "scoring": "CaughtStealing",
+    "base": "2B",
+    "inning": 7,
+    "halfInning": "bottom",
+    "outs": 2,
+    "RoB": "1--",
+    "runs": {
+      "road": 0,
+      "home": 1
+    },
+    "venue": {
+      "jaBoxscoreName": "ZOZOマリン",
+      "boxscoreName": "ZOZO Marine",
+      "jaName": "ZOZOマリンスタジアム",
+      "name": "ZOZO Marine Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "E",
+        "teamName": "Eagles",
+        "score": 2
+      },
+      "home": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 1
+      }
+    },
+    "jaText": "（走者・友杉）二塁盗塁失敗",
+    "text": "Tomosugi caught stealing 2nd base.",
+    "url": "https://npb.jp/scores/2025/0930/m-e-25/playbyplay.html#com7-2",
+    "countsAsStealAttempt": true,
+    "eventId": "71275157-2025-014",
+    "movies": []
+  },
+  {
+    "date": "2025-09-30",
+    "runner": {
+      "id": "21125134",
+      "jaBoxscoreName": "石井",
+      "jaRegisteredName": "石井　一成",
+      "fullLFMName": "Ishii, Kazunari",
+      "primaryNumber": "38",
+      "teamCode": "F",
+      "boxscoreName": "Ishii",
+      "pitchHand": "R",
+      "batSide": "L"
+    },
+    "batter": {
+      "id": "41545136",
+      "jaBoxscoreName": "清宮幸",
+      "jaRegisteredName": "清宮　幸太郎",
+      "fullLFMName": "Kiyomiya, Kotaro",
+      "primaryNumber": "21",
+      "teamCode": "F",
+      "boxscoreName": "Kiyomiya",
+      "pitchHand": "R",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "71375134",
+      "jaBoxscoreName": "大江",
+      "jaRegisteredName": "大江　竜聖",
+      "fullLFMName": "Ohe, Ryusei",
+      "primaryNumber": "29",
+      "teamCode": "H",
+      "boxscoreName": "Ohe",
+      "pitchHand": "L",
+      "batSide": "L"
+    },
+    "catcher": {
+      "id": "11215132",
+      "jaBoxscoreName": "谷川原",
+      "jaRegisteredName": "谷川原　健太",
+      "fullLFMName": "Tanigawara, Kenta",
+      "primaryNumber": "45",
+      "teamCode": "H",
+      "boxscoreName": "Tanigawara",
+      "pitchHand": "R",
+      "batSide": "L"
+    },
+    "scoring": "StolenBase",
+    "base": "2B",
+    "inning": 3,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "1--",
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "venue": {
+      "jaBoxscoreName": "みずほPayPay",
+      "boxscoreName": "MIZUHO PayPay",
+      "jaName": "みずほPayPayドーム福岡",
+      "name": "MIZUHO PayPay Dome Fukuoka"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 2
+      },
+      "home": {
+        "teamCode": "H",
+        "teamName": "Hawks",
+        "score": 1
+      }
+    },
+    "jaText": "（走者・石井）二塁盗塁成功",
+    "text": "Ishii steals 2nd base.",
+    "url": "https://npb.jp/scores/2025/0930/h-f-25/playbyplay.html#com3-1",
+    "countsAsStealAttempt": true,
+    "eventId": "21125134-2025-003",
+    "movies": []
+  },
+  {
+    "date": "2025-09-30",
+    "runner": {
+      "id": "63165150",
+      "jaBoxscoreName": "山縣",
+      "jaRegisteredName": "山縣　秀",
+      "fullLFMName": "Yamagata, Shu",
+      "primaryNumber": "54",
+      "teamCode": "F",
+      "boxscoreName": "Yamagata",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "batter": {
+      "id": "31135130",
+      "jaBoxscoreName": "淺間",
+      "jaRegisteredName": "淺間　大基",
+      "fullLFMName": "Asama, Daiki",
+      "primaryNumber": "8",
+      "teamCode": "F",
+      "boxscoreName": "Asama",
+      "pitchHand": "R",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "33435157",
+      "jaBoxscoreName": "ヘルナンデス",
+      "jaRegisteredName": "Ｄ．ヘルナンデス",
+      "fullLFMName": "Hernandez, Darwinzon",
+      "primaryNumber": "63",
+      "teamCode": "H",
+      "boxscoreName": "Hernandez",
+      "pitchHand": "L",
+      "batSide": "L"
+    },
+    "catcher": {
+      "id": "11215132",
+      "jaBoxscoreName": "谷川原",
+      "jaRegisteredName": "谷川原　健太",
+      "fullLFMName": "Tanigawara, Kenta",
+      "primaryNumber": "45",
+      "teamCode": "H",
+      "boxscoreName": "Tanigawara",
+      "pitchHand": "R",
+      "batSide": "L"
+    },
+    "scoring": "StolenBase",
+    "base": "2B",
+    "inning": 7,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "1--",
+    "runs": {
+      "road": 2,
+      "home": 1
+    },
+    "venue": {
+      "jaBoxscoreName": "みずほPayPay",
+      "boxscoreName": "MIZUHO PayPay",
+      "jaName": "みずほPayPayドーム福岡",
+      "name": "MIZUHO PayPay Dome Fukuoka"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "F",
+        "teamName": "Fighters",
+        "score": 2
+      },
+      "home": {
+        "teamCode": "H",
+        "teamName": "Hawks",
+        "score": 1
+      }
+    },
+    "jaText": "（走者・山縣）二塁盗塁成功",
+    "text": "Yamagata steals 2nd base.",
+    "url": "https://npb.jp/scores/2025/0930/h-f-25/playbyplay.html#com7-1",
+    "countsAsStealAttempt": true,
+    "eventId": "63165150-2025-004",
     "movies": []
   }
 ]
