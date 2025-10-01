@@ -421,9 +421,9 @@ function createChart(svg, data, { width = 1200, height = 675, xOffset = 0, yOffs
   const to_vx = createViewportTransformer(xDomain, xRange);
   const to_vy = createViewportTransformer(yDomain, yRange);
   updateBgRect({ svg, width, height });
-  svg.querySelector('#clipPath rect').setAttribute('x', to_vx(xDomain[0]));
+  svg.querySelector('#clipPath rect').setAttribute('x', to_vx(xDomain[0] - 0.5));
   svg.querySelector('#clipPath rect').setAttribute('y', to_vy(yDomain[0]));
-  svg.querySelector('#clipPath rect').setAttribute('width', Math.abs(to_vx(xDomain[0]) - to_vx(xDomain[1])));
+  svg.querySelector('#clipPath rect').setAttribute('width', Math.abs(to_vx(xDomain[0] - 0.5) - to_vx(xDomain[1] + 0.5)));
   svg.querySelector('#clipPath rect').setAttribute('height', Math.abs(to_vy(yDomain[0]) - to_vy(yDomain[1])));
   const axis = {
     x: [
