@@ -13,9 +13,7 @@
     "jaText": "（走者・石上）二塁盗塁成功",
     "text": "Ishikami steals 2nd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
+    "catcher": {
         "id": "51255118",
         "jaBoxscoreName": "中村悠",
         "jaRegisteredName": "中村　悠平",
@@ -25,27 +23,13 @@
         "boxscoreName": "Yuh.Nakamura",
         "pitchHand": "R",
         "batSide": "R"
-      },
-      {
-        "id": "01005159",
-        "jaBoxscoreName": "鈴木叶",
-        "jaRegisteredName": "鈴木　叶",
-        "fullLFMName": "Suzuki, Kyo",
-        "primaryNumber": "65",
-        "teamCode": "S",
-        "boxscoreName": "TBD",
-        "pitchHand": "R",
-        "batSide": "R"
       }
-    ]
   },
   {
     "jaText": "（走者・村上）二塁盗塁成功",
     "text": "Murakami steals 2nd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
+    "catcher": {
         "id": "21825157",
         "jaBoxscoreName": "松尾",
         "jaRegisteredName": "松尾　汐恩",
@@ -55,27 +39,13 @@
         "boxscoreName": "Matsuo",
         "pitchHand": "R",
         "batSide": "R"
-      },
-      {
-        "id": "41245132",
-        "jaBoxscoreName": "戸柱",
-        "jaRegisteredName": "戸柱　恭孝",
-        "fullLFMName": "Tobashira, Yasutaka",
-        "primaryNumber": "10",
-        "teamCode": "DB",
-        "boxscoreName": "Tobashira",
-        "pitchHand": "R",
-        "batSide": "L"
       }
-    ]
   },
   {
     "jaText": "（走者・林）二塁盗塁成功",
     "text": "Hayashi steals 2nd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
+    "catcher": {
         "id": "51255118",
         "jaBoxscoreName": "中村悠",
         "jaRegisteredName": "中村　悠平",
@@ -85,27 +55,13 @@
         "boxscoreName": "Yuh.Nakamura",
         "pitchHand": "R",
         "batSide": "R"
-      },
-      {
-        "id": "01005159",
-        "jaBoxscoreName": "鈴木叶",
-        "jaRegisteredName": "鈴木　叶",
-        "fullLFMName": "Suzuki, Kyo",
-        "primaryNumber": "65",
-        "teamCode": "S",
-        "boxscoreName": "TBD",
-        "pitchHand": "R",
-        "batSide": "R"
       }
-    ]
   },
   {
     "jaText": "（走者・鈴木叶）二塁盗塁失敗",
     "text": "TBD caught stealing 2nd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
+    "catcher": {
         "id": "21825157",
         "jaBoxscoreName": "松尾",
         "jaRegisteredName": "松尾　汐恩",
@@ -115,18 +71,6 @@
         "boxscoreName": "Matsuo",
         "pitchHand": "R",
         "batSide": "R"
-      },
-      {
-        "id": "41245132",
-        "jaBoxscoreName": "戸柱",
-        "jaRegisteredName": "戸柱　恭孝",
-        "fullLFMName": "Tobashira, Yasutaka",
-        "primaryNumber": "10",
-        "teamCode": "DB",
-        "boxscoreName": "Tobashira",
-        "pitchHand": "R",
-        "batSide": "L"
       }
-    ]
   }
 ]
