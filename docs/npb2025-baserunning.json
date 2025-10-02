@@ -109786,7 +109786,7 @@
       "fullLFMName": "Yamase, Shinnosuke",
       "primaryNumber": "67",
       "teamCode": "G",
-      "boxscoreName": "TBD",
+      "boxscoreName": "Yamase",
       "pitchHand": "R",
       "batSide": "R"
     },
@@ -110099,7 +110099,7 @@
       "fullLFMName": "Suzuki, Kyo",
       "primaryNumber": "65",
       "teamCode": "S",
-      "boxscoreName": "TBD",
+      "boxscoreName": "Ky.Suzuki",
       "pitchHand": "R",
       "batSide": "R"
     },
@@ -110121,7 +110121,7 @@
       "fullLFMName": "Takeda, Riku",
       "primaryNumber": "33",
       "teamCode": "DB",
-      "boxscoreName": "TBD",
+      "boxscoreName": "R.Takeda",
       "pitchHand": "L",
       "batSide": "L"
     },
@@ -110165,7 +110165,7 @@
       }
     },
     "jaText": "（走者・鈴木叶）二塁盗塁失敗",
-    "text": "TBD caught stealing 2nd base.",
+    "text": "Ky.Suzuki caught stealing 2nd base.",
     "url": "https://npb.jp/scores/2025/1001/db-s-25/playbyplay.html#com6-1",
     "countsAsStealAttempt": true,
     "eventId": "01005159-2025-001",
