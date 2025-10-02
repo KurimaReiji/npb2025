@@ -1,10 +1,10 @@
 {
-  "updated": "2025-10-01",
+  "updated": "2025-10-02",
   "catchers": [
     {
-      "att": 80,
+      "att": 81,
       "sb": 63,
-      "cs": 17,
+      "cs": 18,
       "ds": 1,
       "ts": 0,
       "pickoff": {
@@ -25,7 +25,7 @@
         "pitchHand": "R",
         "batSide": "R"
       },
-      "rate": ".212"
+      "rate": ".222"
     },
     {
       "att": 78,
@@ -55,6 +55,32 @@
     },
     {
       "att": 72,
+      "sb": 56,
+      "cs": 16,
+      "ds": 0,
+      "ts": 0,
+      "pickoff": {
+        "pickoff": 7,
+        "sb": 1,
+        "cs": 2,
+        "ds": 0,
+        "ts": 0
+      },
+      "catcher": {
+        "id": "41645139",
+        "jaBoxscoreName": "若月",
+        "jaRegisteredName": "若月　健矢",
+        "fullLFMName": "Wakatsuki, Kenya",
+        "primaryNumber": "2",
+        "teamCode": "B",
+        "boxscoreName": "Wakatsuki",
+        "pitchHand": "R",
+        "batSide": "R"
+      },
+      "rate": ".222"
+    },
+    {
+      "att": 72,
       "sb": 59,
       "cs": 13,
       "ds": 0,
@@ -78,32 +104,6 @@
         "batSide": "L"
       },
       "rate": ".181"
-    },
-    {
-      "att": 71,
-      "sb": 56,
-      "cs": 15,
-      "ds": 0,
-      "ts": 0,
-      "pickoff": {
-        "pickoff": 7,
-        "sb": 1,
-        "cs": 2,
-        "ds": 0,
-        "ts": 0
-      },
-      "catcher": {
-        "id": "41645139",
-        "jaBoxscoreName": "若月",
-        "jaRegisteredName": "若月　健矢",
-        "fullLFMName": "Wakatsuki, Kenya",
-        "primaryNumber": "2",
-        "teamCode": "B",
-        "boxscoreName": "Wakatsuki",
-        "pitchHand": "R",
-        "batSide": "R"
-      },
-      "rate": ".211"
     },
     {
       "att": 61,
@@ -1200,9 +1200,9 @@
   ],
   "pitchers": [
     {
-      "att": 25,
+      "att": 26,
       "sb": 20,
-      "cs": 5,
+      "cs": 6,
       "ds": 0,
       "ts": 0,
       "pickoff": {
@@ -1223,7 +1223,7 @@
         "pitchHand": "R",
         "batSide": "R"
       },
-      "rate": ".200"
+      "rate": ".231"
     },
     {
       "att": 22,
@@ -5855,6 +5855,32 @@
     },
     {
       "att": 2,
+      "sb": 1,
+      "cs": 1,
+      "ds": 0,
+      "ts": 0,
+      "pickoff": {
+        "pickoff": 0,
+        "sb": 0,
+        "cs": 0,
+        "ds": 0,
+        "ts": 0
+      },
+      "pitcher": {
+        "id": "01505150",
+        "jaBoxscoreName": "片山",
+        "jaRegisteredName": "片山　楽生",
+        "fullLFMName": "Katayama, Raiku",
+        "primaryNumber": "49",
+        "teamCode": "B",
+        "boxscoreName": "Katayama",
+        "pitchHand": "R",
+        "batSide": "L"
+      },
+      "rate": ".500"
+    },
+    {
+      "att": 2,
       "sb": 2,
       "cs": 0,
       "ds": 0,
@@ -8155,32 +8181,6 @@
         "ts": 0
       },
       "pitcher": {
-        "id": "01505150",
-        "jaBoxscoreName": "片山",
-        "jaRegisteredName": "片山　楽生",
-        "fullLFMName": "Katayama, Raiku",
-        "primaryNumber": "49",
-        "teamCode": "B",
-        "boxscoreName": "Katayama",
-        "pitchHand": "R",
-        "batSide": "L"
-      },
-      "rate": ".000"
-    },
-    {
-      "att": 1,
-      "sb": 1,
-      "cs": 0,
-      "ds": 0,
-      "ts": 0,
-      "pickoff": {
-        "pickoff": 0,
-        "sb": 0,
-        "cs": 0,
-        "ds": 0,
-        "ts": 0
-      },
-      "pitcher": {
         "id": "01005153",
         "jaBoxscoreName": "佐々木",
         "jaRegisteredName": "佐々木　健",
@@ -8794,9 +8794,9 @@
       "rate": ".667"
     },
     {
-      "att": 16,
+      "att": 17,
       "sb": 12,
-      "cs": 4,
+      "cs": 5,
       "ds": 0,
       "ts": 0,
       "pickoff": {
@@ -8817,7 +8817,7 @@
         "pitchHand": "R",
         "batSide": "L"
       },
-      "rate": ".706"
+      "rate": ".667"
     },
     {
       "att": 15,
@@ -13786,6 +13786,32 @@
       "rate": ".000"
     },
     {
+      "att": 1,
+      "sb": 0,
+      "cs": 1,
+      "ds": 0,
+      "ts": 0,
+      "pickoff": {
+        "pickoff": 0,
+        "sb": 0,
+        "cs": 0,
+        "ds": 0,
+        "ts": 0
+      },
+      "runner": {
+        "id": "21925150",
+        "jaBoxscoreName": "齋藤",
+        "jaRegisteredName": "齋藤　大翔",
+        "fullLFMName": "Saito, Hiroto",
+        "primaryNumber": "2",
+        "teamCode": "L",
+        "boxscoreName": "Saito",
+        "pitchHand": "R",
+        "batSide": "R"
+      },
+      "rate": ".000"
+    },
+    {
       "att": 0,
       "sb": 0,
       "cs": 0,
@@ -14246,9 +14272,9 @@
       "teamName": "Buffaloes",
       "league": "Pacific",
       "defence": {
-        "att": 96,
+        "att": 97,
         "sb": 74,
-        "cs": 22,
+        "cs": 23,
         "ds": 0,
         "ts": 0,
         "pickoff": {
@@ -14258,12 +14284,12 @@
           "ds": 0,
           "ts": 0
         },
-        "rate": ".250"
+        "rate": ".257"
       },
       "offence": {
-        "att": 81,
+        "att": 82,
         "sb": 58,
-        "cs": 23,
+        "cs": 24,
         "ds": 0,
         "ts": 0,
         "pickoff": {
@@ -14273,7 +14299,7 @@
           "ds": 0,
           "ts": 0
         },
-        "rate": ".690"
+        "rate": ".682"
       }
     },
     {
@@ -14281,9 +14307,9 @@
       "teamName": "Lions",
       "league": "Pacific",
       "defence": {
-        "att": 129,
+        "att": 130,
         "sb": 104,
-        "cs": 26,
+        "cs": 27,
         "ds": 1,
         "ts": 0,
         "pickoff": {
@@ -14293,12 +14319,12 @@
           "ds": 0,
           "ts": 0
         },
-        "rate": ".220"
+        "rate": ".226"
       },
       "offence": {
-        "att": 117,
+        "att": 118,
         "sb": 89,
-        "cs": 28,
+        "cs": 29,
         "ds": 0,
         "ts": 0,
         "pickoff": {
@@ -14308,7 +14334,7 @@
           "ds": 0,
           "ts": 0
         },
-        "rate": ".692"
+        "rate": ".687"
       }
     }
   ],
@@ -14350,9 +14376,9 @@
     {
       "league": "Pacific",
       "defence": {
-        "att": 654,
+        "att": 656,
         "sb": 517,
-        "cs": 139,
+        "cs": 141,
         "ds": 2,
         "ts": 0,
         "pickoff": {
@@ -14362,13 +14388,13 @@
           "ds": 0,
           "ts": 0
         },
-        "rate": ".213",
-        "teamRate": ".244"
+        "rate": ".215",
+        "teamRate": ".246"
       },
       "offence": {
-        "att": 628,
+        "att": 630,
         "sb": 496,
-        "cs": 136,
+        "cs": 138,
         "ds": 4,
         "ts": 0,
         "pickoff": {
@@ -14378,7 +14404,7 @@
           "ds": 0,
           "ts": 0
         },
-        "rate": ".751"
+        "rate": ".748"
       }
     }
   ]
