@@ -848,3 +848,6 @@
 {"date":"2025-10-01","venue":"Kyocera Dome","road":{"team":"Lions","runs":5,"starter":"L"},"home":{"team":"Buffaloes","runs":10,"starter":"R"},"firstRun":"Buffaloes","isWalkOff":false,"isExtraInnings":false,"hadComeback":false}
 {"date":"2025-10-02","venue":"Koshien","road":{"team":"Swallows","runs":2,"starter":"R"},"home":{"team":"Tigers","runs":6,"starter":"R"},"firstRun":"Tigers","isWalkOff":false,"isExtraInnings":false,"hadComeback":false}
 {"date":"2025-10-02","venue":"Kyocera Dome","road":{"team":"Lions","runs":6,"starter":"R"},"home":{"team":"Buffaloes","runs":5,"starter":"L"},"firstRun":"Lions","isWalkOff":false,"isExtraInnings":false,"hadComeback":false}
+{"date":"2025-10-03","venue":"Mazda Stadium","road":{"team":"Swallows","runs":6,"starter":"R"},"home":{"team":"Carp","runs":1,"starter":"R"},"firstRun":"Swallows","isWalkOff":false,"isExtraInnings":false,"hadComeback":false}
+{"date":"2025-10-03","venue":"Rakuten Mobile","road":{"team":"Lions","runs":6,"starter":"R"},"home":{"team":"Eagles","runs":7,"starter":"R"},"firstRun":"Lions","isWalkOff":true,"isExtraInnings":false,"hadComeback":true}
+{"date":"2025-10-03","venue":"MIZUHO PayPay","road":{"team":"Buffaloes","runs":2,"starter":"L"},"home":{"team":"Hawks","runs":10,"starter":"R"},"firstRun":"Hawks","isWalkOff":false,"isExtraInnings":false,"hadComeback":false}

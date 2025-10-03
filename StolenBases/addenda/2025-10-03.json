@@ -1,0 +1,157 @@
+[
+  {
+    "jaText": "（走者・宗山）二塁盗塁成功",
+    "text": "Muneyama steals 2nd base.",
+    "countsAsStealAttempt": true,
+    "catcher": {},
+    "catchers": [
+      {
+        "id": "91895155",
+        "jaBoxscoreName": "古市",
+        "jaRegisteredName": "古市　尊",
+        "fullLFMName": "Furuichi, Takeru",
+        "primaryNumber": "65",
+        "teamCode": "L",
+        "boxscoreName": "Furuichi",
+        "pitchHand": "R",
+        "batSide": "R"
+      },
+      {
+        "id": "81785155",
+        "jaBoxscoreName": "古賀悠",
+        "jaRegisteredName": "古賀　悠斗",
+        "fullLFMName": "Koga, Yuto",
+        "primaryNumber": "22",
+        "teamCode": "L",
+        "boxscoreName": "Y.Koga",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+    ]
+  },
+  {
+    "jaText": "（走者・西川）二塁盗塁失敗",
+    "text": "Nishikawa caught stealing 2nd base.",
+    "countsAsStealAttempt": true,
+    "catcher": {},
+    "catchers": [
+      {
+        "id": "71375138",
+        "jaBoxscoreName": "太田",
+        "jaRegisteredName": "太田　光",
+        "fullLFMName": "Ohta, Hikaru",
+        "primaryNumber": "2",
+        "teamCode": "E",
+        "boxscoreName": "Ohta",
+        "pitchHand": "R",
+        "batSide": "R"
+      },
+      {
+        "id": "61165134",
+        "jaBoxscoreName": "石原",
+        "jaRegisteredName": "石原　彪",
+        "fullLFMName": "Ishihara, Tsuyoshi",
+        "primaryNumber": "70",
+        "teamCode": "E",
+        "boxscoreName": "Ishihara",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+    ]
+  },
+  {
+    "jaText": "（走者・中島）二塁盗塁成功",
+    "text": "Nakashima steals 2nd base.",
+    "countsAsStealAttempt": true,
+    "catcher": {},
+    "catchers": [
+      {
+        "id": "91895155",
+        "jaBoxscoreName": "古市",
+        "jaRegisteredName": "古市　尊",
+        "fullLFMName": "Furuichi, Takeru",
+        "primaryNumber": "65",
+        "teamCode": "L",
+        "boxscoreName": "Furuichi",
+        "pitchHand": "R",
+        "batSide": "R"
+      },
+      {
+        "id": "81785155",
+        "jaBoxscoreName": "古賀悠",
+        "jaRegisteredName": "古賀　悠斗",
+        "fullLFMName": "Koga, Yuto",
+        "primaryNumber": "22",
+        "teamCode": "L",
+        "boxscoreName": "Y.Koga",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+    ]
+  },
+  {
+    "jaText": "（走者・西川）二塁盗塁成功",
+    "text": "Nishikawa steals 2nd base.",
+    "countsAsStealAttempt": true,
+    "catcher": {},
+    "catchers": [
+      {
+        "id": "71375138",
+        "jaBoxscoreName": "太田",
+        "jaRegisteredName": "太田　光",
+        "fullLFMName": "Ohta, Hikaru",
+        "primaryNumber": "2",
+        "teamCode": "E",
+        "boxscoreName": "Ohta",
+        "pitchHand": "R",
+        "batSide": "R"
+      },
+      {
+        "id": "61165134",
+        "jaBoxscoreName": "石原",
+        "jaRegisteredName": "石原　彪",
+        "fullLFMName": "Ishihara, Tsuyoshi",
+        "primaryNumber": "70",
+        "teamCode": "E",
+        "boxscoreName": "Ishihara",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+    ]
+  },
+  {
+    "jaText": "（走者・牧原大）二塁盗塁失敗",
+    "text": "T.Makihara caught stealing 2nd base.",
+    "countsAsStealAttempt": true,
+    "catcher": {},
+    "catchers": [
+      {
+        "id": "81885159",
+        "jaBoxscoreName": "堀",
+        "jaRegisteredName": "堀　柊那",
+        "fullLFMName": "Hori, Shuna",
+        "primaryNumber": "62",
+        "teamCode": "B",
+        "boxscoreName": "Hori",
+        "pitchHand": "R",
+        "batSide": "R"
+      },
+      {
+        "id": "11815155",
+        "jaBoxscoreName": "福永",
+        "jaRegisteredName": "福永　奨",
+        "fullLFMName": "Fukunaga, Sho",
+        "primaryNumber": "32",
+        "teamCode": "B",
+        "boxscoreName": "Fukunaga",
+        "pitchHand": "R",
+        "batSide": "R"
+      }
+    ]
+  },
+  {
+    "jaText": "（走者・廣岡）二塁盗塁失敗",
+    "text": "Hirooka caught stealing 2nd base.",
+    "countsAsStealAttempt": true
+  }
+]
