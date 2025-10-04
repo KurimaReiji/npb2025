@@ -3,20 +3,7 @@
     "jaText": "（走者・小園）二塁盗塁失敗",
     "text": "Kozono caught stealing 2nd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
-        "id": "51255118",
-        "jaBoxscoreName": "中村悠",
-        "jaRegisteredName": "中村　悠平",
-        "fullLFMName": "Nakamura, Yuhei",
-        "primaryNumber": "27",
-        "teamCode": "S",
-        "boxscoreName": "Yuh.Nakamura",
-        "pitchHand": "R",
-        "batSide": "R"
-      },
-      {
+    "catcher": {
         "id": "01705134",
         "jaBoxscoreName": "古賀",
         "jaRegisteredName": "古賀　優大",
@@ -27,7 +14,6 @@
         "pitchHand": "R",
         "batSide": "R"
       }
-    ]
   },
   {
     "jaText": "（走者・武藤）二塁盗塁成功",
