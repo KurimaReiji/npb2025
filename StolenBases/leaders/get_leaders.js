@@ -46,7 +46,7 @@ for (const target of targets) {
   const data = await page.evaluate(scraper);
   outputs.push(data);
 }
-const date = outputs[0].updated;
+const date = outputs.map((o) => o.updated).sort().at(0);
 const outfile = `./${date}.json`;
 console.log(`output: ${outfile}`);
 const output = JSON.stringify(outputs, null, 2);
