@@ -1,0 +1,118 @@
+[
+  {
+    "id": "91495138-2025-04",
+    "date": "2025-10-04",
+    "batter": {
+      "jaBoxscoreName": "濱田",
+      "playerId": "91495138",
+      "boxscoreName": "Hamada",
+      "batSide": "R",
+      "teamCode": "S",
+      "primaryNumber": "51",
+      "jaRegisteredName": "濱田　太貴",
+      "fullLFMName": "Hamada, Taiki"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "佐藤柳",
+      "boxscoreName": "R.Sato",
+      "pitchHand": "L",
+      "teamCode": "C",
+      "primaryNumber": "28",
+      "jaRegisteredName": "佐藤　柳之介",
+      "fullLFMName": "Sato, Ryunosuke"
+    },
+    "number": 4,
+    "inning": 3,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 0,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 7,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "Mazda Stadium",
+      "jaBoxscoreName": "マツダスタジアム"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "S",
+        "teamName": "Swallows",
+        "score": 3
+      },
+      "home": {
+        "teamCode": "C",
+        "teamName": "Carp",
+        "score": 1
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Hamada homers (4) to left field.",
+    "url": "https://npb.jp/scores/2025/1004/c-s-25/playbyplay.html#com3-1"
+  },
+  {
+    "id": "83385150-2025-12",
+    "date": "2025-10-04",
+    "batter": {
+      "jaBoxscoreName": "渡部聖",
+      "playerId": "83385150",
+      "boxscoreName": "S.Watanabe",
+      "batSide": "R",
+      "teamCode": "L",
+      "primaryNumber": "8",
+      "jaRegisteredName": "渡部　聖弥",
+      "fullLFMName": "Watanabe, Seiya"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "古謝",
+      "boxscoreName": "Koja",
+      "pitchHand": "L",
+      "teamCode": "E",
+      "primaryNumber": "17",
+      "jaRegisteredName": "古謝　樹",
+      "fullLFMName": "Koja, Tatsuki"
+    },
+    "number": 12,
+    "inning": 8,
+    "halfInning": "top",
+    "outs": 1,
+    "RoB": "---",
+    "count": {
+      "balls": 1,
+      "strikes": 2
+    },
+    "runs": {
+      "road": 1,
+      "home": 2
+    },
+    "bop": 3,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "Rakuten Mobile",
+      "jaBoxscoreName": "楽天モバイル"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "L",
+        "teamName": "Lions",
+        "score": 2
+      },
+      "home": {
+        "teamCode": "E",
+        "teamName": "Eagles",
+        "score": 3
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "S.Watanabe homers (12) to left field.",
+    "url": "https://npb.jp/scores/2025/1004/e-l-25/playbyplay.html#com8-1"
+  }
+]
