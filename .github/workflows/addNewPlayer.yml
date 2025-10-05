@@ -1,8 +1,6 @@
 name: add new player
 
 on:
-  schedule:
-    - cron: '22 18 17 6 *'
   workflow_dispatch:
 
 jobs:
