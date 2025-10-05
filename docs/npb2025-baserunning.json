@@ -111069,5 +111069,248 @@
     "countsAsStealAttempt": true,
     "eventId": "73375157-2025-015",
     "movies": []
+  },
+  {
+    "date": "2025-10-05",
+    "runner": {
+      "id": "21425159",
+      "jaBoxscoreName": "中島",
+      "jaRegisteredName": "中島　大輔",
+      "fullLFMName": "Nakashima, Daisuke",
+      "primaryNumber": "32",
+      "teamCode": "E",
+      "boxscoreName": "Nakashima",
+      "pitchHand": "R",
+      "batSide": "L"
+    },
+    "batter": {
+      "id": "41845132",
+      "jaBoxscoreName": "村林",
+      "jaRegisteredName": "村林　一輝",
+      "fullLFMName": "Murabayashi, Itsuki",
+      "primaryNumber": "6",
+      "teamCode": "E",
+      "boxscoreName": "Murabayashi",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "pitcher": {
+      "id": "43345153",
+      "jaBoxscoreName": "山下",
+      "jaRegisteredName": "山下　舜平大",
+      "fullLFMName": "Yamashita, Shunpeita",
+      "primaryNumber": "11",
+      "teamCode": "B",
+      "boxscoreName": "Yamashita",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "catcher": {
+      "id": "41645139",
+      "jaBoxscoreName": "若月",
+      "jaRegisteredName": "若月　健矢",
+      "fullLFMName": "Wakatsuki, Kenya",
+      "primaryNumber": "2",
+      "teamCode": "B",
+      "boxscoreName": "Wakatsuki",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "scoring": "StolenBase",
+    "base": "2B",
+    "inning": 5,
+    "halfInning": "bottom",
+    "outs": 0,
+    "RoB": "1--",
+    "runs": {
+      "road": 1,
+      "home": 1
+    },
+    "venue": {
+      "jaBoxscoreName": "楽天モバイル",
+      "boxscoreName": "Rakuten Mobile",
+      "jaName": "楽天モバイルパーク宮城",
+      "name": "Rakuten Mobile Park Miyagi"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "B",
+        "teamName": "Buffaloes",
+        "score": 2
+      },
+      "home": {
+        "teamCode": "E",
+        "teamName": "Eagles",
+        "score": 1
+      }
+    },
+    "jaText": "（走者・中島）二塁盗塁成功",
+    "text": "Nakashima steals 2nd base.",
+    "url": "https://npb.jp/scores/2025/1005/e-b-25/playbyplay.html#com5-2",
+    "countsAsStealAttempt": true,
+    "eventId": "21425159-2025-026",
+    "movies": []
+  },
+  {
+    "date": "2025-10-05",
+    "runner": {
+      "id": "11615155",
+      "jaBoxscoreName": "野村",
+      "jaRegisteredName": "野村　勇",
+      "fullLFMName": "Nomura, Isami",
+      "primaryNumber": "99",
+      "teamCode": "H",
+      "boxscoreName": "Nomura",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "batter": {
+      "id": "73175151",
+      "jaBoxscoreName": "柳町",
+      "jaRegisteredName": "柳町　達",
+      "fullLFMName": "Yanagimachi, Tatsuru",
+      "primaryNumber": "32",
+      "teamCode": "H",
+      "boxscoreName": "Yanagimachi",
+      "pitchHand": "R",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "11515138",
+      "jaBoxscoreName": "小島",
+      "jaRegisteredName": "小島　和哉",
+      "fullLFMName": "Ojima, Kazuya",
+      "primaryNumber": "14",
+      "teamCode": "M",
+      "boxscoreName": "Ojima",
+      "pitchHand": "L",
+      "batSide": "L"
+    },
+    "catcher": {
+      "id": "71075151",
+      "jaBoxscoreName": "佐藤",
+      "jaRegisteredName": "佐藤　都志也",
+      "fullLFMName": "Satoh, Toshiya",
+      "primaryNumber": "32",
+      "teamCode": "M",
+      "boxscoreName": "Satoh",
+      "pitchHand": "R",
+      "batSide": "L"
+    },
+    "scoring": "CaughtStealing",
+    "base": "2B",
+    "inning": 1,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "1--",
+    "runs": {
+      "road": 1,
+      "home": 0
+    },
+    "venue": {
+      "jaBoxscoreName": "ZOZOマリン",
+      "boxscoreName": "ZOZO Marine",
+      "jaName": "ZOZOマリンスタジアム",
+      "name": "ZOZO Marine Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "H",
+        "teamName": "Hawks",
+        "score": 5
+      },
+      "home": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 2
+      }
+    },
+    "jaText": "（走者・野村）二塁盗塁失敗",
+    "text": "Nomura caught stealing 2nd base.",
+    "url": "https://npb.jp/scores/2025/1005/m-h-25/playbyplay.html#com1-1",
+    "countsAsStealAttempt": false,
+    "eventId": "11615155-2025-023",
+    "movies": []
+  },
+  {
+    "date": "2025-10-05",
+    "runner": {
+      "id": "11215151",
+      "jaBoxscoreName": "髙部",
+      "jaRegisteredName": "髙部　瑛斗",
+      "fullLFMName": "Takabe, Akito",
+      "primaryNumber": "38",
+      "teamCode": "M",
+      "boxscoreName": "Takabe",
+      "pitchHand": "R",
+      "batSide": "L"
+    },
+    "batter": {
+      "id": "31635138",
+      "jaBoxscoreName": "藤原",
+      "jaRegisteredName": "藤原　恭大",
+      "fullLFMName": "Fujiwara, Kyota",
+      "primaryNumber": "1",
+      "teamCode": "M",
+      "boxscoreName": "Fujiwara",
+      "pitchHand": "L",
+      "batSide": "L"
+    },
+    "pitcher": {
+      "id": "51155130",
+      "jaBoxscoreName": "有原",
+      "jaRegisteredName": "有原　航平",
+      "fullLFMName": "Arihara, Kohei",
+      "primaryNumber": "17",
+      "teamCode": "H",
+      "boxscoreName": "Arihara",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "catcher": {
+      "id": "81385151",
+      "jaBoxscoreName": "海野",
+      "jaRegisteredName": "海野　隆司",
+      "fullLFMName": "Umino, Takashi",
+      "primaryNumber": "62",
+      "teamCode": "H",
+      "boxscoreName": "Umino",
+      "pitchHand": "R",
+      "batSide": "R"
+    },
+    "scoring": "CaughtStealing",
+    "base": "2B",
+    "inning": 1,
+    "halfInning": "bottom",
+    "outs": 1,
+    "RoB": "1--",
+    "runs": {
+      "road": 1,
+      "home": 0
+    },
+    "venue": {
+      "jaBoxscoreName": "ZOZOマリン",
+      "boxscoreName": "ZOZO Marine",
+      "jaName": "ZOZOマリンスタジアム",
+      "name": "ZOZO Marine Stadium"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "H",
+        "teamName": "Hawks",
+        "score": 5
+      },
+      "home": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 2
+      }
+    },
+    "jaText": "（走者・髙部）二塁盗塁失敗",
+    "text": "Takabe caught stealing 2nd base.",
+    "url": "https://npb.jp/scores/2025/1005/m-h-25/playbyplay.html#com1-2",
+    "countsAsStealAttempt": true,
+    "eventId": "11215151-2025-025",
+    "movies": []
   }
 ]

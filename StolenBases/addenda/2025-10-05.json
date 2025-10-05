@@ -3,9 +3,7 @@
     "jaText": "（走者・中島）二塁盗塁成功",
     "text": "Nakashima steals 2nd base.",
     "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
+    "catcher": {
         "id": "41645139",
         "jaBoxscoreName": "若月",
         "jaRegisteredName": "若月　健矢",
@@ -15,27 +13,13 @@
         "boxscoreName": "Wakatsuki",
         "pitchHand": "R",
         "batSide": "R"
-      },
-      {
-        "id": "91495139",
-        "jaBoxscoreName": "森",
-        "jaRegisteredName": "森　友哉",
-        "fullLFMName": "Mori, Tomoya",
-        "primaryNumber": "4",
-        "teamCode": "B",
-        "boxscoreName": "Mori",
-        "pitchHand": "R",
-        "batSide": "L"
       }
-    ]
   },
   {
     "jaText": "（走者・野村）二塁盗塁失敗",
     "text": "Nomura caught stealing 2nd base.",
-    "countsAsStealAttempt": true,
-    "catcher": {},
-    "catchers": [
-      {
+    "countsAsStealAttempt": false,
+    "catcher": {
         "id": "71075151",
         "jaBoxscoreName": "佐藤",
         "jaRegisteredName": "佐藤　都志也",
@@ -45,19 +29,7 @@
         "boxscoreName": "Satoh",
         "pitchHand": "R",
         "batSide": "L"
-      },
-      {
-        "id": "91395151",
-        "jaBoxscoreName": "植田",
-        "jaRegisteredName": "植田　将太",
-        "fullLFMName": "Ueda, Shota",
-        "primaryNumber": "45",
-        "teamCode": "M",
-        "boxscoreName": "S.Ueda",
-        "pitchHand": "R",
-        "batSide": "R"
       }
-    ]
   },
   {
     "jaText": "（走者・髙部）二塁盗塁失敗",
