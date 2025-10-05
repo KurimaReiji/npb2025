@@ -1,0 +1,177 @@
+[
+  {
+    "id": "91395138-2025-10",
+    "date": "2025-10-05",
+    "batter": {
+      "jaBoxscoreName": "太田",
+      "playerId": "91395138",
+      "boxscoreName": "Ohta",
+      "batSide": "R",
+      "teamCode": "B",
+      "primaryNumber": "31",
+      "jaRegisteredName": "太田　椋",
+      "fullLFMName": "Ohta, Ryo"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "西口",
+      "boxscoreName": "Nishiguchi",
+      "pitchHand": "R",
+      "teamCode": "E",
+      "primaryNumber": "62",
+      "jaRegisteredName": "西口　直人",
+      "fullLFMName": "Nishiguchi, Naoto"
+    },
+    "number": 10,
+    "inning": 11,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 0,
+      "strikes": 0
+    },
+    "runs": {
+      "road": 1,
+      "home": 1
+    },
+    "bop": 2,
+    "rbi": 1,
+    "whereHit": "89",
+    "venue": {
+      "boxscoreName": "Rakuten Mobile",
+      "jaBoxscoreName": "楽天モバイル"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "B",
+        "teamName": "Buffaloes",
+        "score": 2
+      },
+      "home": {
+        "teamCode": "E",
+        "teamName": "Eagles",
+        "score": 1
+      }
+    },
+    "jaText": "右中間ソロホームラン（打点1）",
+    "text": "Ohta homers (10) to right center.",
+    "url": "https://npb.jp/scores/2025/1005/e-b-25/playbyplay.html#com11-1"
+  },
+  {
+    "id": "31835133-2025-04",
+    "date": "2025-10-05",
+    "batter": {
+      "jaBoxscoreName": "柳田",
+      "playerId": "31835133",
+      "boxscoreName": "Yanagita",
+      "batSide": "L",
+      "teamCode": "H",
+      "primaryNumber": "9",
+      "jaRegisteredName": "柳田　悠岐",
+      "fullLFMName": "Yanagita, Yuki"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "小島",
+      "boxscoreName": "Ojima",
+      "pitchHand": "L",
+      "teamCode": "M",
+      "primaryNumber": "14",
+      "jaRegisteredName": "小島　和哉",
+      "fullLFMName": "Ojima, Kazuya"
+    },
+    "number": 4,
+    "inning": 1,
+    "halfInning": "top",
+    "outs": 0,
+    "RoB": "---",
+    "count": {
+      "balls": 1,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 0,
+      "home": 0
+    },
+    "bop": 1,
+    "rbi": 1,
+    "whereHit": "7",
+    "venue": {
+      "boxscoreName": "ZOZO Marine",
+      "jaBoxscoreName": "ZOZOマリン"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "H",
+        "teamName": "Hawks",
+        "score": 5
+      },
+      "home": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 2
+      }
+    },
+    "jaText": "レフトソロホームラン（打点1）",
+    "text": "Yanagita homers (4) to left field.",
+    "url": "https://npb.jp/scores/2025/1005/m-h-25/playbyplay.html#com1-1",
+    "isLeadOff": "Y"
+  },
+  {
+    "id": "21425139-2025-23",
+    "date": "2025-10-05",
+    "batter": {
+      "jaBoxscoreName": "山川",
+      "playerId": "21425139",
+      "boxscoreName": "Yamakawa",
+      "batSide": "R",
+      "teamCode": "H",
+      "primaryNumber": "5",
+      "jaRegisteredName": "山川　穂高",
+      "fullLFMName": "Yamakawa, Hotaka"
+    },
+    "pitcher": {
+      "jaBoxscoreName": "二木",
+      "boxscoreName": "TBD",
+      "pitchHand": "R",
+      "teamCode": "M",
+      "primaryNumber": "18",
+      "jaRegisteredName": "二木　康太",
+      "fullLFMName": "Futaki, Kota"
+    },
+    "number": 23,
+    "inning": 7,
+    "halfInning": "top",
+    "outs": 2,
+    "RoB": "123",
+    "count": {
+      "balls": 0,
+      "strikes": 1
+    },
+    "runs": {
+      "road": 1,
+      "home": 1
+    },
+    "bop": 4,
+    "rbi": 4,
+    "whereHit": "89",
+    "venue": {
+      "boxscoreName": "ZOZO Marine",
+      "jaBoxscoreName": "ZOZOマリン"
+    },
+    "teams": {
+      "road": {
+        "teamCode": "H",
+        "teamName": "Hawks",
+        "score": 5
+      },
+      "home": {
+        "teamCode": "M",
+        "teamName": "Marines",
+        "score": 2
+      }
+    },
+    "jaText": "右中間満塁ホームラン（打点4）",
+    "text": "Yamakawa homers (23) to right center.",
+    "url": "https://npb.jp/scores/2025/1005/m-h-25/playbyplay.html#com7-1"
+  }
+]

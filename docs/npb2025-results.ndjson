@@ -854,3 +854,5 @@
 {"date":"2025-10-04","venue":"Mazda Stadium","road":{"team":"Swallows","runs":3,"starter":"R"},"home":{"team":"Carp","runs":1,"starter":"L"},"firstRun":"Swallows","isWalkOff":false,"isExtraInnings":false,"hadComeback":false}
 {"date":"2025-10-04","venue":"Rakuten Mobile","road":{"team":"Lions","runs":2,"starter":"R"},"home":{"team":"Eagles","runs":3,"starter":"R"},"firstRun":"Lions","isWalkOff":false,"isExtraInnings":false,"hadComeback":true}
 {"date":"2025-10-04","venue":"ZOZO Marine","road":{"team":"Fighters","runs":0,"starter":"R"},"home":{"team":"Marines","runs":3,"starter":"R"},"firstRun":"Marines","isWalkOff":false,"isExtraInnings":false,"hadComeback":false}
+{"date":"2025-10-05","venue":"Rakuten Mobile","road":{"team":"Buffaloes","runs":2,"starter":"R"},"home":{"team":"Eagles","runs":1,"starter":"R"},"firstRun":"Buffaloes","isWalkOff":false,"isExtraInnings":true,"hadComeback":false}
+{"date":"2025-10-05","venue":"ZOZO Marine","road":{"team":"Hawks","runs":5,"starter":"R"},"home":{"team":"Marines","runs":2,"starter":"L"},"firstRun":"Hawks","isWalkOff":false,"isExtraInnings":false,"hadComeback":false}
