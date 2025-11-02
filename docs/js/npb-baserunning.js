@@ -390,7 +390,7 @@ function updateTable(self, data, target = 'catcher', lang, focusedTeams) {
         return [
           {
             catcher: { jaRegisteredName: '捕手計', fullLFMName: 'Catchers' },
-            att: '', sb: team.defence.sb, cs: team.defence.cs, ds: team.defence.ds, rate: (team.defence.cs / team.defence.att).toFixed(3).replace(/0/, ''),
+            att: team.defence.att, sb: team.defence.sb - team.defence.ds, cs: team.defence.cs, ds: team.defence.ds, rate: (team.defence.cs / team.defence.att).toFixed(3).replace(/0/, ''),
           },
           {
             catcher: { jaRegisteredName: `牽制など (${pickoffs})`, fullLFMName: `Pickoffs (${pickoffs})` },
@@ -437,8 +437,8 @@ function updateTable(self, data, target = 'catcher', lang, focusedTeams) {
 
     const teamTotalRow = {
       [config.playerKey]: { jaRegisteredName: config.totalRowLabel.ja, fullLFMName: config.totalRowLabel.en },
-      att: team[config.teamDataKey].sb + (team[config.teamDataKey].pickoff?.sb || 0) + team[config.teamDataKey].cs + (team[config.teamDataKey].pickoff?.cs || 0),
-      sb: team[config.teamDataKey].sb + (team[config.teamDataKey].pickoff?.sb || 0),
+      att: team[config.teamDataKey].att + (team[config.teamDataKey].pickoff?.sb || 0) + (team[config.teamDataKey].pickoff?.cs || 0),
+      sb: team[config.teamDataKey].sb + (team[config.teamDataKey].pickoff?.sb || 0) - team[config.teamDataKey].ds,
       cs: team[config.teamDataKey].cs + (team[config.teamDataKey].pickoff?.cs || 0),
       ds: team[config.teamDataKey].ds,
       rate: team[config.teamDataKey].rate,
