@@ -42612,7 +42612,11 @@
     "url": "https://npb.jp/scores/2025/0606/d-m-01/playbyplay.html#com3-1",
     "countsAsStealAttempt": true,
     "eventId": "21125155-2025-001",
-    "movies": []
+    "movies": [
+      {
+        "url": "https://youtu.be/Bl3pz92RB3c?si=PLCzWxlumkTeGFAl&t=88"
+      }
+    ]
   },
   {
     "date": "2025-06-06",
@@ -48720,7 +48724,11 @@
     "url": "https://npb.jp/scores/2025/0613/l-d-01/playbyplay.html#com3-1",
     "countsAsStealAttempt": true,
     "eventId": "03105157-2025-004",
-    "movies": []
+    "movies": [
+      {
+        "url": "https://youtu.be/prVZep6xuz4?si=4apxL0v7BfnKkOS6&t=72"
+      }
+    ]
   },
   {
     "date": "2025-06-13",
@@ -57077,7 +57085,11 @@
     "url": "https://npb.jp/scores/2025/0627/d-c-09/playbyplay.html#com7-1",
     "countsAsStealAttempt": false,
     "eventId": "71475138-2025-013",
-    "movies": []
+    "movies": [
+      {
+        "url": "https://youtu.be/JPBm7r2c878?si=ZnIt3KMIqKzPPbP0&t=123"
+      }
+    ]
   },
   {
     "date": "2025-06-27",
@@ -57971,6 +57983,9 @@
     "movies": [
       {
         "url": "https://x.com/DAZNJPNBaseball/status/1938878510199607636"
+      },
+      {
+        "url": "https://youtu.be/rgLMzpQwO3s?si=uneLKbAE-qTFxlpq&t=76"
       }
     ]
   },
