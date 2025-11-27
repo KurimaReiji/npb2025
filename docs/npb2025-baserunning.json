@@ -69574,7 +69574,11 @@
     "url": "https://npb.jp/scores/2025/0716/t-d-12/playbyplay.html#com7-1",
     "countsAsStealAttempt": true,
     "eventId": "83785150-2025-001",
-    "movies": []
+    "movies": [
+      {
+        "url": "https://youtu.be/0kFBO2SusBo?si=huvlgN_9ujfdTZ42&t=144"
+      }
+    ]
   },
   {
     "date": "2025-07-16",
@@ -96251,7 +96255,11 @@
     "url": "https://npb.jp/scores/2025/0902/d-t-18/playbyplay.html#com1-2",
     "countsAsStealAttempt": true,
     "eventId": "91395139-2025-031",
-    "movies": []
+    "movies": [
+      {
+        "url": "https://youtu.be/6wmGwV3ZNZg?si=g8QZpNoBXR49XDwg&t=6"
+      }
+    ]
   },
   {
     "date": "2025-09-02",
@@ -107426,7 +107434,11 @@
     "url": "https://npb.jp/scores/2025/0927/t-d-24/playbyplay.html#com4-1",
     "countsAsStealAttempt": false,
     "eventId": "81585151-2025-021",
-    "movies": []
+    "movies": [
+      {
+        "url": "https://youtu.be/rOScUD_UdZg?si=bR6I8_DYYhcuTIHU&t=65"
+      }
+    ]
   },
   {
     "date": "2025-09-27",
