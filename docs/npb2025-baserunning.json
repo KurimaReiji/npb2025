@@ -62116,7 +62116,7 @@
     "jaText": "（走者・中村悠）二塁盗塁成功",
     "text": "Yuh.Nakamura steals 2nd base.",
     "url": "https://npb.jp/scores/2025/0705/d-s-13/playbyplay.html#com9-1",
-    "countsAsStealAttempt": true,
+    "countsAsStealAttempt": false,
     "eventId": "51255118-2025-001",
     "movies": []
   },
