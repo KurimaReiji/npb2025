@@ -97,7 +97,7 @@
   {
     "jaText": "（走者・中村悠）二塁盗塁成功",
     "text": "Yuh.Nakamura steals 2nd base.",
-    "countsAsStealAttempt": true,
+    "countsAsStealAttempt": false,
     "catcher": {
         "id": "41545130",
         "jaBoxscoreName": "加藤匠",
