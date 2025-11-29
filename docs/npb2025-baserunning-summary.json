@@ -678,14 +678,14 @@
       "rate": ".063"
     },
     {
-      "att": 14,
-      "sb": 9,
+      "att": 13,
+      "sb": 8,
       "cs": 5,
       "ds": 1,
       "ts": 0,
       "pickoff": {
         "pickoff": 0,
-        "sb": 0,
+        "sb": 1,
         "cs": 2,
         "ds": 0,
         "ts": 0
@@ -701,7 +701,7 @@
         "pitchHand": "R",
         "batSide": "R"
       },
-      "rate": ".357"
+      "rate": ".385"
     },
     {
       "att": 12,
@@ -2630,14 +2630,14 @@
       "rate": ".125"
     },
     {
-      "att": 8,
-      "sb": 7,
+      "att": 7,
+      "sb": 6,
       "cs": 1,
       "ds": 0,
       "ts": 0,
       "pickoff": {
         "pickoff": 0,
-        "sb": 0,
+        "sb": 1,
         "cs": 0,
         "ds": 0,
         "ts": 0
@@ -12772,14 +12772,14 @@
       "rate": "1.000"
     },
     {
-      "att": 1,
-      "sb": 1,
+      "att": 0,
+      "sb": 0,
       "cs": 0,
       "ds": 0,
       "ts": 0,
       "pickoff": {
         "pickoff": 0,
-        "sb": 0,
+        "sb": 1,
         "cs": 0,
         "ds": 0,
         "ts": 0
@@ -14129,14 +14129,14 @@
         "rate": ".398"
       },
       "offence": {
-        "att": 78,
-        "sb": 58,
+        "att": 77,
+        "sb": 57,
         "cs": 21,
         "ds": 1,
         "ts": 0,
         "pickoff": {
           "pickoff": 4,
-          "sb": 3,
+          "sb": 4,
           "cs": 6,
           "ds": 0,
           "ts": 0
@@ -14149,14 +14149,14 @@
       "teamName": "Dragons",
       "league": "Central",
       "defence": {
-        "att": 86,
-        "sb": 58,
+        "att": 85,
+        "sb": 57,
         "cs": 31,
         "ds": 3,
         "ts": 0,
         "pickoff": {
           "pickoff": 3,
-          "sb": 0,
+          "sb": 1,
           "cs": 6,
           "ds": 0,
           "ts": 0
@@ -14394,30 +14394,30 @@
     {
       "league": "Central",
       "defence": {
-        "att": 554,
-        "sb": 385,
+        "att": 553,
+        "sb": 384,
         "cs": 172,
         "ds": 3,
         "ts": 0,
         "pickoff": {
           "pickoff": 30,
-          "sb": 10,
+          "sb": 11,
           "cs": 35,
           "ds": 0,
           "ts": 0
         },
-        "rate": ".310",
+        "rate": ".311",
         "teamRate": ".346"
       },
       "offence": {
-        "att": 580,
-        "sb": 406,
+        "att": 579,
+        "sb": 405,
         "cs": 175,
         "ds": 1,
         "ts": 0,
         "pickoff": {
           "pickoff": 29,
-          "sb": 11,
+          "sb": 12,
           "cs": 35,
           "ds": 0,
           "ts": 0
