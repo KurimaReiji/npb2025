@@ -12,7 +12,10 @@
   "license": "ISC",
   "devDependencies": {
     "chai": "^5.2.0",
-    "mocha": "^11.7.5",
+    "mocha": "^11.3.0",
     "puppeteer": "^24.4.0"
+  },
+  "overrides": {
+    "serialize-javascript": "^7.0.4"
   }
 }
